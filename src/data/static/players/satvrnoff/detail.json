@@ -1,0 +1,45 @@
+{
+  "slug": "satvrnoff",
+  "nickname": "Satvrnoff",
+  "avatar": null,
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 1222409762,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Team Factos Army",
+        "slug": "team-factos-army",
+        "tag": "payasita g",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 3,
+      "position_display": "Position 3 - Offlane",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:55:52.333713-05:00",
+  "updated_at": "2026-09-04T03:09:59.247229-05:00"
+}

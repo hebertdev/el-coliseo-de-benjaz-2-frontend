@@ -1,0 +1,16 @@
+{
+  "name": "Mitra Army",
+  "slug": "mitra-army",
+  "tag": "team iwo",
+  "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "status": "ACTIVE",
+  "status_display": "Active",
+  "opendota_team_id": null,
+  "steam_id": null,
+  "created_at": "2026-08-29T00:17:13.844026-05:00",
+  "updated_at": "2026-09-03T15:06:58.433764-05:00"
+}

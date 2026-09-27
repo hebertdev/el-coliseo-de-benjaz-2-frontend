@@ -1,0 +1,557 @@
+{
+  "total_series": 5,
+  "completed_series": 5,
+  "wins": 2,
+  "losses": 3,
+  "win_rate": 40,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "series": [
+        {
+          "series_id": 33,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-09T23:00:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "team_a": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "2 - 3"
+          },
+          "team_b": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 2,
+            "is_current": false,
+            "record": "3 - 2"
+          },
+          "score_a": 0,
+          "score_b": 2,
+          "winner_id": 12,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+          "games": [
+            {
+              "id": 59,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 3018,
+              "duration_formatted": "50:18",
+              "winner_tag": "dotagaymer"
+            },
+            {
+              "id": 60,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 1859,
+              "duration_formatted": "30:59",
+              "winner_tag": "dotagaymer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "series": [
+        {
+          "series_id": 30,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-09T01:00:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "team_a": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 2,
+            "is_current": false,
+            "record": "3 - 1"
+          },
+          "team_b": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "2 - 3"
+          },
+          "score_a": 2,
+          "score_b": 0,
+          "winner_id": 8,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-1",
+          "games": [
+            {
+              "id": 50,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 1555,
+              "duration_formatted": "25:55",
+              "winner_tag": "t matthew"
+            },
+            {
+              "id": 51,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 2658,
+              "duration_formatted": "44:18",
+              "winner_tag": "t matthew"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "series": [
+        {
+          "series_id": 24,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-07T03:30:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "team_a": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "2 - 3"
+          },
+          "team_b": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "3 - 2"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 13,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+          "games": [
+            {
+              "id": 30,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 3104,
+              "duration_formatted": "51:44",
+              "winner_tag": "tm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "series": [
+        {
+          "series_id": 15,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-05T02:22:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "team_a": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "2 - 3"
+          },
+          "team_b": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 1,
+            "is_current": false,
+            "record": "3 - 1"
+          },
+          "score_a": 0,
+          "score_b": 1,
+          "winner_id": 15,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g-game-1",
+          "games": [
+            {
+              "id": 15,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2889,
+              "duration_formatted": "48:09",
+              "winner_tag": "payasita g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "series": [
+        {
+          "series_id": 6,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-04T01:41:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "team_a": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "2 - 3"
+          },
+          "team_b": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "0 - 3"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 13,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka-game-1",
+          "games": [
+            {
+              "id": 6,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 3086,
+              "duration_formatted": "51:26",
+              "winner_tag": "tm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "series_id": 33,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-09T23:00:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "team_a": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "2 - 3"
+      },
+      "team_b": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 2,
+        "is_current": false,
+        "record": "3 - 2"
+      },
+      "score_a": 0,
+      "score_b": 2,
+      "winner_id": 12,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+      "games": [
+        {
+          "id": 59,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 3018,
+          "duration_formatted": "50:18",
+          "winner_tag": "dotagaymer"
+        },
+        {
+          "id": 60,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 1859,
+          "duration_formatted": "30:59",
+          "winner_tag": "dotagaymer"
+        }
+      ]
+    },
+    {
+      "series_id": 30,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-09T01:00:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "team_a": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 2,
+        "is_current": false,
+        "record": "3 - 1"
+      },
+      "team_b": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "2 - 3"
+      },
+      "score_a": 2,
+      "score_b": 0,
+      "winner_id": 8,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-1",
+      "games": [
+        {
+          "id": 50,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 1555,
+          "duration_formatted": "25:55",
+          "winner_tag": "t matthew"
+        },
+        {
+          "id": 51,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 2658,
+          "duration_formatted": "44:18",
+          "winner_tag": "t matthew"
+        }
+      ]
+    },
+    {
+      "series_id": 24,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-07T03:30:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "team_a": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "2 - 3"
+      },
+      "team_b": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "3 - 2"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 13,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+      "games": [
+        {
+          "id": 30,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 3104,
+          "duration_formatted": "51:44",
+          "winner_tag": "tm"
+        }
+      ]
+    },
+    {
+      "series_id": 15,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-05T02:22:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "team_a": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "2 - 3"
+      },
+      "team_b": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 1,
+        "is_current": false,
+        "record": "3 - 1"
+      },
+      "score_a": 0,
+      "score_b": 1,
+      "winner_id": 15,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g-game-1",
+      "games": [
+        {
+          "id": 15,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2889,
+          "duration_formatted": "48:09",
+          "winner_tag": "payasita g"
+        }
+      ]
+    },
+    {
+      "series_id": 6,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-04T01:41:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "team_a": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "2 - 3"
+      },
+      "team_b": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "0 - 3"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 13,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka-game-1",
+      "games": [
+        {
+          "id": 6,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 3086,
+          "duration_formatted": "51:26",
+          "winner_tag": "tm"
+        }
+      ]
+    }
+  ]
+}

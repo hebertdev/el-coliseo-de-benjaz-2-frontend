@@ -1,0 +1,1462 @@
+{
+  "tournament": {
+    "slug": "el-gran-coliseo-ii",
+    "name": "El Gran Coliseo II"
+  },
+  "jornada": {
+    "id": "playoffs-round-3",
+    "title": "Grand Finals",
+    "stage_name": "Playoffs (Eliminatoria Directa)",
+    "round_number": 3,
+    "date": null,
+    "date_display": null,
+    "is_completed": true,
+    "total_series": 2,
+    "completed_series": 2,
+    "total_games_analyzed": 7
+  },
+  "current_status": {
+    "is_latest_completed": true,
+    "ongoing_jornada_id": null,
+    "ongoing_jornada_title": null,
+    "message": "Jornada finalizada. Estos son los mejores jugadores de la Grand Finals."
+  },
+  "available_jornadas": [
+    {
+      "id": "round-1",
+      "type": "swiss_round",
+      "round_number": 1,
+      "day_number": 1,
+      "title": "Ronda 1",
+      "stage_name": "Fase Suiza",
+      "stage_slug": "fase-suiza",
+      "stage_type": "SWISS",
+      "series_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "total_series": 8,
+      "completed_series": 8,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": "2026-09-03",
+      "date_display": "03 Sep",
+      "games_with_telemetry": 8
+    },
+    {
+      "id": "round-2",
+      "type": "swiss_round",
+      "round_number": 2,
+      "day_number": 1,
+      "title": "Ronda 2",
+      "stage_name": "Fase Suiza",
+      "stage_slug": "fase-suiza",
+      "stage_type": "SWISS",
+      "series_ids": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "total_series": 8,
+      "completed_series": 8,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": null,
+      "date_display": null,
+      "games_with_telemetry": 8
+    },
+    {
+      "id": "round-3-day-1",
+      "type": "swiss_day",
+      "round_number": 3,
+      "day_number": 1,
+      "title": "Ronda 3 · Día 1 (05 Sep)",
+      "stage_name": "Fase Suiza",
+      "stage_slug": "fase-suiza",
+      "stage_type": "SWISS",
+      "series_ids": [
+        17,
+        18,
+        19,
+        20
+      ],
+      "total_series": 4,
+      "completed_series": 4,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": "2026-09-05",
+      "date_display": "05 Sep",
+      "games_with_telemetry": 7
+    },
+    {
+      "id": "round-3-day-2",
+      "type": "swiss_day",
+      "round_number": 3,
+      "day_number": 2,
+      "title": "Ronda 3 · Día 2 (06 Sep)",
+      "stage_name": "Fase Suiza",
+      "stage_slug": "fase-suiza",
+      "stage_type": "SWISS",
+      "series_ids": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "total_series": 4,
+      "completed_series": 4,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": "2026-09-06",
+      "date_display": "06 Sep",
+      "games_with_telemetry": 6
+    },
+    {
+      "id": "round-4-day-1",
+      "type": "swiss_day",
+      "round_number": 4,
+      "day_number": 1,
+      "title": "Ronda 4 · Día 1 (07 Sep)",
+      "stage_name": "Fase Suiza",
+      "stage_slug": "fase-suiza",
+      "stage_type": "SWISS",
+      "series_ids": [
+        25,
+        26,
+        27
+      ],
+      "total_series": 3,
+      "completed_series": 3,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": "2026-09-07",
+      "date_display": "07 Sep",
+      "games_with_telemetry": 8
+    },
+    {
+      "id": "round-4-day-2",
+      "type": "swiss_day",
+      "round_number": 4,
+      "day_number": 2,
+      "title": "Ronda 4 · Día 2 (08 Sep)",
+      "stage_name": "Fase Suiza",
+      "stage_slug": "fase-suiza",
+      "stage_type": "SWISS",
+      "series_ids": [
+        28,
+        29,
+        30
+      ],
+      "total_series": 3,
+      "completed_series": 3,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": "2026-09-08",
+      "date_display": "08 Sep",
+      "games_with_telemetry": 7
+    },
+    {
+      "id": "round-5",
+      "type": "swiss_round",
+      "round_number": 5,
+      "day_number": 1,
+      "title": "Ronda 5",
+      "stage_name": "Fase Suiza",
+      "stage_slug": "fase-suiza",
+      "stage_type": "SWISS",
+      "series_ids": [
+        31,
+        32,
+        33
+      ],
+      "total_series": 3,
+      "completed_series": 3,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": "2026-09-09",
+      "date_display": "09 Sep",
+      "games_with_telemetry": 6
+    },
+    {
+      "id": "playoffs-round-1",
+      "type": "playoff_round",
+      "round_number": 1,
+      "day_number": 1,
+      "title": "Quarterfinals",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "stage_slug": "playoffs-eliminatoria-directa",
+      "stage_type": "PLAYOFF",
+      "series_ids": [
+        34,
+        35,
+        36,
+        37
+      ],
+      "total_series": 4,
+      "completed_series": 4,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": null,
+      "date_display": null,
+      "games_with_telemetry": 9
+    },
+    {
+      "id": "playoffs-round-2",
+      "type": "playoff_round",
+      "round_number": 2,
+      "day_number": 1,
+      "title": "Semifinals",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "stage_slug": "playoffs-eliminatoria-directa",
+      "stage_type": "PLAYOFF",
+      "series_ids": [
+        38,
+        39
+      ],
+      "total_series": 2,
+      "completed_series": 2,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": null,
+      "date_display": null,
+      "games_with_telemetry": 6
+    },
+    {
+      "id": "playoffs-round-3",
+      "type": "playoff_round",
+      "round_number": 3,
+      "day_number": 1,
+      "title": "Grand Finals",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "stage_slug": "playoffs-eliminatoria-directa",
+      "stage_type": "PLAYOFF",
+      "series_ids": [
+        40,
+        41
+      ],
+      "total_series": 2,
+      "completed_series": 2,
+      "ongoing_series": 0,
+      "scheduled_series": 0,
+      "is_completed": true,
+      "date": null,
+      "date_display": null,
+      "games_with_telemetry": 7
+    }
+  ],
+  "player_of_the_day": {
+    "score": 713.9,
+    "player_slug": "angel",
+    "steam_id": "76561198134107888",
+    "account_id": 173842160,
+    "nickname": "Angel",
+    "avatar": null,
+    "country": "PE",
+    "position": 1,
+    "position_name": "Carry",
+    "medal": {
+      "rank_tier": 80,
+      "leaderboard_rank": 100,
+      "medal_title": "Immortal #100",
+      "medal_tier": "immortal",
+      "medal_stars": 0
+    },
+    "team": {
+      "slug": "gotto-house",
+      "name": "Gotto House",
+      "tag": "t matthew",
+      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+    },
+    "social_links": {
+      "kick": null,
+      "twitch": null,
+      "youtube": null,
+      "instagram": null,
+      "twitter": null,
+      "facebook": null,
+      "steam": "https://steamcommunity.com/profiles/76561198134107888",
+      "dotabuff": "https://www.dotabuff.com/players/173842160"
+    },
+    "mvp_count": 1,
+    "stats": {
+      "games_played": 2,
+      "wins": 2,
+      "losses": 0,
+      "win_rate": 100,
+      "kills": 41,
+      "deaths": 4,
+      "assists": 28,
+      "kda": 17.25,
+      "avg_kills": 20.5,
+      "avg_deaths": 2,
+      "avg_assists": 14,
+      "avg_gpm": 788,
+      "avg_xpm": 1140,
+      "avg_hero_damage": 57470,
+      "avg_tower_damage": 4131,
+      "avg_healing": 0,
+      "avg_stuns_seconds": 20.9,
+      "avg_wards_placed": 0,
+      "avg_wards_dewarded": 0.5,
+      "avg_camps_stacked": 7.5
+    },
+    "heroes_played": [
+      {
+        "hero_id": 70,
+        "hero_name": "Ursa",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ursa_vert.png",
+        "games_played": 1,
+        "wins": 1,
+        "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+        "game_slugs": [
+          "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1"
+        ]
+      },
+      {
+        "hero_id": 46,
+        "hero_name": "Templar Assassin",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/templar_assassin_vert.png",
+        "games_played": 1,
+        "wins": 1,
+        "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+        "game_slugs": [
+          "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2"
+        ]
+      }
+    ],
+    "rank": 1
+  },
+  "top_3_players": [
+    {
+      "score": 713.9,
+      "player_slug": "angel",
+      "steam_id": "76561198134107888",
+      "account_id": 173842160,
+      "nickname": "Angel",
+      "avatar": null,
+      "country": "PE",
+      "position": 1,
+      "position_name": "Carry",
+      "medal": {
+        "rank_tier": 80,
+        "leaderboard_rank": 100,
+        "medal_title": "Immortal #100",
+        "medal_tier": "immortal",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+      },
+      "social_links": {
+        "kick": null,
+        "twitch": null,
+        "youtube": null,
+        "instagram": null,
+        "twitter": null,
+        "facebook": null,
+        "steam": "https://steamcommunity.com/profiles/76561198134107888",
+        "dotabuff": "https://www.dotabuff.com/players/173842160"
+      },
+      "mvp_count": 1,
+      "stats": {
+        "games_played": 2,
+        "wins": 2,
+        "losses": 0,
+        "win_rate": 100,
+        "kills": 41,
+        "deaths": 4,
+        "assists": 28,
+        "kda": 17.25,
+        "avg_kills": 20.5,
+        "avg_deaths": 2,
+        "avg_assists": 14,
+        "avg_gpm": 788,
+        "avg_xpm": 1140,
+        "avg_hero_damage": 57470,
+        "avg_tower_damage": 4131,
+        "avg_healing": 0,
+        "avg_stuns_seconds": 20.9,
+        "avg_wards_placed": 0,
+        "avg_wards_dewarded": 0.5,
+        "avg_camps_stacked": 7.5
+      },
+      "heroes_played": [
+        {
+          "hero_id": 70,
+          "hero_name": "Ursa",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/ursa_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1"
+          ]
+        },
+        {
+          "hero_id": 46,
+          "hero_name": "Templar Assassin",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/templar_assassin_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2"
+          ]
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "score": 547.2,
+      "player_slug": "chavalito",
+      "steam_id": "76561198744391802",
+      "account_id": 784126074,
+      "nickname": "Chavalito",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/chavalito.webp",
+      "country": "PE",
+      "position": 3,
+      "position_name": "Offlane",
+      "medal": {
+        "rank_tier": null,
+        "leaderboard_rank": null,
+        "medal_title": "Unranked",
+        "medal_tier": "unranked",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "rising-rage",
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+      },
+      "social_links": {
+        "kick": null,
+        "twitch": null,
+        "youtube": null,
+        "instagram": null,
+        "twitter": null,
+        "facebook": null,
+        "steam": null,
+        "dotabuff": "https://www.dotabuff.com/players/784126074"
+      },
+      "mvp_count": 2,
+      "stats": {
+        "games_played": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_rate": 60,
+        "kills": 28,
+        "deaths": 19,
+        "assists": 86,
+        "kda": 6,
+        "avg_kills": 5.6,
+        "avg_deaths": 3.8,
+        "avg_assists": 17.2,
+        "avg_gpm": 556,
+        "avg_xpm": 688,
+        "avg_hero_damage": 22317,
+        "avg_tower_damage": 1699,
+        "avg_healing": 48,
+        "avg_stuns_seconds": 60.1,
+        "avg_wards_placed": 1,
+        "avg_wards_dewarded": 0.4,
+        "avg_camps_stacked": 4.8
+      },
+      "heroes_played": [
+        {
+          "hero_id": 78,
+          "hero_name": "Brewmaster",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/brewmaster_vert.png",
+          "games_played": 2,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4"
+          ]
+        },
+        {
+          "hero_id": 69,
+          "hero_name": "Doom Bringer",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/doom_bringer_vert.png",
+          "games_played": 1,
+          "wins": 0,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2"
+          ]
+        },
+        {
+          "hero_id": 33,
+          "hero_name": "Enigma",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/enigma_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3"
+          ]
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "score": 521.6,
+      "player_slug": "mandy",
+      "steam_id": "76561198316746460",
+      "account_id": 356480732,
+      "nickname": "Mandy",
+      "avatar": null,
+      "country": "PE",
+      "position": 2,
+      "position_name": "Mid",
+      "medal": {
+        "rank_tier": null,
+        "leaderboard_rank": null,
+        "medal_title": "Unranked",
+        "medal_tier": "unranked",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+      },
+      "social_links": {
+        "kick": null,
+        "twitch": null,
+        "youtube": null,
+        "instagram": null,
+        "twitter": null,
+        "facebook": null,
+        "steam": null,
+        "dotabuff": "https://www.dotabuff.com/players/356480732"
+      },
+      "mvp_count": 1,
+      "stats": {
+        "games_played": 2,
+        "wins": 2,
+        "losses": 0,
+        "win_rate": 100,
+        "kills": 25,
+        "deaths": 11,
+        "assists": 50,
+        "kda": 6.82,
+        "avg_kills": 12.5,
+        "avg_deaths": 5.5,
+        "avg_assists": 25,
+        "avg_gpm": 732,
+        "avg_xpm": 894,
+        "avg_hero_damage": 58880,
+        "avg_tower_damage": 15468,
+        "avg_healing": 1723,
+        "avg_stuns_seconds": 1.6,
+        "avg_wards_placed": 1.5,
+        "avg_wards_dewarded": 1,
+        "avg_camps_stacked": 6
+      },
+      "heroes_played": [
+        {
+          "hero_id": 53,
+          "hero_name": "Furion",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png",
+          "games_played": 2,
+          "wins": 2,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2"
+          ]
+        }
+      ],
+      "rank": 3
+    }
+  ],
+  "all_ranked_players": [
+    {
+      "score": 713.9,
+      "player_slug": "angel",
+      "steam_id": "76561198134107888",
+      "account_id": 173842160,
+      "nickname": "Angel",
+      "avatar": null,
+      "country": "PE",
+      "position": 1,
+      "position_name": "Carry",
+      "medal": {
+        "rank_tier": 80,
+        "leaderboard_rank": 100,
+        "medal_title": "Immortal #100",
+        "medal_tier": "immortal",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+      },
+      "social_links": {
+        "kick": null,
+        "twitch": null,
+        "youtube": null,
+        "instagram": null,
+        "twitter": null,
+        "facebook": null,
+        "steam": "https://steamcommunity.com/profiles/76561198134107888",
+        "dotabuff": "https://www.dotabuff.com/players/173842160"
+      },
+      "mvp_count": 1,
+      "stats": {
+        "games_played": 2,
+        "wins": 2,
+        "losses": 0,
+        "win_rate": 100,
+        "kills": 41,
+        "deaths": 4,
+        "assists": 28,
+        "kda": 17.25,
+        "avg_kills": 20.5,
+        "avg_deaths": 2,
+        "avg_assists": 14,
+        "avg_gpm": 788,
+        "avg_xpm": 1140,
+        "avg_hero_damage": 57470,
+        "avg_tower_damage": 4131,
+        "avg_healing": 0,
+        "avg_stuns_seconds": 20.9,
+        "avg_wards_placed": 0,
+        "avg_wards_dewarded": 0.5,
+        "avg_camps_stacked": 7.5
+      },
+      "heroes_played": [
+        {
+          "hero_id": 70,
+          "hero_name": "Ursa",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/ursa_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1"
+          ]
+        },
+        {
+          "hero_id": 46,
+          "hero_name": "Templar Assassin",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/templar_assassin_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2"
+          ]
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "score": 547.2,
+      "player_slug": "chavalito",
+      "steam_id": "76561198744391802",
+      "account_id": 784126074,
+      "nickname": "Chavalito",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/chavalito.webp",
+      "country": "PE",
+      "position": 3,
+      "position_name": "Offlane",
+      "medal": {
+        "rank_tier": null,
+        "leaderboard_rank": null,
+        "medal_title": "Unranked",
+        "medal_tier": "unranked",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "rising-rage",
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+      },
+      "social_links": {
+        "kick": null,
+        "twitch": null,
+        "youtube": null,
+        "instagram": null,
+        "twitter": null,
+        "facebook": null,
+        "steam": null,
+        "dotabuff": "https://www.dotabuff.com/players/784126074"
+      },
+      "mvp_count": 2,
+      "stats": {
+        "games_played": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_rate": 60,
+        "kills": 28,
+        "deaths": 19,
+        "assists": 86,
+        "kda": 6,
+        "avg_kills": 5.6,
+        "avg_deaths": 3.8,
+        "avg_assists": 17.2,
+        "avg_gpm": 556,
+        "avg_xpm": 688,
+        "avg_hero_damage": 22317,
+        "avg_tower_damage": 1699,
+        "avg_healing": 48,
+        "avg_stuns_seconds": 60.1,
+        "avg_wards_placed": 1,
+        "avg_wards_dewarded": 0.4,
+        "avg_camps_stacked": 4.8
+      },
+      "heroes_played": [
+        {
+          "hero_id": 78,
+          "hero_name": "Brewmaster",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/brewmaster_vert.png",
+          "games_played": 2,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4"
+          ]
+        },
+        {
+          "hero_id": 69,
+          "hero_name": "Doom Bringer",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/doom_bringer_vert.png",
+          "games_played": 1,
+          "wins": 0,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2"
+          ]
+        },
+        {
+          "hero_id": 33,
+          "hero_name": "Enigma",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/enigma_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3"
+          ]
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "score": 521.6,
+      "player_slug": "mandy",
+      "steam_id": "76561198316746460",
+      "account_id": 356480732,
+      "nickname": "Mandy",
+      "avatar": null,
+      "country": "PE",
+      "position": 2,
+      "position_name": "Mid",
+      "medal": {
+        "rank_tier": null,
+        "leaderboard_rank": null,
+        "medal_title": "Unranked",
+        "medal_tier": "unranked",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+      },
+      "social_links": {
+        "kick": null,
+        "twitch": null,
+        "youtube": null,
+        "instagram": null,
+        "twitter": null,
+        "facebook": null,
+        "steam": null,
+        "dotabuff": "https://www.dotabuff.com/players/356480732"
+      },
+      "mvp_count": 1,
+      "stats": {
+        "games_played": 2,
+        "wins": 2,
+        "losses": 0,
+        "win_rate": 100,
+        "kills": 25,
+        "deaths": 11,
+        "assists": 50,
+        "kda": 6.82,
+        "avg_kills": 12.5,
+        "avg_deaths": 5.5,
+        "avg_assists": 25,
+        "avg_gpm": 732,
+        "avg_xpm": 894,
+        "avg_hero_damage": 58880,
+        "avg_tower_damage": 15468,
+        "avg_healing": 1723,
+        "avg_stuns_seconds": 1.6,
+        "avg_wards_placed": 1.5,
+        "avg_wards_dewarded": 1,
+        "avg_camps_stacked": 6
+      },
+      "heroes_played": [
+        {
+          "hero_id": 53,
+          "hero_name": "Furion",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png",
+          "games_played": 2,
+          "wins": 2,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2"
+          ]
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "score": 519.3,
+      "player_slug": "kotaro",
+      "steam_id": "76561198145468405",
+      "account_id": 185202677,
+      "nickname": "Kotaro",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+      "country": "PE",
+      "position": 1,
+      "position_name": "Carry",
+      "medal": {
+        "rank_tier": 80,
+        "leaderboard_rank": 1153,
+        "medal_title": "Immortal #1153",
+        "medal_tier": "immortal",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "rising-rage",
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+      },
+      "social_links": {
+        "kick": "https://kick.com/kotaromnzdota",
+        "twitch": null,
+        "youtube": null,
+        "instagram": "https://www.instagram.com/kotaromnz",
+        "twitter": null,
+        "facebook": null,
+        "steam": null,
+        "dotabuff": "https://www.dotabuff.com/players/185202677"
+      },
+      "mvp_count": 1,
+      "stats": {
+        "games_played": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_rate": 60,
+        "kills": 59,
+        "deaths": 10,
+        "assists": 45,
+        "kda": 10.4,
+        "avg_kills": 11.8,
+        "avg_deaths": 2,
+        "avg_assists": 9,
+        "avg_gpm": 876,
+        "avg_xpm": 838,
+        "avg_hero_damage": 34731,
+        "avg_tower_damage": 18873,
+        "avg_healing": 25,
+        "avg_stuns_seconds": 32.7,
+        "avg_wards_placed": 0,
+        "avg_wards_dewarded": 1.2,
+        "avg_camps_stacked": 4
+      },
+      "heroes_played": [
+        {
+          "hero_id": 48,
+          "hero_name": "Luna",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png",
+          "games_played": 4,
+          "wins": 2,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4"
+          ]
+        },
+        {
+          "hero_id": 80,
+          "hero_name": "Lone Druid",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5"
+          ]
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "score": 486.4,
+      "player_slug": "matthew",
+      "steam_id": "76561198115598187",
+      "account_id": 155332459,
+      "nickname": "Matthew",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/matthew.jpeg",
+      "country": "PE",
+      "position": 4,
+      "position_name": "Soft Support",
+      "medal": {
+        "rank_tier": 80,
+        "leaderboard_rank": null,
+        "medal_title": "Immortal",
+        "medal_tier": "immortal",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+      },
+      "social_links": {
+        "kick": "https://kick.com/matthewdota",
+        "twitch": null,
+        "youtube": null,
+        "instagram": "https://www.instagram.com/matthewdota",
+        "twitter": null,
+        "facebook": null,
+        "steam": "https://steamcommunity.com/profiles/76561198115598187",
+        "dotabuff": "https://www.dotabuff.com/players/155332459"
+      },
+      "mvp_count": 0,
+      "stats": {
+        "games_played": 2,
+        "wins": 2,
+        "losses": 0,
+        "win_rate": 100,
+        "kills": 18,
+        "deaths": 11,
+        "assists": 48,
+        "kda": 6,
+        "avg_kills": 9,
+        "avg_deaths": 5.5,
+        "avg_assists": 24,
+        "avg_gpm": 436,
+        "avg_xpm": 608,
+        "avg_hero_damage": 27558,
+        "avg_tower_damage": 436,
+        "avg_healing": 1550,
+        "avg_stuns_seconds": 118.3,
+        "avg_wards_placed": 25.5,
+        "avg_wards_dewarded": 4.5,
+        "avg_camps_stacked": 3.5
+      },
+      "heroes_played": [
+        {
+          "hero_id": 79,
+          "hero_name": "Shadow Demon",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1"
+          ]
+        },
+        {
+          "hero_id": 7,
+          "hero_name": "Earthshaker",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/earthshaker_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2"
+          ]
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "score": 392.7,
+      "player_slug": "tao",
+      "steam_id": "76561198274734235",
+      "account_id": 314468507,
+      "nickname": "TAO",
+      "avatar": null,
+      "country": "PE",
+      "position": 2,
+      "position_name": "Mid",
+      "medal": {
+        "rank_tier": 80,
+        "leaderboard_rank": null,
+        "medal_title": "Immortal",
+        "medal_tier": "immortal",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "team-factos-army",
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp"
+      },
+      "social_links": {
+        "kick": null,
+        "twitch": null,
+        "youtube": null,
+        "instagram": null,
+        "twitter": null,
+        "facebook": null,
+        "steam": null,
+        "dotabuff": "https://www.dotabuff.com/players/314468507"
+      },
+      "mvp_count": 0,
+      "stats": {
+        "games_played": 2,
+        "wins": 0,
+        "losses": 2,
+        "win_rate": 0,
+        "kills": 19,
+        "deaths": 12,
+        "assists": 27,
+        "kda": 3.83,
+        "avg_kills": 9.5,
+        "avg_deaths": 6,
+        "avg_assists": 13.5,
+        "avg_gpm": 588,
+        "avg_xpm": 748,
+        "avg_hero_damage": 41058,
+        "avg_tower_damage": 668,
+        "avg_healing": 0,
+        "avg_stuns_seconds": 90.5,
+        "avg_wards_placed": 2,
+        "avg_wards_dewarded": 2,
+        "avg_camps_stacked": 0
+      },
+      "heroes_played": [
+        {
+          "hero_id": 106,
+          "hero_name": "Ember Spirit",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png",
+          "games_played": 1,
+          "wins": 0,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1"
+          ]
+        },
+        {
+          "hero_id": 11,
+          "hero_name": "Nevermore",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/nevermore_vert.png",
+          "games_played": 1,
+          "wins": 0,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2"
+          ]
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "score": 362.6,
+      "player_slug": "leostyle",
+      "steam_id": "76561198019729122",
+      "account_id": 59463394,
+      "nickname": "LeoStyle",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/leostyle.jpeg",
+      "country": "PE",
+      "position": 2,
+      "position_name": "Mid",
+      "medal": {
+        "rank_tier": 80,
+        "leaderboard_rank": 1811,
+        "medal_title": "Immortal #1811",
+        "medal_tier": "immortal",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "rising-rage",
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+      },
+      "social_links": {
+        "kick": "https://kick.com/leostyledota",
+        "twitch": null,
+        "youtube": null,
+        "instagram": "https://www.instagram.com/leostyledota/?hl=es-la",
+        "twitter": null,
+        "facebook": null,
+        "steam": null,
+        "dotabuff": "https://www.dotabuff.com/players/59463394"
+      },
+      "mvp_count": 0,
+      "stats": {
+        "games_played": 5,
+        "wins": 3,
+        "losses": 2,
+        "win_rate": 60,
+        "kills": 51,
+        "deaths": 19,
+        "assists": 68,
+        "kda": 6.26,
+        "avg_kills": 10.2,
+        "avg_deaths": 3.8,
+        "avg_assists": 13.6,
+        "avg_gpm": 581,
+        "avg_xpm": 697,
+        "avg_hero_damage": 31338,
+        "avg_tower_damage": 423,
+        "avg_healing": 192,
+        "avg_stuns_seconds": 46.8,
+        "avg_wards_placed": 4.6,
+        "avg_wards_dewarded": 1.8,
+        "avg_camps_stacked": 3.2
+      },
+      "heroes_played": [
+        {
+          "hero_id": 120,
+          "hero_name": "Pangolier",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png",
+          "games_played": 2,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4"
+          ]
+        },
+        {
+          "hero_id": 60,
+          "hero_name": "Night Stalker",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/night_stalker_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1"
+          ]
+        },
+        {
+          "hero_id": 16,
+          "hero_name": "Sand King",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/sand_king_vert.png",
+          "games_played": 1,
+          "wins": 0,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2"
+          ]
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "score": 335.7,
+      "player_slug": "hector-k1",
+      "steam_id": "76561198124950903",
+      "account_id": 164685175,
+      "nickname": "K1 Hector",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+      "country": "PE",
+      "position": 1,
+      "position_name": "Carry",
+      "medal": {
+        "rank_tier": 80,
+        "leaderboard_rank": null,
+        "medal_title": "Immortal",
+        "medal_tier": "immortal",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "the-fat-bears",
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+      },
+      "social_links": {
+        "kick": "https://kick.com/k1hectorxd",
+        "twitch": null,
+        "youtube": null,
+        "instagram": null,
+        "twitter": "https://x.com/k1hectorxd",
+        "facebook": null,
+        "steam": "https://steamcommunity.com/profiles/76561198124950903",
+        "dotabuff": "https://www.dotabuff.com/players/164685175"
+      },
+      "mvp_count": 1,
+      "stats": {
+        "games_played": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_rate": 40,
+        "kills": 39,
+        "deaths": 23,
+        "assists": 33,
+        "kda": 3.13,
+        "avg_kills": 7.8,
+        "avg_deaths": 4.6,
+        "avg_assists": 6.6,
+        "avg_gpm": 723,
+        "avg_xpm": 744,
+        "avg_hero_damage": 30410,
+        "avg_tower_damage": 11689,
+        "avg_healing": 508,
+        "avg_stuns_seconds": 15.3,
+        "avg_wards_placed": 0,
+        "avg_wards_dewarded": 0.4,
+        "avg_camps_stacked": 1.4
+      },
+      "heroes_played": [
+        {
+          "hero_id": 12,
+          "hero_name": "Phantom Lancer",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png",
+          "games_played": 1,
+          "wins": 0,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1"
+          ]
+        },
+        {
+          "hero_id": 54,
+          "hero_name": "Life Stealer",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2"
+          ]
+        },
+        {
+          "hero_id": 80,
+          "hero_name": "Lone Druid",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png",
+          "games_played": 1,
+          "wins": 0,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3"
+          ]
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "score": 326.8,
+      "player_slug": "jericho",
+      "steam_id": "76561198059938152",
+      "account_id": 99672424,
+      "nickname": "Jericho",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/jerichodota2.webp",
+      "country": "PE",
+      "position": 4,
+      "position_name": "Soft Support",
+      "medal": {
+        "rank_tier": 80,
+        "leaderboard_rank": null,
+        "medal_title": "Immortal",
+        "medal_tier": "immortal",
+        "medal_stars": 0
+      },
+      "team": {
+        "slug": "the-fat-bears",
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+      },
+      "social_links": {
+        "kick": "https://kick.com/jerichodota",
+        "twitch": null,
+        "youtube": null,
+        "instagram": "https://www.instagram.com/jerichodota2/",
+        "twitter": null,
+        "facebook": null,
+        "steam": "https://steamcommunity.com/profiles/76561198059938152",
+        "dotabuff": "https://www.dotabuff.com/players/99672424"
+      },
+      "mvp_count": 1,
+      "stats": {
+        "games_played": 5,
+        "wins": 2,
+        "losses": 3,
+        "win_rate": 40,
+        "kills": 19,
+        "deaths": 46,
+        "assists": 70,
+        "kda": 1.93,
+        "avg_kills": 3.8,
+        "avg_deaths": 9.2,
+        "avg_assists": 14,
+        "avg_gpm": 341,
+        "avg_xpm": 372,
+        "avg_hero_damage": 16128,
+        "avg_tower_damage": 73,
+        "avg_healing": 180,
+        "avg_stuns_seconds": 51.7,
+        "avg_wards_placed": 34.2,
+        "avg_wards_dewarded": 7.4,
+        "avg_camps_stacked": 4
+      },
+      "heroes_played": [
+        {
+          "hero_id": 79,
+          "hero_name": "Shadow Demon",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png",
+          "games_played": 2,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3"
+          ]
+        },
+        {
+          "hero_id": 9,
+          "hero_name": "Mirana",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/mirana_vert.png",
+          "games_played": 2,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5"
+          ]
+        },
+        {
+          "hero_id": 100,
+          "hero_name": "Tusk",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png",
+          "games_played": 1,
+          "wins": 0,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1"
+          ]
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "score": 272.5,
+      "player_slug": "chocolate",
+      "steam_id": "76561198869383220",
+      "account_id": 909117492,
+      "nickname": "Chocolate",
+      "avatar": null,
+      "country": "PE",
+      "position": 3,
+      "position_name": "Offlane",
+      "medal": {
+        "rank_tier": 31,
+        "leaderboard_rank": null,
+        "medal_title": "Crusader 1",
+        "medal_tier": "crusader",
+        "medal_stars": 1
+      },
+      "team": {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+      },
+      "social_links": {
+        "kick": null,
+        "twitch": null,
+        "youtube": null,
+        "instagram": null,
+        "twitter": null,
+        "facebook": null,
+        "steam": "https://steamcommunity.com/profiles/76561198869383220",
+        "dotabuff": "https://www.dotabuff.com/players/909117492"
+      },
+      "mvp_count": 0,
+      "stats": {
+        "games_played": 2,
+        "wins": 2,
+        "losses": 0,
+        "win_rate": 100,
+        "kills": 8,
+        "deaths": 9,
+        "assists": 36,
+        "kda": 4.89,
+        "avg_kills": 4,
+        "avg_deaths": 4.5,
+        "avg_assists": 18,
+        "avg_gpm": 410,
+        "avg_xpm": 645,
+        "avg_hero_damage": 12606,
+        "avg_tower_damage": 1010,
+        "avg_healing": 0,
+        "avg_stuns_seconds": 36.3,
+        "avg_wards_placed": 0,
+        "avg_wards_dewarded": 0,
+        "avg_camps_stacked": 2
+      },
+      "heroes_played": [
+        {
+          "hero_id": 28,
+          "hero_name": "Slardar",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1"
+          ]
+        },
+        {
+          "hero_id": 29,
+          "hero_name": "Tidehunter",
+          "image_url": "https://cdn.stratz.com/images/dota2/heroes/tidehunter_vert.png",
+          "games_played": 1,
+          "wins": 1,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_slugs": [
+            "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2"
+          ]
+        }
+      ],
+      "rank": 10
+    }
+  ]
+}

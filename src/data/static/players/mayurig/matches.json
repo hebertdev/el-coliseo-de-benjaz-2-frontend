@@ -1,0 +1,286 @@
+{
+  "total_matches": 2,
+  "wins": 0,
+  "losses": 2,
+  "win_rate": 0,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 13,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-sacred-vs-team-smash-game-1",
+          "game_number": 1,
+          "duration_seconds": 2922,
+          "duration_formatted": "48:42",
+          "date": "2026-09-04T23:46:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 27,
+            "name": "Shadow Shaman",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+          },
+          "player_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 25
+          },
+          "rival_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 50
+          },
+          "radiant_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 25
+          },
+          "dire_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 50
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 11,
+            "assists": 10,
+            "kda": 1,
+            "last_hits": 51,
+            "denies": 0,
+            "gpm": 231,
+            "xpm": 303,
+            "hero_damage": 8931,
+            "tower_damage": 1334,
+            "hero_healing": 0,
+            "net_worth": 8215,
+            "stuns": 47.4
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 8,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+          "game_number": 1,
+          "duration_seconds": 2574,
+          "duration_formatted": "42:54",
+          "date": "2026-09-04T04:23:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 101,
+            "name": "Skywrath Mage",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+          },
+          "player_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 21
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 30
+          },
+          "radiant_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 21
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 30
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 8,
+            "assists": 7,
+            "kda": 1.25,
+            "last_hits": 13,
+            "denies": 2,
+            "gpm": 238,
+            "xpm": 241,
+            "hero_damage": 7472,
+            "tower_damage": 137,
+            "hero_healing": 0,
+            "net_worth": 7966,
+            "stuns": 0
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 13,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-sacred-vs-team-smash-game-1",
+      "game_number": 1,
+      "duration_seconds": 2922,
+      "duration_formatted": "48:42",
+      "date": "2026-09-04T23:46:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 27,
+        "name": "Shadow Shaman",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+      },
+      "player_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 25
+      },
+      "rival_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 50
+      },
+      "radiant_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 25
+      },
+      "dire_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 50
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 11,
+        "assists": 10,
+        "kda": 1,
+        "last_hits": 51,
+        "denies": 0,
+        "gpm": 231,
+        "xpm": 303,
+        "hero_damage": 8931,
+        "tower_damage": 1334,
+        "hero_healing": 0,
+        "net_worth": 8215,
+        "stuns": 47.4
+      }
+    },
+    {
+      "game_id": 8,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+      "game_number": 1,
+      "duration_seconds": 2574,
+      "duration_formatted": "42:54",
+      "date": "2026-09-04T04:23:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 101,
+        "name": "Skywrath Mage",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+      },
+      "player_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 21
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 30
+      },
+      "radiant_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 21
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 30
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 8,
+        "assists": 7,
+        "kda": 1.25,
+        "last_hits": 13,
+        "denies": 2,
+        "gpm": 238,
+        "xpm": 241,
+        "hero_damage": 7472,
+        "tower_damage": 137,
+        "hero_healing": 0,
+        "net_worth": 7966,
+        "stuns": 0
+      }
+    }
+  ]
+}

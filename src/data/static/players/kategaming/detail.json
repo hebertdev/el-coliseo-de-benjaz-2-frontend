@@ -1,0 +1,45 @@
+{
+  "slug": "kategaming",
+  "nickname": "KateGaming",
+  "avatar": null,
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 1124159846,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Mitra Army",
+        "slug": "mitra-army",
+        "tag": "team iwo",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 5,
+      "position_display": "Position 5 - Hard Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:19:32.929457-05:00",
+  "updated_at": "2026-09-03T16:34:52.312928-05:00"
+}

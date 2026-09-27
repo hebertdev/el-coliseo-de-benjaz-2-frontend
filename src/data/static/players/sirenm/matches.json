@@ -1,0 +1,280 @@
+{
+  "total_matches": 2,
+  "wins": 2,
+  "losses": 0,
+  "win_rate": 100,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "matches": [
+        {
+          "game_id": 33,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-2",
+          "game_number": 2,
+          "duration_seconds": 1571,
+          "duration_formatted": "26:11",
+          "date": "2026-09-06T19:58:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 106,
+            "name": "Ember Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 26
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 22
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 22
+          },
+          "dire_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 26
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 2,
+            "assists": 9,
+            "kda": 7,
+            "last_hits": 115,
+            "denies": 3,
+            "gpm": 443,
+            "xpm": 614,
+            "hero_damage": 16923,
+            "tower_damage": 349,
+            "hero_healing": 110,
+            "net_worth": 11238,
+            "stuns": 32
+          }
+        },
+        {
+          "game_id": 25,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+          "game_number": 1,
+          "duration_seconds": 1896,
+          "duration_formatted": "31:36",
+          "date": "2026-09-06T19:11:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 25,
+            "name": "Lina",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+          },
+          "player_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 27
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 23
+          },
+          "radiant_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 27
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 23
+          },
+          "stats": {
+            "kills": 6,
+            "deaths": 2,
+            "assists": 10,
+            "kda": 8,
+            "last_hits": 272,
+            "denies": 17,
+            "gpm": 616,
+            "xpm": 820,
+            "hero_damage": 21757,
+            "tower_damage": 3290,
+            "hero_healing": 0,
+            "net_worth": 18704,
+            "stuns": 44.4
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 33,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-2",
+      "game_number": 2,
+      "duration_seconds": 1571,
+      "duration_formatted": "26:11",
+      "date": "2026-09-06T19:58:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 106,
+        "name": "Ember Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 26
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 22
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 22
+      },
+      "dire_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 26
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 2,
+        "assists": 9,
+        "kda": 7,
+        "last_hits": 115,
+        "denies": 3,
+        "gpm": 443,
+        "xpm": 614,
+        "hero_damage": 16923,
+        "tower_damage": 349,
+        "hero_healing": 110,
+        "net_worth": 11238,
+        "stuns": 32
+      }
+    },
+    {
+      "game_id": 25,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+      "game_number": 1,
+      "duration_seconds": 1896,
+      "duration_formatted": "31:36",
+      "date": "2026-09-06T19:11:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 25,
+        "name": "Lina",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+      },
+      "player_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 27
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 23
+      },
+      "radiant_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 27
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 23
+      },
+      "stats": {
+        "kills": 6,
+        "deaths": 2,
+        "assists": 10,
+        "kda": 8,
+        "last_hits": 272,
+        "denies": 17,
+        "gpm": 616,
+        "xpm": 820,
+        "hero_damage": 21757,
+        "tower_damage": 3290,
+        "hero_healing": 0,
+        "net_worth": 18704,
+        "stuns": 44.4
+      }
+    }
+  ]
+}

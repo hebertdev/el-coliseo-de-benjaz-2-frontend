@@ -1,0 +1,2698 @@
+{
+  "total_matches": 20,
+  "wins": 13,
+  "losses": 7,
+  "win_rate": 65,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-13",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "matches": [
+        {
+          "game_id": 85,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5",
+          "game_number": 5,
+          "duration_seconds": 3429,
+          "duration_formatted": "57:09",
+          "date": "2026-09-14T03:46:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 106,
+            "name": "Ember Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 49
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 28
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 28
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 49
+          },
+          "stats": {
+            "kills": 16,
+            "deaths": 5,
+            "assists": 19,
+            "kda": 7,
+            "last_hits": 481,
+            "denies": 5,
+            "gpm": 657,
+            "xpm": 899,
+            "hero_damage": 58288,
+            "tower_damage": 34,
+            "hero_healing": 959,
+            "net_worth": 31476,
+            "stuns": 121.7
+          }
+        },
+        {
+          "game_id": 84,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+          "game_number": 4,
+          "duration_seconds": 2148,
+          "duration_formatted": "35:48",
+          "date": "2026-09-14T02:19:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 120,
+            "name": "Pangolier",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 18
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 27
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 27
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 18
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 4,
+            "assists": 6,
+            "kda": 3.25,
+            "last_hits": 271,
+            "denies": 6,
+            "gpm": 526,
+            "xpm": 583,
+            "hero_damage": 20138,
+            "tower_damage": 364,
+            "hero_healing": 0,
+            "net_worth": 15301,
+            "stuns": 37.2
+          }
+        },
+        {
+          "game_id": 81,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+          "game_number": 3,
+          "duration_seconds": 1318,
+          "duration_formatted": "21:58",
+          "date": "2026-09-14T00:58:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 120,
+            "name": "Pangolier",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 32
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 10
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 10
+          },
+          "stats": {
+            "kills": 8,
+            "deaths": 0,
+            "assists": 7,
+            "kda": 15,
+            "last_hits": 165,
+            "denies": 7,
+            "gpm": 611,
+            "xpm": 672,
+            "hero_damage": 15137,
+            "tower_damage": 570,
+            "hero_healing": 0,
+            "net_worth": 13001,
+            "stuns": 9.2
+          }
+        },
+        {
+          "game_id": 80,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "duration_seconds": 2948,
+          "duration_formatted": "49:08",
+          "date": "2026-09-13T23:43:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 16,
+            "name": "Sand King",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/sand_king_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 43
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 35
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 35
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 43
+          },
+          "stats": {
+            "kills": 9,
+            "deaths": 10,
+            "assists": 21,
+            "kda": 3,
+            "last_hits": 352,
+            "denies": 1,
+            "gpm": 598,
+            "xpm": 695,
+            "hero_damage": 40285,
+            "tower_damage": 361,
+            "hero_healing": 0,
+            "net_worth": 21409,
+            "stuns": 62.8
+          }
+        },
+        {
+          "game_id": 79,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 1911,
+          "duration_formatted": "31:51",
+          "date": "2026-09-13T22:10:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 60,
+            "name": "Night Stalker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/night_stalker_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 36
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 19
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 36
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 19
+          },
+          "stats": {
+            "kills": 11,
+            "deaths": 0,
+            "assists": 15,
+            "kda": 26,
+            "last_hits": 143,
+            "denies": 6,
+            "gpm": 513,
+            "xpm": 635,
+            "hero_damage": 22840,
+            "tower_damage": 787,
+            "hero_healing": 0,
+            "net_worth": 15758,
+            "stuns": 3.2
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "matches": [
+        {
+          "game_id": 77,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-3",
+          "game_number": 3,
+          "duration_seconds": 1911,
+          "duration_formatted": "31:51",
+          "date": "2026-09-11T22:26:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 107,
+            "name": "Earth Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/earth_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 36
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 9
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 9
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 15,
+            "deaths": 1,
+            "assists": 12,
+            "kda": 27,
+            "last_hits": 183,
+            "denies": 8,
+            "gpm": 592,
+            "xpm": 730,
+            "hero_damage": 26526,
+            "tower_damage": 1411,
+            "hero_healing": 552,
+            "net_worth": 18023,
+            "stuns": 13.9
+          }
+        },
+        {
+          "game_id": 76,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-2",
+          "game_number": 2,
+          "duration_seconds": 2183,
+          "duration_formatted": "36:23",
+          "date": "2026-09-11T21:31:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 129,
+            "name": "Mars",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/mars_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 12
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 30
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 30
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 12
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 4,
+            "assists": 3,
+            "kda": 1.5,
+            "last_hits": 279,
+            "denies": 14,
+            "gpm": 457,
+            "xpm": 518,
+            "hero_damage": 8903,
+            "tower_damage": 0,
+            "hero_healing": 106,
+            "net_worth": 15449,
+            "stuns": 32.7
+          }
+        },
+        {
+          "game_id": 75,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-1",
+          "game_number": 1,
+          "duration_seconds": 1696,
+          "duration_formatted": "28:16",
+          "date": "2026-09-11T20:31:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 106,
+            "name": "Ember Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 35
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 9
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 35
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 9
+          },
+          "stats": {
+            "kills": 12,
+            "deaths": 1,
+            "assists": 7,
+            "kda": 19,
+            "last_hits": 169,
+            "denies": 11,
+            "gpm": 580,
+            "xpm": 698,
+            "hero_damage": 23443,
+            "tower_damage": 1721,
+            "hero_healing": 320,
+            "net_worth": 15815,
+            "stuns": 55.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "matches": [
+        {
+          "game_id": 67,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "duration_seconds": 2662,
+          "duration_formatted": "44:22",
+          "date": "2026-09-11T01:28:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 39,
+            "name": "Queenofpain",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 49
+          },
+          "rival_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 50
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 49
+          },
+          "dire_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 50
+          },
+          "stats": {
+            "kills": 17,
+            "deaths": 7,
+            "assists": 20,
+            "kda": 5.29,
+            "last_hits": 316,
+            "denies": 6,
+            "gpm": 691,
+            "xpm": 1159,
+            "hero_damage": 64764,
+            "tower_damage": 716,
+            "hero_healing": 0,
+            "net_worth": 27831,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 66,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 2873,
+          "duration_formatted": "47:53",
+          "date": "2026-09-11T00:16:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 16,
+            "name": "Sand King",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/sand_king_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 55
+          },
+          "rival_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 34
+          },
+          "radiant_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 34
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 55
+          },
+          "stats": {
+            "kills": 21,
+            "deaths": 7,
+            "assists": 22,
+            "kda": 6.14,
+            "last_hits": 353,
+            "denies": 5,
+            "gpm": 677,
+            "xpm": 1064,
+            "hero_damage": 49838,
+            "tower_damage": 1435,
+            "hero_healing": 196,
+            "net_worth": 27131,
+            "stuns": 71
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "matches": [
+        {
+          "game_id": 58,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-t-sacred-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "duration_seconds": 2694,
+          "duration_formatted": "44:54",
+          "date": "2026-09-09T22:48:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 28,
+            "name": "Slardar",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 28
+          },
+          "rival_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 39
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 28
+          },
+          "dire_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 39
+          },
+          "stats": {
+            "kills": 11,
+            "deaths": 8,
+            "assists": 7,
+            "kda": 2.25,
+            "last_hits": 316,
+            "denies": 1,
+            "gpm": 597,
+            "xpm": 780,
+            "hero_damage": 18431,
+            "tower_damage": 2939,
+            "hero_healing": 0,
+            "net_worth": 24970,
+            "stuns": 47
+          }
+        },
+        {
+          "game_id": 57,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-t-sacred-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 3843,
+          "duration_formatted": "64:03",
+          "date": "2026-09-09T20:34:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 25,
+            "name": "Lina",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 31
+          },
+          "rival_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 31
+          },
+          "radiant_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 31
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 31
+          },
+          "stats": {
+            "kills": 6,
+            "deaths": 4,
+            "assists": 6,
+            "kda": 3,
+            "last_hits": 767,
+            "denies": 7,
+            "gpm": 739,
+            "xpm": 1050,
+            "hero_damage": 43109,
+            "tower_damage": 311,
+            "hero_healing": 0,
+            "net_worth": 46015,
+            "stuns": 93.4
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "matches": [
+        {
+          "game_id": 52,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-3",
+          "game_number": 3,
+          "duration_seconds": 2258,
+          "duration_formatted": "37:38",
+          "date": "2026-09-08T00:07:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 13,
+            "name": "Puck",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 45
+          },
+          "rival_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 12
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 12
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 45
+          },
+          "stats": {
+            "kills": 14,
+            "deaths": 2,
+            "assists": 18,
+            "kda": 16,
+            "last_hits": 423,
+            "denies": 3,
+            "gpm": 791,
+            "xpm": 1109,
+            "hero_damage": 37616,
+            "tower_damage": 5615,
+            "hero_healing": 318,
+            "net_worth": 28747,
+            "stuns": 15.1
+          }
+        },
+        {
+          "game_id": 43,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "duration_seconds": 2507,
+          "duration_formatted": "41:47",
+          "date": "2026-09-07T23:08:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 106,
+            "name": "Ember Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 56
+          },
+          "rival_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 16
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 16
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 56
+          },
+          "stats": {
+            "kills": 26,
+            "deaths": 0,
+            "assists": 21,
+            "kda": 47,
+            "last_hits": 290,
+            "denies": 7,
+            "gpm": 724,
+            "xpm": 1045,
+            "hero_damage": 59947,
+            "tower_damage": 783,
+            "hero_healing": 2891,
+            "net_worth": 28762,
+            "stuns": 117.8
+          }
+        },
+        {
+          "game_id": 42,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 3710,
+          "duration_formatted": "61:50",
+          "date": "2026-09-07T22:07:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 21,
+            "name": "Windrunner",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/windrunner_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 44
+          },
+          "rival_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 47
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 47
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 44
+          },
+          "stats": {
+            "kills": 18,
+            "deaths": 5,
+            "assists": 15,
+            "kda": 6.6,
+            "last_hits": 454,
+            "denies": 14,
+            "gpm": 633,
+            "xpm": 895,
+            "hero_damage": 72198,
+            "tower_damage": 2004,
+            "hero_healing": 134,
+            "net_worth": 30007,
+            "stuns": 82.8
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "matches": [
+        {
+          "game_id": 22,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-3",
+          "game_number": 3,
+          "duration_seconds": 2284,
+          "duration_formatted": "38:04",
+          "date": "2026-09-05T23:40:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 39,
+            "name": "Queenofpain",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 37
+          },
+          "rival_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 28
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 37
+          },
+          "dire_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 28
+          },
+          "stats": {
+            "kills": 15,
+            "deaths": 6,
+            "assists": 12,
+            "kda": 4.5,
+            "last_hits": 348,
+            "denies": 11,
+            "gpm": 707,
+            "xpm": 930,
+            "hero_damage": 43530,
+            "tower_damage": 558,
+            "hero_healing": 0,
+            "net_worth": 24494,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 21,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-2",
+          "game_number": 2,
+          "duration_seconds": 2239,
+          "duration_formatted": "37:19",
+          "date": "2026-09-05T22:38:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 13,
+            "name": "Puck",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 31
+          },
+          "rival_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 21
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 31
+          },
+          "dire_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 21
+          },
+          "stats": {
+            "kills": 15,
+            "deaths": 0,
+            "assists": 14,
+            "kda": 29,
+            "last_hits": 321,
+            "denies": 11,
+            "gpm": 722,
+            "xpm": 939,
+            "hero_damage": 31497,
+            "tower_damage": 3572,
+            "hero_healing": 0,
+            "net_worth": 25637,
+            "stuns": 10
+          }
+        },
+        {
+          "game_id": 20,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-1",
+          "game_number": 1,
+          "duration_seconds": 2724,
+          "duration_formatted": "45:24",
+          "date": "2026-09-05T21:35:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 120,
+            "name": "Pangolier",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 42
+          },
+          "rival_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 36
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 42
+          },
+          "dire_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 13,
+            "deaths": 4,
+            "assists": 17,
+            "kda": 7.5,
+            "last_hits": 398,
+            "denies": 6,
+            "gpm": 648,
+            "xpm": 1093,
+            "hero_damage": 39777,
+            "tower_damage": 402,
+            "hero_healing": 0,
+            "net_worth": 24987,
+            "stuns": 73.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 12,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz-game-1",
+          "game_number": 1,
+          "duration_seconds": 2041,
+          "duration_formatted": "34:01",
+          "date": "2026-09-04T22:14:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 107,
+            "name": "Earth Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/earth_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 17
+          },
+          "rival_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 37
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 17
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 37
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 5,
+            "assists": 5,
+            "kda": 1.8,
+            "last_hits": 213,
+            "denies": 6,
+            "gpm": 478,
+            "xpm": 533,
+            "hero_damage": 22093,
+            "tower_damage": 580,
+            "hero_healing": 0,
+            "net_worth": 14943,
+            "stuns": 22.2
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 7,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-leostyle-vs-payasita-g-game-1",
+          "game_number": 1,
+          "duration_seconds": 2950,
+          "duration_formatted": "49:10",
+          "date": "2026-09-04T03:06:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 17,
+            "name": "Storm Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 33
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 48
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 48
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 33
+          },
+          "stats": {
+            "kills": 13,
+            "deaths": 8,
+            "assists": 9,
+            "kda": 2.75,
+            "last_hits": 458,
+            "denies": 9,
+            "gpm": 669,
+            "xpm": 1011,
+            "hero_damage": 34438,
+            "tower_damage": 238,
+            "hero_healing": 5967,
+            "net_worth": 25628,
+            "stuns": 30.2
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 85,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5",
+      "game_number": 5,
+      "duration_seconds": 3429,
+      "duration_formatted": "57:09",
+      "date": "2026-09-14T03:46:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 106,
+        "name": "Ember Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 49
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 28
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 28
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 49
+      },
+      "stats": {
+        "kills": 16,
+        "deaths": 5,
+        "assists": 19,
+        "kda": 7,
+        "last_hits": 481,
+        "denies": 5,
+        "gpm": 657,
+        "xpm": 899,
+        "hero_damage": 58288,
+        "tower_damage": 34,
+        "hero_healing": 959,
+        "net_worth": 31476,
+        "stuns": 121.7
+      }
+    },
+    {
+      "game_id": 84,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+      "game_number": 4,
+      "duration_seconds": 2148,
+      "duration_formatted": "35:48",
+      "date": "2026-09-14T02:19:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 120,
+        "name": "Pangolier",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 18
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 27
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 27
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 18
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 4,
+        "assists": 6,
+        "kda": 3.25,
+        "last_hits": 271,
+        "denies": 6,
+        "gpm": 526,
+        "xpm": 583,
+        "hero_damage": 20138,
+        "tower_damage": 364,
+        "hero_healing": 0,
+        "net_worth": 15301,
+        "stuns": 37.2
+      }
+    },
+    {
+      "game_id": 81,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+      "game_number": 3,
+      "duration_seconds": 1318,
+      "duration_formatted": "21:58",
+      "date": "2026-09-14T00:58:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 120,
+        "name": "Pangolier",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 32
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 10
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 10
+      },
+      "stats": {
+        "kills": 8,
+        "deaths": 0,
+        "assists": 7,
+        "kda": 15,
+        "last_hits": 165,
+        "denies": 7,
+        "gpm": 611,
+        "xpm": 672,
+        "hero_damage": 15137,
+        "tower_damage": 570,
+        "hero_healing": 0,
+        "net_worth": 13001,
+        "stuns": 9.2
+      }
+    },
+    {
+      "game_id": 80,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+      "game_number": 2,
+      "duration_seconds": 2948,
+      "duration_formatted": "49:08",
+      "date": "2026-09-13T23:43:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 16,
+        "name": "Sand King",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/sand_king_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 43
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 35
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 35
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 43
+      },
+      "stats": {
+        "kills": 9,
+        "deaths": 10,
+        "assists": 21,
+        "kda": 3,
+        "last_hits": 352,
+        "denies": 1,
+        "gpm": 598,
+        "xpm": 695,
+        "hero_damage": 40285,
+        "tower_damage": 361,
+        "hero_healing": 0,
+        "net_worth": 21409,
+        "stuns": 62.8
+      }
+    },
+    {
+      "game_id": 79,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 1911,
+      "duration_formatted": "31:51",
+      "date": "2026-09-13T22:10:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 60,
+        "name": "Night Stalker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/night_stalker_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 36
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 19
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 36
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 19
+      },
+      "stats": {
+        "kills": 11,
+        "deaths": 0,
+        "assists": 15,
+        "kda": 26,
+        "last_hits": 143,
+        "denies": 6,
+        "gpm": 513,
+        "xpm": 635,
+        "hero_damage": 22840,
+        "tower_damage": 787,
+        "hero_healing": 0,
+        "net_worth": 15758,
+        "stuns": 3.2
+      }
+    },
+    {
+      "game_id": 77,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-3",
+      "game_number": 3,
+      "duration_seconds": 1911,
+      "duration_formatted": "31:51",
+      "date": "2026-09-11T22:26:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 107,
+        "name": "Earth Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/earth_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 36
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 9
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 9
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 15,
+        "deaths": 1,
+        "assists": 12,
+        "kda": 27,
+        "last_hits": 183,
+        "denies": 8,
+        "gpm": 592,
+        "xpm": 730,
+        "hero_damage": 26526,
+        "tower_damage": 1411,
+        "hero_healing": 552,
+        "net_worth": 18023,
+        "stuns": 13.9
+      }
+    },
+    {
+      "game_id": 76,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-2",
+      "game_number": 2,
+      "duration_seconds": 2183,
+      "duration_formatted": "36:23",
+      "date": "2026-09-11T21:31:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 129,
+        "name": "Mars",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/mars_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 12
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 30
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 30
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 12
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 4,
+        "assists": 3,
+        "kda": 1.5,
+        "last_hits": 279,
+        "denies": 14,
+        "gpm": 457,
+        "xpm": 518,
+        "hero_damage": 8903,
+        "tower_damage": 0,
+        "hero_healing": 106,
+        "net_worth": 15449,
+        "stuns": 32.7
+      }
+    },
+    {
+      "game_id": 75,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-1",
+      "game_number": 1,
+      "duration_seconds": 1696,
+      "duration_formatted": "28:16",
+      "date": "2026-09-11T20:31:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 106,
+        "name": "Ember Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 35
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 9
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 35
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 9
+      },
+      "stats": {
+        "kills": 12,
+        "deaths": 1,
+        "assists": 7,
+        "kda": 19,
+        "last_hits": 169,
+        "denies": 11,
+        "gpm": 580,
+        "xpm": 698,
+        "hero_damage": 23443,
+        "tower_damage": 1721,
+        "hero_healing": 320,
+        "net_worth": 15815,
+        "stuns": 55.6
+      }
+    },
+    {
+      "game_id": 67,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-2",
+      "game_number": 2,
+      "duration_seconds": 2662,
+      "duration_formatted": "44:22",
+      "date": "2026-09-11T01:28:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 39,
+        "name": "Queenofpain",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 49
+      },
+      "rival_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 50
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 49
+      },
+      "dire_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 50
+      },
+      "stats": {
+        "kills": 17,
+        "deaths": 7,
+        "assists": 20,
+        "kda": 5.29,
+        "last_hits": 316,
+        "denies": 6,
+        "gpm": 691,
+        "xpm": 1159,
+        "hero_damage": 64764,
+        "tower_damage": 716,
+        "hero_healing": 0,
+        "net_worth": 27831,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 66,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 2873,
+      "duration_formatted": "47:53",
+      "date": "2026-09-11T00:16:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 16,
+        "name": "Sand King",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/sand_king_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 55
+      },
+      "rival_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 34
+      },
+      "radiant_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 34
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 55
+      },
+      "stats": {
+        "kills": 21,
+        "deaths": 7,
+        "assists": 22,
+        "kda": 6.14,
+        "last_hits": 353,
+        "denies": 5,
+        "gpm": 677,
+        "xpm": 1064,
+        "hero_damage": 49838,
+        "tower_damage": 1435,
+        "hero_healing": 196,
+        "net_worth": 27131,
+        "stuns": 71
+      }
+    },
+    {
+      "game_id": 58,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-t-sacred-vs-t-leostyle-game-2",
+      "game_number": 2,
+      "duration_seconds": 2694,
+      "duration_formatted": "44:54",
+      "date": "2026-09-09T22:48:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 28,
+        "name": "Slardar",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 28
+      },
+      "rival_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 39
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 28
+      },
+      "dire_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 39
+      },
+      "stats": {
+        "kills": 11,
+        "deaths": 8,
+        "assists": 7,
+        "kda": 2.25,
+        "last_hits": 316,
+        "denies": 1,
+        "gpm": 597,
+        "xpm": 780,
+        "hero_damage": 18431,
+        "tower_damage": 2939,
+        "hero_healing": 0,
+        "net_worth": 24970,
+        "stuns": 47
+      }
+    },
+    {
+      "game_id": 57,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-t-sacred-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 3843,
+      "duration_formatted": "64:03",
+      "date": "2026-09-09T20:34:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 25,
+        "name": "Lina",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 31
+      },
+      "rival_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 31
+      },
+      "radiant_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 31
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 31
+      },
+      "stats": {
+        "kills": 6,
+        "deaths": 4,
+        "assists": 6,
+        "kda": 3,
+        "last_hits": 767,
+        "denies": 7,
+        "gpm": 739,
+        "xpm": 1050,
+        "hero_damage": 43109,
+        "tower_damage": 311,
+        "hero_healing": 0,
+        "net_worth": 46015,
+        "stuns": 93.4
+      }
+    },
+    {
+      "game_id": 52,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-3",
+      "game_number": 3,
+      "duration_seconds": 2258,
+      "duration_formatted": "37:38",
+      "date": "2026-09-08T00:07:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 13,
+        "name": "Puck",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 45
+      },
+      "rival_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 12
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 12
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 45
+      },
+      "stats": {
+        "kills": 14,
+        "deaths": 2,
+        "assists": 18,
+        "kda": 16,
+        "last_hits": 423,
+        "denies": 3,
+        "gpm": 791,
+        "xpm": 1109,
+        "hero_damage": 37616,
+        "tower_damage": 5615,
+        "hero_healing": 318,
+        "net_worth": 28747,
+        "stuns": 15.1
+      }
+    },
+    {
+      "game_id": 43,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-2",
+      "game_number": 2,
+      "duration_seconds": 2507,
+      "duration_formatted": "41:47",
+      "date": "2026-09-07T23:08:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 106,
+        "name": "Ember Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 56
+      },
+      "rival_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 16
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 16
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 56
+      },
+      "stats": {
+        "kills": 26,
+        "deaths": 0,
+        "assists": 21,
+        "kda": 47,
+        "last_hits": 290,
+        "denies": 7,
+        "gpm": 724,
+        "xpm": 1045,
+        "hero_damage": 59947,
+        "tower_damage": 783,
+        "hero_healing": 2891,
+        "net_worth": 28762,
+        "stuns": 117.8
+      }
+    },
+    {
+      "game_id": 42,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 3710,
+      "duration_formatted": "61:50",
+      "date": "2026-09-07T22:07:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 21,
+        "name": "Windrunner",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/windrunner_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 44
+      },
+      "rival_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 47
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 47
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 44
+      },
+      "stats": {
+        "kills": 18,
+        "deaths": 5,
+        "assists": 15,
+        "kda": 6.6,
+        "last_hits": 454,
+        "denies": 14,
+        "gpm": 633,
+        "xpm": 895,
+        "hero_damage": 72198,
+        "tower_damage": 2004,
+        "hero_healing": 134,
+        "net_worth": 30007,
+        "stuns": 82.8
+      }
+    },
+    {
+      "game_id": 22,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-3",
+      "game_number": 3,
+      "duration_seconds": 2284,
+      "duration_formatted": "38:04",
+      "date": "2026-09-05T23:40:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 39,
+        "name": "Queenofpain",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 37
+      },
+      "rival_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 28
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 37
+      },
+      "dire_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 28
+      },
+      "stats": {
+        "kills": 15,
+        "deaths": 6,
+        "assists": 12,
+        "kda": 4.5,
+        "last_hits": 348,
+        "denies": 11,
+        "gpm": 707,
+        "xpm": 930,
+        "hero_damage": 43530,
+        "tower_damage": 558,
+        "hero_healing": 0,
+        "net_worth": 24494,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 21,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-2",
+      "game_number": 2,
+      "duration_seconds": 2239,
+      "duration_formatted": "37:19",
+      "date": "2026-09-05T22:38:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 13,
+        "name": "Puck",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 31
+      },
+      "rival_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 21
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 31
+      },
+      "dire_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 21
+      },
+      "stats": {
+        "kills": 15,
+        "deaths": 0,
+        "assists": 14,
+        "kda": 29,
+        "last_hits": 321,
+        "denies": 11,
+        "gpm": 722,
+        "xpm": 939,
+        "hero_damage": 31497,
+        "tower_damage": 3572,
+        "hero_healing": 0,
+        "net_worth": 25637,
+        "stuns": 10
+      }
+    },
+    {
+      "game_id": 20,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-1",
+      "game_number": 1,
+      "duration_seconds": 2724,
+      "duration_formatted": "45:24",
+      "date": "2026-09-05T21:35:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 120,
+        "name": "Pangolier",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 42
+      },
+      "rival_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 36
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 42
+      },
+      "dire_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 13,
+        "deaths": 4,
+        "assists": 17,
+        "kda": 7.5,
+        "last_hits": 398,
+        "denies": 6,
+        "gpm": 648,
+        "xpm": 1093,
+        "hero_damage": 39777,
+        "tower_damage": 402,
+        "hero_healing": 0,
+        "net_worth": 24987,
+        "stuns": 73.6
+      }
+    },
+    {
+      "game_id": 12,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz-game-1",
+      "game_number": 1,
+      "duration_seconds": 2041,
+      "duration_formatted": "34:01",
+      "date": "2026-09-04T22:14:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 107,
+        "name": "Earth Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/earth_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 17
+      },
+      "rival_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 37
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 17
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 37
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 5,
+        "assists": 5,
+        "kda": 1.8,
+        "last_hits": 213,
+        "denies": 6,
+        "gpm": 478,
+        "xpm": 533,
+        "hero_damage": 22093,
+        "tower_damage": 580,
+        "hero_healing": 0,
+        "net_worth": 14943,
+        "stuns": 22.2
+      }
+    },
+    {
+      "game_id": 7,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-leostyle-vs-payasita-g-game-1",
+      "game_number": 1,
+      "duration_seconds": 2950,
+      "duration_formatted": "49:10",
+      "date": "2026-09-04T03:06:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 17,
+        "name": "Storm Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 33
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 48
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 48
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 33
+      },
+      "stats": {
+        "kills": 13,
+        "deaths": 8,
+        "assists": 9,
+        "kda": 2.75,
+        "last_hits": 458,
+        "denies": 9,
+        "gpm": 669,
+        "xpm": 1011,
+        "hero_damage": 34438,
+        "tower_damage": 238,
+        "hero_healing": 5967,
+        "net_worth": 25628,
+        "stuns": 30.2
+      }
+    }
+  ]
+}

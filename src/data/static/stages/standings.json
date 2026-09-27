@@ -1,0 +1,347 @@
+{
+  "tournament": {
+    "name": "El Gran Coliseo II",
+    "slug": "el-gran-coliseo-ii",
+    "edition": 2
+  },
+  "stage_name": "Fase Suiza",
+  "stage_slug": "fase-suiza",
+  "standings": [
+    {
+      "position": 1,
+      "playoff_seed": 1,
+      "team": {
+        "name": "The Fat Bears",
+        "slug": "the-fat-bears",
+        "tag": "team k1",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": "8779308"
+      },
+      "wins": 3,
+      "losses": 0,
+      "games_won": 4,
+      "games_lost": 0,
+      "map_difference": 4,
+      "buchholz": 8,
+      "status": "QUALIFIED"
+    },
+    {
+      "position": 2,
+      "playoff_seed": 2,
+      "team": {
+        "name": "The Bot$",
+        "slug": "the-bots",
+        "tag": "T parker",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 3,
+      "losses": 0,
+      "games_won": 4,
+      "games_lost": 0,
+      "map_difference": 4,
+      "buchholz": 6,
+      "status": "QUALIFIED"
+    },
+    {
+      "position": 3,
+      "playoff_seed": 6,
+      "team": {
+        "name": "The Parrocos Young",
+        "slug": "team-pakazs",
+        "tag": "team pakaz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "region": "SA",
+        "country": "pe",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 3,
+      "losses": 2,
+      "games_won": 5,
+      "games_lost": 2,
+      "map_difference": 3,
+      "buchholz": 11,
+      "status": "QUALIFIED"
+    },
+    {
+      "position": 4,
+      "playoff_seed": 4,
+      "team": {
+        "name": "Gotto House",
+        "slug": "gotto-house",
+        "tag": "t matthew",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 3,
+      "losses": 1,
+      "games_won": 4,
+      "games_lost": 1,
+      "map_difference": 3,
+      "buchholz": 9,
+      "status": "QUALIFIED"
+    },
+    {
+      "position": 5,
+      "playoff_seed": 8,
+      "team": {
+        "name": "Fuerzas GAYniu",
+        "slug": "fuerzas-gayniu",
+        "tag": "dotagaymer",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 3,
+      "losses": 2,
+      "games_won": 6,
+      "games_lost": 3,
+      "map_difference": 3,
+      "buchholz": 5,
+      "status": "QUALIFIED"
+    },
+    {
+      "position": 6,
+      "playoff_seed": 7,
+      "team": {
+        "name": "Rising Rage",
+        "slug": "rising-rage",
+        "tag": "t leostyle",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": "10242594"
+      },
+      "wins": 3,
+      "losses": 2,
+      "games_won": 6,
+      "games_lost": 4,
+      "map_difference": 2,
+      "buchholz": 9,
+      "status": "QUALIFIED"
+    },
+    {
+      "position": 7,
+      "playoff_seed": 5,
+      "team": {
+        "name": "CAPIBARAS",
+        "slug": "capibarbas",
+        "tag": "t stinger",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "region": "SA",
+        "country": "pe",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 3,
+      "losses": 1,
+      "games_won": 4,
+      "games_lost": 2,
+      "map_difference": 2,
+      "buchholz": 6,
+      "status": "QUALIFIED"
+    },
+    {
+      "position": 8,
+      "playoff_seed": 3,
+      "team": {
+        "name": "Team Factos Army",
+        "slug": "team-factos-army",
+        "tag": "payasita g",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 3,
+      "losses": 1,
+      "games_won": 4,
+      "games_lost": 3,
+      "map_difference": 1,
+      "buchholz": 10,
+      "status": "QUALIFIED"
+    },
+    {
+      "position": 9,
+      "playoff_seed": null,
+      "team": {
+        "name": "CHALA TEAM",
+        "slug": "team-scofield",
+        "tag": "t scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 2,
+      "losses": 3,
+      "games_won": 3,
+      "games_lost": 5,
+      "map_difference": -2,
+      "buchholz": 10,
+      "status": "ELIMINATED"
+    },
+    {
+      "position": 10,
+      "playoff_seed": null,
+      "team": {
+        "name": "The Monsters",
+        "slug": "the-monsters",
+        "tag": "tm",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "AREQUIPA",
+        "steam_id": null
+      },
+      "wins": 2,
+      "losses": 3,
+      "games_won": 2,
+      "games_lost": 5,
+      "map_difference": -3,
+      "buchholz": 12,
+      "status": "ELIMINATED"
+    },
+    {
+      "position": 11,
+      "playoff_seed": null,
+      "team": {
+        "name": "Los Number One",
+        "slug": "los-number-one",
+        "tag": "t sacred",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 2,
+      "losses": 3,
+      "games_won": 2,
+      "games_lost": 5,
+      "map_difference": -3,
+      "buchholz": 10,
+      "status": "ELIMINATED"
+    },
+    {
+      "position": 12,
+      "playoff_seed": null,
+      "team": {
+        "name": "TEAM BRASIL",
+        "slug": "team-brasil",
+        "tag": "t astini",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "region": "SA",
+        "country": "BR",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 1,
+      "losses": 3,
+      "games_won": 2,
+      "games_lost": 4,
+      "map_difference": -2,
+      "buchholz": 11,
+      "status": "ELIMINATED"
+    },
+    {
+      "position": 13,
+      "playoff_seed": null,
+      "team": {
+        "name": "Mitra Army",
+        "slug": "mitra-army",
+        "tag": "team iwo",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 1,
+      "losses": 3,
+      "games_won": 2,
+      "games_lost": 4,
+      "map_difference": -2,
+      "buchholz": 9,
+      "status": "ELIMINATED"
+    },
+    {
+      "position": 14,
+      "playoff_seed": null,
+      "team": {
+        "name": "Bemboyz",
+        "slug": "bemboyz",
+        "tag": "BB",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 1,
+      "losses": 3,
+      "games_won": 1,
+      "games_lost": 4,
+      "map_difference": -3,
+      "buchholz": 10,
+      "status": "ELIMINATED"
+    },
+    {
+      "position": 15,
+      "playoff_seed": null,
+      "team": {
+        "name": "Cucharita Army",
+        "slug": "team-cucharita",
+        "tag": "team Shaka",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "region": "SA",
+        "country": "Pe",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 0,
+      "losses": 3,
+      "games_won": 1,
+      "games_lost": 4,
+      "map_difference": -3,
+      "buchholz": 7,
+      "status": "ELIMINATED"
+    },
+    {
+      "position": 16,
+      "playoff_seed": null,
+      "team": {
+        "name": "Mango Boys",
+        "slug": "team-smash",
+        "tag": "TEAM SMASH",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "wins": 0,
+      "losses": 3,
+      "games_won": 0,
+      "games_lost": 4,
+      "map_difference": -4,
+      "buchholz": 8,
+      "status": "ELIMINATED"
+    }
+  ]
+}

@@ -1,0 +1,1228 @@
+{
+  "total_matches": 9,
+  "wins": 5,
+  "losses": 4,
+  "win_rate": 55.6,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "matches": [
+        {
+          "game_id": 71,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-3",
+          "game_number": 3,
+          "duration_seconds": 1927,
+          "duration_formatted": "32:07",
+          "date": "2026-09-10T22:57:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 120,
+            "name": "Pangolier",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+          },
+          "player_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 22
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 28
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 28
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 22
+          },
+          "stats": {
+            "kills": 8,
+            "deaths": 5,
+            "assists": 8,
+            "kda": 3.2,
+            "last_hits": 288,
+            "denies": 8,
+            "gpm": 578,
+            "xpm": 689,
+            "hero_damage": 13099,
+            "tower_damage": 346,
+            "hero_healing": 0,
+            "net_worth": 16872,
+            "stuns": 11.3
+          }
+        },
+        {
+          "game_id": 65,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-2",
+          "game_number": 2,
+          "duration_seconds": 2948,
+          "duration_formatted": "49:08",
+          "date": "2026-09-10T21:52:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 128,
+            "name": "Snapfire",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+          },
+          "player_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 41
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 40
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 40
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 41
+          },
+          "stats": {
+            "kills": 9,
+            "deaths": 5,
+            "assists": 23,
+            "kda": 6.4,
+            "last_hits": 447,
+            "denies": 15,
+            "gpm": 741,
+            "xpm": 1080,
+            "hero_damage": 43552,
+            "tower_damage": 1641,
+            "hero_healing": 875,
+            "net_worth": 35199,
+            "stuns": 84.1
+          }
+        },
+        {
+          "game_id": 64,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-1",
+          "game_number": 1,
+          "duration_seconds": 1483,
+          "duration_formatted": "24:43",
+          "date": "2026-09-10T20:34:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 17,
+            "name": "Storm Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 7
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 31
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 31
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 7
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 8,
+            "assists": 2,
+            "kda": 0.5,
+            "last_hits": 184,
+            "denies": 1,
+            "gpm": 412,
+            "xpm": 427,
+            "hero_damage": 7541,
+            "tower_damage": 0,
+            "hero_healing": 106,
+            "net_worth": 9730,
+            "stuns": 3.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "matches": [
+        {
+          "game_id": 47,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-2",
+          "game_number": 2,
+          "duration_seconds": 1599,
+          "duration_formatted": "26:39",
+          "date": "2026-09-08T18:51:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 74,
+            "name": "Invoker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/invoker_vert.png"
+          },
+          "player_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 19
+          },
+          "rival_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 12
+          },
+          "radiant_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 19
+          },
+          "dire_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 12
+          },
+          "stats": {
+            "kills": 10,
+            "deaths": 0,
+            "assists": 8,
+            "kda": 18,
+            "last_hits": 185,
+            "denies": 15,
+            "gpm": 650,
+            "xpm": 593,
+            "hero_damage": 20916,
+            "tower_damage": 6143,
+            "hero_healing": 0,
+            "net_worth": 16990,
+            "stuns": 48.4
+          }
+        },
+        {
+          "game_id": 46,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-1",
+          "game_number": 1,
+          "duration_seconds": 3354,
+          "duration_formatted": "55:54",
+          "date": "2026-09-08T17:57:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 107,
+            "name": "Earth Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/earth_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 29
+          },
+          "rival_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 41
+          },
+          "radiant_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 41
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 29
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 5,
+            "assists": 18,
+            "kda": 4.6,
+            "last_hits": 481,
+            "denies": 12,
+            "gpm": 661,
+            "xpm": 922,
+            "hero_damage": 56521,
+            "tower_damage": 1283,
+            "hero_healing": 106,
+            "net_worth": 34100,
+            "stuns": 21.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "matches": [
+        {
+          "game_id": 35,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-2",
+          "game_number": 2,
+          "duration_seconds": 4106,
+          "duration_formatted": "68:26",
+          "date": "2026-09-06T23:16:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 38,
+            "name": "Beastmaster",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/beastmaster_vert.png"
+          },
+          "player_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 43
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 39
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 39
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 43
+          },
+          "stats": {
+            "kills": 14,
+            "deaths": 5,
+            "assists": 19,
+            "kda": 6.6,
+            "last_hits": 688,
+            "denies": 13,
+            "gpm": 663,
+            "xpm": 875,
+            "hero_damage": 50234,
+            "tower_damage": 1563,
+            "hero_healing": 0,
+            "net_worth": 35235,
+            "stuns": 124.5
+          }
+        },
+        {
+          "game_id": 26,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+          "game_number": 1,
+          "duration_seconds": 4021,
+          "duration_formatted": "67:01",
+          "date": "2026-09-06T21:44:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 93,
+            "name": "Slark",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/slark_vert.png"
+          },
+          "player_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 41
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 46
+          },
+          "radiant_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 41
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 46
+          },
+          "stats": {
+            "kills": 12,
+            "deaths": 3,
+            "assists": 19,
+            "kda": 10.33,
+            "last_hits": 536,
+            "denies": 26,
+            "gpm": 596,
+            "xpm": 850,
+            "hero_damage": 40468,
+            "tower_damage": 1812,
+            "hero_healing": 0,
+            "net_worth": 31073,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 14,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger-game-1",
+          "game_number": 1,
+          "duration_seconds": 2659,
+          "duration_formatted": "44:19",
+          "date": "2026-09-05T01:05:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 13,
+            "name": "Puck",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+          },
+          "player_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 31
+          },
+          "rival_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 19
+          },
+          "radiant_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 19
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 31
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 3,
+            "assists": 16,
+            "kda": 7.67,
+            "last_hits": 440,
+            "denies": 9,
+            "gpm": 683,
+            "xpm": 841,
+            "hero_damage": 27420,
+            "tower_damage": 5683,
+            "hero_healing": 0,
+            "net_worth": 27054,
+            "stuns": 12.1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 8,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+          "game_number": 1,
+          "duration_seconds": 2574,
+          "duration_formatted": "42:54",
+          "date": "2026-09-04T04:23:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 120,
+            "name": "Pangolier",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+          },
+          "player_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 30
+          },
+          "rival_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 21
+          },
+          "radiant_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 21
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 30
+          },
+          "stats": {
+            "kills": 10,
+            "deaths": 2,
+            "assists": 15,
+            "kda": 12.5,
+            "last_hits": 357,
+            "denies": 10,
+            "gpm": 632,
+            "xpm": 922,
+            "hero_damage": 31221,
+            "tower_damage": 1340,
+            "hero_healing": 110,
+            "net_worth": 24580,
+            "stuns": 31.6
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 71,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-3",
+      "game_number": 3,
+      "duration_seconds": 1927,
+      "duration_formatted": "32:07",
+      "date": "2026-09-10T22:57:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 120,
+        "name": "Pangolier",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+      },
+      "player_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 22
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 28
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 28
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 22
+      },
+      "stats": {
+        "kills": 8,
+        "deaths": 5,
+        "assists": 8,
+        "kda": 3.2,
+        "last_hits": 288,
+        "denies": 8,
+        "gpm": 578,
+        "xpm": 689,
+        "hero_damage": 13099,
+        "tower_damage": 346,
+        "hero_healing": 0,
+        "net_worth": 16872,
+        "stuns": 11.3
+      }
+    },
+    {
+      "game_id": 65,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-2",
+      "game_number": 2,
+      "duration_seconds": 2948,
+      "duration_formatted": "49:08",
+      "date": "2026-09-10T21:52:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 128,
+        "name": "Snapfire",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+      },
+      "player_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 41
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 40
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 40
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 41
+      },
+      "stats": {
+        "kills": 9,
+        "deaths": 5,
+        "assists": 23,
+        "kda": 6.4,
+        "last_hits": 447,
+        "denies": 15,
+        "gpm": 741,
+        "xpm": 1080,
+        "hero_damage": 43552,
+        "tower_damage": 1641,
+        "hero_healing": 875,
+        "net_worth": 35199,
+        "stuns": 84.1
+      }
+    },
+    {
+      "game_id": 64,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-1",
+      "game_number": 1,
+      "duration_seconds": 1483,
+      "duration_formatted": "24:43",
+      "date": "2026-09-10T20:34:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 17,
+        "name": "Storm Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 7
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 31
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 31
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 7
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 8,
+        "assists": 2,
+        "kda": 0.5,
+        "last_hits": 184,
+        "denies": 1,
+        "gpm": 412,
+        "xpm": 427,
+        "hero_damage": 7541,
+        "tower_damage": 0,
+        "hero_healing": 106,
+        "net_worth": 9730,
+        "stuns": 3.6
+      }
+    },
+    {
+      "game_id": 47,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-2",
+      "game_number": 2,
+      "duration_seconds": 1599,
+      "duration_formatted": "26:39",
+      "date": "2026-09-08T18:51:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 74,
+        "name": "Invoker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/invoker_vert.png"
+      },
+      "player_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 19
+      },
+      "rival_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 12
+      },
+      "radiant_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 19
+      },
+      "dire_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 12
+      },
+      "stats": {
+        "kills": 10,
+        "deaths": 0,
+        "assists": 8,
+        "kda": 18,
+        "last_hits": 185,
+        "denies": 15,
+        "gpm": 650,
+        "xpm": 593,
+        "hero_damage": 20916,
+        "tower_damage": 6143,
+        "hero_healing": 0,
+        "net_worth": 16990,
+        "stuns": 48.4
+      }
+    },
+    {
+      "game_id": 46,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-1",
+      "game_number": 1,
+      "duration_seconds": 3354,
+      "duration_formatted": "55:54",
+      "date": "2026-09-08T17:57:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 107,
+        "name": "Earth Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/earth_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 29
+      },
+      "rival_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 41
+      },
+      "radiant_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 41
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 29
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 5,
+        "assists": 18,
+        "kda": 4.6,
+        "last_hits": 481,
+        "denies": 12,
+        "gpm": 661,
+        "xpm": 922,
+        "hero_damage": 56521,
+        "tower_damage": 1283,
+        "hero_healing": 106,
+        "net_worth": 34100,
+        "stuns": 21.6
+      }
+    },
+    {
+      "game_id": 35,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-2",
+      "game_number": 2,
+      "duration_seconds": 4106,
+      "duration_formatted": "68:26",
+      "date": "2026-09-06T23:16:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 38,
+        "name": "Beastmaster",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/beastmaster_vert.png"
+      },
+      "player_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 43
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 39
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 39
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 43
+      },
+      "stats": {
+        "kills": 14,
+        "deaths": 5,
+        "assists": 19,
+        "kda": 6.6,
+        "last_hits": 688,
+        "denies": 13,
+        "gpm": 663,
+        "xpm": 875,
+        "hero_damage": 50234,
+        "tower_damage": 1563,
+        "hero_healing": 0,
+        "net_worth": 35235,
+        "stuns": 124.5
+      }
+    },
+    {
+      "game_id": 26,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+      "game_number": 1,
+      "duration_seconds": 4021,
+      "duration_formatted": "67:01",
+      "date": "2026-09-06T21:44:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 93,
+        "name": "Slark",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/slark_vert.png"
+      },
+      "player_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 41
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 46
+      },
+      "radiant_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 41
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 46
+      },
+      "stats": {
+        "kills": 12,
+        "deaths": 3,
+        "assists": 19,
+        "kda": 10.33,
+        "last_hits": 536,
+        "denies": 26,
+        "gpm": 596,
+        "xpm": 850,
+        "hero_damage": 40468,
+        "tower_damage": 1812,
+        "hero_healing": 0,
+        "net_worth": 31073,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 14,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger-game-1",
+      "game_number": 1,
+      "duration_seconds": 2659,
+      "duration_formatted": "44:19",
+      "date": "2026-09-05T01:05:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 13,
+        "name": "Puck",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+      },
+      "player_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 31
+      },
+      "rival_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 19
+      },
+      "radiant_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 19
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 31
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 3,
+        "assists": 16,
+        "kda": 7.67,
+        "last_hits": 440,
+        "denies": 9,
+        "gpm": 683,
+        "xpm": 841,
+        "hero_damage": 27420,
+        "tower_damage": 5683,
+        "hero_healing": 0,
+        "net_worth": 27054,
+        "stuns": 12.1
+      }
+    },
+    {
+      "game_id": 8,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+      "game_number": 1,
+      "duration_seconds": 2574,
+      "duration_formatted": "42:54",
+      "date": "2026-09-04T04:23:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 120,
+        "name": "Pangolier",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+      },
+      "player_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 30
+      },
+      "rival_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 21
+      },
+      "radiant_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 21
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 30
+      },
+      "stats": {
+        "kills": 10,
+        "deaths": 2,
+        "assists": 15,
+        "kda": 12.5,
+        "last_hits": 357,
+        "denies": 10,
+        "gpm": 632,
+        "xpm": 922,
+        "hero_damage": 31221,
+        "tower_damage": 1340,
+        "hero_healing": 110,
+        "net_worth": 24580,
+        "stuns": 31.6
+      }
+    }
+  ]
+}

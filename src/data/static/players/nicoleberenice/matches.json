@@ -1,0 +1,1768 @@
+{
+  "total_matches": 13,
+  "wins": 9,
+  "losses": 4,
+  "win_rate": 69.2,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-13",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "matches": [
+        {
+          "game_id": 83,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_number": 2,
+          "duration_seconds": 1862,
+          "duration_formatted": "31:02",
+          "date": "2026-09-13T19:23:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 5,
+            "name": "Crystal Maiden",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 43
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 16
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 43
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 16
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 6,
+            "assists": 13,
+            "kda": 2.67,
+            "last_hits": 18,
+            "denies": 0,
+            "gpm": 269,
+            "xpm": 403,
+            "hero_damage": 9150,
+            "tower_damage": 75,
+            "hero_healing": 195,
+            "net_worth": 8578,
+            "stuns": 57.4
+          }
+        },
+        {
+          "game_id": 82,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+          "game_number": 1,
+          "duration_seconds": 2943,
+          "duration_formatted": "49:03",
+          "date": "2026-09-13T18:04:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 5,
+            "name": "Crystal Maiden",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 53
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "dire_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 53
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 13,
+            "assists": 19,
+            "kda": 1.54,
+            "last_hits": 25,
+            "denies": 0,
+            "gpm": 302,
+            "xpm": 461,
+            "hero_damage": 11455,
+            "tower_damage": 0,
+            "hero_healing": 195,
+            "net_worth": 12667,
+            "stuns": 68.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "matches": [
+        {
+          "game_id": 78,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-3",
+          "game_number": 3,
+          "duration_seconds": 3046,
+          "duration_formatted": "50:46",
+          "date": "2026-09-12T02:19:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 64,
+            "name": "Jakiro",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 30
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 39
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 30
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 39
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 12,
+            "assists": 14,
+            "kda": 1.25,
+            "last_hits": 67,
+            "denies": 0,
+            "gpm": 282,
+            "xpm": 405,
+            "hero_damage": 11965,
+            "tower_damage": 69,
+            "hero_healing": 125,
+            "net_worth": 11237,
+            "stuns": 61.8
+          }
+        },
+        {
+          "game_id": 73,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-2",
+          "game_number": 2,
+          "duration_seconds": 3210,
+          "duration_formatted": "53:30",
+          "date": "2026-09-12T01:04:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 5,
+            "name": "Crystal Maiden",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 48
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 20
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 20
+          },
+          "dire_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 48
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 6,
+            "assists": 17,
+            "kda": 3.17,
+            "last_hits": 57,
+            "denies": 1,
+            "gpm": 285,
+            "xpm": 376,
+            "hero_damage": 8495,
+            "tower_damage": 166,
+            "hero_healing": 203,
+            "net_worth": 13280,
+            "stuns": 70.3
+          }
+        },
+        {
+          "game_id": 72,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-1",
+          "game_number": 1,
+          "duration_seconds": 1956,
+          "duration_formatted": "32:36",
+          "date": "2026-09-11T23:43:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 64,
+            "name": "Jakiro",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 23
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 33
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 23
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 33
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 9,
+            "assists": 7,
+            "kda": 0.89,
+            "last_hits": 14,
+            "denies": 0,
+            "gpm": 223,
+            "xpm": 297,
+            "hero_damage": 7401,
+            "tower_damage": 1904,
+            "hero_healing": 0,
+            "net_worth": 6095,
+            "stuns": 10.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "matches": [
+        {
+          "game_id": 71,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-3",
+          "game_number": 3,
+          "duration_seconds": 1927,
+          "duration_formatted": "32:07",
+          "date": "2026-09-10T22:57:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 5,
+            "name": "Crystal Maiden",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 28
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 22
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 28
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 22
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 5,
+            "assists": 8,
+            "kda": 1.6,
+            "last_hits": 12,
+            "denies": 0,
+            "gpm": 268,
+            "xpm": 391,
+            "hero_damage": 6287,
+            "tower_damage": 52,
+            "hero_healing": 0,
+            "net_worth": 7014,
+            "stuns": 33.9
+          }
+        },
+        {
+          "game_id": 65,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-2",
+          "game_number": 2,
+          "duration_seconds": 2948,
+          "duration_formatted": "49:08",
+          "date": "2026-09-10T21:52:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 5,
+            "name": "Crystal Maiden",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 40
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 41
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 40
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 41
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 12,
+            "assists": 19,
+            "kda": 1.75,
+            "last_hits": 24,
+            "denies": 3,
+            "gpm": 275,
+            "xpm": 399,
+            "hero_damage": 17031,
+            "tower_damage": 22,
+            "hero_healing": 0,
+            "net_worth": 11731,
+            "stuns": 91.1
+          }
+        },
+        {
+          "game_id": 64,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-1",
+          "game_number": 1,
+          "duration_seconds": 1483,
+          "duration_formatted": "24:43",
+          "date": "2026-09-10T20:34:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 87,
+            "name": "Disruptor",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 31
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 7
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 31
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 7
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 2,
+            "assists": 19,
+            "kda": 10.5,
+            "last_hits": 11,
+            "denies": 1,
+            "gpm": 279,
+            "xpm": 346,
+            "hero_damage": 4926,
+            "tower_damage": 0,
+            "hero_healing": 250,
+            "net_worth": 6041,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "matches": [
+        {
+          "game_id": 51,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-2",
+          "game_number": 2,
+          "duration_seconds": 2658,
+          "duration_formatted": "44:18",
+          "date": "2026-09-09T00:21:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 84,
+            "name": "Ogre Magi",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 28
+          },
+          "rival_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 40
+          },
+          "radiant_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 40
+          },
+          "dire_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 28
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 11,
+            "assists": 13,
+            "kda": 1.18,
+            "last_hits": 12,
+            "denies": 2,
+            "gpm": 276,
+            "xpm": 470,
+            "hero_damage": 6898,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 10322,
+            "stuns": 23.6
+          }
+        },
+        {
+          "game_id": 50,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-1",
+          "game_number": 1,
+          "duration_seconds": 1555,
+          "duration_formatted": "25:55",
+          "date": "2026-09-08T23:09:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 87,
+            "name": "Disruptor",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 33
+          },
+          "rival_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 9
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 33
+          },
+          "dire_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 9
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 1,
+            "assists": 19,
+            "kda": 22,
+            "last_hits": 3,
+            "denies": 0,
+            "gpm": 275,
+            "xpm": 387,
+            "hero_damage": 5935,
+            "tower_damage": 68,
+            "hero_healing": 445,
+            "net_worth": 7639,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "matches": [
+        {
+          "game_id": 23,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-matthew-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 1695,
+          "duration_formatted": "28:15",
+          "date": "2026-09-06T00:53:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 87,
+            "name": "Disruptor",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 42
+          },
+          "rival_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 4
+          },
+          "radiant_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 4
+          },
+          "dire_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 42
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 2,
+            "assists": 25,
+            "kda": 13,
+            "last_hits": 9,
+            "denies": 2,
+            "gpm": 295,
+            "xpm": 346,
+            "hero_damage": 5576,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 7696,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 16,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1-game-1",
+          "game_number": 1,
+          "duration_seconds": 3851,
+          "duration_formatted": "64:11",
+          "date": "2026-09-05T04:00:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 31,
+            "name": "Lich",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lich_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 39
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 41
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 39
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 41
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 10,
+            "assists": 26,
+            "kda": 2.6,
+            "last_hits": 98,
+            "denies": 2,
+            "gpm": 279,
+            "xpm": 397,
+            "hero_damage": 6421,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 12355,
+            "stuns": 6.3
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 1,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz-game-1",
+          "game_number": 1,
+          "duration_seconds": 2537,
+          "duration_formatted": "42:17",
+          "date": "2026-09-03T17:54:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 84,
+            "name": "Ogre Magi",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 37
+          },
+          "rival_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 22
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 37
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 22
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 7,
+            "assists": 13,
+            "kda": 2,
+            "last_hits": 13,
+            "denies": 1,
+            "gpm": 293,
+            "xpm": 513,
+            "hero_damage": 8008,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 10923,
+            "stuns": 21.1
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 83,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+      "game_number": 2,
+      "duration_seconds": 1862,
+      "duration_formatted": "31:02",
+      "date": "2026-09-13T19:23:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 5,
+        "name": "Crystal Maiden",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 43
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 16
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 43
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 16
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 6,
+        "assists": 13,
+        "kda": 2.67,
+        "last_hits": 18,
+        "denies": 0,
+        "gpm": 269,
+        "xpm": 403,
+        "hero_damage": 9150,
+        "tower_damage": 75,
+        "hero_healing": 195,
+        "net_worth": 8578,
+        "stuns": 57.4
+      }
+    },
+    {
+      "game_id": 82,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+      "game_number": 1,
+      "duration_seconds": 2943,
+      "duration_formatted": "49:03",
+      "date": "2026-09-13T18:04:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 5,
+        "name": "Crystal Maiden",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 53
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "dire_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 53
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 13,
+        "assists": 19,
+        "kda": 1.54,
+        "last_hits": 25,
+        "denies": 0,
+        "gpm": 302,
+        "xpm": 461,
+        "hero_damage": 11455,
+        "tower_damage": 0,
+        "hero_healing": 195,
+        "net_worth": 12667,
+        "stuns": 68.6
+      }
+    },
+    {
+      "game_id": 78,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-3",
+      "game_number": 3,
+      "duration_seconds": 3046,
+      "duration_formatted": "50:46",
+      "date": "2026-09-12T02:19:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 64,
+        "name": "Jakiro",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 30
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 39
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 30
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 39
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 12,
+        "assists": 14,
+        "kda": 1.25,
+        "last_hits": 67,
+        "denies": 0,
+        "gpm": 282,
+        "xpm": 405,
+        "hero_damage": 11965,
+        "tower_damage": 69,
+        "hero_healing": 125,
+        "net_worth": 11237,
+        "stuns": 61.8
+      }
+    },
+    {
+      "game_id": 73,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-2",
+      "game_number": 2,
+      "duration_seconds": 3210,
+      "duration_formatted": "53:30",
+      "date": "2026-09-12T01:04:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 5,
+        "name": "Crystal Maiden",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 48
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 20
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 20
+      },
+      "dire_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 48
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 6,
+        "assists": 17,
+        "kda": 3.17,
+        "last_hits": 57,
+        "denies": 1,
+        "gpm": 285,
+        "xpm": 376,
+        "hero_damage": 8495,
+        "tower_damage": 166,
+        "hero_healing": 203,
+        "net_worth": 13280,
+        "stuns": 70.3
+      }
+    },
+    {
+      "game_id": 72,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-1",
+      "game_number": 1,
+      "duration_seconds": 1956,
+      "duration_formatted": "32:36",
+      "date": "2026-09-11T23:43:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 64,
+        "name": "Jakiro",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 23
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 33
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 23
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 33
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 9,
+        "assists": 7,
+        "kda": 0.89,
+        "last_hits": 14,
+        "denies": 0,
+        "gpm": 223,
+        "xpm": 297,
+        "hero_damage": 7401,
+        "tower_damage": 1904,
+        "hero_healing": 0,
+        "net_worth": 6095,
+        "stuns": 10.6
+      }
+    },
+    {
+      "game_id": 71,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-3",
+      "game_number": 3,
+      "duration_seconds": 1927,
+      "duration_formatted": "32:07",
+      "date": "2026-09-10T22:57:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 5,
+        "name": "Crystal Maiden",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 28
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 22
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 28
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 22
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 5,
+        "assists": 8,
+        "kda": 1.6,
+        "last_hits": 12,
+        "denies": 0,
+        "gpm": 268,
+        "xpm": 391,
+        "hero_damage": 6287,
+        "tower_damage": 52,
+        "hero_healing": 0,
+        "net_worth": 7014,
+        "stuns": 33.9
+      }
+    },
+    {
+      "game_id": 65,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-2",
+      "game_number": 2,
+      "duration_seconds": 2948,
+      "duration_formatted": "49:08",
+      "date": "2026-09-10T21:52:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 5,
+        "name": "Crystal Maiden",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 40
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 41
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 40
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 41
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 12,
+        "assists": 19,
+        "kda": 1.75,
+        "last_hits": 24,
+        "denies": 3,
+        "gpm": 275,
+        "xpm": 399,
+        "hero_damage": 17031,
+        "tower_damage": 22,
+        "hero_healing": 0,
+        "net_worth": 11731,
+        "stuns": 91.1
+      }
+    },
+    {
+      "game_id": 64,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-1",
+      "game_number": 1,
+      "duration_seconds": 1483,
+      "duration_formatted": "24:43",
+      "date": "2026-09-10T20:34:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 87,
+        "name": "Disruptor",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 31
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 7
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 31
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 7
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 2,
+        "assists": 19,
+        "kda": 10.5,
+        "last_hits": 11,
+        "denies": 1,
+        "gpm": 279,
+        "xpm": 346,
+        "hero_damage": 4926,
+        "tower_damage": 0,
+        "hero_healing": 250,
+        "net_worth": 6041,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 51,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-2",
+      "game_number": 2,
+      "duration_seconds": 2658,
+      "duration_formatted": "44:18",
+      "date": "2026-09-09T00:21:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 84,
+        "name": "Ogre Magi",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 28
+      },
+      "rival_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 40
+      },
+      "radiant_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 40
+      },
+      "dire_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 28
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 11,
+        "assists": 13,
+        "kda": 1.18,
+        "last_hits": 12,
+        "denies": 2,
+        "gpm": 276,
+        "xpm": 470,
+        "hero_damage": 6898,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 10322,
+        "stuns": 23.6
+      }
+    },
+    {
+      "game_id": 50,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-1",
+      "game_number": 1,
+      "duration_seconds": 1555,
+      "duration_formatted": "25:55",
+      "date": "2026-09-08T23:09:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 87,
+        "name": "Disruptor",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 33
+      },
+      "rival_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 9
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 33
+      },
+      "dire_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 9
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 1,
+        "assists": 19,
+        "kda": 22,
+        "last_hits": 3,
+        "denies": 0,
+        "gpm": 275,
+        "xpm": 387,
+        "hero_damage": 5935,
+        "tower_damage": 68,
+        "hero_healing": 445,
+        "net_worth": 7639,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 23,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-matthew-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 1695,
+      "duration_formatted": "28:15",
+      "date": "2026-09-06T00:53:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 87,
+        "name": "Disruptor",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 42
+      },
+      "rival_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 4
+      },
+      "radiant_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 4
+      },
+      "dire_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 42
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 2,
+        "assists": 25,
+        "kda": 13,
+        "last_hits": 9,
+        "denies": 2,
+        "gpm": 295,
+        "xpm": 346,
+        "hero_damage": 5576,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 7696,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 16,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1-game-1",
+      "game_number": 1,
+      "duration_seconds": 3851,
+      "duration_formatted": "64:11",
+      "date": "2026-09-05T04:00:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 31,
+        "name": "Lich",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lich_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 39
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 41
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 39
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 41
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 10,
+        "assists": 26,
+        "kda": 2.6,
+        "last_hits": 98,
+        "denies": 2,
+        "gpm": 279,
+        "xpm": 397,
+        "hero_damage": 6421,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 12355,
+        "stuns": 6.3
+      }
+    },
+    {
+      "game_id": 1,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz-game-1",
+      "game_number": 1,
+      "duration_seconds": 2537,
+      "duration_formatted": "42:17",
+      "date": "2026-09-03T17:54:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 84,
+        "name": "Ogre Magi",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 37
+      },
+      "rival_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 22
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 37
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 22
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 7,
+        "assists": 13,
+        "kda": 2,
+        "last_hits": 13,
+        "denies": 1,
+        "gpm": 293,
+        "xpm": 513,
+        "hero_damage": 8008,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 10923,
+        "stuns": 21.1
+      }
+    }
+  ]
+}

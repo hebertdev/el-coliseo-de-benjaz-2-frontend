@@ -1,0 +1,1222 @@
+{
+  "total_matches": 9,
+  "wins": 6,
+  "losses": 3,
+  "win_rate": 66.7,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "matches": [
+        {
+          "game_id": 63,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "duration_seconds": 4256,
+          "duration_formatted": "70:56",
+          "date": "2026-09-10T19:29:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 120,
+            "name": "Pangolier",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+          },
+          "player_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 54
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 28
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 28
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 54
+          },
+          "stats": {
+            "kills": 16,
+            "deaths": 2,
+            "assists": 17,
+            "kda": 16.5,
+            "last_hits": 834,
+            "denies": 3,
+            "gpm": 782,
+            "xpm": 1002,
+            "hero_damage": 51246,
+            "tower_damage": 589,
+            "hero_healing": 0,
+            "net_worth": 45784,
+            "stuns": 146.6
+          }
+        },
+        {
+          "game_id": 62,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "duration_seconds": 2704,
+          "duration_formatted": "45:04",
+          "date": "2026-09-10T17:50:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 28,
+            "name": "Slardar",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png"
+          },
+          "player_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 32
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 9,
+            "deaths": 6,
+            "assists": 19,
+            "kda": 4.67,
+            "last_hits": 278,
+            "denies": 1,
+            "gpm": 534,
+            "xpm": 856,
+            "hero_damage": 19513,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 19821,
+            "stuns": 44.5
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "matches": [
+        {
+          "game_id": 60,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "duration_seconds": 1859,
+          "duration_formatted": "30:59",
+          "date": "2026-09-10T01:14:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 100,
+            "name": "Tusk",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+          },
+          "player_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "rival_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 17
+          },
+          "radiant_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 17
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 4,
+            "assists": 9,
+            "kda": 3.5,
+            "last_hits": 119,
+            "denies": 2,
+            "gpm": 435,
+            "xpm": 495,
+            "hero_damage": 11953,
+            "tower_damage": 968,
+            "hero_healing": 0,
+            "net_worth": 12447,
+            "stuns": 28.2
+          }
+        },
+        {
+          "game_id": 59,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "duration_seconds": 3018,
+          "duration_formatted": "50:18",
+          "date": "2026-09-10T00:14:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 100,
+            "name": "Tusk",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+          },
+          "player_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 43
+          },
+          "rival_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 12
+          },
+          "radiant_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 12
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 43
+          },
+          "stats": {
+            "kills": 11,
+            "deaths": 2,
+            "assists": 20,
+            "kda": 15.5,
+            "last_hits": 236,
+            "denies": 6,
+            "gpm": 543,
+            "xpm": 813,
+            "hero_damage": 31434,
+            "tower_damage": 426,
+            "hero_healing": 0,
+            "net_worth": 25238,
+            "stuns": 82.9
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "matches": [
+        {
+          "game_id": 53,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-3",
+          "game_number": 3,
+          "duration_seconds": 4069,
+          "duration_formatted": "67:49",
+          "date": "2026-09-08T03:55:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 120,
+            "name": "Pangolier",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+          },
+          "player_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 69
+          },
+          "rival_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 40
+          },
+          "radiant_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 40
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 69
+          },
+          "stats": {
+            "kills": 10,
+            "deaths": 4,
+            "assists": 31,
+            "kda": 10.25,
+            "last_hits": 574,
+            "denies": 3,
+            "gpm": 677,
+            "xpm": 1034,
+            "hero_damage": 42665,
+            "tower_damage": 751,
+            "hero_healing": 0,
+            "net_worth": 38573,
+            "stuns": 93.6
+          }
+        },
+        {
+          "game_id": 45,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "duration_seconds": 1764,
+          "duration_formatted": "29:24",
+          "date": "2026-09-08T02:21:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 120,
+            "name": "Pangolier",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+          },
+          "player_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 44
+          },
+          "rival_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 8
+          },
+          "radiant_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 8
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 44
+          },
+          "stats": {
+            "kills": 11,
+            "deaths": 0,
+            "assists": 13,
+            "kda": 24,
+            "last_hits": 174,
+            "denies": 2,
+            "gpm": 559,
+            "xpm": 715,
+            "hero_damage": 23231,
+            "tower_damage": 1639,
+            "hero_healing": 400,
+            "net_worth": 15613,
+            "stuns": 22.5
+          }
+        },
+        {
+          "game_id": 44,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "duration_seconds": 2727,
+          "duration_formatted": "45:27",
+          "date": "2026-09-08T01:22:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 100,
+            "name": "Tusk",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+          },
+          "player_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 37
+          },
+          "rival_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 36
+          },
+          "radiant_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 37
+          },
+          "dire_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 8,
+            "deaths": 3,
+            "assists": 20,
+            "kda": 9.33,
+            "last_hits": 241,
+            "denies": 6,
+            "gpm": 496,
+            "xpm": 796,
+            "hero_damage": 27100,
+            "tower_damage": 1234,
+            "hero_healing": 0,
+            "net_worth": 20202,
+            "stuns": 72.1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "matches": [
+        {
+          "game_id": 18,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-2",
+          "game_number": 2,
+          "duration_seconds": 2863,
+          "duration_formatted": "47:43",
+          "date": "2026-09-05T20:18:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 100,
+            "name": "Tusk",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+          },
+          "player_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 41
+          },
+          "rival_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 32
+          },
+          "radiant_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 41
+          },
+          "stats": {
+            "kills": 10,
+            "deaths": 5,
+            "assists": 25,
+            "kda": 7,
+            "last_hits": 237,
+            "denies": 4,
+            "gpm": 564,
+            "xpm": 1019,
+            "hero_damage": 32292,
+            "tower_damage": 1890,
+            "hero_healing": 0,
+            "net_worth": 27096,
+            "stuns": 82.6
+          }
+        },
+        {
+          "game_id": 17,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-1",
+          "game_number": 1,
+          "duration_seconds": 2556,
+          "duration_formatted": "42:36",
+          "date": "2026-09-05T18:54:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 100,
+            "name": "Tusk",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+          },
+          "player_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 56
+          },
+          "rival_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 20
+          },
+          "radiant_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 56
+          },
+          "dire_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 20
+          },
+          "stats": {
+            "kills": 10,
+            "deaths": 4,
+            "assists": 22,
+            "kda": 8,
+            "last_hits": 126,
+            "denies": 0,
+            "gpm": 445,
+            "xpm": 795,
+            "hero_damage": 32835,
+            "tower_damage": 2306,
+            "hero_healing": 0,
+            "net_worth": 17378,
+            "stuns": 85.7
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 63,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
+      "game_number": 2,
+      "duration_seconds": 4256,
+      "duration_formatted": "70:56",
+      "date": "2026-09-10T19:29:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 120,
+        "name": "Pangolier",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+      },
+      "player_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 54
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 28
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 28
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 54
+      },
+      "stats": {
+        "kills": 16,
+        "deaths": 2,
+        "assists": 17,
+        "kda": 16.5,
+        "last_hits": 834,
+        "denies": 3,
+        "gpm": 782,
+        "xpm": 1002,
+        "hero_damage": 51246,
+        "tower_damage": 589,
+        "hero_healing": 0,
+        "net_worth": 45784,
+        "stuns": 146.6
+      }
+    },
+    {
+      "game_id": 62,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+      "game_number": 1,
+      "duration_seconds": 2704,
+      "duration_formatted": "45:04",
+      "date": "2026-09-10T17:50:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 28,
+        "name": "Slardar",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png"
+      },
+      "player_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 32
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 9,
+        "deaths": 6,
+        "assists": 19,
+        "kda": 4.67,
+        "last_hits": 278,
+        "denies": 1,
+        "gpm": 534,
+        "xpm": 856,
+        "hero_damage": 19513,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 19821,
+        "stuns": 44.5
+      }
+    },
+    {
+      "game_id": 60,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+      "game_number": 2,
+      "duration_seconds": 1859,
+      "duration_formatted": "30:59",
+      "date": "2026-09-10T01:14:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 100,
+        "name": "Tusk",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+      },
+      "player_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "rival_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 17
+      },
+      "radiant_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 17
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 4,
+        "assists": 9,
+        "kda": 3.5,
+        "last_hits": 119,
+        "denies": 2,
+        "gpm": 435,
+        "xpm": 495,
+        "hero_damage": 11953,
+        "tower_damage": 968,
+        "hero_healing": 0,
+        "net_worth": 12447,
+        "stuns": 28.2
+      }
+    },
+    {
+      "game_id": 59,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+      "game_number": 1,
+      "duration_seconds": 3018,
+      "duration_formatted": "50:18",
+      "date": "2026-09-10T00:14:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 100,
+        "name": "Tusk",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+      },
+      "player_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 43
+      },
+      "rival_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 12
+      },
+      "radiant_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 12
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 43
+      },
+      "stats": {
+        "kills": 11,
+        "deaths": 2,
+        "assists": 20,
+        "kda": 15.5,
+        "last_hits": 236,
+        "denies": 6,
+        "gpm": 543,
+        "xpm": 813,
+        "hero_damage": 31434,
+        "tower_damage": 426,
+        "hero_healing": 0,
+        "net_worth": 25238,
+        "stuns": 82.9
+      }
+    },
+    {
+      "game_id": 53,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-3",
+      "game_number": 3,
+      "duration_seconds": 4069,
+      "duration_formatted": "67:49",
+      "date": "2026-09-08T03:55:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 120,
+        "name": "Pangolier",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+      },
+      "player_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 69
+      },
+      "rival_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 40
+      },
+      "radiant_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 40
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 69
+      },
+      "stats": {
+        "kills": 10,
+        "deaths": 4,
+        "assists": 31,
+        "kda": 10.25,
+        "last_hits": 574,
+        "denies": 3,
+        "gpm": 677,
+        "xpm": 1034,
+        "hero_damage": 42665,
+        "tower_damage": 751,
+        "hero_healing": 0,
+        "net_worth": 38573,
+        "stuns": 93.6
+      }
+    },
+    {
+      "game_id": 45,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-2",
+      "game_number": 2,
+      "duration_seconds": 1764,
+      "duration_formatted": "29:24",
+      "date": "2026-09-08T02:21:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 120,
+        "name": "Pangolier",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+      },
+      "player_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 44
+      },
+      "rival_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 8
+      },
+      "radiant_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 8
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 44
+      },
+      "stats": {
+        "kills": 11,
+        "deaths": 0,
+        "assists": 13,
+        "kda": 24,
+        "last_hits": 174,
+        "denies": 2,
+        "gpm": 559,
+        "xpm": 715,
+        "hero_damage": 23231,
+        "tower_damage": 1639,
+        "hero_healing": 400,
+        "net_worth": 15613,
+        "stuns": 22.5
+      }
+    },
+    {
+      "game_id": 44,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-1",
+      "game_number": 1,
+      "duration_seconds": 2727,
+      "duration_formatted": "45:27",
+      "date": "2026-09-08T01:22:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 100,
+        "name": "Tusk",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+      },
+      "player_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 37
+      },
+      "rival_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 36
+      },
+      "radiant_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 37
+      },
+      "dire_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 8,
+        "deaths": 3,
+        "assists": 20,
+        "kda": 9.33,
+        "last_hits": 241,
+        "denies": 6,
+        "gpm": 496,
+        "xpm": 796,
+        "hero_damage": 27100,
+        "tower_damage": 1234,
+        "hero_healing": 0,
+        "net_worth": 20202,
+        "stuns": 72.1
+      }
+    },
+    {
+      "game_id": 18,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-2",
+      "game_number": 2,
+      "duration_seconds": 2863,
+      "duration_formatted": "47:43",
+      "date": "2026-09-05T20:18:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 100,
+        "name": "Tusk",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+      },
+      "player_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 41
+      },
+      "rival_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 32
+      },
+      "radiant_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 41
+      },
+      "stats": {
+        "kills": 10,
+        "deaths": 5,
+        "assists": 25,
+        "kda": 7,
+        "last_hits": 237,
+        "denies": 4,
+        "gpm": 564,
+        "xpm": 1019,
+        "hero_damage": 32292,
+        "tower_damage": 1890,
+        "hero_healing": 0,
+        "net_worth": 27096,
+        "stuns": 82.6
+      }
+    },
+    {
+      "game_id": 17,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-1",
+      "game_number": 1,
+      "duration_seconds": 2556,
+      "duration_formatted": "42:36",
+      "date": "2026-09-05T18:54:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 100,
+        "name": "Tusk",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+      },
+      "player_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 56
+      },
+      "rival_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 20
+      },
+      "radiant_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 56
+      },
+      "dire_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 20
+      },
+      "stats": {
+        "kills": 10,
+        "deaths": 4,
+        "assists": 22,
+        "kda": 8,
+        "last_hits": 126,
+        "denies": 0,
+        "gpm": 445,
+        "xpm": 795,
+        "hero_damage": 32835,
+        "tower_damage": 2306,
+        "hero_healing": 0,
+        "net_worth": 17378,
+        "stuns": 85.7
+      }
+    }
+  ]
+}

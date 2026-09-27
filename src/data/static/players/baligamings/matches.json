@@ -1,0 +1,964 @@
+{
+  "total_matches": 7,
+  "wins": 2,
+  "losses": 5,
+  "win_rate": 28.6,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "matches": [
+        {
+          "game_id": 58,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-t-sacred-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "duration_seconds": 2694,
+          "duration_formatted": "44:54",
+          "date": "2026-09-09T22:48:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 60,
+            "name": "Night Stalker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/night_stalker_vert.png"
+          },
+          "player_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 39
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 28
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 28
+          },
+          "dire_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 39
+          },
+          "stats": {
+            "kills": 8,
+            "deaths": 4,
+            "assists": 14,
+            "kda": 5.5,
+            "last_hits": 198,
+            "denies": 8,
+            "gpm": 433,
+            "xpm": 624,
+            "hero_damage": 16182,
+            "tower_damage": 1968,
+            "hero_healing": 0,
+            "net_worth": 18724,
+            "stuns": 4.6
+          }
+        },
+        {
+          "game_id": 57,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-t-sacred-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 3843,
+          "duration_formatted": "64:03",
+          "date": "2026-09-09T20:34:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 29,
+            "name": "Tidehunter",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/tidehunter_vert.png"
+          },
+          "player_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 31
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 31
+          },
+          "radiant_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 31
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 31
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 6,
+            "assists": 10,
+            "kda": 1.83,
+            "last_hits": 420,
+            "denies": 5,
+            "gpm": 452,
+            "xpm": 595,
+            "hero_damage": 20216,
+            "tower_damage": 0,
+            "hero_healing": 3528,
+            "net_worth": 26425,
+            "stuns": 27.4
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "matches": [
+        {
+          "game_id": 47,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-2",
+          "game_number": 2,
+          "duration_seconds": 1599,
+          "duration_formatted": "26:39",
+          "date": "2026-09-08T18:51:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 135,
+            "name": "Dawnbreaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+          },
+          "player_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 12
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 19
+          },
+          "radiant_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 19
+          },
+          "dire_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 12
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 2,
+            "assists": 3,
+            "kda": 2.5,
+            "last_hits": 139,
+            "denies": 7,
+            "gpm": 346,
+            "xpm": 410,
+            "hero_damage": 6097,
+            "tower_damage": 0,
+            "hero_healing": 1407,
+            "net_worth": 9177,
+            "stuns": 3.2
+          }
+        },
+        {
+          "game_id": 46,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-1",
+          "game_number": 1,
+          "duration_seconds": 3354,
+          "duration_formatted": "55:54",
+          "date": "2026-09-08T17:57:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 135,
+            "name": "Dawnbreaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+          },
+          "player_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 41
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 29
+          },
+          "radiant_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 41
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 29
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 6,
+            "assists": 18,
+            "kda": 3.83,
+            "last_hits": 522,
+            "denies": 2,
+            "gpm": 558,
+            "xpm": 758,
+            "hero_damage": 27308,
+            "tower_damage": 919,
+            "hero_healing": 10364,
+            "net_worth": 26065,
+            "stuns": 34.8
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "matches": [
+        {
+          "game_id": 24,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-pakaz-vs-team-iwo-game-1",
+          "game_number": 1,
+          "duration_seconds": 3247,
+          "duration_formatted": "54:07",
+          "date": "2026-09-06T02:18:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 135,
+            "name": "Dawnbreaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+          },
+          "player_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 41
+          },
+          "rival_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 35
+          },
+          "radiant_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 41
+          },
+          "dire_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 35
+          },
+          "stats": {
+            "kills": 8,
+            "deaths": 6,
+            "assists": 17,
+            "kda": 4.17,
+            "last_hits": 458,
+            "denies": 3,
+            "gpm": 602,
+            "xpm": 807,
+            "hero_damage": 37379,
+            "tower_damage": 1436,
+            "hero_healing": 7938,
+            "net_worth": 29026,
+            "stuns": 24.2
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 13,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-sacred-vs-team-smash-game-1",
+          "game_number": 1,
+          "duration_seconds": 2922,
+          "duration_formatted": "48:42",
+          "date": "2026-09-04T23:46:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 108,
+            "name": "Abyssal Underlord",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+          },
+          "player_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 50
+          },
+          "rival_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 25
+          },
+          "radiant_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 25
+          },
+          "dire_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 50
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 4,
+            "assists": 21,
+            "kda": 6.5,
+            "last_hits": 368,
+            "denies": 5,
+            "gpm": 586,
+            "xpm": 777,
+            "hero_damage": 18686,
+            "tower_damage": 6271,
+            "hero_healing": 0,
+            "net_worth": 26359,
+            "stuns": 103.3
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 4,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
+          "game_number": 1,
+          "duration_seconds": 3701,
+          "duration_formatted": "61:41",
+          "date": "2026-09-03T23:00:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 108,
+            "name": "Abyssal Underlord",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+          },
+          "player_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 59
+          },
+          "rival_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 49
+          },
+          "radiant_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 49
+          },
+          "dire_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 59
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 8,
+            "assists": 27,
+            "kda": 4.25,
+            "last_hits": 498,
+            "denies": 3,
+            "gpm": 561,
+            "xpm": 826,
+            "hero_damage": 52400,
+            "tower_damage": 4986,
+            "hero_healing": 0,
+            "net_worth": 27934,
+            "stuns": 227
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 58,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-t-sacred-vs-t-leostyle-game-2",
+      "game_number": 2,
+      "duration_seconds": 2694,
+      "duration_formatted": "44:54",
+      "date": "2026-09-09T22:48:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 60,
+        "name": "Night Stalker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/night_stalker_vert.png"
+      },
+      "player_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 39
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 28
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 28
+      },
+      "dire_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 39
+      },
+      "stats": {
+        "kills": 8,
+        "deaths": 4,
+        "assists": 14,
+        "kda": 5.5,
+        "last_hits": 198,
+        "denies": 8,
+        "gpm": 433,
+        "xpm": 624,
+        "hero_damage": 16182,
+        "tower_damage": 1968,
+        "hero_healing": 0,
+        "net_worth": 18724,
+        "stuns": 4.6
+      }
+    },
+    {
+      "game_id": 57,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-t-sacred-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 3843,
+      "duration_formatted": "64:03",
+      "date": "2026-09-09T20:34:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 29,
+        "name": "Tidehunter",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/tidehunter_vert.png"
+      },
+      "player_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 31
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 31
+      },
+      "radiant_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 31
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 31
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 6,
+        "assists": 10,
+        "kda": 1.83,
+        "last_hits": 420,
+        "denies": 5,
+        "gpm": 452,
+        "xpm": 595,
+        "hero_damage": 20216,
+        "tower_damage": 0,
+        "hero_healing": 3528,
+        "net_worth": 26425,
+        "stuns": 27.4
+      }
+    },
+    {
+      "game_id": 47,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-2",
+      "game_number": 2,
+      "duration_seconds": 1599,
+      "duration_formatted": "26:39",
+      "date": "2026-09-08T18:51:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 135,
+        "name": "Dawnbreaker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+      },
+      "player_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 12
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 19
+      },
+      "radiant_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 19
+      },
+      "dire_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 12
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 2,
+        "assists": 3,
+        "kda": 2.5,
+        "last_hits": 139,
+        "denies": 7,
+        "gpm": 346,
+        "xpm": 410,
+        "hero_damage": 6097,
+        "tower_damage": 0,
+        "hero_healing": 1407,
+        "net_worth": 9177,
+        "stuns": 3.2
+      }
+    },
+    {
+      "game_id": 46,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-1",
+      "game_number": 1,
+      "duration_seconds": 3354,
+      "duration_formatted": "55:54",
+      "date": "2026-09-08T17:57:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 135,
+        "name": "Dawnbreaker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+      },
+      "player_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 41
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 29
+      },
+      "radiant_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 41
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 29
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 6,
+        "assists": 18,
+        "kda": 3.83,
+        "last_hits": 522,
+        "denies": 2,
+        "gpm": 558,
+        "xpm": 758,
+        "hero_damage": 27308,
+        "tower_damage": 919,
+        "hero_healing": 10364,
+        "net_worth": 26065,
+        "stuns": 34.8
+      }
+    },
+    {
+      "game_id": 24,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-pakaz-vs-team-iwo-game-1",
+      "game_number": 1,
+      "duration_seconds": 3247,
+      "duration_formatted": "54:07",
+      "date": "2026-09-06T02:18:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 135,
+        "name": "Dawnbreaker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+      },
+      "player_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 41
+      },
+      "rival_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 35
+      },
+      "radiant_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 41
+      },
+      "dire_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 35
+      },
+      "stats": {
+        "kills": 8,
+        "deaths": 6,
+        "assists": 17,
+        "kda": 4.17,
+        "last_hits": 458,
+        "denies": 3,
+        "gpm": 602,
+        "xpm": 807,
+        "hero_damage": 37379,
+        "tower_damage": 1436,
+        "hero_healing": 7938,
+        "net_worth": 29026,
+        "stuns": 24.2
+      }
+    },
+    {
+      "game_id": 13,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-sacred-vs-team-smash-game-1",
+      "game_number": 1,
+      "duration_seconds": 2922,
+      "duration_formatted": "48:42",
+      "date": "2026-09-04T23:46:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 108,
+        "name": "Abyssal Underlord",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+      },
+      "player_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 50
+      },
+      "rival_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 25
+      },
+      "radiant_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 25
+      },
+      "dire_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 50
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 4,
+        "assists": 21,
+        "kda": 6.5,
+        "last_hits": 368,
+        "denies": 5,
+        "gpm": 586,
+        "xpm": 777,
+        "hero_damage": 18686,
+        "tower_damage": 6271,
+        "hero_healing": 0,
+        "net_worth": 26359,
+        "stuns": 103.3
+      }
+    },
+    {
+      "game_id": 4,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
+      "game_number": 1,
+      "duration_seconds": 3701,
+      "duration_formatted": "61:41",
+      "date": "2026-09-03T23:00:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 108,
+        "name": "Abyssal Underlord",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+      },
+      "player_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 59
+      },
+      "rival_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 49
+      },
+      "radiant_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 49
+      },
+      "dire_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 59
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 8,
+        "assists": 27,
+        "kda": 4.25,
+        "last_hits": 498,
+        "denies": 3,
+        "gpm": 561,
+        "xpm": 826,
+        "hero_damage": 52400,
+        "tower_damage": 4986,
+        "hero_healing": 0,
+        "net_worth": 27934,
+        "stuns": 227
+      }
+    }
+  ]
+}

@@ -1,0 +1,1894 @@
+{
+  "total_matches": 14,
+  "wins": 10,
+  "losses": 4,
+  "win_rate": 71.4,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-13",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "matches": [
+        {
+          "game_id": 85,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5",
+          "game_number": 5,
+          "duration_seconds": 3429,
+          "duration_formatted": "57:09",
+          "date": "2026-09-14T03:46:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 48,
+            "name": "Luna",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 28
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 49
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 28
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 49
+          },
+          "stats": {
+            "kills": 9,
+            "deaths": 8,
+            "assists": 12,
+            "kda": 2.62,
+            "last_hits": 890,
+            "denies": 3,
+            "gpm": 911,
+            "xpm": 913,
+            "hero_damage": 67485,
+            "tower_damage": 17986,
+            "hero_healing": 0,
+            "net_worth": 42615,
+            "stuns": 45.4
+          }
+        },
+        {
+          "game_id": 84,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+          "game_number": 4,
+          "duration_seconds": 2148,
+          "duration_formatted": "35:48",
+          "date": "2026-09-14T02:19:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 109,
+            "name": "Terrorblade",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 27
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 18
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 27
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 18
+          },
+          "stats": {
+            "kills": 8,
+            "deaths": 0,
+            "assists": 7,
+            "kda": 15,
+            "last_hits": 551,
+            "denies": 10,
+            "gpm": 916,
+            "xpm": 800,
+            "hero_damage": 19602,
+            "tower_damage": 25692,
+            "hero_healing": 0,
+            "net_worth": 32275,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 81,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+          "game_number": 3,
+          "duration_seconds": 1318,
+          "duration_formatted": "21:58",
+          "date": "2026-09-14T00:58:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 80,
+            "name": "Lone Druid",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 10
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 32
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 10
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 6,
+            "assists": 3,
+            "kda": 0.67,
+            "last_hits": 155,
+            "denies": 7,
+            "gpm": 374,
+            "xpm": 412,
+            "hero_damage": 4438,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 8079,
+            "stuns": 13.8
+          }
+        },
+        {
+          "game_id": 80,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "duration_seconds": 2948,
+          "duration_formatted": "49:08",
+          "date": "2026-09-13T23:43:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 54,
+            "name": "Life Stealer",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 35
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 43
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 35
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 43
+          },
+          "stats": {
+            "kills": 15,
+            "deaths": 6,
+            "assists": 8,
+            "kda": 3.83,
+            "last_hits": 529,
+            "denies": 29,
+            "gpm": 770,
+            "xpm": 929,
+            "hero_damage": 45202,
+            "tower_damage": 12388,
+            "hero_healing": 2541,
+            "net_worth": 31473,
+            "stuns": 17.1
+          }
+        },
+        {
+          "game_id": 79,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 1911,
+          "duration_formatted": "31:51",
+          "date": "2026-09-13T22:10:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 12,
+            "name": "Phantom Lancer",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 19
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 36
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 36
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 19
+          },
+          "stats": {
+            "kills": 6,
+            "deaths": 3,
+            "assists": 3,
+            "kda": 3,
+            "last_hits": 361,
+            "denies": 10,
+            "gpm": 643,
+            "xpm": 664,
+            "hero_damage": 15322,
+            "tower_damage": 2379,
+            "hero_healing": 0,
+            "net_worth": 19954,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "matches": [
+        {
+          "game_id": 78,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-3",
+          "game_number": 3,
+          "duration_seconds": 3046,
+          "duration_formatted": "50:46",
+          "date": "2026-09-12T02:19:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 54,
+            "name": "Life Stealer",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 39
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 30
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 30
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 39
+          },
+          "stats": {
+            "kills": 15,
+            "deaths": 1,
+            "assists": 16,
+            "kda": 31,
+            "last_hits": 625,
+            "denies": 37,
+            "gpm": 898,
+            "xpm": 1124,
+            "hero_damage": 44494,
+            "tower_damage": 18119,
+            "hero_healing": 2892,
+            "net_worth": 44348,
+            "stuns": 21.6
+          }
+        },
+        {
+          "game_id": 73,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-2",
+          "game_number": 2,
+          "duration_seconds": 3210,
+          "duration_formatted": "53:30",
+          "date": "2026-09-12T01:04:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 109,
+            "name": "Terrorblade",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 20
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 48
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 20
+          },
+          "dire_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 48
+          },
+          "stats": {
+            "kills": 9,
+            "deaths": 7,
+            "assists": 2,
+            "kda": 1.57,
+            "last_hits": 826,
+            "denies": 8,
+            "gpm": 886,
+            "xpm": 747,
+            "hero_damage": 32593,
+            "tower_damage": 14459,
+            "hero_healing": 0,
+            "net_worth": 39493,
+            "stuns": 2.6
+          }
+        },
+        {
+          "game_id": 72,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-1",
+          "game_number": 1,
+          "duration_seconds": 1956,
+          "duration_formatted": "32:36",
+          "date": "2026-09-11T23:43:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 41,
+            "name": "Faceless Void",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/faceless_void_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 33
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 23
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 23
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 33
+          },
+          "stats": {
+            "kills": 10,
+            "deaths": 3,
+            "assists": 14,
+            "kda": 8,
+            "last_hits": 416,
+            "denies": 11,
+            "gpm": 815,
+            "xpm": 980,
+            "hero_damage": 25386,
+            "tower_damage": 5531,
+            "hero_healing": 0,
+            "net_worth": 26114,
+            "stuns": 20.4
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "matches": [
+        {
+          "game_id": 63,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "duration_seconds": 4256,
+          "duration_formatted": "70:56",
+          "date": "2026-09-10T19:29:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 109,
+            "name": "Terrorblade",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 28
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 54
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 28
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 54
+          },
+          "stats": {
+            "kills": 10,
+            "deaths": 6,
+            "assists": 13,
+            "kda": 3.83,
+            "last_hits": 1163,
+            "denies": 8,
+            "gpm": 1024,
+            "xpm": 956,
+            "hero_damage": 84158,
+            "tower_damage": 30745,
+            "hero_healing": 0,
+            "net_worth": 62705,
+            "stuns": 17
+          }
+        },
+        {
+          "game_id": 62,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "duration_seconds": 2704,
+          "duration_formatted": "45:04",
+          "date": "2026-09-10T17:50:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 54,
+            "name": "Life Stealer",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 32
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 8,
+            "deaths": 4,
+            "assists": 15,
+            "kda": 5.75,
+            "last_hits": 524,
+            "denies": 22,
+            "gpm": 799,
+            "xpm": 1152,
+            "hero_damage": 45381,
+            "tower_damage": 22527,
+            "hero_healing": 2126,
+            "net_worth": 34889,
+            "stuns": 16.3
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "matches": [
+        {
+          "game_id": 35,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-2",
+          "game_number": 2,
+          "duration_seconds": 4106,
+          "duration_formatted": "68:26",
+          "date": "2026-09-06T23:16:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 12,
+            "name": "Phantom Lancer",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 39
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 43
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 39
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 43
+          },
+          "stats": {
+            "kills": 19,
+            "deaths": 4,
+            "assists": 12,
+            "kda": 7.75,
+            "last_hits": 1100,
+            "denies": 6,
+            "gpm": 1076,
+            "xpm": 1243,
+            "hero_damage": 72694,
+            "tower_damage": 19831,
+            "hero_healing": 0,
+            "net_worth": 68799,
+            "stuns": 14
+          }
+        },
+        {
+          "game_id": 26,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+          "game_number": 1,
+          "duration_seconds": 4021,
+          "duration_formatted": "67:01",
+          "date": "2026-09-06T21:44:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 12,
+            "name": "Phantom Lancer",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 46
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 41
+          },
+          "radiant_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 41
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 46
+          },
+          "stats": {
+            "kills": 31,
+            "deaths": 5,
+            "assists": 7,
+            "kda": 7.6,
+            "last_hits": 1167,
+            "denies": 4,
+            "gpm": 1158,
+            "xpm": 1120,
+            "hero_damage": 90263,
+            "tower_damage": 20102,
+            "hero_healing": 0,
+            "net_worth": 71276,
+            "stuns": 21.4
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 16,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1-game-1",
+          "game_number": 1,
+          "duration_seconds": 3851,
+          "duration_formatted": "64:11",
+          "date": "2026-09-05T04:00:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 48,
+            "name": "Luna",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 41
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 39
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 39
+          },
+          "dire_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 41
+          },
+          "stats": {
+            "kills": 13,
+            "deaths": 5,
+            "assists": 12,
+            "kda": 5,
+            "last_hits": 1073,
+            "denies": 4,
+            "gpm": 1002,
+            "xpm": 1176,
+            "hero_damage": 65099,
+            "tower_damage": 21719,
+            "hero_healing": 0,
+            "net_worth": 62015,
+            "stuns": 27.4
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 5,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 2244,
+          "duration_formatted": "37:24",
+          "date": "2026-09-04T00:17:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 109,
+            "name": "Terrorblade",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+          },
+          "player_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 17
+          },
+          "rival_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 23
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 17
+          },
+          "dire_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 23
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 3,
+            "assists": 7,
+            "kda": 4.67,
+            "last_hits": 552,
+            "denies": 15,
+            "gpm": 904,
+            "xpm": 808,
+            "hero_damage": 18965,
+            "tower_damage": 20912,
+            "hero_healing": 0,
+            "net_worth": 33177,
+            "stuns": 0
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 85,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5",
+      "game_number": 5,
+      "duration_seconds": 3429,
+      "duration_formatted": "57:09",
+      "date": "2026-09-14T03:46:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 48,
+        "name": "Luna",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 28
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 49
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 28
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 49
+      },
+      "stats": {
+        "kills": 9,
+        "deaths": 8,
+        "assists": 12,
+        "kda": 2.62,
+        "last_hits": 890,
+        "denies": 3,
+        "gpm": 911,
+        "xpm": 913,
+        "hero_damage": 67485,
+        "tower_damage": 17986,
+        "hero_healing": 0,
+        "net_worth": 42615,
+        "stuns": 45.4
+      }
+    },
+    {
+      "game_id": 84,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+      "game_number": 4,
+      "duration_seconds": 2148,
+      "duration_formatted": "35:48",
+      "date": "2026-09-14T02:19:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 109,
+        "name": "Terrorblade",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 27
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 18
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 27
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 18
+      },
+      "stats": {
+        "kills": 8,
+        "deaths": 0,
+        "assists": 7,
+        "kda": 15,
+        "last_hits": 551,
+        "denies": 10,
+        "gpm": 916,
+        "xpm": 800,
+        "hero_damage": 19602,
+        "tower_damage": 25692,
+        "hero_healing": 0,
+        "net_worth": 32275,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 81,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+      "game_number": 3,
+      "duration_seconds": 1318,
+      "duration_formatted": "21:58",
+      "date": "2026-09-14T00:58:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 80,
+        "name": "Lone Druid",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 10
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 32
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 10
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 6,
+        "assists": 3,
+        "kda": 0.67,
+        "last_hits": 155,
+        "denies": 7,
+        "gpm": 374,
+        "xpm": 412,
+        "hero_damage": 4438,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 8079,
+        "stuns": 13.8
+      }
+    },
+    {
+      "game_id": 80,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+      "game_number": 2,
+      "duration_seconds": 2948,
+      "duration_formatted": "49:08",
+      "date": "2026-09-13T23:43:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 54,
+        "name": "Life Stealer",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 35
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 43
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 35
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 43
+      },
+      "stats": {
+        "kills": 15,
+        "deaths": 6,
+        "assists": 8,
+        "kda": 3.83,
+        "last_hits": 529,
+        "denies": 29,
+        "gpm": 770,
+        "xpm": 929,
+        "hero_damage": 45202,
+        "tower_damage": 12388,
+        "hero_healing": 2541,
+        "net_worth": 31473,
+        "stuns": 17.1
+      }
+    },
+    {
+      "game_id": 79,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 1911,
+      "duration_formatted": "31:51",
+      "date": "2026-09-13T22:10:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 12,
+        "name": "Phantom Lancer",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 19
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 36
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 36
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 19
+      },
+      "stats": {
+        "kills": 6,
+        "deaths": 3,
+        "assists": 3,
+        "kda": 3,
+        "last_hits": 361,
+        "denies": 10,
+        "gpm": 643,
+        "xpm": 664,
+        "hero_damage": 15322,
+        "tower_damage": 2379,
+        "hero_healing": 0,
+        "net_worth": 19954,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 78,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-3",
+      "game_number": 3,
+      "duration_seconds": 3046,
+      "duration_formatted": "50:46",
+      "date": "2026-09-12T02:19:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 54,
+        "name": "Life Stealer",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 39
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 30
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 30
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 39
+      },
+      "stats": {
+        "kills": 15,
+        "deaths": 1,
+        "assists": 16,
+        "kda": 31,
+        "last_hits": 625,
+        "denies": 37,
+        "gpm": 898,
+        "xpm": 1124,
+        "hero_damage": 44494,
+        "tower_damage": 18119,
+        "hero_healing": 2892,
+        "net_worth": 44348,
+        "stuns": 21.6
+      }
+    },
+    {
+      "game_id": 73,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-2",
+      "game_number": 2,
+      "duration_seconds": 3210,
+      "duration_formatted": "53:30",
+      "date": "2026-09-12T01:04:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 109,
+        "name": "Terrorblade",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 20
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 48
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 20
+      },
+      "dire_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 48
+      },
+      "stats": {
+        "kills": 9,
+        "deaths": 7,
+        "assists": 2,
+        "kda": 1.57,
+        "last_hits": 826,
+        "denies": 8,
+        "gpm": 886,
+        "xpm": 747,
+        "hero_damage": 32593,
+        "tower_damage": 14459,
+        "hero_healing": 0,
+        "net_worth": 39493,
+        "stuns": 2.6
+      }
+    },
+    {
+      "game_id": 72,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-1",
+      "game_number": 1,
+      "duration_seconds": 1956,
+      "duration_formatted": "32:36",
+      "date": "2026-09-11T23:43:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 41,
+        "name": "Faceless Void",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/faceless_void_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 33
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 23
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 23
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 33
+      },
+      "stats": {
+        "kills": 10,
+        "deaths": 3,
+        "assists": 14,
+        "kda": 8,
+        "last_hits": 416,
+        "denies": 11,
+        "gpm": 815,
+        "xpm": 980,
+        "hero_damage": 25386,
+        "tower_damage": 5531,
+        "hero_healing": 0,
+        "net_worth": 26114,
+        "stuns": 20.4
+      }
+    },
+    {
+      "game_id": 63,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
+      "game_number": 2,
+      "duration_seconds": 4256,
+      "duration_formatted": "70:56",
+      "date": "2026-09-10T19:29:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 109,
+        "name": "Terrorblade",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 28
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 54
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 28
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 54
+      },
+      "stats": {
+        "kills": 10,
+        "deaths": 6,
+        "assists": 13,
+        "kda": 3.83,
+        "last_hits": 1163,
+        "denies": 8,
+        "gpm": 1024,
+        "xpm": 956,
+        "hero_damage": 84158,
+        "tower_damage": 30745,
+        "hero_healing": 0,
+        "net_worth": 62705,
+        "stuns": 17
+      }
+    },
+    {
+      "game_id": 62,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+      "game_number": 1,
+      "duration_seconds": 2704,
+      "duration_formatted": "45:04",
+      "date": "2026-09-10T17:50:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 54,
+        "name": "Life Stealer",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 32
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 8,
+        "deaths": 4,
+        "assists": 15,
+        "kda": 5.75,
+        "last_hits": 524,
+        "denies": 22,
+        "gpm": 799,
+        "xpm": 1152,
+        "hero_damage": 45381,
+        "tower_damage": 22527,
+        "hero_healing": 2126,
+        "net_worth": 34889,
+        "stuns": 16.3
+      }
+    },
+    {
+      "game_id": 35,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-2",
+      "game_number": 2,
+      "duration_seconds": 4106,
+      "duration_formatted": "68:26",
+      "date": "2026-09-06T23:16:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 12,
+        "name": "Phantom Lancer",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 39
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 43
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 39
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 43
+      },
+      "stats": {
+        "kills": 19,
+        "deaths": 4,
+        "assists": 12,
+        "kda": 7.75,
+        "last_hits": 1100,
+        "denies": 6,
+        "gpm": 1076,
+        "xpm": 1243,
+        "hero_damage": 72694,
+        "tower_damage": 19831,
+        "hero_healing": 0,
+        "net_worth": 68799,
+        "stuns": 14
+      }
+    },
+    {
+      "game_id": 26,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+      "game_number": 1,
+      "duration_seconds": 4021,
+      "duration_formatted": "67:01",
+      "date": "2026-09-06T21:44:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 12,
+        "name": "Phantom Lancer",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 46
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 41
+      },
+      "radiant_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 41
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 46
+      },
+      "stats": {
+        "kills": 31,
+        "deaths": 5,
+        "assists": 7,
+        "kda": 7.6,
+        "last_hits": 1167,
+        "denies": 4,
+        "gpm": 1158,
+        "xpm": 1120,
+        "hero_damage": 90263,
+        "tower_damage": 20102,
+        "hero_healing": 0,
+        "net_worth": 71276,
+        "stuns": 21.4
+      }
+    },
+    {
+      "game_id": 16,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1-game-1",
+      "game_number": 1,
+      "duration_seconds": 3851,
+      "duration_formatted": "64:11",
+      "date": "2026-09-05T04:00:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 48,
+        "name": "Luna",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 41
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 39
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 39
+      },
+      "dire_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 41
+      },
+      "stats": {
+        "kills": 13,
+        "deaths": 5,
+        "assists": 12,
+        "kda": 5,
+        "last_hits": 1073,
+        "denies": 4,
+        "gpm": 1002,
+        "xpm": 1176,
+        "hero_damage": 65099,
+        "tower_damage": 21719,
+        "hero_healing": 0,
+        "net_worth": 62015,
+        "stuns": 27.4
+      }
+    },
+    {
+      "game_id": 5,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 2244,
+      "duration_formatted": "37:24",
+      "date": "2026-09-04T00:17:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 109,
+        "name": "Terrorblade",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+      },
+      "player_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 17
+      },
+      "rival_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 23
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 17
+      },
+      "dire_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 23
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 3,
+        "assists": 7,
+        "kda": 4.67,
+        "last_hits": 552,
+        "denies": 15,
+        "gpm": 904,
+        "xpm": 808,
+        "hero_damage": 18965,
+        "tower_damage": 20912,
+        "hero_healing": 0,
+        "net_worth": 33177,
+        "stuns": 0
+      }
+    }
+  ]
+}

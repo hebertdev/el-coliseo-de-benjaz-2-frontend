@@ -1,0 +1,713 @@
+{
+  "total_series": 6,
+  "completed_series": 6,
+  "wins": 3,
+  "losses": 3,
+  "win_rate": 50,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "series": [
+        {
+          "series_id": 34,
+          "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-10T17:00:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "team_a": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 2,
+            "is_current": false,
+            "record": "0 - 0"
+          },
+          "team_b": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "0 - 0"
+          },
+          "score_a": 2,
+          "score_b": 0,
+          "winner_id": 6,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+          "games": [
+            {
+              "id": 62,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2704,
+              "duration_formatted": "45:04",
+              "winner_tag": "team k1"
+            },
+            {
+              "id": 63,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 4256,
+              "duration_formatted": "70:56",
+              "winner_tag": "team k1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "series": [
+        {
+          "series_id": 33,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-09T23:00:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "team_a": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "2 - 3"
+          },
+          "team_b": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "score_a": 0,
+          "score_b": 2,
+          "winner_id": 12,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+          "games": [
+            {
+              "id": 59,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 3018,
+              "duration_formatted": "50:18",
+              "winner_tag": "dotagaymer"
+            },
+            {
+              "id": 60,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 1859,
+              "duration_formatted": "30:59",
+              "winner_tag": "dotagaymer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "series": [
+        {
+          "series_id": 27,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-08T01:00:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "team_a": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 1,
+            "is_current": false,
+            "record": "1 - 3"
+          },
+          "team_b": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "score_a": 1,
+          "score_b": 2,
+          "winner_id": 12,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-1",
+          "games": [
+            {
+              "id": 44,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2727,
+              "duration_formatted": "45:27",
+              "winner_tag": "team iwo"
+            },
+            {
+              "id": 45,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 1764,
+              "duration_formatted": "29:24",
+              "winner_tag": "dotagaymer"
+            },
+            {
+              "id": 53,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "duration_seconds": 4069,
+              "duration_formatted": "67:49",
+              "winner_tag": "dotagaymer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "series": [
+        {
+          "series_id": 17,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-05T18:00:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "team_a": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "0 - 3"
+          },
+          "team_b": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "score_a": 0,
+          "score_b": 2,
+          "winner_id": 12,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-1",
+          "games": [
+            {
+              "id": 17,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2556,
+              "duration_formatted": "42:36",
+              "winner_tag": "dotagaymer"
+            },
+            {
+              "id": 18,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 2863,
+              "duration_formatted": "47:43",
+              "winner_tag": "dotagaymer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "series": [
+        {
+          "series_id": 9,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-dotagaymer-vs-bb",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-04T17:46:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "team_a": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "team_b": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 1,
+            "is_current": false,
+            "record": "1 - 3"
+          },
+          "score_a": 0,
+          "score_b": 1,
+          "winner_id": 5,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-dotagaymer-vs-bb-game-1",
+          "games": [
+            {
+              "id": 9,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r2-dotagaymer-vs-bb-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2418,
+              "duration_formatted": "40:18",
+              "winner_tag": "BB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "series": [
+        {
+          "series_id": 2,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-03T19:07:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "team_a": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 1,
+            "is_current": false,
+            "record": "1 - 3"
+          },
+          "team_b": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 11,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+          "games": [
+            {
+              "id": 2,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 1591,
+              "duration_formatted": "26:31",
+              "winner_tag": "t astini"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "series_id": 34,
+      "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-10T17:00:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "team_a": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 2,
+        "is_current": false,
+        "record": "0 - 0"
+      },
+      "team_b": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "0 - 0"
+      },
+      "score_a": 2,
+      "score_b": 0,
+      "winner_id": 6,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+      "games": [
+        {
+          "id": 62,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2704,
+          "duration_formatted": "45:04",
+          "winner_tag": "team k1"
+        },
+        {
+          "id": 63,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 4256,
+          "duration_formatted": "70:56",
+          "winner_tag": "team k1"
+        }
+      ]
+    },
+    {
+      "series_id": 33,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-09T23:00:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "team_a": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "2 - 3"
+      },
+      "team_b": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "score_a": 0,
+      "score_b": 2,
+      "winner_id": 12,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+      "games": [
+        {
+          "id": 59,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 3018,
+          "duration_formatted": "50:18",
+          "winner_tag": "dotagaymer"
+        },
+        {
+          "id": 60,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 1859,
+          "duration_formatted": "30:59",
+          "winner_tag": "dotagaymer"
+        }
+      ]
+    },
+    {
+      "series_id": 27,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-08T01:00:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "team_a": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 1,
+        "is_current": false,
+        "record": "1 - 3"
+      },
+      "team_b": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "score_a": 1,
+      "score_b": 2,
+      "winner_id": 12,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-1",
+      "games": [
+        {
+          "id": 44,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2727,
+          "duration_formatted": "45:27",
+          "winner_tag": "team iwo"
+        },
+        {
+          "id": 45,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 1764,
+          "duration_formatted": "29:24",
+          "winner_tag": "dotagaymer"
+        },
+        {
+          "id": 53,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-3",
+          "game_number": 3,
+          "status": "COMPLETED",
+          "duration_seconds": 4069,
+          "duration_formatted": "67:49",
+          "winner_tag": "dotagaymer"
+        }
+      ]
+    },
+    {
+      "series_id": 17,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-05T18:00:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "team_a": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "0 - 3"
+      },
+      "team_b": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "score_a": 0,
+      "score_b": 2,
+      "winner_id": 12,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-1",
+      "games": [
+        {
+          "id": 17,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2556,
+          "duration_formatted": "42:36",
+          "winner_tag": "dotagaymer"
+        },
+        {
+          "id": 18,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 2863,
+          "duration_formatted": "47:43",
+          "winner_tag": "dotagaymer"
+        }
+      ]
+    },
+    {
+      "series_id": 9,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-dotagaymer-vs-bb",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-04T17:46:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "team_a": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "team_b": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 1,
+        "is_current": false,
+        "record": "1 - 3"
+      },
+      "score_a": 0,
+      "score_b": 1,
+      "winner_id": 5,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-dotagaymer-vs-bb-game-1",
+      "games": [
+        {
+          "id": 9,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r2-dotagaymer-vs-bb-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2418,
+          "duration_formatted": "40:18",
+          "winner_tag": "BB"
+        }
+      ]
+    },
+    {
+      "series_id": 2,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-03T19:07:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "team_a": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 1,
+        "is_current": false,
+        "record": "1 - 3"
+      },
+      "team_b": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 11,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+      "games": [
+        {
+          "id": 2,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 1591,
+          "duration_formatted": "26:31",
+          "winner_tag": "t astini"
+        }
+      ]
+    }
+  ]
+}

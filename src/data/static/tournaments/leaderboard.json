@@ -1,0 +1,84 @@
+{
+  "leaderboard": [
+    {
+      "username": "Mrycrn",
+      "steam_id": "76561199436409511",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561199436409511.jpg",
+      "total_points": 30,
+      "total_predictions": 5,
+      "correct_predictions": 3,
+      "win_rate": 60,
+      "rank": 1
+    },
+    {
+      "username": "Tailung",
+      "steam_id": "76561199699584487",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561199699584487.jpg",
+      "total_points": 20,
+      "total_predictions": 2,
+      "correct_predictions": 2,
+      "win_rate": 100,
+      "rank": 2
+    },
+    {
+      "username": "dmadariaga139607",
+      "steam_id": "76561199201588490",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561199201588490.jpg",
+      "total_points": 20,
+      "total_predictions": 3,
+      "correct_predictions": 2,
+      "win_rate": 66.7,
+      "rank": 3
+    },
+    {
+      "username": "Pipicas",
+      "steam_id": "76561198288100933",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561198288100933.jpg",
+      "total_points": 20,
+      "total_predictions": 4,
+      "correct_predictions": 2,
+      "win_rate": 50,
+      "rank": 4
+    },
+    {
+      "username": "AcEKInG",
+      "steam_id": "76561198333231056",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561198333231056.jpg",
+      "total_points": 20,
+      "total_predictions": 5,
+      "correct_predictions": 2,
+      "win_rate": 40,
+      "rank": 5
+    },
+    {
+      "username": "Alorsondanse",
+      "steam_id": "76561198828631125",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561198828631125.jpg",
+      "total_points": 10,
+      "total_predictions": 1,
+      "correct_predictions": 1,
+      "win_rate": 100,
+      "rank": 6
+    },
+    {
+      "username": "VENDOPANVENDOPAN",
+      "steam_id": "76561198851075871",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561198851075871.jpg",
+      "total_points": 10,
+      "total_predictions": 3,
+      "correct_predictions": 1,
+      "win_rate": 33.3,
+      "rank": 7
+    },
+    {
+      "username": "player_638149",
+      "steam_id": "76561199257638149",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561199257638149.jpg",
+      "total_points": 0,
+      "total_predictions": 2,
+      "correct_predictions": 0,
+      "win_rate": 0,
+      "rank": 8
+    }
+  ]
+}

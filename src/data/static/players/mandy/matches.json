@@ -1,0 +1,280 @@
+{
+  "total_matches": 2,
+  "wins": 2,
+  "losses": 0,
+  "win_rate": 100,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-13",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "matches": [
+        {
+          "game_id": 83,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_number": 2,
+          "duration_seconds": 1862,
+          "duration_formatted": "31:02",
+          "date": "2026-09-13T19:23:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 53,
+            "name": "Furion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 43
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 16
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 43
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 16
+          },
+          "stats": {
+            "kills": 6,
+            "deaths": 4,
+            "assists": 29,
+            "kda": 8.75,
+            "last_hits": 232,
+            "denies": 4,
+            "gpm": 588,
+            "xpm": 694,
+            "hero_damage": 35403,
+            "tower_damage": 5602,
+            "hero_healing": 2140,
+            "net_worth": 17636,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 82,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+          "game_number": 1,
+          "duration_seconds": 2943,
+          "duration_formatted": "49:03",
+          "date": "2026-09-13T18:04:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 53,
+            "name": "Furion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png"
+          },
+          "player_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 53
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "dire_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 53
+          },
+          "stats": {
+            "kills": 19,
+            "deaths": 7,
+            "assists": 21,
+            "kda": 5.71,
+            "last_hits": 539,
+            "denies": 12,
+            "gpm": 876,
+            "xpm": 1093,
+            "hero_damage": 82357,
+            "tower_damage": 25334,
+            "hero_healing": 1306,
+            "net_worth": 34772,
+            "stuns": 3.2
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 83,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+      "game_number": 2,
+      "duration_seconds": 1862,
+      "duration_formatted": "31:02",
+      "date": "2026-09-13T19:23:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 53,
+        "name": "Furion",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 43
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 16
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 43
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 16
+      },
+      "stats": {
+        "kills": 6,
+        "deaths": 4,
+        "assists": 29,
+        "kda": 8.75,
+        "last_hits": 232,
+        "denies": 4,
+        "gpm": 588,
+        "xpm": 694,
+        "hero_damage": 35403,
+        "tower_damage": 5602,
+        "hero_healing": 2140,
+        "net_worth": 17636,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 82,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+      "game_number": 1,
+      "duration_seconds": 2943,
+      "duration_formatted": "49:03",
+      "date": "2026-09-13T18:04:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 53,
+        "name": "Furion",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png"
+      },
+      "player_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 53
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "dire_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 53
+      },
+      "stats": {
+        "kills": 19,
+        "deaths": 7,
+        "assists": 21,
+        "kda": 5.71,
+        "last_hits": 539,
+        "denies": 12,
+        "gpm": 876,
+        "xpm": 1093,
+        "hero_damage": 82357,
+        "tower_damage": 25334,
+        "hero_healing": 1306,
+        "net_worth": 34772,
+        "stuns": 3.2
+      }
+    }
+  ]
+}

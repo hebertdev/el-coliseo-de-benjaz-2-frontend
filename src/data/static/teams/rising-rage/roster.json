@@ -1,0 +1,112 @@
+[
+  {
+    "player": {
+      "slug": "angelukin",
+      "nickname": "Angelukin",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/angelukin.webp",
+      "steam_id": null,
+      "account_id": 355264850,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PE",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 5,
+    "position_display": "Position 5 - Hard Support",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "chavalito",
+      "nickname": "Chavalito",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/chavalito.webp",
+      "steam_id": null,
+      "account_id": 784126074,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PE",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 3,
+    "position_display": "Position 3 - Offlane",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "leostyle",
+      "nickname": "LeoStyle",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/leostyle.jpeg",
+      "steam_id": null,
+      "account_id": 59463394,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PE",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "CAPTAIN",
+    "role_display": "Captain",
+    "competitive_position": 2,
+    "position_display": "Position 2 - Mid",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "kotaro",
+      "nickname": "Kotaro",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+      "steam_id": null,
+      "account_id": 185202677,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PE",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 1,
+    "position_display": "Position 1 - Carry",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "soe",
+      "nickname": "Soe",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/soez.webp",
+      "steam_id": null,
+      "account_id": 197439394,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PY",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 4,
+    "position_display": "Position 4 - Soft Support",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  }
+]

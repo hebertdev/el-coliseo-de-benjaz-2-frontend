@@ -1,0 +1,45 @@
+{
+  "slug": "stinger",
+  "nickname": "Stinger",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/stinger.jpeg",
+  "bio": "",
+  "kick_url": "https://kick.com/stingerdota",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/stingerdota",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 1012061568,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "pe",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "CAPIBARAS",
+        "slug": "capibarbas",
+        "tag": "t stinger",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "pe",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "CAPTAIN",
+      "role_display": "Captain",
+      "competitive_position": 3,
+      "position_display": "Position 3 - Offlane",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-08-29T19:24:54.851304-05:00",
+  "updated_at": "2026-09-04T03:04:39.785472-05:00"
+}

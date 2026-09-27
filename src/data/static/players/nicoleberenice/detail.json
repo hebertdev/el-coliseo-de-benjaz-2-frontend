@@ -1,0 +1,45 @@
+{
+  "slug": "nicoleberenice",
+  "nickname": "NicoleBerenice",
+  "avatar": null,
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": "76561199447434321",
+  "account_id": 1487168593,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Gotto House",
+        "slug": "gotto-house",
+        "tag": "t matthew",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 5,
+      "position_display": "Position 5 - Hard Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:04:08.560562-05:00",
+  "updated_at": "2026-09-02T02:04:08.560573-05:00"
+}

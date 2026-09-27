@@ -1,0 +1,45 @@
+{
+  "slug": "gelatita",
+  "nickname": "Gelatita",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/gelatita.webp",
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "https://www.twitch.tv/gelatita/",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/gelatita/?hl=es",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 194965569,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "ar",
+  "city": "AREQUIPA",
+  "memberships": [
+    {
+      "team": {
+        "name": "The Monsters",
+        "slug": "the-monsters",
+        "tag": "tm",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "AREQUIPA",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 5,
+      "position_display": "Position 5 - Hard Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:36:00.302510-05:00",
+  "updated_at": "2026-09-07T02:15:39.084500-05:00"
+}

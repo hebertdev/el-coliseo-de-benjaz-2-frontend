@@ -1,0 +1,45 @@
+{
+  "slug": "payasita-zing",
+  "nickname": "Payasita Zing",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/payasitazing.jpeg",
+  "bio": "",
+  "kick_url": "https://kick.com/payasitazing",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/payasitazingg",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 1278035613,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Team Factos Army",
+        "slug": "team-factos-army",
+        "tag": "payasita g",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "CAPTAIN",
+      "role_display": "Captain",
+      "competitive_position": 5,
+      "position_display": "Position 5 - Hard Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-08-29T19:59:46.861544-05:00",
+  "updated_at": "2026-09-04T03:07:57.477071-05:00"
+}

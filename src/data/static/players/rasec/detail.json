@@ -1,0 +1,45 @@
+{
+  "slug": "rasec",
+  "nickname": "Rasec",
+  "avatar": null,
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 212103451,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Fuerzas GAYniu",
+        "slug": "fuerzas-gayniu",
+        "tag": "dotagaymer",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 4,
+      "position_display": "Position 4 - Soft Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:12:32.569514-05:00",
+  "updated_at": "2026-09-09T09:07:07.394432-05:00"
+}

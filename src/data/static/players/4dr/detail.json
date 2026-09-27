@@ -1,0 +1,45 @@
+{
+  "slug": "4dr",
+  "nickname": "4DR",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/4DR_.webp",
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "https://www.twitch.tv/4dr4dr",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/4drdota/",
+  "twitter_url": "https://x.com/fourdiar",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 85937380,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "BR",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "TEAM BRASIL",
+        "slug": "team-brasil",
+        "tag": "t astini",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "BR",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 2,
+      "position_display": "Position 2 - Mid",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:40:48.711387-05:00",
+  "updated_at": "2026-09-03T16:41:17.357671-05:00"
+}

@@ -1,0 +1,3234 @@
+{
+  "tournament": {
+    "slug": "el-gran-coliseo-ii",
+    "name": "El Gran Coliseo II"
+  },
+  "podium": {
+    "is_locked": true,
+    "teams": [
+      {
+        "slug": "the-fat-bears",
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "short_name": "team k1"
+      },
+      {
+        "slug": "the-bots",
+        "name": "The Bot$",
+        "tag": "T parker",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "short_name": "T parker"
+      },
+      {
+        "slug": "team-factos-army",
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "short_name": "payasita g"
+      },
+      {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "short_name": "t matthew"
+      },
+      {
+        "slug": "capibarbas",
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "short_name": "t stinger"
+      },
+      {
+        "slug": "team-pakazs",
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "short_name": "team pakaz"
+      },
+      {
+        "slug": "rising-rage",
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "short_name": "t leostyle"
+      },
+      {
+        "slug": "fuerzas-gayniu",
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "short_name": "dotagaymer"
+      }
+    ],
+    "user_prediction": null
+  },
+  "matches": [
+    {
+      "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer",
+      "identifier": "QF1",
+      "round_name": "Cuartos de Final",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "status": "COMPLETED",
+      "best_of": "BO3",
+      "scheduled_at": "2026-09-10T17:00:00+00:00",
+      "team_a": {
+        "slug": "the-fat-bears",
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 2
+      },
+      "team_b": {
+        "slug": "fuerzas-gayniu",
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 0
+      },
+      "winner_slug": "the-fat-bears",
+      "community_votes": {
+        "total_votes": 3,
+        "team_a_votes": 3,
+        "team_b_votes": 0,
+        "team_a_percentage": 100,
+        "team_b_percentage": 0,
+        "user_prediction": null
+      }
+    },
+    {
+      "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz",
+      "identifier": "QF4",
+      "round_name": "Cuartos de Final",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "status": "COMPLETED",
+      "best_of": "BO3",
+      "scheduled_at": "2026-09-11T17:00:00+00:00",
+      "team_a": {
+        "slug": "team-factos-army",
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 2
+      },
+      "team_b": {
+        "slug": "team-pakazs",
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 1
+      },
+      "winner_slug": "team-factos-army",
+      "community_votes": {
+        "total_votes": 6,
+        "team_a_votes": 2,
+        "team_b_votes": 4,
+        "team_a_percentage": 33.3,
+        "team_b_percentage": 66.7,
+        "user_prediction": null
+      }
+    },
+    {
+      "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g",
+      "identifier": "SF2",
+      "round_name": "Semifinales",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "status": "COMPLETED",
+      "best_of": "BO3",
+      "scheduled_at": "2026-09-11T20:00:00+00:00",
+      "team_a": {
+        "slug": "rising-rage",
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 2
+      },
+      "team_b": {
+        "slug": "team-factos-army",
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 1
+      },
+      "winner_slug": "rising-rage",
+      "community_votes": {
+        "total_votes": 1,
+        "team_a_votes": 1,
+        "team_b_votes": 0,
+        "team_a_percentage": 100,
+        "team_b_percentage": 0,
+        "user_prediction": null
+      }
+    },
+    {
+      "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew",
+      "identifier": "SF1",
+      "round_name": "Semifinales",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "status": "COMPLETED",
+      "best_of": "BO3",
+      "scheduled_at": "2026-09-11T23:00:00+00:00",
+      "team_a": {
+        "slug": "the-fat-bears",
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 2
+      },
+      "team_b": {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 1
+      },
+      "winner_slug": "the-fat-bears",
+      "community_votes": {
+        "total_votes": 4,
+        "team_a_votes": 2,
+        "team_b_votes": 2,
+        "team_a_percentage": 50,
+        "team_b_percentage": 50,
+        "user_prediction": null
+      }
+    },
+    {
+      "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g",
+      "identifier": "3RD",
+      "round_name": "3er Puesto",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "status": "COMPLETED",
+      "best_of": "BO3",
+      "scheduled_at": "2026-09-13T16:00:00+00:00",
+      "team_a": {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 2
+      },
+      "team_b": {
+        "slug": "team-factos-army",
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 0
+      },
+      "winner_slug": "gotto-house",
+      "community_votes": {
+        "total_votes": 0,
+        "team_a_votes": 0,
+        "team_b_votes": 0,
+        "team_a_percentage": 50,
+        "team_b_percentage": 50,
+        "user_prediction": null
+      }
+    },
+    {
+      "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger",
+      "identifier": "QF2",
+      "round_name": "Cuartos de Final",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "status": "COMPLETED",
+      "best_of": "BO3",
+      "scheduled_at": null,
+      "team_a": {
+        "slug": "gotto-house",
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 2
+      },
+      "team_b": {
+        "slug": "capibarbas",
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 1
+      },
+      "winner_slug": "gotto-house",
+      "community_votes": {
+        "total_votes": 5,
+        "team_a_votes": 3,
+        "team_b_votes": 2,
+        "team_a_percentage": 60,
+        "team_b_percentage": 40,
+        "user_prediction": null
+      }
+    },
+    {
+      "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle",
+      "identifier": "QF3",
+      "round_name": "Cuartos de Final",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "status": "COMPLETED",
+      "best_of": "BO3",
+      "scheduled_at": null,
+      "team_a": {
+        "slug": "the-bots",
+        "name": "The Bot$",
+        "tag": "T parker",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 0
+      },
+      "team_b": {
+        "slug": "rising-rage",
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 2
+      },
+      "winner_slug": "rising-rage",
+      "community_votes": {
+        "total_votes": 5,
+        "team_a_votes": 4,
+        "team_b_votes": 1,
+        "team_a_percentage": 80,
+        "team_b_percentage": 20,
+        "user_prediction": null
+      }
+    },
+    {
+      "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle",
+      "identifier": "GF",
+      "round_name": "Gran Final Imperial",
+      "stage_name": "Playoffs (Eliminatoria Directa)",
+      "status": "COMPLETED",
+      "best_of": "BO5",
+      "scheduled_at": null,
+      "team_a": {
+        "slug": "the-fat-bears",
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 2
+      },
+      "team_b": {
+        "slug": "rising-rage",
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 3
+      },
+      "winner_slug": "rising-rage",
+      "community_votes": {
+        "total_votes": 1,
+        "team_a_votes": 0,
+        "team_b_votes": 1,
+        "team_a_percentage": 0,
+        "team_b_percentage": 100,
+        "user_prediction": null
+      }
+    }
+  ],
+  "playoff_bracket": [
+    {
+      "round_number": 1,
+      "round_name": "Cuartos de Final",
+      "best_of": "BO3",
+      "matches": [
+        {
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer",
+          "identifier": "QF1",
+          "node_type": "QF",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "winner_slug": "the-fat-bears",
+          "slot_a": {
+            "seed": 1,
+            "placeholder": "Seed 1 (Suizo)",
+            "team": {
+              "name": "The Fat Bears",
+              "slug": "the-fat-bears",
+              "tag": "team k1",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": "8779308"
+            },
+            "score": 2
+          },
+          "slot_b": {
+            "seed": 8,
+            "placeholder": "Seed 8 (Suizo)",
+            "team": {
+              "name": "Fuerzas GAYniu",
+              "slug": "fuerzas-gayniu",
+              "tag": "dotagaymer",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": null
+            },
+            "score": 0
+          },
+          "games": [
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "opendota_match_id": 8992138889,
+              "radiant_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "dire_team": {
+                "name": "Fuerzas GAYniu",
+                "slug": "fuerzas-gayniu",
+                "tag": "dotagaymer",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                87,
+                2,
+                79,
+                54,
+                25
+              ],
+              "dire_picks": [
+                135,
+                51,
+                128,
+                72,
+                28
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 2,
+                  "hero_name": "Axe",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/axe_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 79,
+                  "hero_name": "Shadow Demon",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 54,
+                  "hero_name": "Life Stealer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 25,
+                  "hero_name": "Lina",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 135,
+                  "hero_name": "Dawnbreaker",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 51,
+                  "hero_name": "Rattletrap",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/rattletrap_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 128,
+                  "hero_name": "Snapfire",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 72,
+                  "hero_name": "Gyrocopter",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 28,
+                  "hero_name": "Slardar",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png"
+                }
+              ],
+              "winner_slug": "the-fat-bears",
+              "duration_seconds": 2704,
+              "started_at": "2026-09-10T12:04:00-05:00",
+              "ended_at": "2026-09-10T12:50:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "opendota_match_id": 8992269436,
+              "radiant_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "dire_team": {
+                "name": "Fuerzas GAYniu",
+                "slug": "fuerzas-gayniu",
+                "tag": "dotagaymer",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                87,
+                79,
+                96,
+                109,
+                39
+              ],
+              "dire_picks": [
+                135,
+                26,
+                120,
+                71,
+                11
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 79,
+                  "hero_name": "Shadow Demon",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 96,
+                  "hero_name": "Centaur",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/centaur_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 109,
+                  "hero_name": "Terrorblade",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 39,
+                  "hero_name": "Queenofpain",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 135,
+                  "hero_name": "Dawnbreaker",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 120,
+                  "hero_name": "Pangolier",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 71,
+                  "hero_name": "Spirit Breaker",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 11,
+                  "hero_name": "Nevermore",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/nevermore_vert.png"
+                }
+              ],
+              "winner_slug": "the-fat-bears",
+              "duration_seconds": 4256,
+              "started_at": "2026-09-10T13:18:00-05:00",
+              "ended_at": "2026-09-10T14:29:00-05:00"
+            }
+          ]
+        },
+        {
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger",
+          "identifier": "QF2",
+          "node_type": "QF",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "winner_slug": "gotto-house",
+          "slot_a": {
+            "seed": 4,
+            "placeholder": "Seed 4 (Suizo)",
+            "team": {
+              "name": "Gotto House",
+              "slug": "gotto-house",
+              "tag": "t matthew",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": null
+            },
+            "score": 2
+          },
+          "slot_b": {
+            "seed": 5,
+            "placeholder": "Seed 5 (Suizo)",
+            "team": {
+              "name": "CAPIBARAS",
+              "slug": "capibarbas",
+              "tag": "t stinger",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+              "region": "SA",
+              "country": "pe",
+              "city": "",
+              "steam_id": null
+            },
+            "score": 1
+          },
+          "games": [
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "opendota_match_id": 8992421702,
+              "radiant_team": {
+                "name": "Gotto House",
+                "slug": "gotto-house",
+                "tag": "t matthew",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "CAPIBARAS",
+                "slug": "capibarbas",
+                "tag": "t stinger",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+                "region": "SA",
+                "country": "pe",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                80,
+                87,
+                62,
+                96,
+                14
+              ],
+              "dire_picks": [
+                84,
+                21,
+                108,
+                17,
+                12
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 80,
+                  "hero_name": "Lone Druid",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 62,
+                  "hero_name": "Bounty Hunter",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/bounty_hunter_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 96,
+                  "hero_name": "Centaur",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/centaur_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 14,
+                  "hero_name": "Pudge",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/pudge_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 21,
+                  "hero_name": "Windrunner",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/windrunner_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 108,
+                  "hero_name": "Abyssal Underlord",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 17,
+                  "hero_name": "Storm Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 12,
+                  "hero_name": "Phantom Lancer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+                }
+              ],
+              "winner_slug": "gotto-house",
+              "duration_seconds": 1483,
+              "started_at": "2026-09-10T15:09:00-05:00",
+              "ended_at": "2026-09-10T15:34:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "opendota_match_id": 8992492770,
+              "radiant_team": {
+                "name": "Gotto House",
+                "slug": "gotto-house",
+                "tag": "t matthew",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "CAPIBARAS",
+                "slug": "capibarbas",
+                "tag": "t stinger",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+                "region": "SA",
+                "country": "pe",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                62,
+                5,
+                108,
+                53,
+                120
+              ],
+              "dire_picks": [
+                84,
+                123,
+                128,
+                10,
+                110
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 62,
+                  "hero_name": "Bounty Hunter",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/bounty_hunter_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 5,
+                  "hero_name": "Crystal Maiden",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 108,
+                  "hero_name": "Abyssal Underlord",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 53,
+                  "hero_name": "Furion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 120,
+                  "hero_name": "Pangolier",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 123,
+                  "hero_name": "Hoodwink",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/hoodwink_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 128,
+                  "hero_name": "Snapfire",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 10,
+                  "hero_name": "Morphling",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/morphling_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 110,
+                  "hero_name": "Phoenix",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/phoenix_vert.png"
+                }
+              ],
+              "winner_slug": "capibarbas",
+              "duration_seconds": 2948,
+              "started_at": "2026-09-10T16:03:00-05:00",
+              "ended_at": "2026-09-10T16:52:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "opendota_match_id": 8992556253,
+              "radiant_team": {
+                "name": "Gotto House",
+                "slug": "gotto-house",
+                "tag": "t matthew",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "CAPIBARAS",
+                "slug": "capibarbas",
+                "tag": "t stinger",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+                "region": "SA",
+                "country": "pe",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                52,
+                5,
+                108,
+                26,
+                48
+              ],
+              "dire_picks": [
+                84,
+                120,
+                123,
+                10,
+                128
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 52,
+                  "hero_name": "Leshrac",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/leshrac_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 5,
+                  "hero_name": "Crystal Maiden",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 108,
+                  "hero_name": "Abyssal Underlord",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 48,
+                  "hero_name": "Luna",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 120,
+                  "hero_name": "Pangolier",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 123,
+                  "hero_name": "Hoodwink",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/hoodwink_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 10,
+                  "hero_name": "Morphling",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/morphling_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 128,
+                  "hero_name": "Snapfire",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+                }
+              ],
+              "winner_slug": "gotto-house",
+              "duration_seconds": 1927,
+              "started_at": "2026-09-10T17:25:00-05:00",
+              "ended_at": "2026-09-10T17:57:00-05:00"
+            }
+          ]
+        },
+        {
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle",
+          "identifier": "QF3",
+          "node_type": "QF",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "winner_slug": "rising-rage",
+          "slot_a": {
+            "seed": 2,
+            "placeholder": "Seed 2 (Suizo)",
+            "team": {
+              "name": "The Bot$",
+              "slug": "the-bots",
+              "tag": "T parker",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": null
+            },
+            "score": 0
+          },
+          "slot_b": {
+            "seed": 7,
+            "placeholder": "Seed 7 (Suizo)",
+            "team": {
+              "name": "Rising Rage",
+              "slug": "rising-rage",
+              "tag": "t leostyle",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": "10242594"
+            },
+            "score": 2
+          },
+          "games": [
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "opendota_match_id": 8992597189,
+              "radiant_team": {
+                "name": "The Bot$",
+                "slug": "the-bots",
+                "tag": "T parker",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "radiant_picks": [
+                128,
+                29,
+                27,
+                54,
+                25
+              ],
+              "dire_picks": [
+                64,
+                84,
+                55,
+                11,
+                16
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 128,
+                  "hero_name": "Snapfire",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 29,
+                  "hero_name": "Tidehunter",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/tidehunter_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 27,
+                  "hero_name": "Shadow Shaman",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 54,
+                  "hero_name": "Life Stealer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 25,
+                  "hero_name": "Lina",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 64,
+                  "hero_name": "Jakiro",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 55,
+                  "hero_name": "Dark Seer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dark_seer_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 11,
+                  "hero_name": "Nevermore",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/nevermore_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 16,
+                  "hero_name": "Sand King",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/sand_king_vert.png"
+                }
+              ],
+              "winner_slug": "rising-rage",
+              "duration_seconds": 2873,
+              "started_at": "2026-09-10T18:28:00-05:00",
+              "ended_at": "2026-09-10T19:16:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "opendota_match_id": 8992643426,
+              "radiant_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "dire_team": {
+                "name": "The Bot$",
+                "slug": "the-bots",
+                "tag": "T parker",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                84,
+                123,
+                129,
+                39,
+                109
+              ],
+              "dire_picks": [
+                85,
+                26,
+                75,
+                114,
+                126
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 123,
+                  "hero_name": "Hoodwink",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/hoodwink_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 129,
+                  "hero_name": "Mars",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/mars_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 39,
+                  "hero_name": "Queenofpain",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 109,
+                  "hero_name": "Terrorblade",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 85,
+                  "hero_name": "Undying",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/undying_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 75,
+                  "hero_name": "Silencer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/silencer_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 114,
+                  "hero_name": "Monkey King",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/monkey_king_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 126,
+                  "hero_name": "Void Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+                }
+              ],
+              "winner_slug": "rising-rage",
+              "duration_seconds": 2662,
+              "started_at": "2026-09-10T19:44:00-05:00",
+              "ended_at": "2026-09-10T20:28:00-05:00"
+            }
+          ]
+        },
+        {
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz",
+          "identifier": "QF4",
+          "node_type": "QF",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "winner_slug": "team-factos-army",
+          "slot_a": {
+            "seed": 3,
+            "placeholder": "Seed 3 (Suizo)",
+            "team": {
+              "name": "Team Factos Army",
+              "slug": "team-factos-army",
+              "tag": "payasita g",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": null
+            },
+            "score": 2
+          },
+          "slot_b": {
+            "seed": 6,
+            "placeholder": "Seed 6 (Suizo)",
+            "team": {
+              "name": "The Parrocos Young",
+              "slug": "team-pakazs",
+              "tag": "team pakaz",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+              "region": "SA",
+              "country": "pe",
+              "city": "",
+              "steam_id": null
+            },
+            "score": 1
+          },
+          "games": [
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "opendota_match_id": 8992684737,
+              "radiant_team": {
+                "name": "Team Factos Army",
+                "slug": "team-factos-army",
+                "tag": "payasita g",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "The Parrocos Young",
+                "slug": "team-pakazs",
+                "tag": "team pakaz",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+                "region": "SA",
+                "country": "pe",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                85,
+                84,
+                26,
+                109,
+                126
+              ],
+              "dire_picks": [
+                135,
+                128,
+                123,
+                49,
+                61
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 85,
+                  "hero_name": "Undying",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/undying_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 109,
+                  "hero_name": "Terrorblade",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 126,
+                  "hero_name": "Void Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 135,
+                  "hero_name": "Dawnbreaker",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 128,
+                  "hero_name": "Snapfire",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 123,
+                  "hero_name": "Hoodwink",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/hoodwink_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 49,
+                  "hero_name": "Dragon Knight",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dragon_knight_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 61,
+                  "hero_name": "Broodmother",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/broodmother_vert.png"
+                }
+              ],
+              "winner_slug": "team-factos-army",
+              "duration_seconds": 2698,
+              "started_at": "2026-09-10T21:03:00-05:00",
+              "ended_at": "2026-09-10T21:48:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "opendota_match_id": null,
+              "radiant_team": {
+                "name": "Team Factos Army",
+                "slug": "team-factos-army",
+                "tag": "payasita g",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "The Parrocos Young",
+                "slug": "team-pakazs",
+                "tag": "team pakaz",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+                "region": "SA",
+                "country": "pe",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                52,
+                26,
+                36,
+                84,
+                108
+              ],
+              "dire_picks": [
+                80,
+                71,
+                31,
+                43,
+                53
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 52,
+                  "hero_name": "Leshrac",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/leshrac_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 36,
+                  "hero_name": "Necrolyte",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/necrolyte_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 108,
+                  "hero_name": "Abyssal Underlord",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 80,
+                  "hero_name": "Lone Druid",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 71,
+                  "hero_name": "Spirit Breaker",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 31,
+                  "hero_name": "Lich",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lich_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 43,
+                  "hero_name": "Death Prophet",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/death_prophet_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 53,
+                  "hero_name": "Furion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png"
+                }
+              ],
+              "winner_slug": "team-pakazs",
+              "duration_seconds": null,
+              "started_at": null,
+              "ended_at": null
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "opendota_match_id": 8992761685,
+              "radiant_team": {
+                "name": "Team Factos Army",
+                "slug": "team-factos-army",
+                "tag": "payasita g",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "The Parrocos Young",
+                "slug": "team-pakazs",
+                "tag": "team pakaz",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+                "region": "SA",
+                "country": "pe",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                109,
+                108,
+                87,
+                26,
+                114
+              ],
+              "dire_picks": [
+                85,
+                101,
+                31,
+                89,
+                106
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 109,
+                  "hero_name": "Terrorblade",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 108,
+                  "hero_name": "Abyssal Underlord",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 114,
+                  "hero_name": "Monkey King",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/monkey_king_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 85,
+                  "hero_name": "Undying",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/undying_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 101,
+                  "hero_name": "Skywrath Mage",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 31,
+                  "hero_name": "Lich",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lich_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 89,
+                  "hero_name": "Naga Siren",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/naga_siren_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 106,
+                  "hero_name": "Ember Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+                }
+              ],
+              "winner_slug": "team-factos-army",
+              "duration_seconds": 2779,
+              "started_at": "2026-09-10T23:05:00-05:00",
+              "ended_at": "2026-09-10T23:52:00-05:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "round_number": 2,
+      "round_name": "Semifinales",
+      "best_of": "BO3",
+      "matches": [
+        {
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew",
+          "identifier": "SF1",
+          "node_type": "SF",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "winner_slug": "the-fat-bears",
+          "slot_a": {
+            "seed": null,
+            "placeholder": "Ganador QF1",
+            "team": {
+              "name": "The Fat Bears",
+              "slug": "the-fat-bears",
+              "tag": "team k1",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": "8779308"
+            },
+            "score": 2
+          },
+          "slot_b": {
+            "seed": null,
+            "placeholder": "Ganador QF2",
+            "team": {
+              "name": "Gotto House",
+              "slug": "gotto-house",
+              "tag": "t matthew",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": null
+            },
+            "score": 1
+          },
+          "games": [
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "opendota_match_id": 8994263547,
+              "radiant_team": {
+                "name": "Gotto House",
+                "slug": "gotto-house",
+                "tag": "t matthew",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "radiant_picks": [
+                52,
+                64,
+                128,
+                96,
+                19
+              ],
+              "dire_picks": [
+                84,
+                86,
+                135,
+                39,
+                41
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 52,
+                  "hero_name": "Leshrac",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/leshrac_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 64,
+                  "hero_name": "Jakiro",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 128,
+                  "hero_name": "Snapfire",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 96,
+                  "hero_name": "Centaur",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/centaur_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 19,
+                  "hero_name": "Tiny",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/tiny_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 86,
+                  "hero_name": "Rubick",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/rubick_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 135,
+                  "hero_name": "Dawnbreaker",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 39,
+                  "hero_name": "Queenofpain",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 41,
+                  "hero_name": "Faceless Void",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/faceless_void_vert.png"
+                }
+              ],
+              "winner_slug": "the-fat-bears",
+              "duration_seconds": 1956,
+              "started_at": "2026-09-11T18:10:00-05:00",
+              "ended_at": "2026-09-11T18:43:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "opendota_match_id": 8994319080,
+              "radiant_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "dire_team": {
+                "name": "Gotto House",
+                "slug": "gotto-house",
+                "tag": "t matthew",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                86,
+                27,
+                109,
+                29,
+                126
+              ],
+              "dire_picks": [
+                79,
+                5,
+                28,
+                70,
+                17
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 86,
+                  "hero_name": "Rubick",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/rubick_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 27,
+                  "hero_name": "Shadow Shaman",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 109,
+                  "hero_name": "Terrorblade",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 29,
+                  "hero_name": "Tidehunter",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/tidehunter_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 126,
+                  "hero_name": "Void Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 79,
+                  "hero_name": "Shadow Demon",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 5,
+                  "hero_name": "Crystal Maiden",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 28,
+                  "hero_name": "Slardar",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 70,
+                  "hero_name": "Ursa",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ursa_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 17,
+                  "hero_name": "Storm Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+                }
+              ],
+              "winner_slug": "gotto-house",
+              "duration_seconds": 3210,
+              "started_at": "2026-09-11T19:10:00-05:00",
+              "ended_at": "2026-09-11T20:04:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "opendota_match_id": 8994363556,
+              "radiant_team": {
+                "name": "Gotto House",
+                "slug": "gotto-house",
+                "tag": "t matthew",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "radiant_picks": [
+                109,
+                86,
+                108,
+                64,
+                126
+              ],
+              "dire_picks": [
+                79,
+                100,
+                55,
+                54,
+                17
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 109,
+                  "hero_name": "Terrorblade",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 86,
+                  "hero_name": "Rubick",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/rubick_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 108,
+                  "hero_name": "Abyssal Underlord",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/abyssal_underlord_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 64,
+                  "hero_name": "Jakiro",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 126,
+                  "hero_name": "Void Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 79,
+                  "hero_name": "Shadow Demon",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 100,
+                  "hero_name": "Tusk",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 55,
+                  "hero_name": "Dark Seer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dark_seer_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 54,
+                  "hero_name": "Life Stealer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 17,
+                  "hero_name": "Storm Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+                }
+              ],
+              "winner_slug": "the-fat-bears",
+              "duration_seconds": 3046,
+              "started_at": "2026-09-11T20:29:00-05:00",
+              "ended_at": "2026-09-11T21:19:00-05:00"
+            }
+          ]
+        },
+        {
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g",
+          "identifier": "SF2",
+          "node_type": "SF",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "winner_slug": "rising-rage",
+          "slot_a": {
+            "seed": null,
+            "placeholder": "Ganador QF3",
+            "team": {
+              "name": "Rising Rage",
+              "slug": "rising-rage",
+              "tag": "t leostyle",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": "10242594"
+            },
+            "score": 2
+          },
+          "slot_b": {
+            "seed": null,
+            "placeholder": "Ganador QF4",
+            "team": {
+              "name": "Team Factos Army",
+              "slug": "team-factos-army",
+              "tag": "payasita g",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": null
+            },
+            "score": 1
+          },
+          "games": [
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "opendota_match_id": 8994060505,
+              "radiant_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "dire_team": {
+                "name": "Team Factos Army",
+                "slug": "team-factos-army",
+                "tag": "payasita g",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "radiant_picks": [
+                106,
+                38,
+                48,
+                87,
+                84
+              ],
+              "dire_picks": [
+                86,
+                80,
+                31,
+                96,
+                25
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 106,
+                  "hero_name": "Ember Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 38,
+                  "hero_name": "Beastmaster",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/beastmaster_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 48,
+                  "hero_name": "Luna",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 86,
+                  "hero_name": "Rubick",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/rubick_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 80,
+                  "hero_name": "Lone Druid",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 31,
+                  "hero_name": "Lich",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lich_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 96,
+                  "hero_name": "Centaur",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/centaur_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 25,
+                  "hero_name": "Lina",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+                }
+              ],
+              "winner_slug": "rising-rage",
+              "duration_seconds": 1696,
+              "started_at": "2026-09-11T15:02:00-05:00",
+              "ended_at": "2026-09-11T15:31:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "opendota_match_id": 8994144015,
+              "radiant_team": {
+                "name": "Team Factos Army",
+                "slug": "team-factos-army",
+                "tag": "payasita g",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "radiant_picks": [
+                84,
+                26,
+                135,
+                13,
+                18
+              ],
+              "dire_picks": [
+                87,
+                109,
+                31,
+                129,
+                70
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 135,
+                  "hero_name": "Dawnbreaker",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dawnbreaker_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 13,
+                  "hero_name": "Puck",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 18,
+                  "hero_name": "Sven",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/sven_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 109,
+                  "hero_name": "Terrorblade",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 31,
+                  "hero_name": "Lich",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lich_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 129,
+                  "hero_name": "Mars",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/mars_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 70,
+                  "hero_name": "Ursa",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ursa_vert.png"
+                }
+              ],
+              "winner_slug": "team-factos-army",
+              "duration_seconds": 2183,
+              "started_at": "2026-09-11T15:55:00-05:00",
+              "ended_at": "2026-09-11T16:31:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "opendota_match_id": 8994212180,
+              "radiant_team": {
+                "name": "Team Factos Army",
+                "slug": "team-factos-army",
+                "tag": "payasita g",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": null
+              },
+              "dire_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "radiant_picks": [
+                13,
+                87,
+                29,
+                119,
+                8
+              ],
+              "dire_picks": [
+                84,
+                26,
+                107,
+                55,
+                138
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 13,
+                  "hero_name": "Puck",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 29,
+                  "hero_name": "Tidehunter",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/tidehunter_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 119,
+                  "hero_name": "Dark Willow",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dark_willow_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 8,
+                  "hero_name": "Juggernaut",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/juggernaut_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 107,
+                  "hero_name": "Earth Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/earth_spirit_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 55,
+                  "hero_name": "Dark Seer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/dark_seer_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 138,
+                  "hero_name": "Muerta",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/muerta_vert.png"
+                }
+              ],
+              "winner_slug": "rising-rage",
+              "duration_seconds": 1911,
+              "started_at": "2026-09-11T16:54:00-05:00",
+              "ended_at": "2026-09-11T17:26:00-05:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "round_number": 3,
+      "round_name": "Gran Final Imperial",
+      "best_of": "BO5",
+      "matches": [
+        {
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle",
+          "identifier": "GF",
+          "node_type": "GF",
+          "best_of": "BO5",
+          "status": "COMPLETED",
+          "winner_slug": "rising-rage",
+          "slot_a": {
+            "seed": null,
+            "placeholder": "Ganador SF1",
+            "team": {
+              "name": "The Fat Bears",
+              "slug": "the-fat-bears",
+              "tag": "team k1",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": "8779308"
+            },
+            "score": 2
+          },
+          "slot_b": {
+            "seed": null,
+            "placeholder": "Ganador SF2",
+            "team": {
+              "name": "Rising Rage",
+              "slug": "rising-rage",
+              "tag": "t leostyle",
+              "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+              "region": "SA",
+              "country": "PE",
+              "city": "",
+              "steam_id": "10242594"
+            },
+            "score": 3
+          },
+          "games": [
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "opendota_match_id": 8997931504,
+              "radiant_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "dire_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "radiant_picks": [
+                26,
+                87,
+                60,
+                48,
+                78
+              ],
+              "dire_picks": [
+                13,
+                100,
+                27,
+                12,
+                2
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 60,
+                  "hero_name": "Night Stalker",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/night_stalker_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 48,
+                  "hero_name": "Luna",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 78,
+                  "hero_name": "Brewmaster",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/brewmaster_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 13,
+                  "hero_name": "Puck",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 100,
+                  "hero_name": "Tusk",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/tusk_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 27,
+                  "hero_name": "Shadow Shaman",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 12,
+                  "hero_name": "Phantom Lancer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 2,
+                  "hero_name": "Axe",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/axe_vert.png"
+                }
+              ],
+              "winner_slug": "rising-rage",
+              "duration_seconds": 1911,
+              "started_at": "2026-09-13T16:38:00-05:00",
+              "ended_at": "2026-09-13T17:10:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "opendota_match_id": 8997996007,
+              "radiant_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "dire_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "radiant_picks": [
+                87,
+                79,
+                29,
+                54,
+                25
+              ],
+              "dire_picks": [
+                26,
+                48,
+                85,
+                16,
+                69
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 79,
+                  "hero_name": "Shadow Demon",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 29,
+                  "hero_name": "Tidehunter",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/tidehunter_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 54,
+                  "hero_name": "Life Stealer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/life_stealer_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 25,
+                  "hero_name": "Lina",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 48,
+                  "hero_name": "Luna",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 85,
+                  "hero_name": "Undying",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/undying_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 16,
+                  "hero_name": "Sand King",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/sand_king_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 69,
+                  "hero_name": "Doom Bringer",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/doom_bringer_vert.png"
+                }
+              ],
+              "winner_slug": "the-fat-bears",
+              "duration_seconds": 2948,
+              "started_at": "2026-09-13T17:54:00-05:00",
+              "ended_at": "2026-09-13T18:43:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "opendota_match_id": 8998054998,
+              "radiant_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "dire_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "radiant_picks": [
+                26,
+                64,
+                48,
+                120,
+                33
+              ],
+              "dire_picks": [
+                87,
+                79,
+                80,
+                39,
+                2
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 64,
+                  "hero_name": "Jakiro",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 48,
+                  "hero_name": "Luna",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 120,
+                  "hero_name": "Pangolier",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 33,
+                  "hero_name": "Enigma",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/enigma_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 79,
+                  "hero_name": "Shadow Demon",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 80,
+                  "hero_name": "Lone Druid",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 39,
+                  "hero_name": "Queenofpain",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 2,
+                  "hero_name": "Axe",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/axe_vert.png"
+                }
+              ],
+              "winner_slug": "rising-rage",
+              "duration_seconds": 1318,
+              "started_at": "2026-09-13T19:36:00-05:00",
+              "ended_at": "2026-09-13T19:58:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+              "game_number": 4,
+              "status": "COMPLETED",
+              "opendota_match_id": 8998092593,
+              "radiant_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "dire_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "radiant_picks": [
+                26,
+                9,
+                96,
+                109,
+                17
+              ],
+              "dire_picks": [
+                64,
+                27,
+                48,
+                120,
+                78
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 26,
+                  "hero_name": "Lion",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 9,
+                  "hero_name": "Mirana",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/mirana_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 96,
+                  "hero_name": "Centaur",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/centaur_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 109,
+                  "hero_name": "Terrorblade",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 17,
+                  "hero_name": "Storm Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 64,
+                  "hero_name": "Jakiro",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 27,
+                  "hero_name": "Shadow Shaman",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 48,
+                  "hero_name": "Luna",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 120,
+                  "hero_name": "Pangolier",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 78,
+                  "hero_name": "Brewmaster",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/brewmaster_vert.png"
+                }
+              ],
+              "winner_slug": "the-fat-bears",
+              "duration_seconds": 2148,
+              "started_at": "2026-09-13T20:43:00-05:00",
+              "ended_at": "2026-09-13T21:19:00-05:00"
+            },
+            {
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5",
+              "game_number": 5,
+              "status": "COMPLETED",
+              "opendota_match_id": 8998127041,
+              "radiant_team": {
+                "name": "The Fat Bears",
+                "slug": "the-fat-bears",
+                "tag": "team k1",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "8779308"
+              },
+              "dire_team": {
+                "name": "Rising Rage",
+                "slug": "rising-rage",
+                "tag": "t leostyle",
+                "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+                "region": "SA",
+                "country": "PE",
+                "city": "",
+                "steam_id": "10242594"
+              },
+              "radiant_picks": [
+                29,
+                48,
+                9,
+                31,
+                93
+              ],
+              "dire_picks": [
+                84,
+                87,
+                80,
+                129,
+                106
+              ],
+              "radiant_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 29,
+                  "hero_name": "Tidehunter",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/tidehunter_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 48,
+                  "hero_name": "Luna",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 9,
+                  "hero_name": "Mirana",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/mirana_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 31,
+                  "hero_name": "Lich",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lich_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 93,
+                  "hero_name": "Slark",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/slark_vert.png"
+                }
+              ],
+              "dire_heroes": [
+                {
+                  "has_hero": true,
+                  "hero_id": 84,
+                  "hero_name": "Ogre Magi",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 87,
+                  "hero_name": "Disruptor",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 80,
+                  "hero_name": "Lone Druid",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 129,
+                  "hero_name": "Mars",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/mars_vert.png"
+                },
+                {
+                  "has_hero": true,
+                  "hero_id": 106,
+                  "hero_name": "Ember Spirit",
+                  "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+                }
+              ],
+              "winner_slug": "rising-rage",
+              "duration_seconds": 3429,
+              "started_at": "2026-09-13T21:49:00-05:00",
+              "ended_at": "2026-09-13T22:46:00-05:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "third_place_match": {
+    "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g",
+    "identifier": "3RD",
+    "match_name": "Batalla por el Honor (3er Puesto)",
+    "best_of": "BO3",
+    "status": "COMPLETED",
+    "winner_slug": "gotto-house",
+    "slot_a": {
+      "placeholder": "Perdedor SF 1",
+      "team": {
+        "name": "Gotto House",
+        "slug": "gotto-house",
+        "tag": "t matthew",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "score": 2
+    },
+    "slot_b": {
+      "placeholder": "Perdedor SF 2",
+      "team": {
+        "name": "Team Factos Army",
+        "slug": "team-factos-army",
+        "tag": "payasita g",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "region": "SA",
+        "country": "PE",
+        "city": "",
+        "steam_id": null
+      },
+      "score": 0
+    },
+    "games": [
+      {
+        "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+        "game_number": 1,
+        "status": "COMPLETED",
+        "opendota_match_id": 8997531445,
+        "radiant_team": {
+          "name": "Team Factos Army",
+          "slug": "team-factos-army",
+          "tag": "payasita g",
+          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+          "region": "SA",
+          "country": "PE",
+          "city": "",
+          "steam_id": null
+        },
+        "dire_team": {
+          "name": "Gotto House",
+          "slug": "gotto-house",
+          "tag": "t matthew",
+          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+          "region": "SA",
+          "country": "PE",
+          "city": "",
+          "steam_id": null
+        },
+        "radiant_picks": [
+          96,
+          64,
+          18,
+          86,
+          106
+        ],
+        "dire_picks": [
+          79,
+          5,
+          28,
+          70,
+          53
+        ],
+        "radiant_heroes": [
+          {
+            "has_hero": true,
+            "hero_id": 96,
+            "hero_name": "Centaur",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/centaur_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 64,
+            "hero_name": "Jakiro",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/jakiro_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 18,
+            "hero_name": "Sven",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/sven_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 86,
+            "hero_name": "Rubick",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/rubick_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 106,
+            "hero_name": "Ember Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+          }
+        ],
+        "dire_heroes": [
+          {
+            "has_hero": true,
+            "hero_id": 79,
+            "hero_name": "Shadow Demon",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 5,
+            "hero_name": "Crystal Maiden",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 28,
+            "hero_name": "Slardar",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 70,
+            "hero_name": "Ursa",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ursa_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 53,
+            "hero_name": "Furion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png"
+          }
+        ],
+        "winner_slug": "gotto-house",
+        "duration_seconds": 2943,
+        "started_at": "2026-09-13T12:15:00-05:00",
+        "ended_at": "2026-09-13T13:04:00-05:00"
+      },
+      {
+        "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+        "game_number": 2,
+        "status": "COMPLETED",
+        "opendota_match_id": 8997722892,
+        "radiant_team": {
+          "name": "Gotto House",
+          "slug": "gotto-house",
+          "tag": "t matthew",
+          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+          "region": "SA",
+          "country": "PE",
+          "city": "",
+          "steam_id": null
+        },
+        "dire_team": {
+          "name": "Team Factos Army",
+          "slug": "team-factos-army",
+          "tag": "payasita g",
+          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+          "region": "SA",
+          "country": "PE",
+          "city": "",
+          "steam_id": null
+        },
+        "radiant_picks": [
+          53,
+          5,
+          7,
+          29,
+          46
+        ],
+        "dire_picks": [
+          79,
+          85,
+          31,
+          72,
+          11
+        ],
+        "radiant_heroes": [
+          {
+            "has_hero": true,
+            "hero_id": 53,
+            "hero_name": "Furion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/furion_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 5,
+            "hero_name": "Crystal Maiden",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/crystal_maiden_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 7,
+            "hero_name": "Earthshaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/earthshaker_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 29,
+            "hero_name": "Tidehunter",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/tidehunter_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 46,
+            "hero_name": "Templar Assassin",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/templar_assassin_vert.png"
+          }
+        ],
+        "dire_heroes": [
+          {
+            "has_hero": true,
+            "hero_id": 79,
+            "hero_name": "Shadow Demon",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_demon_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 85,
+            "hero_name": "Undying",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/undying_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 31,
+            "hero_name": "Lich",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lich_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 72,
+            "hero_name": "Gyrocopter",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+          },
+          {
+            "has_hero": true,
+            "hero_id": 11,
+            "hero_name": "Nevermore",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/nevermore_vert.png"
+          }
+        ],
+        "winner_slug": "gotto-house",
+        "duration_seconds": 1862,
+        "started_at": "2026-09-13T13:52:00-05:00",
+        "ended_at": "2026-09-13T14:23:00-05:00"
+      }
+    ]
+  },
+  "leaderboard": [
+    {
+      "username": "Mrycrn",
+      "steam_id": "76561199436409511",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561199436409511.jpg",
+      "total_points": 30,
+      "total_predictions": 5,
+      "correct_predictions": 3,
+      "win_rate": 60,
+      "rank": 1
+    },
+    {
+      "username": "Tailung",
+      "steam_id": "76561199699584487",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561199699584487.jpg",
+      "total_points": 20,
+      "total_predictions": 2,
+      "correct_predictions": 2,
+      "win_rate": 100,
+      "rank": 2
+    },
+    {
+      "username": "dmadariaga139607",
+      "steam_id": "76561199201588490",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561199201588490.jpg",
+      "total_points": 20,
+      "total_predictions": 3,
+      "correct_predictions": 2,
+      "win_rate": 66.7,
+      "rank": 3
+    },
+    {
+      "username": "Pipicas",
+      "steam_id": "76561198288100933",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561198288100933.jpg",
+      "total_points": 20,
+      "total_predictions": 4,
+      "correct_predictions": 2,
+      "win_rate": 50,
+      "rank": 4
+    },
+    {
+      "username": "AcEKInG",
+      "steam_id": "76561198333231056",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561198333231056.jpg",
+      "total_points": 20,
+      "total_predictions": 5,
+      "correct_predictions": 2,
+      "win_rate": 40,
+      "rank": 5
+    },
+    {
+      "username": "Alorsondanse",
+      "steam_id": "76561198828631125",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561198828631125.jpg",
+      "total_points": 10,
+      "total_predictions": 1,
+      "correct_predictions": 1,
+      "win_rate": 100,
+      "rank": 6
+    },
+    {
+      "username": "VENDOPANVENDOPAN",
+      "steam_id": "76561198851075871",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561198851075871.jpg",
+      "total_points": 10,
+      "total_predictions": 3,
+      "correct_predictions": 1,
+      "win_rate": 33.3,
+      "rank": 7
+    },
+    {
+      "username": "player_638149",
+      "steam_id": "76561199257638149",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/users/pictures/steam_76561199257638149.jpg",
+      "total_points": 0,
+      "total_predictions": 2,
+      "correct_predictions": 0,
+      "win_rate": 0,
+      "rank": 8
+    }
+  ],
+  "user_stats": null
+}

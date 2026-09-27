@@ -1,0 +1,280 @@
+{
+  "total_matches": 2,
+  "wins": 0,
+  "losses": 2,
+  "win_rate": 0,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "matches": [
+        {
+          "game_id": 60,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "duration_seconds": 1859,
+          "duration_formatted": "30:59",
+          "date": "2026-09-10T01:14:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 87,
+            "name": "Disruptor",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+          },
+          "player_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 17
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "radiant_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 17
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 12,
+            "assists": 8,
+            "kda": 0.67,
+            "last_hits": 9,
+            "denies": 5,
+            "gpm": 174,
+            "xpm": 206,
+            "hero_damage": 7985,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 3077,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 59,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "duration_seconds": 3018,
+          "duration_formatted": "50:18",
+          "date": "2026-09-10T00:14:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 123,
+            "name": "Hoodwink",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/hoodwink_vert.png"
+          },
+          "player_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 12
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 43
+          },
+          "radiant_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 12
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 43
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 9,
+            "assists": 6,
+            "kda": 0.78,
+            "last_hits": 57,
+            "denies": 2,
+            "gpm": 231,
+            "xpm": 366,
+            "hero_damage": 12868,
+            "tower_damage": 0,
+            "hero_healing": 164,
+            "net_worth": 8315,
+            "stuns": 34.8
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 60,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+      "game_number": 2,
+      "duration_seconds": 1859,
+      "duration_formatted": "30:59",
+      "date": "2026-09-10T01:14:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 87,
+        "name": "Disruptor",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/disruptor_vert.png"
+      },
+      "player_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 17
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "radiant_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 17
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 12,
+        "assists": 8,
+        "kda": 0.67,
+        "last_hits": 9,
+        "denies": 5,
+        "gpm": 174,
+        "xpm": 206,
+        "hero_damage": 7985,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 3077,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 59,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+      "game_number": 1,
+      "duration_seconds": 3018,
+      "duration_formatted": "50:18",
+      "date": "2026-09-10T00:14:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 123,
+        "name": "Hoodwink",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/hoodwink_vert.png"
+      },
+      "player_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 12
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 43
+      },
+      "radiant_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 12
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 43
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 9,
+        "assists": 6,
+        "kda": 0.78,
+        "last_hits": 57,
+        "denies": 2,
+        "gpm": 231,
+        "xpm": 366,
+        "hero_damage": 12868,
+        "tower_damage": 0,
+        "hero_healing": 164,
+        "net_worth": 8315,
+        "stuns": 34.8
+      }
+    }
+  ]
+}

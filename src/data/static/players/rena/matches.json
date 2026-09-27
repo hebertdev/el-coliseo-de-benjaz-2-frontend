@@ -1,0 +1,1900 @@
+{
+  "total_matches": 14,
+  "wins": 7,
+  "losses": 7,
+  "win_rate": 50,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-13",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "matches": [
+        {
+          "game_id": 83,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+          "game_number": 2,
+          "duration_seconds": 1862,
+          "duration_formatted": "31:02",
+          "date": "2026-09-13T19:23:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 72,
+            "name": "Gyrocopter",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 16
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 43
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 43
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 16
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 5,
+            "assists": 6,
+            "kda": 1.4,
+            "last_hits": 302,
+            "denies": 19,
+            "gpm": 506,
+            "xpm": 613,
+            "hero_damage": 10606,
+            "tower_damage": 790,
+            "hero_healing": 0,
+            "net_worth": 14266,
+            "stuns": 14.6
+          }
+        },
+        {
+          "game_id": 82,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+          "game_number": 1,
+          "duration_seconds": 2943,
+          "duration_formatted": "49:03",
+          "date": "2026-09-13T18:04:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 18,
+            "name": "Sven",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/sven_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 53
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "dire_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 53
+          },
+          "stats": {
+            "kills": 12,
+            "deaths": 7,
+            "assists": 12,
+            "kda": 3.43,
+            "last_hits": 518,
+            "denies": 9,
+            "gpm": 652,
+            "xpm": 868,
+            "hero_damage": 39222,
+            "tower_damage": 2373,
+            "hero_healing": 0,
+            "net_worth": 28432,
+            "stuns": 50.9
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "matches": [
+        {
+          "game_id": 77,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-3",
+          "game_number": 3,
+          "duration_seconds": 1911,
+          "duration_formatted": "31:51",
+          "date": "2026-09-11T22:26:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 8,
+            "name": "Juggernaut",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/juggernaut_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 9
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 36
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 9
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 3,
+            "assists": 3,
+            "kda": 1.67,
+            "last_hits": 333,
+            "denies": 7,
+            "gpm": 560,
+            "xpm": 631,
+            "hero_damage": 8427,
+            "tower_damage": 1062,
+            "hero_healing": 1380,
+            "net_worth": 16705,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 76,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-2",
+          "game_number": 2,
+          "duration_seconds": 2183,
+          "duration_formatted": "36:23",
+          "date": "2026-09-11T21:31:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 18,
+            "name": "Sven",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/sven_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 30
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 12
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 30
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 12
+          },
+          "stats": {
+            "kills": 16,
+            "deaths": 0,
+            "assists": 1,
+            "kda": 17,
+            "last_hits": 566,
+            "denies": 9,
+            "gpm": 968,
+            "xpm": 1039,
+            "hero_damage": 16220,
+            "tower_damage": 20881,
+            "hero_healing": 0,
+            "net_worth": 34034,
+            "stuns": 24.7
+          }
+        },
+        {
+          "game_id": 75,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-1",
+          "game_number": 1,
+          "duration_seconds": 1696,
+          "duration_formatted": "28:16",
+          "date": "2026-09-11T20:31:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 80,
+            "name": "Lone Druid",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 9
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 35
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 35
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 9
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 3,
+            "assists": 0,
+            "kda": 1,
+            "last_hits": 342,
+            "denies": 10,
+            "gpm": 578,
+            "xpm": 552,
+            "hero_damage": 7250,
+            "tower_damage": 1393,
+            "hero_healing": 0,
+            "net_worth": 16274,
+            "stuns": 27.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "matches": [
+        {
+          "game_id": 74,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-3",
+          "game_number": 3,
+          "duration_seconds": 2779,
+          "duration_formatted": "46:19",
+          "date": "2026-09-11T04:52:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 109,
+            "name": "Terrorblade",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 29
+          },
+          "rival_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 14
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 29
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 14
+          },
+          "stats": {
+            "kills": 9,
+            "deaths": 1,
+            "assists": 3,
+            "kda": 12,
+            "last_hits": 801,
+            "denies": 7,
+            "gpm": 944,
+            "xpm": 989,
+            "hero_damage": 27458,
+            "tower_damage": 32470,
+            "hero_healing": 0,
+            "net_worth": 41053,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 68,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-1",
+          "game_number": 1,
+          "duration_seconds": 2698,
+          "duration_formatted": "44:58",
+          "date": "2026-09-11T02:48:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 109,
+            "name": "Terrorblade",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 30
+          },
+          "rival_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 29
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 30
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 29
+          },
+          "stats": {
+            "kills": 13,
+            "deaths": 3,
+            "assists": 8,
+            "kda": 7,
+            "last_hits": 656,
+            "denies": 19,
+            "gpm": 875,
+            "xpm": 761,
+            "hero_damage": 43320,
+            "tower_damage": 22914,
+            "hero_healing": 0,
+            "net_worth": 36414,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "matches": [
+        {
+          "game_id": 54,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-3",
+          "game_number": 3,
+          "duration_seconds": 1710,
+          "duration_formatted": "28:30",
+          "date": "2026-09-08T22:10:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 72,
+            "name": "Gyrocopter",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 25
+          },
+          "rival_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 9
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 25
+          },
+          "dire_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 9
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 1,
+            "assists": 9,
+            "kda": 16,
+            "last_hits": 336,
+            "denies": 23,
+            "gpm": 770,
+            "xpm": 804,
+            "hero_damage": 25849,
+            "tower_damage": 18080,
+            "hero_healing": 0,
+            "net_worth": 21862,
+            "stuns": 26.8
+          }
+        },
+        {
+          "game_id": 49,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-2",
+          "game_number": 2,
+          "duration_seconds": 1891,
+          "duration_formatted": "31:31",
+          "date": "2026-09-08T21:20:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 72,
+            "name": "Gyrocopter",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 29
+          },
+          "rival_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 18
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 29
+          },
+          "dire_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 18
+          },
+          "stats": {
+            "kills": 12,
+            "deaths": 1,
+            "assists": 6,
+            "kda": 18,
+            "last_hits": 391,
+            "denies": 27,
+            "gpm": 769,
+            "xpm": 794,
+            "hero_damage": 25042,
+            "tower_damage": 12116,
+            "hero_healing": 0,
+            "net_worth": 23501,
+            "stuns": 22.9
+          }
+        },
+        {
+          "game_id": 48,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 3054,
+          "duration_formatted": "50:54",
+          "date": "2026-09-08T20:24:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 12,
+            "name": "Phantom Lancer",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "rival_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 38
+          },
+          "radiant_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 38
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "stats": {
+            "kills": 9,
+            "deaths": 4,
+            "assists": 9,
+            "kda": 4.5,
+            "last_hits": 616,
+            "denies": 16,
+            "gpm": 748,
+            "xpm": 893,
+            "hero_damage": 54038,
+            "tower_damage": 4895,
+            "hero_healing": 125,
+            "net_worth": 35740,
+            "stuns": 20.4
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "matches": [
+        {
+          "game_id": 33,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-2",
+          "game_number": 2,
+          "duration_seconds": 1571,
+          "duration_formatted": "26:11",
+          "date": "2026-09-06T19:58:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 48,
+            "name": "Luna",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 22
+          },
+          "rival_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 26
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 22
+          },
+          "dire_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 26
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 2,
+            "assists": 1,
+            "kda": 2.5,
+            "last_hits": 342,
+            "denies": 16,
+            "gpm": 662,
+            "xpm": 705,
+            "hero_damage": 13388,
+            "tower_damage": 1098,
+            "hero_healing": 0,
+            "net_worth": 16780,
+            "stuns": 9.7
+          }
+        },
+        {
+          "game_id": 25,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+          "game_number": 1,
+          "duration_seconds": 1896,
+          "duration_formatted": "31:36",
+          "date": "2026-09-06T19:11:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 109,
+            "name": "Terrorblade",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 23
+          },
+          "rival_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 27
+          },
+          "radiant_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 27
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 23
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 3,
+            "assists": 5,
+            "kda": 4,
+            "last_hits": 424,
+            "denies": 10,
+            "gpm": 761,
+            "xpm": 889,
+            "hero_damage": 15510,
+            "tower_damage": 2447,
+            "hero_healing": 0,
+            "net_worth": 20858,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 15,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g-game-1",
+          "game_number": 1,
+          "duration_seconds": 2889,
+          "duration_formatted": "48:09",
+          "date": "2026-09-05T02:22:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 18,
+            "name": "Sven",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/sven_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 32
+          },
+          "rival_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 22
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 22
+          },
+          "stats": {
+            "kills": 11,
+            "deaths": 4,
+            "assists": 7,
+            "kda": 4.5,
+            "last_hits": 583,
+            "denies": 15,
+            "gpm": 700,
+            "xpm": 1055,
+            "hero_damage": 32888,
+            "tower_damage": 9770,
+            "hero_healing": 0,
+            "net_worth": 31346,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 7,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-leostyle-vs-payasita-g-game-1",
+          "game_number": 1,
+          "duration_seconds": 2950,
+          "duration_formatted": "49:10",
+          "date": "2026-09-04T03:06:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 72,
+            "name": "Gyrocopter",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+          },
+          "player_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 48
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 33
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 48
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 33
+          },
+          "stats": {
+            "kills": 14,
+            "deaths": 5,
+            "assists": 21,
+            "kda": 7,
+            "last_hits": 595,
+            "denies": 13,
+            "gpm": 808,
+            "xpm": 1075,
+            "hero_damage": 54337,
+            "tower_damage": 16395,
+            "hero_healing": 0,
+            "net_worth": 34190,
+            "stuns": 26.3
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 83,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-2",
+      "game_number": 2,
+      "duration_seconds": 1862,
+      "duration_formatted": "31:02",
+      "date": "2026-09-13T19:23:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 72,
+        "name": "Gyrocopter",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 16
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 43
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 43
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 16
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 5,
+        "assists": 6,
+        "kda": 1.4,
+        "last_hits": 302,
+        "denies": 19,
+        "gpm": 506,
+        "xpm": 613,
+        "hero_damage": 10606,
+        "tower_damage": 790,
+        "hero_healing": 0,
+        "net_worth": 14266,
+        "stuns": 14.6
+      }
+    },
+    {
+      "game_id": 82,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b2-t-matthew-vs-payasita-g-game-1",
+      "game_number": 1,
+      "duration_seconds": 2943,
+      "duration_formatted": "49:03",
+      "date": "2026-09-13T18:04:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 18,
+        "name": "Sven",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/sven_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 53
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "dire_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 53
+      },
+      "stats": {
+        "kills": 12,
+        "deaths": 7,
+        "assists": 12,
+        "kda": 3.43,
+        "last_hits": 518,
+        "denies": 9,
+        "gpm": 652,
+        "xpm": 868,
+        "hero_damage": 39222,
+        "tower_damage": 2373,
+        "hero_healing": 0,
+        "net_worth": 28432,
+        "stuns": 50.9
+      }
+    },
+    {
+      "game_id": 77,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-3",
+      "game_number": 3,
+      "duration_seconds": 1911,
+      "duration_formatted": "31:51",
+      "date": "2026-09-11T22:26:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 8,
+        "name": "Juggernaut",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/juggernaut_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 9
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 36
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 9
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 3,
+        "assists": 3,
+        "kda": 1.67,
+        "last_hits": 333,
+        "denies": 7,
+        "gpm": 560,
+        "xpm": 631,
+        "hero_damage": 8427,
+        "tower_damage": 1062,
+        "hero_healing": 1380,
+        "net_worth": 16705,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 76,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-2",
+      "game_number": 2,
+      "duration_seconds": 2183,
+      "duration_formatted": "36:23",
+      "date": "2026-09-11T21:31:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 18,
+        "name": "Sven",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/sven_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 30
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 12
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 30
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 12
+      },
+      "stats": {
+        "kills": 16,
+        "deaths": 0,
+        "assists": 1,
+        "kda": 17,
+        "last_hits": 566,
+        "denies": 9,
+        "gpm": 968,
+        "xpm": 1039,
+        "hero_damage": 16220,
+        "tower_damage": 20881,
+        "hero_healing": 0,
+        "net_worth": 34034,
+        "stuns": 24.7
+      }
+    },
+    {
+      "game_id": 75,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b4-t-leostyle-vs-payasita-g-game-1",
+      "game_number": 1,
+      "duration_seconds": 1696,
+      "duration_formatted": "28:16",
+      "date": "2026-09-11T20:31:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 80,
+        "name": "Lone Druid",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lone_druid_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 9
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 35
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 35
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 9
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 3,
+        "assists": 0,
+        "kda": 1,
+        "last_hits": 342,
+        "denies": 10,
+        "gpm": 578,
+        "xpm": 552,
+        "hero_damage": 7250,
+        "tower_damage": 1393,
+        "hero_healing": 0,
+        "net_worth": 16274,
+        "stuns": 27.6
+      }
+    },
+    {
+      "game_id": 74,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-3",
+      "game_number": 3,
+      "duration_seconds": 2779,
+      "duration_formatted": "46:19",
+      "date": "2026-09-11T04:52:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 109,
+        "name": "Terrorblade",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 29
+      },
+      "rival_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 14
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 29
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 14
+      },
+      "stats": {
+        "kills": 9,
+        "deaths": 1,
+        "assists": 3,
+        "kda": 12,
+        "last_hits": 801,
+        "denies": 7,
+        "gpm": 944,
+        "xpm": 989,
+        "hero_damage": 27458,
+        "tower_damage": 32470,
+        "hero_healing": 0,
+        "net_worth": 41053,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 68,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-1",
+      "game_number": 1,
+      "duration_seconds": 2698,
+      "duration_formatted": "44:58",
+      "date": "2026-09-11T02:48:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 109,
+        "name": "Terrorblade",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 30
+      },
+      "rival_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 29
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 30
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 29
+      },
+      "stats": {
+        "kills": 13,
+        "deaths": 3,
+        "assists": 8,
+        "kda": 7,
+        "last_hits": 656,
+        "denies": 19,
+        "gpm": 875,
+        "xpm": 761,
+        "hero_damage": 43320,
+        "tower_damage": 22914,
+        "hero_healing": 0,
+        "net_worth": 36414,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 54,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-3",
+      "game_number": 3,
+      "duration_seconds": 1710,
+      "duration_formatted": "28:30",
+      "date": "2026-09-08T22:10:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 72,
+        "name": "Gyrocopter",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 25
+      },
+      "rival_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 9
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 25
+      },
+      "dire_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 9
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 1,
+        "assists": 9,
+        "kda": 16,
+        "last_hits": 336,
+        "denies": 23,
+        "gpm": 770,
+        "xpm": 804,
+        "hero_damage": 25849,
+        "tower_damage": 18080,
+        "hero_healing": 0,
+        "net_worth": 21862,
+        "stuns": 26.8
+      }
+    },
+    {
+      "game_id": 49,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-2",
+      "game_number": 2,
+      "duration_seconds": 1891,
+      "duration_formatted": "31:31",
+      "date": "2026-09-08T21:20:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 72,
+        "name": "Gyrocopter",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 29
+      },
+      "rival_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 18
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 29
+      },
+      "dire_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 18
+      },
+      "stats": {
+        "kills": 12,
+        "deaths": 1,
+        "assists": 6,
+        "kda": 18,
+        "last_hits": 391,
+        "denies": 27,
+        "gpm": 769,
+        "xpm": 794,
+        "hero_damage": 25042,
+        "tower_damage": 12116,
+        "hero_healing": 0,
+        "net_worth": 23501,
+        "stuns": 22.9
+      }
+    },
+    {
+      "game_id": 48,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 3054,
+      "duration_formatted": "50:54",
+      "date": "2026-09-08T20:24:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 12,
+        "name": "Phantom Lancer",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/phantom_lancer_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "rival_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 38
+      },
+      "radiant_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 38
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "stats": {
+        "kills": 9,
+        "deaths": 4,
+        "assists": 9,
+        "kda": 4.5,
+        "last_hits": 616,
+        "denies": 16,
+        "gpm": 748,
+        "xpm": 893,
+        "hero_damage": 54038,
+        "tower_damage": 4895,
+        "hero_healing": 125,
+        "net_worth": 35740,
+        "stuns": 20.4
+      }
+    },
+    {
+      "game_id": 33,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-2",
+      "game_number": 2,
+      "duration_seconds": 1571,
+      "duration_formatted": "26:11",
+      "date": "2026-09-06T19:58:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 48,
+        "name": "Luna",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/luna_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 22
+      },
+      "rival_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 26
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 22
+      },
+      "dire_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 26
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 2,
+        "assists": 1,
+        "kda": 2.5,
+        "last_hits": 342,
+        "denies": 16,
+        "gpm": 662,
+        "xpm": 705,
+        "hero_damage": 13388,
+        "tower_damage": 1098,
+        "hero_healing": 0,
+        "net_worth": 16780,
+        "stuns": 9.7
+      }
+    },
+    {
+      "game_id": 25,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+      "game_number": 1,
+      "duration_seconds": 1896,
+      "duration_formatted": "31:36",
+      "date": "2026-09-06T19:11:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 109,
+        "name": "Terrorblade",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/terrorblade_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 23
+      },
+      "rival_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 27
+      },
+      "radiant_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 27
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 23
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 3,
+        "assists": 5,
+        "kda": 4,
+        "last_hits": 424,
+        "denies": 10,
+        "gpm": 761,
+        "xpm": 889,
+        "hero_damage": 15510,
+        "tower_damage": 2447,
+        "hero_healing": 0,
+        "net_worth": 20858,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 15,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g-game-1",
+      "game_number": 1,
+      "duration_seconds": 2889,
+      "duration_formatted": "48:09",
+      "date": "2026-09-05T02:22:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 18,
+        "name": "Sven",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/sven_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 32
+      },
+      "rival_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 22
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 22
+      },
+      "stats": {
+        "kills": 11,
+        "deaths": 4,
+        "assists": 7,
+        "kda": 4.5,
+        "last_hits": 583,
+        "denies": 15,
+        "gpm": 700,
+        "xpm": 1055,
+        "hero_damage": 32888,
+        "tower_damage": 9770,
+        "hero_healing": 0,
+        "net_worth": 31346,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 7,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-leostyle-vs-payasita-g-game-1",
+      "game_number": 1,
+      "duration_seconds": 2950,
+      "duration_formatted": "49:10",
+      "date": "2026-09-04T03:06:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 72,
+        "name": "Gyrocopter",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/gyrocopter_vert.png"
+      },
+      "player_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 48
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 33
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 48
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 33
+      },
+      "stats": {
+        "kills": 14,
+        "deaths": 5,
+        "assists": 21,
+        "kda": 7,
+        "last_hits": 595,
+        "denies": 13,
+        "gpm": 808,
+        "xpm": 1075,
+        "hero_damage": 54337,
+        "tower_damage": 16395,
+        "hero_healing": 0,
+        "net_worth": 34190,
+        "stuns": 26.3
+      }
+    }
+  ]
+}

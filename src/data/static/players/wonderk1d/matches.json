@@ -1,0 +1,964 @@
+{
+  "total_matches": 7,
+  "wins": 2,
+  "losses": 5,
+  "win_rate": 28.6,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "matches": [
+        {
+          "game_id": 60,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "duration_seconds": 1859,
+          "duration_formatted": "30:59",
+          "date": "2026-09-10T01:14:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 59,
+            "name": "Huskar",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/huskar_vert.png"
+          },
+          "player_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 17
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "radiant_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 17
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 6,
+            "deaths": 7,
+            "assists": 5,
+            "kda": 1.57,
+            "last_hits": 234,
+            "denies": 15,
+            "gpm": 470,
+            "xpm": 531,
+            "hero_damage": 14278,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 13542,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 59,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "duration_seconds": 3018,
+          "duration_formatted": "50:18",
+          "date": "2026-09-10T00:14:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 17,
+            "name": "Storm Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 12
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 43
+          },
+          "radiant_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 12
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 43
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 5,
+            "assists": 8,
+            "kda": 2.2,
+            "last_hits": 413,
+            "denies": 11,
+            "gpm": 516,
+            "xpm": 716,
+            "hero_damage": 38569,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 20913,
+            "stuns": 39.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "matches": [
+        {
+          "game_id": 51,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-2",
+          "game_number": 2,
+          "duration_seconds": 2658,
+          "duration_formatted": "44:18",
+          "date": "2026-09-09T00:21:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 106,
+            "name": "Ember Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 40
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 28
+          },
+          "radiant_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 40
+          },
+          "dire_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 28
+          },
+          "stats": {
+            "kills": 21,
+            "deaths": 3,
+            "assists": 15,
+            "kda": 12,
+            "last_hits": 375,
+            "denies": 7,
+            "gpm": 710,
+            "xpm": 806,
+            "hero_damage": 61109,
+            "tower_damage": 630,
+            "hero_healing": 0,
+            "net_worth": 26877,
+            "stuns": 113.8
+          }
+        },
+        {
+          "game_id": 50,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-1",
+          "game_number": 1,
+          "duration_seconds": 1555,
+          "duration_formatted": "25:55",
+          "date": "2026-09-08T23:09:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 126,
+            "name": "Void Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 9
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 33
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 33
+          },
+          "dire_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 9
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 5,
+            "assists": 4,
+            "kda": 1.6,
+            "last_hits": 191,
+            "denies": 10,
+            "gpm": 501,
+            "xpm": 585,
+            "hero_damage": 10648,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 11870,
+            "stuns": 2.5
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "matches": [
+        {
+          "game_id": 30,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 3104,
+          "duration_formatted": "51:44",
+          "date": "2026-09-07T02:13:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 120,
+            "name": "Pangolier",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+          },
+          "player_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 34
+          },
+          "rival_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 30
+          },
+          "radiant_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 30
+          },
+          "dire_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 34
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 2,
+            "assists": 18,
+            "kda": 12.5,
+            "last_hits": 401,
+            "denies": 9,
+            "gpm": 577,
+            "xpm": 782,
+            "hero_damage": 33311,
+            "tower_damage": 84,
+            "hero_healing": 0,
+            "net_worth": 25981,
+            "stuns": 50
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 15,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g-game-1",
+          "game_number": 1,
+          "duration_seconds": 2889,
+          "duration_formatted": "48:09",
+          "date": "2026-09-05T02:22:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 25,
+            "name": "Lina",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+          },
+          "player_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 22
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 32
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 22
+          },
+          "stats": {
+            "kills": 6,
+            "deaths": 5,
+            "assists": 11,
+            "kda": 3.4,
+            "last_hits": 561,
+            "denies": 14,
+            "gpm": 645,
+            "xpm": 832,
+            "hero_damage": 23455,
+            "tower_damage": 547,
+            "hero_healing": 0,
+            "net_worth": 28210,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 6,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka-game-1",
+          "game_number": 1,
+          "duration_seconds": 3086,
+          "duration_formatted": "51:26",
+          "date": "2026-09-04T01:41:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 13,
+            "name": "Puck",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+          },
+          "player_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 36
+          },
+          "rival_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 23
+          },
+          "radiant_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 23
+          },
+          "dire_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 2,
+            "assists": 27,
+            "kda": 17,
+            "last_hits": 564,
+            "denies": 5,
+            "gpm": 773,
+            "xpm": 1256,
+            "hero_damage": 51673,
+            "tower_damage": 1393,
+            "hero_healing": 450,
+            "net_worth": 38095,
+            "stuns": 14.8
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 60,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-2",
+      "game_number": 2,
+      "duration_seconds": 1859,
+      "duration_formatted": "30:59",
+      "date": "2026-09-10T01:14:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 59,
+        "name": "Huskar",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/huskar_vert.png"
+      },
+      "player_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 17
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "radiant_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 17
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 6,
+        "deaths": 7,
+        "assists": 5,
+        "kda": 1.57,
+        "last_hits": 234,
+        "denies": 15,
+        "gpm": 470,
+        "xpm": 531,
+        "hero_damage": 14278,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 13542,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 59,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-tm-vs-dotagaymer-game-1",
+      "game_number": 1,
+      "duration_seconds": 3018,
+      "duration_formatted": "50:18",
+      "date": "2026-09-10T00:14:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 17,
+        "name": "Storm Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 12
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 43
+      },
+      "radiant_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 12
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 43
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 5,
+        "assists": 8,
+        "kda": 2.2,
+        "last_hits": 413,
+        "denies": 11,
+        "gpm": 516,
+        "xpm": 716,
+        "hero_damage": 38569,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 20913,
+        "stuns": 39.6
+      }
+    },
+    {
+      "game_id": 51,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-2",
+      "game_number": 2,
+      "duration_seconds": 2658,
+      "duration_formatted": "44:18",
+      "date": "2026-09-09T00:21:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 106,
+        "name": "Ember Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 40
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 28
+      },
+      "radiant_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 40
+      },
+      "dire_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 28
+      },
+      "stats": {
+        "kills": 21,
+        "deaths": 3,
+        "assists": 15,
+        "kda": 12,
+        "last_hits": 375,
+        "denies": 7,
+        "gpm": 710,
+        "xpm": 806,
+        "hero_damage": 61109,
+        "tower_damage": 630,
+        "hero_healing": 0,
+        "net_worth": 26877,
+        "stuns": 113.8
+      }
+    },
+    {
+      "game_id": 50,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-matthew-vs-tm-game-1",
+      "game_number": 1,
+      "duration_seconds": 1555,
+      "duration_formatted": "25:55",
+      "date": "2026-09-08T23:09:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 126,
+        "name": "Void Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 9
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 33
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 33
+      },
+      "dire_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 9
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 5,
+        "assists": 4,
+        "kda": 1.6,
+        "last_hits": 191,
+        "denies": 10,
+        "gpm": 501,
+        "xpm": 585,
+        "hero_damage": 10648,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 11870,
+        "stuns": 2.5
+      }
+    },
+    {
+      "game_id": 30,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 3104,
+      "duration_formatted": "51:44",
+      "date": "2026-09-07T02:13:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 120,
+        "name": "Pangolier",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pangolier_vert.png"
+      },
+      "player_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 34
+      },
+      "rival_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 30
+      },
+      "radiant_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 30
+      },
+      "dire_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 34
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 2,
+        "assists": 18,
+        "kda": 12.5,
+        "last_hits": 401,
+        "denies": 9,
+        "gpm": 577,
+        "xpm": 782,
+        "hero_damage": 33311,
+        "tower_damage": 84,
+        "hero_healing": 0,
+        "net_worth": 25981,
+        "stuns": 50
+      }
+    },
+    {
+      "game_id": 15,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-tm-vs-payasita-g-game-1",
+      "game_number": 1,
+      "duration_seconds": 2889,
+      "duration_formatted": "48:09",
+      "date": "2026-09-05T02:22:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 25,
+        "name": "Lina",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lina_vert.png"
+      },
+      "player_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 22
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 32
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 22
+      },
+      "stats": {
+        "kills": 6,
+        "deaths": 5,
+        "assists": 11,
+        "kda": 3.4,
+        "last_hits": 561,
+        "denies": 14,
+        "gpm": 645,
+        "xpm": 832,
+        "hero_damage": 23455,
+        "tower_damage": 547,
+        "hero_healing": 0,
+        "net_worth": 28210,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 6,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka-game-1",
+      "game_number": 1,
+      "duration_seconds": 3086,
+      "duration_formatted": "51:26",
+      "date": "2026-09-04T01:41:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 13,
+        "name": "Puck",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+      },
+      "player_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 36
+      },
+      "rival_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 23
+      },
+      "radiant_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 23
+      },
+      "dire_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 2,
+        "assists": 27,
+        "kda": 17,
+        "last_hits": 564,
+        "denies": 5,
+        "gpm": 773,
+        "xpm": 1256,
+        "hero_damage": 51673,
+        "tower_damage": 1393,
+        "hero_healing": 450,
+        "net_worth": 38095,
+        "stuns": 14.8
+      }
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "total_matches": 5,
+  "wins": 1,
+  "losses": 4,
+  "win_rate": 20,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-07",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "matches": [
+        {
+          "game_id": 41,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-2",
+          "game_number": 2,
+          "duration_seconds": 2737,
+          "duration_formatted": "45:37",
+          "date": "2026-09-07T18:53:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 14,
+            "name": "Pudge",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/pudge_vert.png"
+          },
+          "player_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 34
+          },
+          "rival_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 45
+          },
+          "radiant_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 34
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 45
+          },
+          "stats": {
+            "kills": 9,
+            "deaths": 10,
+            "assists": 18,
+            "kda": 2.7,
+            "last_hits": 286,
+            "denies": 4,
+            "gpm": 532,
+            "xpm": 809,
+            "hero_damage": 44318,
+            "tower_damage": 1078,
+            "hero_healing": 0,
+            "net_worth": 19212,
+            "stuns": 85.7
+          }
+        },
+        {
+          "game_id": 40,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-1",
+          "game_number": 1,
+          "duration_seconds": 2010,
+          "duration_formatted": "33:30",
+          "date": "2026-09-07T17:37:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 128,
+            "name": "Snapfire",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+          },
+          "player_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 10
+          },
+          "rival_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 32
+          },
+          "radiant_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 10
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 32
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 4,
+            "assists": 6,
+            "kda": 2,
+            "last_hits": 272,
+            "denies": 5,
+            "gpm": 480,
+            "xpm": 561,
+            "hero_damage": 17125,
+            "tower_damage": 428,
+            "hero_healing": 0,
+            "net_worth": 15530,
+            "stuns": 7.5
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "matches": [
+        {
+          "game_id": 23,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-matthew-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 1695,
+          "duration_formatted": "28:15",
+          "date": "2026-09-06T00:53:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 126,
+            "name": "Void Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 4
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 42
+          },
+          "radiant_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 4
+          },
+          "dire_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 42
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 8,
+            "assists": 3,
+            "kda": 0.38,
+            "last_hits": 169,
+            "denies": 5,
+            "gpm": 356,
+            "xpm": 434,
+            "hero_damage": 10152,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 9041,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 9,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-dotagaymer-vs-bb-game-1",
+          "game_number": 1,
+          "duration_seconds": 2418,
+          "duration_formatted": "40:18",
+          "date": "2026-09-04T17:46:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 28,
+            "name": "Slardar",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png"
+          },
+          "player_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 19
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 18
+          },
+          "radiant_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 19
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 18
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 3,
+            "assists": 12,
+            "kda": 5.33,
+            "last_hits": 268,
+            "denies": 13,
+            "gpm": 575,
+            "xpm": 727,
+            "hero_damage": 20340,
+            "tower_damage": 2557,
+            "hero_healing": 0,
+            "net_worth": 21921,
+            "stuns": 43.2
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 3,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-iwo-vs-bb-game-1",
+          "game_number": 1,
+          "duration_seconds": 2075,
+          "duration_formatted": "34:35",
+          "date": "2026-09-03T20:30:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 46,
+            "name": "Templar Assassin",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/templar_assassin_vert.png"
+          },
+          "player_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 20
+          },
+          "rival_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 31
+          },
+          "radiant_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 31
+          },
+          "dire_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 20
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 4,
+            "assists": 7,
+            "kda": 3,
+            "last_hits": 457,
+            "denies": 5,
+            "gpm": 655,
+            "xpm": 828,
+            "hero_damage": 14517,
+            "tower_damage": 962,
+            "hero_healing": 0,
+            "net_worth": 21041,
+            "stuns": 0
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 41,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-2",
+      "game_number": 2,
+      "duration_seconds": 2737,
+      "duration_formatted": "45:37",
+      "date": "2026-09-07T18:53:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 14,
+        "name": "Pudge",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/pudge_vert.png"
+      },
+      "player_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 34
+      },
+      "rival_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 45
+      },
+      "radiant_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 34
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 45
+      },
+      "stats": {
+        "kills": 9,
+        "deaths": 10,
+        "assists": 18,
+        "kda": 2.7,
+        "last_hits": 286,
+        "denies": 4,
+        "gpm": 532,
+        "xpm": 809,
+        "hero_damage": 44318,
+        "tower_damage": 1078,
+        "hero_healing": 0,
+        "net_worth": 19212,
+        "stuns": 85.7
+      }
+    },
+    {
+      "game_id": 40,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-1",
+      "game_number": 1,
+      "duration_seconds": 2010,
+      "duration_formatted": "33:30",
+      "date": "2026-09-07T17:37:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 128,
+        "name": "Snapfire",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+      },
+      "player_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 10
+      },
+      "rival_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 32
+      },
+      "radiant_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 10
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 32
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 4,
+        "assists": 6,
+        "kda": 2,
+        "last_hits": 272,
+        "denies": 5,
+        "gpm": 480,
+        "xpm": 561,
+        "hero_damage": 17125,
+        "tower_damage": 428,
+        "hero_healing": 0,
+        "net_worth": 15530,
+        "stuns": 7.5
+      }
+    },
+    {
+      "game_id": 23,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-matthew-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 1695,
+      "duration_formatted": "28:15",
+      "date": "2026-09-06T00:53:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 126,
+        "name": "Void Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 4
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 42
+      },
+      "radiant_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 4
+      },
+      "dire_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 42
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 8,
+        "assists": 3,
+        "kda": 0.38,
+        "last_hits": 169,
+        "denies": 5,
+        "gpm": 356,
+        "xpm": 434,
+        "hero_damage": 10152,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 9041,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 9,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-dotagaymer-vs-bb-game-1",
+      "game_number": 1,
+      "duration_seconds": 2418,
+      "duration_formatted": "40:18",
+      "date": "2026-09-04T17:46:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 28,
+        "name": "Slardar",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/slardar_vert.png"
+      },
+      "player_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 19
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 18
+      },
+      "radiant_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 19
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 18
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 3,
+        "assists": 12,
+        "kda": 5.33,
+        "last_hits": 268,
+        "denies": 13,
+        "gpm": 575,
+        "xpm": 727,
+        "hero_damage": 20340,
+        "tower_damage": 2557,
+        "hero_healing": 0,
+        "net_worth": 21921,
+        "stuns": 43.2
+      }
+    },
+    {
+      "game_id": 3,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-iwo-vs-bb-game-1",
+      "game_number": 1,
+      "duration_seconds": 2075,
+      "duration_formatted": "34:35",
+      "date": "2026-09-03T20:30:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 46,
+        "name": "Templar Assassin",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/templar_assassin_vert.png"
+      },
+      "player_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 20
+      },
+      "rival_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 31
+      },
+      "radiant_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 31
+      },
+      "dire_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 20
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 4,
+        "assists": 7,
+        "kda": 3,
+        "last_hits": 457,
+        "denies": 5,
+        "gpm": 655,
+        "xpm": 828,
+        "hero_damage": 14517,
+        "tower_damage": 962,
+        "hero_healing": 0,
+        "net_worth": 21041,
+        "stuns": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "soe",
+  "nickname": "Soe",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/soez.webp",
+  "bio": "",
+  "kick_url": "https://kick.com/soez3",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/soez3",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 197439394,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PY",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Rising Rage",
+        "slug": "rising-rage",
+        "tag": "t leostyle",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 4,
+      "position_display": "Position 4 - Soft Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:26:23.179165-05:00",
+  "updated_at": "2026-09-13T20:47:12.123140-05:00"
+}

@@ -1,0 +1,593 @@
+{
+  "total_series": 5,
+  "completed_series": 5,
+  "wins": 3,
+  "losses": 2,
+  "win_rate": 60,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "series": [
+        {
+          "series_id": 35,
+          "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-10T20:34:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "team_a": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 2,
+            "is_current": false,
+            "record": "0 - 0"
+          },
+          "team_b": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "0 - 0"
+          },
+          "score_a": 2,
+          "score_b": 1,
+          "winner_id": 8,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-1",
+          "games": [
+            {
+              "id": 64,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 1483,
+              "duration_formatted": "24:43",
+              "winner_tag": "t matthew"
+            },
+            {
+              "id": 65,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 2948,
+              "duration_formatted": "49:08",
+              "winner_tag": "t stinger"
+            },
+            {
+              "id": 71,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "duration_seconds": 1927,
+              "duration_formatted": "32:07",
+              "winner_tag": "t matthew"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "series": [
+        {
+          "series_id": 28,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-08T17:00:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "team_a": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "2 - 3"
+          },
+          "team_b": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "3 - 1"
+          },
+          "score_a": 0,
+          "score_b": 2,
+          "winner_id": 14,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-1",
+          "games": [
+            {
+              "id": 46,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 3354,
+              "duration_formatted": "55:54",
+              "winner_tag": "t stinger"
+            },
+            {
+              "id": 47,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 1599,
+              "duration_formatted": "26:39",
+              "winner_tag": "t stinger"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "series": [
+        {
+          "series_id": 22,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-06T22:00:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "team_a": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 2,
+            "is_current": false,
+            "record": "3 - 0"
+          },
+          "team_b": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "3 - 1"
+          },
+          "score_a": 2,
+          "score_b": 0,
+          "winner_id": 6,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+          "games": [
+            {
+              "id": 26,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 4021,
+              "duration_formatted": "67:01",
+              "winner_tag": "team k1"
+            },
+            {
+              "id": 35,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 4106,
+              "duration_formatted": "68:26",
+              "winner_tag": "team k1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "series": [
+        {
+          "series_id": 14,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-05T01:05:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "team_a": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "1 - 3"
+          },
+          "team_b": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "3 - 1"
+          },
+          "score_a": 0,
+          "score_b": 1,
+          "winner_id": 14,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger-game-1",
+          "games": [
+            {
+              "id": 14,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2659,
+              "duration_formatted": "44:19",
+              "winner_tag": "t stinger"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "series": [
+        {
+          "series_id": 8,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-04T04:23:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "team_a": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "0 - 3"
+          },
+          "team_b": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "3 - 1"
+          },
+          "score_a": 0,
+          "score_b": 1,
+          "winner_id": 14,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+          "games": [
+            {
+              "id": 8,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2574,
+              "duration_formatted": "42:54",
+              "winner_tag": "t stinger"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "series_id": 35,
+      "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-10T20:34:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "team_a": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 2,
+        "is_current": false,
+        "record": "0 - 0"
+      },
+      "team_b": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "0 - 0"
+      },
+      "score_a": 2,
+      "score_b": 1,
+      "winner_id": 8,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-1",
+      "games": [
+        {
+          "id": 64,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 1483,
+          "duration_formatted": "24:43",
+          "winner_tag": "t matthew"
+        },
+        {
+          "id": 65,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 2948,
+          "duration_formatted": "49:08",
+          "winner_tag": "t stinger"
+        },
+        {
+          "id": 71,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b6-t-matthew-vs-t-stinger-game-3",
+          "game_number": 3,
+          "status": "COMPLETED",
+          "duration_seconds": 1927,
+          "duration_formatted": "32:07",
+          "winner_tag": "t matthew"
+        }
+      ]
+    },
+    {
+      "series_id": 28,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-08T17:00:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "team_a": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "2 - 3"
+      },
+      "team_b": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "3 - 1"
+      },
+      "score_a": 0,
+      "score_b": 2,
+      "winner_id": 14,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-1",
+      "games": [
+        {
+          "id": 46,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 3354,
+          "duration_formatted": "55:54",
+          "winner_tag": "t stinger"
+        },
+        {
+          "id": 47,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-sacred-vs-t-stinger-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 1599,
+          "duration_formatted": "26:39",
+          "winner_tag": "t stinger"
+        }
+      ]
+    },
+    {
+      "series_id": 22,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-06T22:00:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "team_a": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 2,
+        "is_current": false,
+        "record": "3 - 0"
+      },
+      "team_b": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "3 - 1"
+      },
+      "score_a": 2,
+      "score_b": 0,
+      "winner_id": 6,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+      "games": [
+        {
+          "id": 26,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 4021,
+          "duration_formatted": "67:01",
+          "winner_tag": "team k1"
+        },
+        {
+          "id": 35,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 4106,
+          "duration_formatted": "68:26",
+          "winner_tag": "team k1"
+        }
+      ]
+    },
+    {
+      "series_id": 14,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-05T01:05:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "team_a": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "1 - 3"
+      },
+      "team_b": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "3 - 1"
+      },
+      "score_a": 0,
+      "score_b": 1,
+      "winner_id": 14,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger-game-1",
+      "games": [
+        {
+          "id": 14,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2659,
+          "duration_formatted": "44:19",
+          "winner_tag": "t stinger"
+        }
+      ]
+    },
+    {
+      "series_id": 8,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-04T04:23:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "team_a": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "0 - 3"
+      },
+      "team_b": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "3 - 1"
+      },
+      "score_a": 0,
+      "score_b": 1,
+      "winner_id": 14,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+      "games": [
+        {
+          "id": 8,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2574,
+          "duration_formatted": "42:54",
+          "winner_tag": "t stinger"
+        }
+      ]
+    }
+  ]
+}

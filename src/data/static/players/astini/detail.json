@@ -1,0 +1,45 @@
+{
+  "slug": "astini",
+  "nickname": "Astini",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/astini.jpeg",
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "https://www.twitch.tv/astinidota",
+  "youtube_url": "https://www.youtube.com/filipeastini",
+  "instagram_url": "https://www.instagram.com/filipeastini",
+  "twitter_url": "https://x.com/astinidota",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 87141119,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "BR",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "TEAM BRASIL",
+        "slug": "team-brasil",
+        "tag": "t astini",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "BR",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "CAPTAIN",
+      "role_display": "Captain",
+      "competitive_position": 4,
+      "position_display": "Position 4 - Soft Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-08-29T17:20:23.137281-05:00",
+  "updated_at": "2026-09-03T16:40:58.675544-05:00"
+}

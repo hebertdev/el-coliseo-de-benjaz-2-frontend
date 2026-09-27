@@ -1,0 +1,767 @@
+{
+  "total_series": 6,
+  "completed_series": 6,
+  "wins": 5,
+  "losses": 1,
+  "win_rate": 83.3,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-13",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "series": [
+        {
+          "series_id": 40,
+          "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle",
+          "best_of": "BO5",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-13T22:10:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+          "date_key": "2026-09-13",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "team_a": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "0 - 0"
+          },
+          "team_b": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 3,
+            "is_current": false,
+            "record": "0 - 0"
+          },
+          "score_a": 2,
+          "score_b": 3,
+          "winner_id": 2,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+          "games": [
+            {
+              "id": 79,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 1911,
+              "duration_formatted": "31:51",
+              "winner_tag": "t leostyle"
+            },
+            {
+              "id": 80,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 2948,
+              "duration_formatted": "49:08",
+              "winner_tag": "team k1"
+            },
+            {
+              "id": 81,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "duration_seconds": 1318,
+              "duration_formatted": "21:58",
+              "winner_tag": "t leostyle"
+            },
+            {
+              "id": 84,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+              "game_number": 4,
+              "status": "COMPLETED",
+              "duration_seconds": 2148,
+              "duration_formatted": "35:48",
+              "winner_tag": "team k1"
+            },
+            {
+              "id": 85,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5",
+              "game_number": 5,
+              "status": "COMPLETED",
+              "duration_seconds": 3429,
+              "duration_formatted": "57:09",
+              "winner_tag": "t leostyle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "series": [
+        {
+          "series_id": 38,
+          "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-11T23:00:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "team_a": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "0 - 0"
+          },
+          "team_b": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 1,
+            "is_current": false,
+            "record": "0 - 0"
+          },
+          "score_a": 2,
+          "score_b": 1,
+          "winner_id": 6,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-1",
+          "games": [
+            {
+              "id": 72,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 1956,
+              "duration_formatted": "32:36",
+              "winner_tag": "team k1"
+            },
+            {
+              "id": 73,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 3210,
+              "duration_formatted": "53:30",
+              "winner_tag": "t matthew"
+            },
+            {
+              "id": 78,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "duration_seconds": 3046,
+              "duration_formatted": "50:46",
+              "winner_tag": "team k1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "series": [
+        {
+          "series_id": 34,
+          "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-10T17:00:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "team_a": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "0 - 0"
+          },
+          "team_b": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "0 - 0"
+          },
+          "score_a": 2,
+          "score_b": 0,
+          "winner_id": 6,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+          "games": [
+            {
+              "id": 62,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2704,
+              "duration_formatted": "45:04",
+              "winner_tag": "team k1"
+            },
+            {
+              "id": 63,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 4256,
+              "duration_formatted": "70:56",
+              "winner_tag": "team k1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "series": [
+        {
+          "series_id": 22,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-06T22:00:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "team_a": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "3 - 0"
+          },
+          "team_b": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "3 - 1"
+          },
+          "score_a": 2,
+          "score_b": 0,
+          "winner_id": 6,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+          "games": [
+            {
+              "id": 26,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 4021,
+              "duration_formatted": "67:01",
+              "winner_tag": "team k1"
+            },
+            {
+              "id": 35,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 4106,
+              "duration_formatted": "68:26",
+              "winner_tag": "team k1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "series": [
+        {
+          "series_id": 16,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-05T04:00:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "team_a": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "3 - 1"
+          },
+          "team_b": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "3 - 0"
+          },
+          "score_a": 0,
+          "score_b": 1,
+          "winner_id": 6,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1-game-1",
+          "games": [
+            {
+              "id": 16,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 3851,
+              "duration_formatted": "64:11",
+              "winner_tag": "team k1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "series": [
+        {
+          "series_id": 5,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-04T00:17:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "team_a": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "3 - 0"
+          },
+          "team_b": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "2 - 3"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 6,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield-game-1",
+          "games": [
+            {
+              "id": 5,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2244,
+              "duration_formatted": "37:24",
+              "winner_tag": "team k1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "series_id": 40,
+      "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle",
+      "best_of": "BO5",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-13T22:10:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 13.",
+      "date_key": "2026-09-13",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "team_a": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "0 - 0"
+      },
+      "team_b": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 3,
+        "is_current": false,
+        "record": "0 - 0"
+      },
+      "score_a": 2,
+      "score_b": 3,
+      "winner_id": 2,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+      "games": [
+        {
+          "id": 79,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 1911,
+          "duration_formatted": "31:51",
+          "winner_tag": "t leostyle"
+        },
+        {
+          "id": 80,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 2948,
+          "duration_formatted": "49:08",
+          "winner_tag": "team k1"
+        },
+        {
+          "id": 81,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-3",
+          "game_number": 3,
+          "status": "COMPLETED",
+          "duration_seconds": 1318,
+          "duration_formatted": "21:58",
+          "winner_tag": "t leostyle"
+        },
+        {
+          "id": 84,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-4",
+          "game_number": 4,
+          "status": "COMPLETED",
+          "duration_seconds": 2148,
+          "duration_formatted": "35:48",
+          "winner_tag": "team k1"
+        },
+        {
+          "id": 85,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b1-team-k1-vs-t-leostyle-game-5",
+          "game_number": 5,
+          "status": "COMPLETED",
+          "duration_seconds": 3429,
+          "duration_formatted": "57:09",
+          "winner_tag": "t leostyle"
+        }
+      ]
+    },
+    {
+      "series_id": 38,
+      "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-11T23:00:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "team_a": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "0 - 0"
+      },
+      "team_b": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 1,
+        "is_current": false,
+        "record": "0 - 0"
+      },
+      "score_a": 2,
+      "score_b": 1,
+      "winner_id": 6,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-1",
+      "games": [
+        {
+          "id": 72,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 1956,
+          "duration_formatted": "32:36",
+          "winner_tag": "team k1"
+        },
+        {
+          "id": 73,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 3210,
+          "duration_formatted": "53:30",
+          "winner_tag": "t matthew"
+        },
+        {
+          "id": 78,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b3-team-k1-vs-t-matthew-game-3",
+          "game_number": 3,
+          "status": "COMPLETED",
+          "duration_seconds": 3046,
+          "duration_formatted": "50:46",
+          "winner_tag": "team k1"
+        }
+      ]
+    },
+    {
+      "series_id": 34,
+      "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-10T17:00:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "team_a": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "0 - 0"
+      },
+      "team_b": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "0 - 0"
+      },
+      "score_a": 2,
+      "score_b": 0,
+      "winner_id": 6,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+      "games": [
+        {
+          "id": 62,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2704,
+          "duration_formatted": "45:04",
+          "winner_tag": "team k1"
+        },
+        {
+          "id": 63,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 4256,
+          "duration_formatted": "70:56",
+          "winner_tag": "team k1"
+        }
+      ]
+    },
+    {
+      "series_id": 22,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-06T22:00:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "team_a": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "3 - 0"
+      },
+      "team_b": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "3 - 1"
+      },
+      "score_a": 2,
+      "score_b": 0,
+      "winner_id": 6,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+      "games": [
+        {
+          "id": 26,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 4021,
+          "duration_formatted": "67:01",
+          "winner_tag": "team k1"
+        },
+        {
+          "id": 35,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-t-sacred-vs-tm-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 4106,
+          "duration_formatted": "68:26",
+          "winner_tag": "team k1"
+        }
+      ]
+    },
+    {
+      "series_id": 16,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-05T04:00:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "team_a": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "3 - 1"
+      },
+      "team_b": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "3 - 0"
+      },
+      "score_a": 0,
+      "score_b": 1,
+      "winner_id": 6,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1-game-1",
+      "games": [
+        {
+          "id": 16,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r2-t-matthew-vs-team-k1-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 3851,
+          "duration_formatted": "64:11",
+          "winner_tag": "team k1"
+        }
+      ]
+    },
+    {
+      "series_id": 5,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-04T00:17:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "team_a": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "3 - 0"
+      },
+      "team_b": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "2 - 3"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 6,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield-game-1",
+      "games": [
+        {
+          "id": 5,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2244,
+          "duration_formatted": "37:24",
+          "winner_tag": "team k1"
+        }
+      ]
+    }
+  ]
+}

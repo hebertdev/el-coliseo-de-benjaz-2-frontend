@@ -1,0 +1,1096 @@
+{
+  "total_matches": 8,
+  "wins": 3,
+  "losses": 5,
+  "win_rate": 37.5,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "matches": [
+        {
+          "game_id": 56,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-2",
+          "game_number": 2,
+          "duration_seconds": 2412,
+          "duration_formatted": "40:12",
+          "date": "2026-09-09T18:56:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 106,
+            "name": "Ember Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 16
+          },
+          "rival_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 23
+          },
+          "radiant_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 16
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 23
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 2,
+            "assists": 6,
+            "kda": 6.5,
+            "last_hits": 420,
+            "denies": 12,
+            "gpm": 658,
+            "xpm": 804,
+            "hero_damage": 39017,
+            "tower_damage": 399,
+            "hero_healing": 0,
+            "net_worth": 24435,
+            "stuns": 94.1
+          }
+        },
+        {
+          "game_id": 55,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 1739,
+          "duration_formatted": "28:59",
+          "date": "2026-09-09T18:02:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 106,
+            "name": "Ember Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 23
+          },
+          "rival_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 35
+          },
+          "radiant_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 23
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 35
+          },
+          "stats": {
+            "kills": 16,
+            "deaths": 2,
+            "assists": 3,
+            "kda": 9.5,
+            "last_hits": 262,
+            "denies": 11,
+            "gpm": 715,
+            "xpm": 862,
+            "hero_damage": 34479,
+            "tower_damage": 211,
+            "hero_healing": 320,
+            "net_worth": 19531,
+            "stuns": 60.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-08",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "matches": [
+        {
+          "game_id": 54,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-3",
+          "game_number": 3,
+          "duration_seconds": 1710,
+          "duration_formatted": "28:30",
+          "date": "2026-09-08T22:10:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 39,
+            "name": "Queenofpain",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+          },
+          "player_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 9
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 25
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 25
+          },
+          "dire_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 9
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 3,
+            "assists": 6,
+            "kda": 2,
+            "last_hits": 248,
+            "denies": 9,
+            "gpm": 464,
+            "xpm": 538,
+            "hero_damage": 15854,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 11963,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 49,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-2",
+          "game_number": 2,
+          "duration_seconds": 1891,
+          "duration_formatted": "31:31",
+          "date": "2026-09-08T21:20:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 126,
+            "name": "Void Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 18
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 29
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 29
+          },
+          "dire_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 18
+          },
+          "stats": {
+            "kills": 6,
+            "deaths": 4,
+            "assists": 5,
+            "kda": 2.75,
+            "last_hits": 229,
+            "denies": 1,
+            "gpm": 518,
+            "xpm": 549,
+            "hero_damage": 13592,
+            "tower_damage": 177,
+            "hero_healing": 0,
+            "net_worth": 15776,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 48,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 3054,
+          "duration_formatted": "50:54",
+          "date": "2026-09-08T20:24:00+00:00",
+          "date_formatted": "MARTES, SEPTIEMBRE 8.",
+          "date_key": "2026-09-08",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 13,
+            "name": "Puck",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+          },
+          "player_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 38
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "radiant_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 38
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 38
+          },
+          "stats": {
+            "kills": 14,
+            "deaths": 5,
+            "assists": 11,
+            "kda": 5,
+            "last_hits": 529,
+            "denies": 8,
+            "gpm": 785,
+            "xpm": 1184,
+            "hero_damage": 48001,
+            "tower_damage": 6410,
+            "hero_healing": 0,
+            "net_worth": 31829,
+            "stuns": 14.3
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "matches": [
+        {
+          "game_id": 27,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka-game-1",
+          "game_number": 1,
+          "duration_seconds": 2517,
+          "duration_formatted": "41:57",
+          "date": "2026-09-07T00:44:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 17,
+            "name": "Storm Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 41
+          },
+          "rival_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 17
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 17
+          },
+          "dire_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 41
+          },
+          "stats": {
+            "kills": 16,
+            "deaths": 2,
+            "assists": 12,
+            "kda": 14,
+            "last_hits": 501,
+            "denies": 11,
+            "gpm": 821,
+            "xpm": 1121,
+            "hero_damage": 32285,
+            "tower_damage": 2623,
+            "hero_healing": 0,
+            "net_worth": 31002,
+            "stuns": 31.3
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 11,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-shaka-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 3389,
+          "duration_formatted": "56:29",
+          "date": "2026-09-04T20:55:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 126,
+            "name": "Void Spirit",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+          },
+          "player_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 48
+          },
+          "rival_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 24
+          },
+          "radiant_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 48
+          },
+          "dire_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 24
+          },
+          "stats": {
+            "kills": 15,
+            "deaths": 4,
+            "assists": 22,
+            "kda": 9.25,
+            "last_hits": 607,
+            "denies": 30,
+            "gpm": 810,
+            "xpm": 1044,
+            "hero_damage": 41979,
+            "tower_damage": 6744,
+            "hero_healing": 240,
+            "net_worth": 37876,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 5,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 2244,
+          "duration_formatted": "37:24",
+          "date": "2026-09-04T00:17:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 52,
+            "name": "Leshrac",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/leshrac_vert.png"
+          },
+          "player_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 23
+          },
+          "rival_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 17
+          },
+          "radiant_team": {
+            "id": 6,
+            "name": "The Fat Bears",
+            "tag": "team k1",
+            "slug": "the-fat-bears",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "score": 17
+          },
+          "dire_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 23
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 2,
+            "assists": 10,
+            "kda": 7,
+            "last_hits": 420,
+            "denies": 9,
+            "gpm": 633,
+            "xpm": 838,
+            "hero_damage": 18251,
+            "tower_damage": 3187,
+            "hero_healing": 0,
+            "net_worth": 21371,
+            "stuns": 14.7
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 56,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-2",
+      "game_number": 2,
+      "duration_seconds": 2412,
+      "duration_formatted": "40:12",
+      "date": "2026-09-09T18:56:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 106,
+        "name": "Ember Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 16
+      },
+      "rival_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 23
+      },
+      "radiant_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 16
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 23
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 2,
+        "assists": 6,
+        "kda": 6.5,
+        "last_hits": 420,
+        "denies": 12,
+        "gpm": 658,
+        "xpm": 804,
+        "hero_damage": 39017,
+        "tower_damage": 399,
+        "hero_healing": 0,
+        "net_worth": 24435,
+        "stuns": 94.1
+      }
+    },
+    {
+      "game_id": 55,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 1739,
+      "duration_formatted": "28:59",
+      "date": "2026-09-09T18:02:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 106,
+        "name": "Ember Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ember_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 23
+      },
+      "rival_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 35
+      },
+      "radiant_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 23
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 35
+      },
+      "stats": {
+        "kills": 16,
+        "deaths": 2,
+        "assists": 3,
+        "kda": 9.5,
+        "last_hits": 262,
+        "denies": 11,
+        "gpm": 715,
+        "xpm": 862,
+        "hero_damage": 34479,
+        "tower_damage": 211,
+        "hero_healing": 320,
+        "net_worth": 19531,
+        "stuns": 60.6
+      }
+    },
+    {
+      "game_id": 54,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-3",
+      "game_number": 3,
+      "duration_seconds": 1710,
+      "duration_formatted": "28:30",
+      "date": "2026-09-08T22:10:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 39,
+        "name": "Queenofpain",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/queenofpain_vert.png"
+      },
+      "player_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 9
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 25
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 25
+      },
+      "dire_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 9
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 3,
+        "assists": 6,
+        "kda": 2,
+        "last_hits": 248,
+        "denies": 9,
+        "gpm": 464,
+        "xpm": 538,
+        "hero_damage": 15854,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 11963,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 49,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-2",
+      "game_number": 2,
+      "duration_seconds": 1891,
+      "duration_formatted": "31:31",
+      "date": "2026-09-08T21:20:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 126,
+        "name": "Void Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 18
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 29
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 29
+      },
+      "dire_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 18
+      },
+      "stats": {
+        "kills": 6,
+        "deaths": 4,
+        "assists": 5,
+        "kda": 2.75,
+        "last_hits": 229,
+        "denies": 1,
+        "gpm": 518,
+        "xpm": 549,
+        "hero_damage": 13592,
+        "tower_damage": 177,
+        "hero_healing": 0,
+        "net_worth": 15776,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 48,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-payasita-g-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 3054,
+      "duration_formatted": "50:54",
+      "date": "2026-09-08T20:24:00+00:00",
+      "date_formatted": "MARTES, SEPTIEMBRE 8.",
+      "date_key": "2026-09-08",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 13,
+        "name": "Puck",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/puck_vert.png"
+      },
+      "player_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 38
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "radiant_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 38
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 38
+      },
+      "stats": {
+        "kills": 14,
+        "deaths": 5,
+        "assists": 11,
+        "kda": 5,
+        "last_hits": 529,
+        "denies": 8,
+        "gpm": 785,
+        "xpm": 1184,
+        "hero_damage": 48001,
+        "tower_damage": 6410,
+        "hero_healing": 0,
+        "net_worth": 31829,
+        "stuns": 14.3
+      }
+    },
+    {
+      "game_id": 27,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka-game-1",
+      "game_number": 1,
+      "duration_seconds": 2517,
+      "duration_formatted": "41:57",
+      "date": "2026-09-07T00:44:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 17,
+        "name": "Storm Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/storm_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 41
+      },
+      "rival_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 17
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 17
+      },
+      "dire_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 41
+      },
+      "stats": {
+        "kills": 16,
+        "deaths": 2,
+        "assists": 12,
+        "kda": 14,
+        "last_hits": 501,
+        "denies": 11,
+        "gpm": 821,
+        "xpm": 1121,
+        "hero_damage": 32285,
+        "tower_damage": 2623,
+        "hero_healing": 0,
+        "net_worth": 31002,
+        "stuns": 31.3
+      }
+    },
+    {
+      "game_id": 11,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-shaka-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 3389,
+      "duration_formatted": "56:29",
+      "date": "2026-09-04T20:55:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 126,
+        "name": "Void Spirit",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/void_spirit_vert.png"
+      },
+      "player_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 48
+      },
+      "rival_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 24
+      },
+      "radiant_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 48
+      },
+      "dire_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 24
+      },
+      "stats": {
+        "kills": 15,
+        "deaths": 4,
+        "assists": 22,
+        "kda": 9.25,
+        "last_hits": 607,
+        "denies": 30,
+        "gpm": 810,
+        "xpm": 1044,
+        "hero_damage": 41979,
+        "tower_damage": 6744,
+        "hero_healing": 240,
+        "net_worth": 37876,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 5,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-k1-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 2244,
+      "duration_formatted": "37:24",
+      "date": "2026-09-04T00:17:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 52,
+        "name": "Leshrac",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/leshrac_vert.png"
+      },
+      "player_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 23
+      },
+      "rival_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 17
+      },
+      "radiant_team": {
+        "id": 6,
+        "name": "The Fat Bears",
+        "tag": "team k1",
+        "slug": "the-fat-bears",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "score": 17
+      },
+      "dire_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 23
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 2,
+        "assists": 10,
+        "kda": 7,
+        "last_hits": 420,
+        "denies": 9,
+        "gpm": 633,
+        "xpm": 838,
+        "hero_damage": 18251,
+        "tower_damage": 3187,
+        "hero_healing": 0,
+        "net_worth": 21371,
+        "stuns": 14.7
+      }
+    }
+  ]
+}

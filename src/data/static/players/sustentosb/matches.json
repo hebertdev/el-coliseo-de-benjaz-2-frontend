@@ -1,0 +1,688 @@
+{
+  "total_matches": 5,
+  "wins": 1,
+  "losses": 4,
+  "win_rate": 20,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-05",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "matches": [
+        {
+          "game_id": 22,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-3",
+          "game_number": 3,
+          "duration_seconds": 2284,
+          "duration_formatted": "38:04",
+          "date": "2026-09-05T23:40:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 85,
+            "name": "Undying",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/undying_vert.png"
+          },
+          "player_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 28
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 37
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 37
+          },
+          "dire_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 28
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 10,
+            "assists": 13,
+            "kda": 1.6,
+            "last_hits": 16,
+            "denies": 1,
+            "gpm": 208,
+            "xpm": 403,
+            "hero_damage": 5257,
+            "tower_damage": 0,
+            "hero_healing": 6888,
+            "net_worth": 6995,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 21,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-2",
+          "game_number": 2,
+          "duration_seconds": 2239,
+          "duration_formatted": "37:19",
+          "date": "2026-09-05T22:38:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 26,
+            "name": "Lion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+          },
+          "player_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 21
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 31
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 31
+          },
+          "dire_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 21
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 6,
+            "assists": 7,
+            "kda": 1.17,
+            "last_hits": 22,
+            "denies": 0,
+            "gpm": 205,
+            "xpm": 310,
+            "hero_damage": 4132,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 6253,
+            "stuns": 59.4
+          }
+        },
+        {
+          "game_id": 20,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-1",
+          "game_number": 1,
+          "duration_seconds": 2724,
+          "duration_formatted": "45:24",
+          "date": "2026-09-05T21:35:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 26,
+            "name": "Lion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+          },
+          "player_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 36
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 42
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 42
+          },
+          "dire_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 12,
+            "assists": 12,
+            "kda": 1.25,
+            "last_hits": 7,
+            "denies": 1,
+            "gpm": 279,
+            "xpm": 505,
+            "hero_damage": 8947,
+            "tower_damage": 1309,
+            "hero_healing": 143,
+            "net_worth": 9778,
+            "stuns": 67.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 11,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-shaka-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 3389,
+          "duration_formatted": "56:29",
+          "date": "2026-09-04T20:55:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 26,
+            "name": "Lion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+          },
+          "player_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 24
+          },
+          "rival_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 48
+          },
+          "radiant_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 48
+          },
+          "dire_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 24
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 10,
+            "assists": 10,
+            "kda": 1,
+            "last_hits": 16,
+            "denies": 1,
+            "gpm": 187,
+            "xpm": 358,
+            "hero_damage": 7500,
+            "tower_damage": 31,
+            "hero_healing": 0,
+            "net_worth": 8304,
+            "stuns": 77
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 6,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka-game-1",
+          "game_number": 1,
+          "duration_seconds": 3086,
+          "duration_formatted": "51:26",
+          "date": "2026-09-04T01:41:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 26,
+            "name": "Lion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+          },
+          "player_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 23
+          },
+          "rival_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 36
+          },
+          "radiant_team": {
+            "id": 16,
+            "name": "Cucharita Army",
+            "tag": "team Shaka",
+            "slug": "team-cucharita",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "score": 23
+          },
+          "dire_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 6,
+            "assists": 9,
+            "kda": 2.33,
+            "last_hits": 52,
+            "denies": 1,
+            "gpm": 256,
+            "xpm": 442,
+            "hero_damage": 6581,
+            "tower_damage": 30,
+            "hero_healing": 0,
+            "net_worth": 10084,
+            "stuns": 59
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 22,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-3",
+      "game_number": 3,
+      "duration_seconds": 2284,
+      "duration_formatted": "38:04",
+      "date": "2026-09-05T23:40:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 85,
+        "name": "Undying",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/undying_vert.png"
+      },
+      "player_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 28
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 37
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 37
+      },
+      "dire_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 28
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 10,
+        "assists": 13,
+        "kda": 1.6,
+        "last_hits": 16,
+        "denies": 1,
+        "gpm": 208,
+        "xpm": 403,
+        "hero_damage": 5257,
+        "tower_damage": 0,
+        "hero_healing": 6888,
+        "net_worth": 6995,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 21,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-2",
+      "game_number": 2,
+      "duration_seconds": 2239,
+      "duration_formatted": "37:19",
+      "date": "2026-09-05T22:38:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 26,
+        "name": "Lion",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+      },
+      "player_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 21
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 31
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 31
+      },
+      "dire_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 21
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 6,
+        "assists": 7,
+        "kda": 1.17,
+        "last_hits": 22,
+        "denies": 0,
+        "gpm": 205,
+        "xpm": 310,
+        "hero_damage": 4132,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 6253,
+        "stuns": 59.4
+      }
+    },
+    {
+      "game_id": 20,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-t-stinger-vs-team-k1-game-1",
+      "game_number": 1,
+      "duration_seconds": 2724,
+      "duration_formatted": "45:24",
+      "date": "2026-09-05T21:35:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 26,
+        "name": "Lion",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+      },
+      "player_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 36
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 42
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 42
+      },
+      "dire_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 12,
+        "assists": 12,
+        "kda": 1.25,
+        "last_hits": 7,
+        "denies": 1,
+        "gpm": 279,
+        "xpm": 505,
+        "hero_damage": 8947,
+        "tower_damage": 1309,
+        "hero_healing": 143,
+        "net_worth": 9778,
+        "stuns": 67.6
+      }
+    },
+    {
+      "game_id": 11,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-shaka-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 3389,
+      "duration_formatted": "56:29",
+      "date": "2026-09-04T20:55:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 26,
+        "name": "Lion",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+      },
+      "player_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 24
+      },
+      "rival_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 48
+      },
+      "radiant_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 48
+      },
+      "dire_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 24
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 10,
+        "assists": 10,
+        "kda": 1,
+        "last_hits": 16,
+        "denies": 1,
+        "gpm": 187,
+        "xpm": 358,
+        "hero_damage": 7500,
+        "tower_damage": 31,
+        "hero_healing": 0,
+        "net_worth": 8304,
+        "stuns": 77
+      }
+    },
+    {
+      "game_id": 6,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-tm-vs-team-shaka-game-1",
+      "game_number": 1,
+      "duration_seconds": 3086,
+      "duration_formatted": "51:26",
+      "date": "2026-09-04T01:41:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 26,
+        "name": "Lion",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+      },
+      "player_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 23
+      },
+      "rival_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 36
+      },
+      "radiant_team": {
+        "id": 16,
+        "name": "Cucharita Army",
+        "tag": "team Shaka",
+        "slug": "team-cucharita",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "score": 23
+      },
+      "dire_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 6,
+        "assists": 9,
+        "kda": 2.33,
+        "last_hits": 52,
+        "denies": 1,
+        "gpm": 256,
+        "xpm": 442,
+        "hero_damage": 6581,
+        "tower_damage": 30,
+        "hero_healing": 0,
+        "net_worth": 10084,
+        "stuns": 59
+      }
+    }
+  ]
+}

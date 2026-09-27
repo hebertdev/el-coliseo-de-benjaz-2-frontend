@@ -1,0 +1,45 @@
+{
+  "slug": "scofield",
+  "nickname": "Scofield",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/scofield.jpeg",
+  "bio": "",
+  "kick_url": "https://kick.com/scofieldota2",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/scofieldota2/",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 157989498,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "CHALA TEAM",
+        "slug": "team-scofield",
+        "tag": "t scofield",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "CAPTAIN",
+      "role_display": "Captain",
+      "competitive_position": 1,
+      "position_display": "Position 1 - Carry",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-08-29T17:06:48.281029-05:00",
+  "updated_at": "2026-09-04T02:56:59.959580-05:00"
+}

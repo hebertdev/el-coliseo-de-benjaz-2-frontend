@@ -1,0 +1,45 @@
+{
+  "slug": "macarius",
+  "nickname": "Macarius",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/macarius.jpeg",
+  "bio": "",
+  "kick_url": "https://kick.com/elmacarius",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/macarius2.0/",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 309281025,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "AREQUIPA",
+  "memberships": [
+    {
+      "team": {
+        "name": "The Monsters",
+        "slug": "the-monsters",
+        "tag": "tm",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "AREQUIPA",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "CAPTAIN",
+      "role_display": "Captain",
+      "competitive_position": 4,
+      "position_display": "Position 4 - Soft Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-08-29T17:35:46.638077-05:00",
+  "updated_at": "2026-09-04T03:00:50.478533-05:00"
+}

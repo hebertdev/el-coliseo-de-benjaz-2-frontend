@@ -1,0 +1,455 @@
+{
+  "total_series": 4,
+  "completed_series": 4,
+  "wins": 3,
+  "losses": 1,
+  "win_rate": 75,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "series": [
+        {
+          "series_id": 36,
+          "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-11T00:16:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "team_a": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "0 - 0"
+          },
+          "team_b": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 2,
+            "is_current": false,
+            "record": "0 - 0"
+          },
+          "score_a": 0,
+          "score_b": 2,
+          "winner_id": 2,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-1",
+          "games": [
+            {
+              "id": 66,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2873,
+              "duration_formatted": "47:53",
+              "winner_tag": "t leostyle"
+            },
+            {
+              "id": 67,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 2662,
+              "duration_formatted": "44:22",
+              "winner_tag": "t leostyle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "series": [
+        {
+          "series_id": 21,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-06T18:00:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "team_a": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "3 - 0"
+          },
+          "team_b": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "3 - 1"
+          },
+          "score_a": 2,
+          "score_b": 0,
+          "winner_id": 1,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+          "games": [
+            {
+              "id": 25,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 1896,
+              "duration_formatted": "31:36",
+              "winner_tag": "T parker"
+            },
+            {
+              "id": 33,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 1571,
+              "duration_formatted": "26:11",
+              "winner_tag": "T parker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "series": [
+        {
+          "series_id": 10,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-04T19:20:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "team_a": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "3 - 0"
+          },
+          "team_b": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "1 - 3"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 1,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+          "games": [
+            {
+              "id": 10,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2947,
+              "duration_formatted": "49:07",
+              "winner_tag": "T parker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "series": [
+        {
+          "series_id": 4,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-03T23:00:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "team_a": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "2 - 3"
+          },
+          "team_b": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "3 - 0"
+          },
+          "score_a": 0,
+          "score_b": 1,
+          "winner_id": 1,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
+          "games": [
+            {
+              "id": 4,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 3701,
+              "duration_formatted": "61:41",
+              "winner_tag": "T parker"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "series_id": 36,
+      "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-11T00:16:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "team_a": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "0 - 0"
+      },
+      "team_b": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 2,
+        "is_current": false,
+        "record": "0 - 0"
+      },
+      "score_a": 0,
+      "score_b": 2,
+      "winner_id": 2,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-1",
+      "games": [
+        {
+          "id": 66,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2873,
+          "duration_formatted": "47:53",
+          "winner_tag": "t leostyle"
+        },
+        {
+          "id": 67,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 2662,
+          "duration_formatted": "44:22",
+          "winner_tag": "t leostyle"
+        }
+      ]
+    },
+    {
+      "series_id": 21,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-06T18:00:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "team_a": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "3 - 0"
+      },
+      "team_b": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "3 - 1"
+      },
+      "score_a": 2,
+      "score_b": 0,
+      "winner_id": 1,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+      "games": [
+        {
+          "id": 25,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 1896,
+          "duration_formatted": "31:36",
+          "winner_tag": "T parker"
+        },
+        {
+          "id": 33,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 1571,
+          "duration_formatted": "26:11",
+          "winner_tag": "T parker"
+        }
+      ]
+    },
+    {
+      "series_id": 10,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-04T19:20:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "team_a": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "3 - 0"
+      },
+      "team_b": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "1 - 3"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 1,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+      "games": [
+        {
+          "id": 10,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2947,
+          "duration_formatted": "49:07",
+          "winner_tag": "T parker"
+        }
+      ]
+    },
+    {
+      "series_id": 4,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-03T23:00:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "team_a": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "2 - 3"
+      },
+      "team_b": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "3 - 0"
+      },
+      "score_a": 0,
+      "score_b": 1,
+      "winner_id": 1,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
+      "games": [
+        {
+          "id": 4,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 3701,
+          "duration_formatted": "61:41",
+          "winner_tag": "T parker"
+        }
+      ]
+    }
+  ]
+}

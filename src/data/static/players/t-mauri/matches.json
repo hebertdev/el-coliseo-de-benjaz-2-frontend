@@ -1,0 +1,826 @@
+{
+  "total_matches": 6,
+  "wins": 4,
+  "losses": 2,
+  "win_rate": 66.7,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "matches": [
+        {
+          "game_id": 67,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "duration_seconds": 2662,
+          "duration_formatted": "44:22",
+          "date": "2026-09-11T01:28:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 26,
+            "name": "Lion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+          },
+          "player_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 50
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 49
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 49
+          },
+          "dire_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 50
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 15,
+            "assists": 22,
+            "kda": 1.73,
+            "last_hits": 13,
+            "denies": 2,
+            "gpm": 255,
+            "xpm": 446,
+            "hero_damage": 10835,
+            "tower_damage": 21,
+            "hero_healing": 125,
+            "net_worth": 9762,
+            "stuns": 0
+          }
+        },
+        {
+          "game_id": 66,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 2873,
+          "duration_formatted": "47:53",
+          "date": "2026-09-11T00:16:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 128,
+            "name": "Snapfire",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+          },
+          "player_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 34
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 55
+          },
+          "radiant_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 34
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 55
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 17,
+            "assists": 16,
+            "kda": 1.18,
+            "last_hits": 59,
+            "denies": 0,
+            "gpm": 275,
+            "xpm": 436,
+            "hero_damage": 23632,
+            "tower_damage": 0,
+            "hero_healing": 1609,
+            "net_worth": 9222,
+            "stuns": 27.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "matches": [
+        {
+          "game_id": 33,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-2",
+          "game_number": 2,
+          "duration_seconds": 1571,
+          "duration_formatted": "26:11",
+          "date": "2026-09-06T19:58:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 128,
+            "name": "Snapfire",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+          },
+          "player_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 26
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 22
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 22
+          },
+          "dire_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 26
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 10,
+            "assists": 8,
+            "kda": 1,
+            "last_hits": 19,
+            "denies": 0,
+            "gpm": 258,
+            "xpm": 250,
+            "hero_damage": 7219,
+            "tower_damage": 292,
+            "hero_healing": 175,
+            "net_worth": 5856,
+            "stuns": 5.9
+          }
+        },
+        {
+          "game_id": 25,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+          "game_number": 1,
+          "duration_seconds": 1896,
+          "duration_formatted": "31:36",
+          "date": "2026-09-06T19:11:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 128,
+            "name": "Snapfire",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+          },
+          "player_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 27
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 23
+          },
+          "radiant_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 27
+          },
+          "dire_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 23
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 12,
+            "assists": 13,
+            "kda": 1.33,
+            "last_hits": 19,
+            "denies": 0,
+            "gpm": 249,
+            "xpm": 375,
+            "hero_damage": 9790,
+            "tower_damage": 176,
+            "hero_healing": 685,
+            "net_worth": 8013,
+            "stuns": 13.1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 10,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+          "game_number": 1,
+          "duration_seconds": 2947,
+          "duration_formatted": "49:07",
+          "date": "2026-09-04T19:20:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 26,
+            "name": "Lion",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+          },
+          "player_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 40
+          },
+          "rival_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 32
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 40
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 14,
+            "assists": 21,
+            "kda": 1.71,
+            "last_hits": 10,
+            "denies": 0,
+            "gpm": 272,
+            "xpm": 525,
+            "hero_damage": 8654,
+            "tower_damage": 452,
+            "hero_healing": 0,
+            "net_worth": 9727,
+            "stuns": 77.5
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 4,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
+          "game_number": 1,
+          "duration_seconds": 3701,
+          "duration_formatted": "61:41",
+          "date": "2026-09-03T23:00:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 27,
+            "name": "Shadow Shaman",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+          },
+          "player_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 49
+          },
+          "rival_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 59
+          },
+          "radiant_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 49
+          },
+          "dire_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 59
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 15,
+            "assists": 27,
+            "kda": 2.07,
+            "last_hits": 52,
+            "denies": 5,
+            "gpm": 291,
+            "xpm": 498,
+            "hero_damage": 20304,
+            "tower_damage": 2777,
+            "hero_healing": 125,
+            "net_worth": 12170,
+            "stuns": 126.6
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 67,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-2",
+      "game_number": 2,
+      "duration_seconds": 2662,
+      "duration_formatted": "44:22",
+      "date": "2026-09-11T01:28:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 26,
+        "name": "Lion",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+      },
+      "player_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 50
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 49
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 49
+      },
+      "dire_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 50
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 15,
+        "assists": 22,
+        "kda": 1.73,
+        "last_hits": 13,
+        "denies": 2,
+        "gpm": 255,
+        "xpm": 446,
+        "hero_damage": 10835,
+        "tower_damage": 21,
+        "hero_healing": 125,
+        "net_worth": 9762,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 66,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b7-t-parker-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 2873,
+      "duration_formatted": "47:53",
+      "date": "2026-09-11T00:16:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 128,
+        "name": "Snapfire",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+      },
+      "player_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 34
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 55
+      },
+      "radiant_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 34
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 55
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 17,
+        "assists": 16,
+        "kda": 1.18,
+        "last_hits": 59,
+        "denies": 0,
+        "gpm": 275,
+        "xpm": 436,
+        "hero_damage": 23632,
+        "tower_damage": 0,
+        "hero_healing": 1609,
+        "net_worth": 9222,
+        "stuns": 27.6
+      }
+    },
+    {
+      "game_id": 33,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-2",
+      "game_number": 2,
+      "duration_seconds": 1571,
+      "duration_formatted": "26:11",
+      "date": "2026-09-06T19:58:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 128,
+        "name": "Snapfire",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+      },
+      "player_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 26
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 22
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 22
+      },
+      "dire_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 26
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 10,
+        "assists": 8,
+        "kda": 1,
+        "last_hits": 19,
+        "denies": 0,
+        "gpm": 258,
+        "xpm": 250,
+        "hero_damage": 7219,
+        "tower_damage": 292,
+        "hero_healing": 175,
+        "net_worth": 5856,
+        "stuns": 5.9
+      }
+    },
+    {
+      "game_id": 25,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-bb-vs-t-astini-game-1",
+      "game_number": 1,
+      "duration_seconds": 1896,
+      "duration_formatted": "31:36",
+      "date": "2026-09-06T19:11:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 128,
+        "name": "Snapfire",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+      },
+      "player_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 27
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 23
+      },
+      "radiant_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 27
+      },
+      "dire_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 23
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 12,
+        "assists": 13,
+        "kda": 1.33,
+        "last_hits": 19,
+        "denies": 0,
+        "gpm": 249,
+        "xpm": 375,
+        "hero_damage": 9790,
+        "tower_damage": 176,
+        "hero_healing": 685,
+        "net_worth": 8013,
+        "stuns": 13.1
+      }
+    },
+    {
+      "game_id": 10,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+      "game_number": 1,
+      "duration_seconds": 2947,
+      "duration_formatted": "49:07",
+      "date": "2026-09-04T19:20:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 26,
+        "name": "Lion",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/lion_vert.png"
+      },
+      "player_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 40
+      },
+      "rival_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 32
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 40
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 14,
+        "assists": 21,
+        "kda": 1.71,
+        "last_hits": 10,
+        "denies": 0,
+        "gpm": 272,
+        "xpm": 525,
+        "hero_damage": 8654,
+        "tower_damage": 452,
+        "hero_healing": 0,
+        "net_worth": 9727,
+        "stuns": 77.5
+      }
+    },
+    {
+      "game_id": 4,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
+      "game_number": 1,
+      "duration_seconds": 3701,
+      "duration_formatted": "61:41",
+      "date": "2026-09-03T23:00:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 27,
+        "name": "Shadow Shaman",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+      },
+      "player_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 49
+      },
+      "rival_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 59
+      },
+      "radiant_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 49
+      },
+      "dire_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 59
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 15,
+        "assists": 27,
+        "kda": 2.07,
+        "last_hits": 52,
+        "denies": 5,
+        "gpm": 291,
+        "xpm": 498,
+        "hero_damage": 20304,
+        "tower_damage": 2777,
+        "hero_healing": 125,
+        "net_worth": 12170,
+        "stuns": 126.6
+      }
+    }
+  ]
+}

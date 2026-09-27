@@ -1,0 +1,112 @@
+[
+  {
+    "player": {
+      "slug": "smash",
+      "nickname": "Smash",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/smash.jpeg",
+      "steam_id": null,
+      "account_id": 118073569,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PE",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "CAPTAIN",
+    "role_display": "Captain",
+    "competitive_position": 3,
+    "position_display": "Position 3 - Offlane",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "daad",
+      "nickname": "Daad",
+      "avatar": null,
+      "steam_id": null,
+      "account_id": 202464276,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PE",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 1,
+    "position_display": "Position 1 - Carry",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "chrisdota",
+      "nickname": "ChrisDota",
+      "avatar": null,
+      "steam_id": null,
+      "account_id": 153836240,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PE",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 2,
+    "position_display": "Position 2 - Mid",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "pauchikita",
+      "nickname": "Pauchikita",
+      "avatar": null,
+      "steam_id": null,
+      "account_id": 1176208020,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PE",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 4,
+    "position_display": "Position 4 - Soft Support",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "mayurig",
+      "nickname": "MayuriG",
+      "avatar": null,
+      "steam_id": null,
+      "account_id": 172837536,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "PE",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 5,
+    "position_display": "Position 5 - Hard Support",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  }
+]

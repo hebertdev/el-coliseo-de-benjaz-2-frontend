@@ -1,0 +1,45 @@
+{
+  "slug": "jericho",
+  "nickname": "Jericho",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/jerichodota2.webp",
+  "bio": "",
+  "kick_url": "https://kick.com/jerichodota",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/jerichodota2/",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": "76561198059938152",
+  "account_id": 99672424,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "The Fat Bears",
+        "slug": "the-fat-bears",
+        "tag": "team k1",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 4,
+      "position_display": "Position 4 - Soft Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T01:57:40.878208-05:00",
+  "updated_at": "2026-09-06T20:41:42.913414-05:00"
+}

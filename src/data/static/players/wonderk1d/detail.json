@@ -1,0 +1,45 @@
+{
+  "slug": "wonderk1d",
+  "nickname": "WonderK1d",
+  "avatar": null,
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 1673586483,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "AREQUIPA",
+  "memberships": [
+    {
+      "team": {
+        "name": "The Monsters",
+        "slug": "the-monsters",
+        "tag": "tm",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "AREQUIPA",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 2,
+      "position_display": "Position 2 - Mid",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:35:34.052051-05:00",
+  "updated_at": "2026-09-04T03:00:08.314918-05:00"
+}

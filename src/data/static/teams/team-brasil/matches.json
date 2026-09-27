@@ -1,0 +1,455 @@
+{
+  "total_series": 4,
+  "completed_series": 4,
+  "wins": 1,
+  "losses": 3,
+  "win_rate": 25,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-07",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "series": [
+        {
+          "series_id": 26,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-07T21:00:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "team_a": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "1 - 3"
+          },
+          "team_b": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 2,
+            "is_current": false,
+            "record": "3 - 2"
+          },
+          "score_a": 1,
+          "score_b": 2,
+          "winner_id": 2,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-1",
+          "games": [
+            {
+              "id": 42,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 3710,
+              "duration_formatted": "61:50",
+              "winner_tag": "t astini"
+            },
+            {
+              "id": 43,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 2507,
+              "duration_formatted": "41:47",
+              "winner_tag": "t leostyle"
+            },
+            {
+              "id": 52,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "duration_seconds": 2258,
+              "duration_formatted": "37:38",
+              "winner_tag": "t leostyle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "series": [
+        {
+          "series_id": 23,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-07T02:00:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "team_a": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 1,
+            "is_current": false,
+            "record": "2 - 3"
+          },
+          "team_b": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "1 - 3"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 9,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka-game-1",
+          "games": [
+            {
+              "id": 27,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2517,
+              "duration_formatted": "41:57",
+              "winner_tag": "t scofield"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "series": [
+        {
+          "series_id": 10,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-04T19:20:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "team_a": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 1,
+            "is_current": false,
+            "record": "3 - 0"
+          },
+          "team_b": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "1 - 3"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 1,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+          "games": [
+            {
+              "id": 10,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2947,
+              "duration_formatted": "49:07",
+              "winner_tag": "T parker"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "series": [
+        {
+          "series_id": 2,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-03T19:07:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "team_a": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "1 - 3"
+          },
+          "team_b": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "3 - 2"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 11,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+          "games": [
+            {
+              "id": 2,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 1591,
+              "duration_formatted": "26:31",
+              "winner_tag": "t astini"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "series_id": 26,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-07T21:00:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "team_a": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "1 - 3"
+      },
+      "team_b": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 2,
+        "is_current": false,
+        "record": "3 - 2"
+      },
+      "score_a": 1,
+      "score_b": 2,
+      "winner_id": 2,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-1",
+      "games": [
+        {
+          "id": 42,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 3710,
+          "duration_formatted": "61:50",
+          "winner_tag": "t astini"
+        },
+        {
+          "id": 43,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 2507,
+          "duration_formatted": "41:47",
+          "winner_tag": "t leostyle"
+        },
+        {
+          "id": 52,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-3",
+          "game_number": 3,
+          "status": "COMPLETED",
+          "duration_seconds": 2258,
+          "duration_formatted": "37:38",
+          "winner_tag": "t leostyle"
+        }
+      ]
+    },
+    {
+      "series_id": 23,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-07T02:00:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "team_a": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 1,
+        "is_current": false,
+        "record": "2 - 3"
+      },
+      "team_b": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "1 - 3"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 9,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka-game-1",
+      "games": [
+        {
+          "id": 27,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2517,
+          "duration_formatted": "41:57",
+          "winner_tag": "t scofield"
+        }
+      ]
+    },
+    {
+      "series_id": 10,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-04T19:20:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "team_a": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 1,
+        "is_current": false,
+        "record": "3 - 0"
+      },
+      "team_b": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "1 - 3"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 1,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+      "games": [
+        {
+          "id": 10,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2947,
+          "duration_formatted": "49:07",
+          "winner_tag": "T parker"
+        }
+      ]
+    },
+    {
+      "series_id": 2,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-03T19:07:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "team_a": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "1 - 3"
+      },
+      "team_b": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "3 - 2"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 11,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+      "games": [
+        {
+          "id": 2,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 1591,
+          "duration_formatted": "26:31",
+          "winner_tag": "t astini"
+        }
+      ]
+    }
+  ]
+}

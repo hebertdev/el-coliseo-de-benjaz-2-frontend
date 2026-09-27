@@ -1,0 +1,695 @@
+{
+  "total_series": 6,
+  "completed_series": 6,
+  "wins": 3,
+  "losses": 3,
+  "win_rate": 50,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-11",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "series": [
+        {
+          "series_id": 37,
+          "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-11T17:00:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+          "date_key": "2026-09-11",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "team_a": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 2,
+            "is_current": false,
+            "record": "0 - 0"
+          },
+          "team_b": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "0 - 0"
+          },
+          "score_a": 2,
+          "score_b": 1,
+          "winner_id": 15,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-1",
+          "games": [
+            {
+              "id": 68,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2698,
+              "duration_formatted": "44:58",
+              "winner_tag": "payasita g"
+            },
+            {
+              "id": 69,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 0,
+              "duration_formatted": null,
+              "winner_tag": "team pakaz"
+            },
+            {
+              "id": 74,
+              "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-3",
+              "game_number": 3,
+              "status": "COMPLETED",
+              "duration_seconds": 2779,
+              "duration_formatted": "46:19",
+              "winner_tag": "payasita g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "series": [
+        {
+          "series_id": 31,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-09T17:00:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "team_a": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "team_b": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "2 - 3"
+          },
+          "score_a": 2,
+          "score_b": 0,
+          "winner_id": 10,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-1",
+          "games": [
+            {
+              "id": 55,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 1739,
+              "duration_formatted": "28:59",
+              "winner_tag": "team pakaz"
+            },
+            {
+              "id": 56,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 2412,
+              "duration_formatted": "40:12",
+              "winner_tag": "team pakaz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "series": [
+        {
+          "series_id": 25,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb",
+          "best_of": "BO3",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-07T17:00:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "team_a": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 2,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "team_b": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "1 - 3"
+          },
+          "score_a": 2,
+          "score_b": 0,
+          "winner_id": 10,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-1",
+          "games": [
+            {
+              "id": 40,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2010,
+              "duration_formatted": "33:30",
+              "winner_tag": "team pakaz"
+            },
+            {
+              "id": 41,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-2",
+              "game_number": 2,
+              "status": "COMPLETED",
+              "duration_seconds": 2737,
+              "duration_formatted": "45:37",
+              "winner_tag": "team pakaz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "series": [
+        {
+          "series_id": 24,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-07T03:30:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "team_a": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 1,
+            "is_current": false,
+            "record": "2 - 3"
+          },
+          "team_b": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 13,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+          "games": [
+            {
+              "id": 30,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 3104,
+              "duration_formatted": "51:44",
+              "winner_tag": "tm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "series": [
+        {
+          "series_id": 12,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-04T22:14:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "team_a": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 0,
+            "is_current": false,
+            "record": "3 - 2"
+          },
+          "team_b": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 1,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "score_a": 0,
+          "score_b": 1,
+          "winner_id": 10,
+          "is_winner": true,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz-game-1",
+          "games": [
+            {
+              "id": 12,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2041,
+              "duration_formatted": "34:01",
+              "winner_tag": "team pakaz"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "series": [
+        {
+          "series_id": 1,
+          "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz",
+          "best_of": "BO1",
+          "status": "COMPLETED",
+          "status_display": "Completed",
+          "date": "2026-09-03T12:00:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "team_a": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 1,
+            "is_current": false,
+            "record": "3 - 1"
+          },
+          "team_b": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 0,
+            "is_current": true,
+            "record": "3 - 2"
+          },
+          "score_a": 1,
+          "score_b": 0,
+          "winner_id": 8,
+          "is_winner": false,
+          "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz-game-1",
+          "games": [
+            {
+              "id": 1,
+              "slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz-game-1",
+              "game_number": 1,
+              "status": "COMPLETED",
+              "duration_seconds": 2537,
+              "duration_formatted": "42:17",
+              "winner_tag": "t matthew"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "series": [
+    {
+      "series_id": 37,
+      "series_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-11T17:00:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 11.",
+      "date_key": "2026-09-11",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "team_a": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 2,
+        "is_current": false,
+        "record": "0 - 0"
+      },
+      "team_b": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "0 - 0"
+      },
+      "score_a": 2,
+      "score_b": 1,
+      "winner_id": 15,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-1",
+      "games": [
+        {
+          "id": 68,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2698,
+          "duration_formatted": "44:58",
+          "winner_tag": "payasita g"
+        },
+        {
+          "id": 69,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 0,
+          "duration_formatted": null,
+          "winner_tag": "team pakaz"
+        },
+        {
+          "id": 74,
+          "slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-3",
+          "game_number": 3,
+          "status": "COMPLETED",
+          "duration_seconds": 2779,
+          "duration_formatted": "46:19",
+          "winner_tag": "payasita g"
+        }
+      ]
+    },
+    {
+      "series_id": 31,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-09T17:00:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "team_a": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "team_b": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "2 - 3"
+      },
+      "score_a": 2,
+      "score_b": 0,
+      "winner_id": 10,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-1",
+      "games": [
+        {
+          "id": 55,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 1739,
+          "duration_formatted": "28:59",
+          "winner_tag": "team pakaz"
+        },
+        {
+          "id": 56,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 2412,
+          "duration_formatted": "40:12",
+          "winner_tag": "team pakaz"
+        }
+      ]
+    },
+    {
+      "series_id": 25,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb",
+      "best_of": "BO3",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-07T17:00:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "team_a": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 2,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "team_b": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "1 - 3"
+      },
+      "score_a": 2,
+      "score_b": 0,
+      "winner_id": 10,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-1",
+      "games": [
+        {
+          "id": 40,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2010,
+          "duration_formatted": "33:30",
+          "winner_tag": "team pakaz"
+        },
+        {
+          "id": 41,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-2",
+          "game_number": 2,
+          "status": "COMPLETED",
+          "duration_seconds": 2737,
+          "duration_formatted": "45:37",
+          "winner_tag": "team pakaz"
+        }
+      ]
+    },
+    {
+      "series_id": 24,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-07T03:30:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "team_a": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 1,
+        "is_current": false,
+        "record": "2 - 3"
+      },
+      "team_b": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 13,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+      "games": [
+        {
+          "id": 30,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 3104,
+          "duration_formatted": "51:44",
+          "winner_tag": "tm"
+        }
+      ]
+    },
+    {
+      "series_id": 12,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-04T22:14:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "team_a": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 0,
+        "is_current": false,
+        "record": "3 - 2"
+      },
+      "team_b": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 1,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "score_a": 0,
+      "score_b": 1,
+      "winner_id": 10,
+      "is_winner": true,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz-game-1",
+      "games": [
+        {
+          "id": 12,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2041,
+          "duration_formatted": "34:01",
+          "winner_tag": "team pakaz"
+        }
+      ]
+    },
+    {
+      "series_id": 1,
+      "series_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz",
+      "best_of": "BO1",
+      "status": "COMPLETED",
+      "status_display": "Completed",
+      "date": "2026-09-03T12:00:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "team_a": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 1,
+        "is_current": false,
+        "record": "3 - 1"
+      },
+      "team_b": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 0,
+        "is_current": true,
+        "record": "3 - 2"
+      },
+      "score_a": 1,
+      "score_b": 0,
+      "winner_id": 8,
+      "is_winner": false,
+      "first_game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz-game-1",
+      "games": [
+        {
+          "id": 1,
+          "slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz-game-1",
+          "game_number": 1,
+          "status": "COMPLETED",
+          "duration_seconds": 2537,
+          "duration_formatted": "42:17",
+          "winner_tag": "t matthew"
+        }
+      ]
+    }
+  ]
+}

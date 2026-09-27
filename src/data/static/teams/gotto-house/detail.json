@@ -1,0 +1,16 @@
+{
+  "name": "Gotto House",
+  "slug": "gotto-house",
+  "tag": "t matthew",
+  "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "status": "ACTIVE",
+  "status_display": "Active",
+  "opendota_team_id": null,
+  "steam_id": null,
+  "created_at": "2026-08-29T00:18:13.458873-05:00",
+  "updated_at": "2026-09-03T14:44:11.760631-05:00"
+}

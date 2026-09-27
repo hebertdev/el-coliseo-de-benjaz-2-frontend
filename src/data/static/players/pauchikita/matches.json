@@ -1,0 +1,556 @@
+{
+  "total_matches": 4,
+  "wins": 0,
+  "losses": 4,
+  "win_rate": 0,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-05",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "matches": [
+        {
+          "game_id": 18,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-2",
+          "game_number": 2,
+          "duration_seconds": 2863,
+          "duration_formatted": "47:43",
+          "date": "2026-09-05T20:18:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 21,
+            "name": "Windrunner",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/windrunner_vert.png"
+          },
+          "player_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 32
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 41
+          },
+          "radiant_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 41
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 8,
+            "assists": 17,
+            "kda": 2.5,
+            "last_hits": 50,
+            "denies": 0,
+            "gpm": 255,
+            "xpm": 473,
+            "hero_damage": 9722,
+            "tower_damage": 212,
+            "hero_healing": 0,
+            "net_worth": 9311,
+            "stuns": 63.5
+          }
+        },
+        {
+          "game_id": 17,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-1",
+          "game_number": 1,
+          "duration_seconds": 2556,
+          "duration_formatted": "42:36",
+          "date": "2026-09-05T18:54:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 123,
+            "name": "Hoodwink",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/hoodwink_vert.png"
+          },
+          "player_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 20
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 56
+          },
+          "radiant_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 56
+          },
+          "dire_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 20
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 11,
+            "assists": 9,
+            "kda": 0.91,
+            "last_hits": 64,
+            "denies": 0,
+            "gpm": 247,
+            "xpm": 339,
+            "hero_damage": 9850,
+            "tower_damage": 158,
+            "hero_healing": 0,
+            "net_worth": 9670,
+            "stuns": 34.4
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 13,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-sacred-vs-team-smash-game-1",
+          "game_number": 1,
+          "duration_seconds": 2922,
+          "duration_formatted": "48:42",
+          "date": "2026-09-04T23:46:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 119,
+            "name": "Dark Willow",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/dark_willow_vert.png"
+          },
+          "player_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 25
+          },
+          "rival_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 50
+          },
+          "radiant_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 25
+          },
+          "dire_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 50
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 12,
+            "assists": 11,
+            "kda": 0.92,
+            "last_hits": 44,
+            "denies": 0,
+            "gpm": 191,
+            "xpm": 302,
+            "hero_damage": 7602,
+            "tower_damage": 88,
+            "hero_healing": 0,
+            "net_worth": 7800,
+            "stuns": 84.1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 8,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+          "game_number": 1,
+          "duration_seconds": 2574,
+          "duration_formatted": "42:54",
+          "date": "2026-09-04T04:23:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 21,
+            "name": "Windrunner",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/windrunner_vert.png"
+          },
+          "player_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 21
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 30
+          },
+          "radiant_team": {
+            "id": 7,
+            "name": "Mango Boys",
+            "tag": "TEAM SMASH",
+            "slug": "team-smash",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+            "score": 21
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 30
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 6,
+            "assists": 5,
+            "kda": 1.17,
+            "last_hits": 49,
+            "denies": 0,
+            "gpm": 234,
+            "xpm": 243,
+            "hero_damage": 5898,
+            "tower_damage": 340,
+            "hero_healing": 0,
+            "net_worth": 10676,
+            "stuns": 26.2
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 18,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-2",
+      "game_number": 2,
+      "duration_seconds": 2863,
+      "duration_formatted": "47:43",
+      "date": "2026-09-05T20:18:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 21,
+        "name": "Windrunner",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/windrunner_vert.png"
+      },
+      "player_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 32
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 41
+      },
+      "radiant_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 41
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 8,
+        "assists": 17,
+        "kda": 2.5,
+        "last_hits": 50,
+        "denies": 0,
+        "gpm": 255,
+        "xpm": 473,
+        "hero_damage": 9722,
+        "tower_damage": 212,
+        "hero_healing": 0,
+        "net_worth": 9311,
+        "stuns": 63.5
+      }
+    },
+    {
+      "game_id": 17,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-payasita-g-vs-t-parker-game-1",
+      "game_number": 1,
+      "duration_seconds": 2556,
+      "duration_formatted": "42:36",
+      "date": "2026-09-05T18:54:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 123,
+        "name": "Hoodwink",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/hoodwink_vert.png"
+      },
+      "player_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 20
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 56
+      },
+      "radiant_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 56
+      },
+      "dire_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 20
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 11,
+        "assists": 9,
+        "kda": 0.91,
+        "last_hits": 64,
+        "denies": 0,
+        "gpm": 247,
+        "xpm": 339,
+        "hero_damage": 9850,
+        "tower_damage": 158,
+        "hero_healing": 0,
+        "net_worth": 9670,
+        "stuns": 34.4
+      }
+    },
+    {
+      "game_id": 13,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-sacred-vs-team-smash-game-1",
+      "game_number": 1,
+      "duration_seconds": 2922,
+      "duration_formatted": "48:42",
+      "date": "2026-09-04T23:46:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 119,
+        "name": "Dark Willow",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/dark_willow_vert.png"
+      },
+      "player_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 25
+      },
+      "rival_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 50
+      },
+      "radiant_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 25
+      },
+      "dire_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 50
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 12,
+        "assists": 11,
+        "kda": 0.92,
+        "last_hits": 44,
+        "denies": 0,
+        "gpm": 191,
+        "xpm": 302,
+        "hero_damage": 7602,
+        "tower_damage": 88,
+        "hero_healing": 0,
+        "net_worth": 7800,
+        "stuns": 84.1
+      }
+    },
+    {
+      "game_id": 8,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-smash-vs-t-stinger-game-1",
+      "game_number": 1,
+      "duration_seconds": 2574,
+      "duration_formatted": "42:54",
+      "date": "2026-09-04T04:23:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 21,
+        "name": "Windrunner",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/windrunner_vert.png"
+      },
+      "player_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 21
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 30
+      },
+      "radiant_team": {
+        "id": 7,
+        "name": "Mango Boys",
+        "tag": "TEAM SMASH",
+        "slug": "team-smash",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "score": 21
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 30
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 6,
+        "assists": 5,
+        "kda": 1.17,
+        "last_hits": 49,
+        "denies": 0,
+        "gpm": 234,
+        "xpm": 243,
+        "hero_damage": 5898,
+        "tower_damage": 340,
+        "hero_healing": 0,
+        "net_worth": 10676,
+        "stuns": 26.2
+      }
+    }
+  ]
+}

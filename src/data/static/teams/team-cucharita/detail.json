@@ -1,0 +1,16 @@
+{
+  "name": "Cucharita Army",
+  "slug": "team-cucharita",
+  "tag": "team Shaka",
+  "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+  "region": "SA",
+  "region_display": "South America",
+  "country": "Pe",
+  "city": "",
+  "status": "ACTIVE",
+  "status_display": "Active",
+  "opendota_team_id": null,
+  "steam_id": null,
+  "created_at": "2026-08-29T21:20:17.058848-05:00",
+  "updated_at": "2026-09-03T15:22:06.039555-05:00"
+}

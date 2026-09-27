@@ -1,0 +1,170 @@
+@import "./theme.css";
+
+:root {
+  /* Fondo piedra/templo oscuro */
+  --bg-temple: #120f0a;
+  --bg-temple-card: #1c1712;
+  --bg-temple-surface: #241e17;
+  --border-temple: #2d261e;
+
+  /* Azul 1XBET */
+  --color-azure: #2e9df0;
+  --color-azure-light: #6cc4ff;
+  --color-azure-glow: rgba(46, 157, 240, 0.45);
+
+  /* Dorado Imperial */
+  --color-gold: #d8b467;
+  --color-gold-light: #f0d38f;
+  --color-gold-deep: #856829;
+  --color-gold-glow: rgba(216, 180, 103, 0.45);
+
+  /* Rojo Sangre / Eliminaciones */
+  --color-blood: #e51b24;
+  --color-blood-dark: #b91c1c;
+  --color-blood-glow: rgba(229, 27, 36, 0.45);
+
+  /* Tipografías */
+  --font-chakra: var(--font-chakra-petch), sans-serif;
+  --font-roman: var(--font-chakra-petch), sans-serif;
+  --font-cinzel: var(--font-chakra-petch), sans-serif;
+  --font-coliseo: var(--font-chakra-petch), sans-serif;
+  --font-coliseo-title: var(--font-chakra-petch), sans-serif;
+}
+
+.font-chakra {
+  font-family: var(--font-chakra-petch), sans-serif;
+}
+
+.font-roman,
+.font-cinzel,
+.font-coliseo,
+.font-coliseo-title {
+  font-family: var(--font-chakra-petch), sans-serif;
+  letter-spacing: 0.03em;
+}
+
+/* Efecto de piedra tallada romana */
+.carved {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.95), -1px -1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.laurel-glow {
+  filter: drop-shadow(0 0 16px rgba(216, 180, 103, 0.55));
+}
+
+.azure-glow {
+  filter: drop-shadow(0 0 16px rgba(46, 157, 240, 0.55));
+}
+
+/* Formas y banners romanos */
+.banner-roman-blue {
+  clip-path: polygon(5% 0, 95% 0, 100% 50%, 95% 100%, 5% 100%, 0% 50%);
+}
+
+.banner-roman-gold {
+  clip-path: polygon(0% 15%, 5% 15%, 5% 0%, 95% 0%, 95% 15%, 100% 15%, 100% 85%, 95% 85%, 95% 100%, 5% 100%, 5% 85%, 0% 85%);
+}
+
+/* Placas de piedra del templo */
+.roman-plate {
+  background: linear-gradient(145deg, #181410 0%, #100d0a 100%);
+  border: 1px solid #2d261e;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.03), 0 8px 24px rgba(0, 0, 0, 0.6);
+}
+
+/* Pedestal monumental romano para el podio */
+.roman-pedestal {
+  background: linear-gradient(180deg, #241e17 0%, #14110d 60%, #0d0b08 100%);
+  border: 1px solid #3d3328;
+  position: relative;
+}
+
+/* Divider romano dorado */
+.divider-roman {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #856829, #f0d38f, #856829, transparent);
+}
+
+/* Eliminar scroll horizontal y tema oscuro */
+html, body {
+  overflow-x: clip;
+  max-width: 100vw;
+  background-color: #120f0a;
+  color: #f3f3f5;
+  color-scheme: dark;
+  -webkit-tap-highlight-color: transparent;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Evitar auto-zoom de iOS Safari al hacer focus en inputs, selects y textareas */
+@media screen and (max-width: 767px) {
+  input,
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+}
+
+/* Smooth mobile touch scrolling */
+.touch-scroll {
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: #2d261e transparent;
+}
+
+.touch-scroll::-webkit-scrollbar {
+  height: 4px;
+  width: 4px;
+}
+
+.touch-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.touch-scroll::-webkit-scrollbar-thumb {
+  background: #2d261e;
+  border-radius: 2px;
+}
+
+.touch-scroll::-webkit-scrollbar-thumb:hover {
+  background: #2e9df0;
+}
+
+/* Hide scrollbar utility */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.container {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Animación de Carrusel Infinito para Sponsors */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 25s linear infinite;
+  will-change: transform;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}
+

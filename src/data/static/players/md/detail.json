@@ -1,0 +1,45 @@
+{
+  "slug": "md",
+  "nickname": "MD",
+  "avatar": null,
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 255339080,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "Pe",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Cucharita Army",
+        "slug": "team-cucharita",
+        "tag": "team Shaka",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "Pe",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "STANDIN",
+      "role_display": "Stand-in",
+      "competitive_position": 1,
+      "position_display": "Position 1 - Carry",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-05T18:45:22.177450-05:00",
+  "updated_at": "2026-09-05T18:45:22.177458-05:00"
+}

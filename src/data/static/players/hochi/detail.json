@@ -1,0 +1,45 @@
+{
+  "slug": "hochi",
+  "nickname": "Hochi",
+  "avatar": null,
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": "76561199066315555",
+  "account_id": 1106049827,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "Pe",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Cucharita Army",
+        "slug": "team-cucharita",
+        "tag": "team Shaka",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "Pe",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 4,
+      "position_display": "Position 4 - Soft Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:09:19.841561-05:00",
+  "updated_at": "2026-09-02T02:09:19.841572-05:00"
+}

@@ -1,0 +1,826 @@
+{
+  "total_matches": 6,
+  "wins": 2,
+  "losses": 4,
+  "win_rate": 33.3,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-07",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "matches": [
+        {
+          "game_id": 52,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-3",
+          "game_number": 3,
+          "duration_seconds": 2258,
+          "duration_formatted": "37:38",
+          "date": "2026-09-08T00:07:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 27,
+            "name": "Shadow Shaman",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+          },
+          "player_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 12
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 45
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 12
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 45
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 12,
+            "assists": 7,
+            "kda": 0.67,
+            "last_hits": 28,
+            "denies": 1,
+            "gpm": 268,
+            "xpm": 378,
+            "hero_damage": 1786,
+            "tower_damage": 1331,
+            "hero_healing": 0,
+            "net_worth": 6572,
+            "stuns": 52.5
+          }
+        },
+        {
+          "game_id": 43,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-2",
+          "game_number": 2,
+          "duration_seconds": 2507,
+          "duration_formatted": "41:47",
+          "date": "2026-09-07T23:08:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 71,
+            "name": "Spirit Breaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+          },
+          "player_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 16
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 56
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 16
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 56
+          },
+          "stats": {
+            "kills": 3,
+            "deaths": 21,
+            "assists": 3,
+            "kda": 0.29,
+            "last_hits": 37,
+            "denies": 0,
+            "gpm": 211,
+            "xpm": 329,
+            "hero_damage": 3826,
+            "tower_damage": 145,
+            "hero_healing": 0,
+            "net_worth": 5900,
+            "stuns": 24.1
+          }
+        },
+        {
+          "game_id": 42,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 3710,
+          "duration_formatted": "61:50",
+          "date": "2026-09-07T22:07:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 71,
+            "name": "Spirit Breaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+          },
+          "player_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 47
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 44
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 47
+          },
+          "dire_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 44
+          },
+          "stats": {
+            "kills": 7,
+            "deaths": 17,
+            "assists": 17,
+            "kda": 1.41,
+            "last_hits": 48,
+            "denies": 1,
+            "gpm": 305,
+            "xpm": 729,
+            "hero_damage": 11890,
+            "tower_damage": 0,
+            "hero_healing": 137,
+            "net_worth": 13572,
+            "stuns": 86.7
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "matches": [
+        {
+          "game_id": 27,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka-game-1",
+          "game_number": 1,
+          "duration_seconds": 2517,
+          "duration_formatted": "41:57",
+          "date": "2026-09-07T00:44:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 84,
+            "name": "Ogre Magi",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+          },
+          "player_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 17
+          },
+          "rival_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 41
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 17
+          },
+          "dire_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 41
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 10,
+            "assists": 12,
+            "kda": 1.3,
+            "last_hits": 10,
+            "denies": 1,
+            "gpm": 248,
+            "xpm": 329,
+            "hero_damage": 7170,
+            "tower_damage": 0,
+            "hero_healing": 515,
+            "net_worth": 7737,
+            "stuns": 29.2
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 10,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+          "game_number": 1,
+          "duration_seconds": 2947,
+          "duration_formatted": "49:07",
+          "date": "2026-09-04T19:20:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 84,
+            "name": "Ogre Magi",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+          },
+          "player_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 32
+          },
+          "rival_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 40
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 32
+          },
+          "dire_team": {
+            "id": 1,
+            "name": "The Bot$",
+            "tag": "T parker",
+            "slug": "the-bots",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "score": 40
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 10,
+            "assists": 19,
+            "kda": 2.1,
+            "last_hits": 11,
+            "denies": 0,
+            "gpm": 252,
+            "xpm": 328,
+            "hero_damage": 9493,
+            "tower_damage": 0,
+            "hero_healing": 195,
+            "net_worth": 8435,
+            "stuns": 21.4
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 2,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "duration_seconds": 1591,
+          "duration_formatted": "26:31",
+          "date": "2026-09-03T19:07:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 84,
+            "name": "Ogre Magi",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+          },
+          "player_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 23
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 12
+          },
+          "radiant_team": {
+            "id": 11,
+            "name": "TEAM BRASIL",
+            "tag": "t astini",
+            "slug": "team-brasil",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "score": 23
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 12
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 1,
+            "assists": 12,
+            "kda": 14,
+            "last_hits": 7,
+            "denies": 0,
+            "gpm": 273,
+            "xpm": 318,
+            "hero_damage": 5899,
+            "tower_damage": 178,
+            "hero_healing": 0,
+            "net_worth": 6102,
+            "stuns": 8.6
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 52,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-3",
+      "game_number": 3,
+      "duration_seconds": 2258,
+      "duration_formatted": "37:38",
+      "date": "2026-09-08T00:07:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 27,
+        "name": "Shadow Shaman",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/shadow_shaman_vert.png"
+      },
+      "player_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 12
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 45
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 12
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 45
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 12,
+        "assists": 7,
+        "kda": 0.67,
+        "last_hits": 28,
+        "denies": 1,
+        "gpm": 268,
+        "xpm": 378,
+        "hero_damage": 1786,
+        "tower_damage": 1331,
+        "hero_healing": 0,
+        "net_worth": 6572,
+        "stuns": 52.5
+      }
+    },
+    {
+      "game_id": 43,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-2",
+      "game_number": 2,
+      "duration_seconds": 2507,
+      "duration_formatted": "41:47",
+      "date": "2026-09-07T23:08:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 71,
+        "name": "Spirit Breaker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+      },
+      "player_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 16
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 56
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 16
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 56
+      },
+      "stats": {
+        "kills": 3,
+        "deaths": 21,
+        "assists": 3,
+        "kda": 0.29,
+        "last_hits": 37,
+        "denies": 0,
+        "gpm": 211,
+        "xpm": 329,
+        "hero_damage": 3826,
+        "tower_damage": 145,
+        "hero_healing": 0,
+        "net_worth": 5900,
+        "stuns": 24.1
+      }
+    },
+    {
+      "game_id": 42,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-t-astini-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 3710,
+      "duration_formatted": "61:50",
+      "date": "2026-09-07T22:07:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 71,
+        "name": "Spirit Breaker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+      },
+      "player_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 47
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 44
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 47
+      },
+      "dire_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 44
+      },
+      "stats": {
+        "kills": 7,
+        "deaths": 17,
+        "assists": 17,
+        "kda": 1.41,
+        "last_hits": 48,
+        "denies": 1,
+        "gpm": 305,
+        "xpm": 729,
+        "hero_damage": 11890,
+        "tower_damage": 0,
+        "hero_healing": 137,
+        "net_worth": 13572,
+        "stuns": 86.7
+      }
+    },
+    {
+      "game_id": 27,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-smash-vs-team-shaka-game-1",
+      "game_number": 1,
+      "duration_seconds": 2517,
+      "duration_formatted": "41:57",
+      "date": "2026-09-07T00:44:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 84,
+        "name": "Ogre Magi",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+      },
+      "player_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 17
+      },
+      "rival_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 41
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 17
+      },
+      "dire_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 41
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 10,
+        "assists": 12,
+        "kda": 1.3,
+        "last_hits": 10,
+        "denies": 1,
+        "gpm": 248,
+        "xpm": 329,
+        "hero_damage": 7170,
+        "tower_damage": 0,
+        "hero_healing": 515,
+        "net_worth": 7737,
+        "stuns": 29.2
+      }
+    },
+    {
+      "game_id": 10,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-parker-vs-t-astini-game-1",
+      "game_number": 1,
+      "duration_seconds": 2947,
+      "duration_formatted": "49:07",
+      "date": "2026-09-04T19:20:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 84,
+        "name": "Ogre Magi",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+      },
+      "player_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 32
+      },
+      "rival_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 40
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 32
+      },
+      "dire_team": {
+        "id": 1,
+        "name": "The Bot$",
+        "tag": "T parker",
+        "slug": "the-bots",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "score": 40
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 10,
+        "assists": 19,
+        "kda": 2.1,
+        "last_hits": 11,
+        "denies": 0,
+        "gpm": 252,
+        "xpm": 328,
+        "hero_damage": 9493,
+        "tower_damage": 0,
+        "hero_healing": 195,
+        "net_worth": 8435,
+        "stuns": 21.4
+      }
+    },
+    {
+      "game_id": 2,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-astini-vs-dotagaymer-game-1",
+      "game_number": 1,
+      "duration_seconds": 1591,
+      "duration_formatted": "26:31",
+      "date": "2026-09-03T19:07:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 84,
+        "name": "Ogre Magi",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/ogre_magi_vert.png"
+      },
+      "player_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 23
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 12
+      },
+      "radiant_team": {
+        "id": 11,
+        "name": "TEAM BRASIL",
+        "tag": "t astini",
+        "slug": "team-brasil",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "score": 23
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 12
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 1,
+        "assists": 12,
+        "kda": 14,
+        "last_hits": 7,
+        "denies": 0,
+        "gpm": 273,
+        "xpm": 318,
+        "hero_damage": 5899,
+        "tower_damage": 178,
+        "hero_healing": 0,
+        "net_worth": 6102,
+        "stuns": 8.6
+      }
+    }
+  ]
+}

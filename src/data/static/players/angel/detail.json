@@ -1,0 +1,45 @@
+{
+  "slug": "angel",
+  "nickname": "Angel",
+  "avatar": null,
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": "76561198134107888",
+  "account_id": 173842160,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Gotto House",
+        "slug": "gotto-house",
+        "tag": "t matthew",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 1,
+      "position_display": "Position 1 - Carry",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:02:07.050791-05:00",
+  "updated_at": "2026-09-02T02:03:11.671081-05:00"
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "chrisdota",
+  "nickname": "ChrisDota",
+  "avatar": null,
+  "bio": "",
+  "kick_url": "",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 153836240,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Mango Boys",
+        "slug": "team-smash",
+        "tag": "TEAM SMASH",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 2,
+      "position_display": "Position 2 - Mid",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:21:58.540652-05:00",
+  "updated_at": "2026-09-04T02:15:18.337784-05:00"
+}

@@ -1,0 +1,1234 @@
+{
+  "total_matches": 9,
+  "wins": 5,
+  "losses": 4,
+  "win_rate": 55.6,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-10",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "matches": [
+        {
+          "game_id": 74,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-3",
+          "game_number": 3,
+          "duration_seconds": 2779,
+          "duration_formatted": "46:19",
+          "date": "2026-09-11T04:52:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 101,
+            "name": "Skywrath Mage",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+          },
+          "player_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 14
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 29
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 29
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 14
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 6,
+            "assists": 4,
+            "kda": 1,
+            "last_hits": 15,
+            "denies": 2,
+            "gpm": 238,
+            "xpm": 337,
+            "hero_damage": 7964,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 7828,
+            "stuns": 4
+          }
+        },
+        {
+          "game_id": 68,
+          "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-1",
+          "game_number": 1,
+          "duration_seconds": 2698,
+          "duration_formatted": "44:58",
+          "date": "2026-09-11T02:48:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+          "date_key": "2026-09-10",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Fase Suiza",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 128,
+            "name": "Snapfire",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+          },
+          "player_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 29
+          },
+          "rival_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 30
+          },
+          "radiant_team": {
+            "id": 15,
+            "name": "Team Factos Army",
+            "tag": "payasita g",
+            "slug": "team-factos-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "score": 30
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 29
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 6,
+            "assists": 14,
+            "kda": 3.17,
+            "last_hits": 32,
+            "denies": 2,
+            "gpm": 304,
+            "xpm": 395,
+            "hero_damage": 18510,
+            "tower_damage": 0,
+            "hero_healing": 350,
+            "net_worth": 10067,
+            "stuns": 23.9
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "matches": [
+        {
+          "game_id": 56,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-2",
+          "game_number": 2,
+          "duration_seconds": 2412,
+          "duration_formatted": "40:12",
+          "date": "2026-09-09T18:56:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 71,
+            "name": "Spirit Breaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+          },
+          "player_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 23
+          },
+          "rival_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 16
+          },
+          "radiant_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 16
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 23
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 6,
+            "assists": 13,
+            "kda": 2.33,
+            "last_hits": 17,
+            "denies": 3,
+            "gpm": 296,
+            "xpm": 372,
+            "hero_damage": 5481,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 12027,
+            "stuns": 28.7
+          }
+        },
+        {
+          "game_id": 55,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-1",
+          "game_number": 1,
+          "duration_seconds": 1739,
+          "duration_formatted": "28:59",
+          "date": "2026-09-09T18:02:00+00:00",
+          "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+          "date_key": "2026-09-09",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 5",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 101,
+            "name": "Skywrath Mage",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+          },
+          "player_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 35
+          },
+          "rival_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 23
+          },
+          "radiant_team": {
+            "id": 9,
+            "name": "CHALA TEAM",
+            "tag": "t scofield",
+            "slug": "team-scofield",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "score": 23
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 35
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 8,
+            "assists": 11,
+            "kda": 1.62,
+            "last_hits": 5,
+            "denies": 1,
+            "gpm": 252,
+            "xpm": 295,
+            "hero_damage": 6940,
+            "tower_damage": 24,
+            "hero_healing": 0,
+            "net_worth": 6077,
+            "stuns": 1.1
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "matches": [
+        {
+          "game_id": 41,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-2",
+          "game_number": 2,
+          "duration_seconds": 2737,
+          "duration_formatted": "45:37",
+          "date": "2026-09-07T18:53:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 128,
+            "name": "Snapfire",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+          },
+          "player_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 45
+          },
+          "rival_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 34
+          },
+          "radiant_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 34
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 45
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 7,
+            "assists": 21,
+            "kda": 3.71,
+            "last_hits": 47,
+            "denies": 2,
+            "gpm": 356,
+            "xpm": 542,
+            "hero_damage": 12132,
+            "tower_damage": 944,
+            "hero_healing": 594,
+            "net_worth": 13357,
+            "stuns": 15.1
+          }
+        },
+        {
+          "game_id": 40,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-1",
+          "game_number": 1,
+          "duration_seconds": 2010,
+          "duration_formatted": "33:30",
+          "date": "2026-09-07T17:37:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 101,
+            "name": "Skywrath Mage",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+          },
+          "player_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 32
+          },
+          "rival_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 10
+          },
+          "radiant_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 10
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 32
+          },
+          "stats": {
+            "kills": 6,
+            "deaths": 1,
+            "assists": 16,
+            "kda": 22,
+            "last_hits": 21,
+            "denies": 6,
+            "gpm": 323,
+            "xpm": 504,
+            "hero_damage": 8473,
+            "tower_damage": 425,
+            "hero_healing": 0,
+            "net_worth": 9305,
+            "stuns": 5.9
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "matches": [
+        {
+          "game_id": 30,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+          "game_number": 1,
+          "duration_seconds": 3104,
+          "duration_formatted": "51:44",
+          "date": "2026-09-07T02:13:00+00:00",
+          "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+          "date_key": "2026-09-06",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 86,
+            "name": "Rubick",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/rubick_vert.png"
+          },
+          "player_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 30
+          },
+          "rival_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 34
+          },
+          "radiant_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 30
+          },
+          "dire_team": {
+            "id": 13,
+            "name": "The Monsters",
+            "tag": "tm",
+            "slug": "the-monsters",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "score": 34
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 8,
+            "assists": 16,
+            "kda": 2.5,
+            "last_hits": 78,
+            "denies": 1,
+            "gpm": 324,
+            "xpm": 501,
+            "hero_damage": 18319,
+            "tower_damage": 187,
+            "hero_healing": 0,
+            "net_worth": 12951,
+            "stuns": 47.8
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 12,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz-game-1",
+          "game_number": 1,
+          "duration_seconds": 2041,
+          "duration_formatted": "34:01",
+          "date": "2026-09-04T22:14:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 101,
+            "name": "Skywrath Mage",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+          },
+          "player_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 37
+          },
+          "rival_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 17
+          },
+          "radiant_team": {
+            "id": 2,
+            "name": "Rising Rage",
+            "tag": "t leostyle",
+            "slug": "rising-rage",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "score": 17
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 37
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 6,
+            "assists": 14,
+            "kda": 3.17,
+            "last_hits": 6,
+            "denies": 1,
+            "gpm": 306,
+            "xpm": 370,
+            "hero_damage": 9470,
+            "tower_damage": 410,
+            "hero_healing": 195,
+            "net_worth": 9235,
+            "stuns": 0
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 1,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz-game-1",
+          "game_number": 1,
+          "duration_seconds": 2537,
+          "duration_formatted": "42:17",
+          "date": "2026-09-03T17:54:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 83,
+            "name": "Treant",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/treant_vert.png"
+          },
+          "player_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 22
+          },
+          "rival_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 37
+          },
+          "radiant_team": {
+            "id": 8,
+            "name": "Gotto House",
+            "tag": "t matthew",
+            "slug": "gotto-house",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "score": 37
+          },
+          "dire_team": {
+            "id": 10,
+            "name": "The Parrocos Young",
+            "tag": "team pakaz",
+            "slug": "team-pakazs",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "score": 22
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 11,
+            "assists": 15,
+            "kda": 1.45,
+            "last_hits": 27,
+            "denies": 0,
+            "gpm": 238,
+            "xpm": 303,
+            "hero_damage": 8286,
+            "tower_damage": 0,
+            "hero_healing": 2272,
+            "net_worth": 8036,
+            "stuns": 67.2
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 74,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-3",
+      "game_number": 3,
+      "duration_seconds": 2779,
+      "duration_formatted": "46:19",
+      "date": "2026-09-11T04:52:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 101,
+        "name": "Skywrath Mage",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+      },
+      "player_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 14
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 29
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 29
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 14
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 6,
+        "assists": 4,
+        "kda": 1,
+        "last_hits": 15,
+        "denies": 2,
+        "gpm": 238,
+        "xpm": 337,
+        "hero_damage": 7964,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 7828,
+        "stuns": 4
+      }
+    },
+    {
+      "game_id": 68,
+      "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b8-payasita-g-vs-team-pakaz-game-1",
+      "game_number": 1,
+      "duration_seconds": 2698,
+      "duration_formatted": "44:58",
+      "date": "2026-09-11T02:48:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 10.",
+      "date_key": "2026-09-10",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Fase Suiza",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 128,
+        "name": "Snapfire",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+      },
+      "player_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 29
+      },
+      "rival_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 30
+      },
+      "radiant_team": {
+        "id": 15,
+        "name": "Team Factos Army",
+        "tag": "payasita g",
+        "slug": "team-factos-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "score": 30
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 29
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 6,
+        "assists": 14,
+        "kda": 3.17,
+        "last_hits": 32,
+        "denies": 2,
+        "gpm": 304,
+        "xpm": 395,
+        "hero_damage": 18510,
+        "tower_damage": 0,
+        "hero_healing": 350,
+        "net_worth": 10067,
+        "stuns": 23.9
+      }
+    },
+    {
+      "game_id": 56,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-2",
+      "game_number": 2,
+      "duration_seconds": 2412,
+      "duration_formatted": "40:12",
+      "date": "2026-09-09T18:56:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 71,
+        "name": "Spirit Breaker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+      },
+      "player_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 23
+      },
+      "rival_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 16
+      },
+      "radiant_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 16
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 23
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 6,
+        "assists": 13,
+        "kda": 2.33,
+        "last_hits": 17,
+        "denies": 3,
+        "gpm": 296,
+        "xpm": 372,
+        "hero_damage": 5481,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 12027,
+        "stuns": 28.7
+      }
+    },
+    {
+      "game_id": 55,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r5-team-pakaz-vs-t-scofield-game-1",
+      "game_number": 1,
+      "duration_seconds": 1739,
+      "duration_formatted": "28:59",
+      "date": "2026-09-09T18:02:00+00:00",
+      "date_formatted": "MIÉRCOLES, SEPTIEMBRE 9.",
+      "date_key": "2026-09-09",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 5",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 101,
+        "name": "Skywrath Mage",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+      },
+      "player_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 35
+      },
+      "rival_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 23
+      },
+      "radiant_team": {
+        "id": 9,
+        "name": "CHALA TEAM",
+        "tag": "t scofield",
+        "slug": "team-scofield",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "score": 23
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 35
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 8,
+        "assists": 11,
+        "kda": 1.62,
+        "last_hits": 5,
+        "denies": 1,
+        "gpm": 252,
+        "xpm": 295,
+        "hero_damage": 6940,
+        "tower_damage": 24,
+        "hero_healing": 0,
+        "net_worth": 6077,
+        "stuns": 1.1
+      }
+    },
+    {
+      "game_id": 41,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-2",
+      "game_number": 2,
+      "duration_seconds": 2737,
+      "duration_formatted": "45:37",
+      "date": "2026-09-07T18:53:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 128,
+        "name": "Snapfire",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/snapfire_vert.png"
+      },
+      "player_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 45
+      },
+      "rival_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 34
+      },
+      "radiant_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 34
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 45
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 7,
+        "assists": 21,
+        "kda": 3.71,
+        "last_hits": 47,
+        "denies": 2,
+        "gpm": 356,
+        "xpm": 542,
+        "hero_damage": 12132,
+        "tower_damage": 944,
+        "hero_healing": 594,
+        "net_worth": 13357,
+        "stuns": 15.1
+      }
+    },
+    {
+      "game_id": 40,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-pakaz-vs-bb-game-1",
+      "game_number": 1,
+      "duration_seconds": 2010,
+      "duration_formatted": "33:30",
+      "date": "2026-09-07T17:37:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 101,
+        "name": "Skywrath Mage",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+      },
+      "player_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 32
+      },
+      "rival_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 10
+      },
+      "radiant_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 10
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 32
+      },
+      "stats": {
+        "kills": 6,
+        "deaths": 1,
+        "assists": 16,
+        "kda": 22,
+        "last_hits": 21,
+        "denies": 6,
+        "gpm": 323,
+        "xpm": 504,
+        "hero_damage": 8473,
+        "tower_damage": 425,
+        "hero_healing": 0,
+        "net_worth": 9305,
+        "stuns": 5.9
+      }
+    },
+    {
+      "game_id": 30,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-dotagaymer-vs-t-leostyle-game-1",
+      "game_number": 1,
+      "duration_seconds": 3104,
+      "duration_formatted": "51:44",
+      "date": "2026-09-07T02:13:00+00:00",
+      "date_formatted": "DOMINGO, SEPTIEMBRE 6.",
+      "date_key": "2026-09-06",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 86,
+        "name": "Rubick",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/rubick_vert.png"
+      },
+      "player_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 30
+      },
+      "rival_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 34
+      },
+      "radiant_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 30
+      },
+      "dire_team": {
+        "id": 13,
+        "name": "The Monsters",
+        "tag": "tm",
+        "slug": "the-monsters",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "score": 34
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 8,
+        "assists": 16,
+        "kda": 2.5,
+        "last_hits": 78,
+        "denies": 1,
+        "gpm": 324,
+        "xpm": 501,
+        "hero_damage": 18319,
+        "tower_damage": 187,
+        "hero_healing": 0,
+        "net_worth": 12951,
+        "stuns": 47.8
+      }
+    },
+    {
+      "game_id": 12,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-t-leostyle-vs-team-pakaz-game-1",
+      "game_number": 1,
+      "duration_seconds": 2041,
+      "duration_formatted": "34:01",
+      "date": "2026-09-04T22:14:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 101,
+        "name": "Skywrath Mage",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/skywrath_mage_vert.png"
+      },
+      "player_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 37
+      },
+      "rival_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 17
+      },
+      "radiant_team": {
+        "id": 2,
+        "name": "Rising Rage",
+        "tag": "t leostyle",
+        "slug": "rising-rage",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "score": 17
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 37
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 6,
+        "assists": 14,
+        "kda": 3.17,
+        "last_hits": 6,
+        "denies": 1,
+        "gpm": 306,
+        "xpm": 370,
+        "hero_damage": 9470,
+        "tower_damage": 410,
+        "hero_healing": 195,
+        "net_worth": 9235,
+        "stuns": 0
+      }
+    },
+    {
+      "game_id": 1,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-matthew-vs-team-pakaz-game-1",
+      "game_number": 1,
+      "duration_seconds": 2537,
+      "duration_formatted": "42:17",
+      "date": "2026-09-03T17:54:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 83,
+        "name": "Treant",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/treant_vert.png"
+      },
+      "player_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 22
+      },
+      "rival_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 37
+      },
+      "radiant_team": {
+        "id": 8,
+        "name": "Gotto House",
+        "tag": "t matthew",
+        "slug": "gotto-house",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "score": 37
+      },
+      "dire_team": {
+        "id": 10,
+        "name": "The Parrocos Young",
+        "tag": "team pakaz",
+        "slug": "team-pakazs",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "score": 22
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 11,
+        "assists": 15,
+        "kda": 1.45,
+        "last_hits": 27,
+        "denies": 0,
+        "gpm": 238,
+        "xpm": 303,
+        "hero_damage": 8286,
+        "tower_damage": 0,
+        "hero_healing": 2272,
+        "net_worth": 8036,
+        "stuns": 67.2
+      }
+    }
+  ]
+}

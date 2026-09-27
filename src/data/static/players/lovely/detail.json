@@ -1,0 +1,45 @@
+{
+  "slug": "lovely",
+  "nickname": "Lovely",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/lovely.webp",
+  "bio": "",
+  "kick_url": "https://kick.com/lovelywp",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/loovely.wp/",
+  "twitter_url": "https://x.com/Loovelywp",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 196617903,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Los Number One",
+        "slug": "los-number-one",
+        "tag": "t sacred",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 5,
+      "position_display": "Position 5 - Hard Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T02:28:56.415032-05:00",
+  "updated_at": "2026-09-06T20:44:22.035352-05:00"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mango Boys",
+  "slug": "team-smash",
+  "tag": "TEAM SMASH",
+  "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "status": "ACTIVE",
+  "status_display": "Active",
+  "opendota_team_id": null,
+  "steam_id": null,
+  "created_at": "2026-08-29T00:17:55.431361-05:00",
+  "updated_at": "2026-09-03T15:25:46.209756-05:00"
+}

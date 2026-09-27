@@ -1,0 +1,826 @@
+{
+  "total_matches": 6,
+  "wins": 2,
+  "losses": 4,
+  "win_rate": 33.3,
+  "grouped_by_date": [
+    {
+      "date": "2026-09-07",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "matches": [
+        {
+          "game_id": 53,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-3",
+          "game_number": 3,
+          "duration_seconds": 4069,
+          "duration_formatted": "67:49",
+          "date": "2026-09-08T03:55:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 88,
+            "name": "Nyx Assassin",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/nyx_assassin_vert.png"
+          },
+          "player_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 40
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 69
+          },
+          "radiant_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 40
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 69
+          },
+          "stats": {
+            "kills": 2,
+            "deaths": 17,
+            "assists": 23,
+            "kda": 1.47,
+            "last_hits": 51,
+            "denies": 1,
+            "gpm": 264,
+            "xpm": 431,
+            "hero_damage": 18339,
+            "tower_damage": 0,
+            "hero_healing": 400,
+            "net_worth": 12447,
+            "stuns": 116
+          }
+        },
+        {
+          "game_id": 45,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-2",
+          "game_number": 2,
+          "duration_seconds": 1764,
+          "duration_formatted": "29:24",
+          "date": "2026-09-08T02:21:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 88,
+            "name": "Nyx Assassin",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/nyx_assassin_vert.png"
+          },
+          "player_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 8
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 44
+          },
+          "radiant_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 8
+          },
+          "dire_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 44
+          },
+          "stats": {
+            "kills": 0,
+            "deaths": 9,
+            "assists": 4,
+            "kda": 0.44,
+            "last_hits": 18,
+            "denies": 1,
+            "gpm": 156,
+            "xpm": 227,
+            "hero_damage": 6060,
+            "tower_damage": 0,
+            "hero_healing": 0,
+            "net_worth": 3646,
+            "stuns": 38.9
+          }
+        },
+        {
+          "game_id": 44,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-1",
+          "game_number": 1,
+          "duration_seconds": 2727,
+          "duration_formatted": "45:27",
+          "date": "2026-09-08T01:22:00+00:00",
+          "date_formatted": "LUNES, SEPTIEMBRE 7.",
+          "date_key": "2026-09-07",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 4",
+          "player_side": "dire",
+          "player_won": true,
+          "hero": {
+            "id": 71,
+            "name": "Spirit Breaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+          },
+          "player_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 36
+          },
+          "rival_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 37
+          },
+          "radiant_team": {
+            "id": 12,
+            "name": "Fuerzas GAYniu",
+            "tag": "dotagaymer",
+            "slug": "fuerzas-gayniu",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "score": 37
+          },
+          "dire_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 36
+          },
+          "stats": {
+            "kills": 5,
+            "deaths": 13,
+            "assists": 24,
+            "kda": 2.23,
+            "last_hits": 69,
+            "denies": 4,
+            "gpm": 323,
+            "xpm": 443,
+            "hero_damage": 10085,
+            "tower_damage": 0,
+            "hero_healing": 1157,
+            "net_worth": 10717,
+            "stuns": 60.9
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "matches": [
+        {
+          "game_id": 24,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-pakaz-vs-team-iwo-game-1",
+          "game_number": 1,
+          "duration_seconds": 3247,
+          "duration_formatted": "54:07",
+          "date": "2026-09-06T02:18:00+00:00",
+          "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+          "date_key": "2026-09-05",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 3",
+          "player_side": "dire",
+          "player_won": false,
+          "hero": {
+            "id": 71,
+            "name": "Spirit Breaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+          },
+          "player_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 35
+          },
+          "rival_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 41
+          },
+          "radiant_team": {
+            "id": 3,
+            "name": "Los Number One",
+            "tag": "t sacred",
+            "slug": "los-number-one",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "score": 41
+          },
+          "dire_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 35
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 9,
+            "assists": 13,
+            "kda": 1.89,
+            "last_hits": 76,
+            "denies": 5,
+            "gpm": 287,
+            "xpm": 469,
+            "hero_damage": 17065,
+            "tower_damage": 0,
+            "hero_healing": 1160,
+            "net_worth": 13800,
+            "stuns": 90.6
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "matches": [
+        {
+          "game_id": 14,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger-game-1",
+          "game_number": 1,
+          "duration_seconds": 2659,
+          "duration_formatted": "44:19",
+          "date": "2026-09-05T01:05:00+00:00",
+          "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+          "date_key": "2026-09-04",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 2",
+          "player_side": "radiant",
+          "player_won": false,
+          "hero": {
+            "id": 74,
+            "name": "Invoker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/invoker_vert.png"
+          },
+          "player_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 19
+          },
+          "rival_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 31
+          },
+          "radiant_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 19
+          },
+          "dire_team": {
+            "id": 14,
+            "name": "CAPIBARAS",
+            "tag": "t stinger",
+            "slug": "capibarbas",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "score": 31
+          },
+          "stats": {
+            "kills": 4,
+            "deaths": 5,
+            "assists": 10,
+            "kda": 2.8,
+            "last_hits": 186,
+            "denies": 3,
+            "gpm": 424,
+            "xpm": 472,
+            "hero_damage": 14189,
+            "tower_damage": 2050,
+            "hero_healing": 0,
+            "net_worth": 16871,
+            "stuns": 37.7
+          }
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "matches": [
+        {
+          "game_id": 3,
+          "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-iwo-vs-bb-game-1",
+          "game_number": 1,
+          "duration_seconds": 2075,
+          "duration_formatted": "34:35",
+          "date": "2026-09-03T20:30:00+00:00",
+          "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+          "date_key": "2026-09-03",
+          "tournament_name": "El Gran Coliseo II",
+          "round_name": "Ronda 1",
+          "player_side": "radiant",
+          "player_won": true,
+          "hero": {
+            "id": 71,
+            "name": "Spirit Breaker",
+            "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+          },
+          "player_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 31
+          },
+          "rival_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 20
+          },
+          "radiant_team": {
+            "id": 4,
+            "name": "Mitra Army",
+            "tag": "team iwo",
+            "slug": "mitra-army",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "score": 31
+          },
+          "dire_team": {
+            "id": 5,
+            "name": "Bemboyz",
+            "tag": "BB",
+            "slug": "bemboyz",
+            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "score": 20
+          },
+          "stats": {
+            "kills": 1,
+            "deaths": 7,
+            "assists": 23,
+            "kda": 3.43,
+            "last_hits": 27,
+            "denies": 0,
+            "gpm": 303,
+            "xpm": 422,
+            "hero_damage": 9284,
+            "tower_damage": 641,
+            "hero_healing": 125,
+            "net_worth": 9039,
+            "stuns": 48.9
+          }
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "game_id": 53,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-3",
+      "game_number": 3,
+      "duration_seconds": 4069,
+      "duration_formatted": "67:49",
+      "date": "2026-09-08T03:55:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 88,
+        "name": "Nyx Assassin",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/nyx_assassin_vert.png"
+      },
+      "player_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 40
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 69
+      },
+      "radiant_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 40
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 69
+      },
+      "stats": {
+        "kills": 2,
+        "deaths": 17,
+        "assists": 23,
+        "kda": 1.47,
+        "last_hits": 51,
+        "denies": 1,
+        "gpm": 264,
+        "xpm": 431,
+        "hero_damage": 18339,
+        "tower_damage": 0,
+        "hero_healing": 400,
+        "net_worth": 12447,
+        "stuns": 116
+      }
+    },
+    {
+      "game_id": 45,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-2",
+      "game_number": 2,
+      "duration_seconds": 1764,
+      "duration_formatted": "29:24",
+      "date": "2026-09-08T02:21:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 88,
+        "name": "Nyx Assassin",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/nyx_assassin_vert.png"
+      },
+      "player_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 8
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 44
+      },
+      "radiant_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 8
+      },
+      "dire_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 44
+      },
+      "stats": {
+        "kills": 0,
+        "deaths": 9,
+        "assists": 4,
+        "kda": 0.44,
+        "last_hits": 18,
+        "denies": 1,
+        "gpm": 156,
+        "xpm": 227,
+        "hero_damage": 6060,
+        "tower_damage": 0,
+        "hero_healing": 0,
+        "net_worth": 3646,
+        "stuns": 38.9
+      }
+    },
+    {
+      "game_id": 44,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-1",
+      "game_number": 1,
+      "duration_seconds": 2727,
+      "duration_formatted": "45:27",
+      "date": "2026-09-08T01:22:00+00:00",
+      "date_formatted": "LUNES, SEPTIEMBRE 7.",
+      "date_key": "2026-09-07",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 4",
+      "player_side": "dire",
+      "player_won": true,
+      "hero": {
+        "id": 71,
+        "name": "Spirit Breaker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+      },
+      "player_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 36
+      },
+      "rival_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 37
+      },
+      "radiant_team": {
+        "id": 12,
+        "name": "Fuerzas GAYniu",
+        "tag": "dotagaymer",
+        "slug": "fuerzas-gayniu",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "score": 37
+      },
+      "dire_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 36
+      },
+      "stats": {
+        "kills": 5,
+        "deaths": 13,
+        "assists": 24,
+        "kda": 2.23,
+        "last_hits": 69,
+        "denies": 4,
+        "gpm": 323,
+        "xpm": 443,
+        "hero_damage": 10085,
+        "tower_damage": 0,
+        "hero_healing": 1157,
+        "net_worth": 10717,
+        "stuns": 60.9
+      }
+    },
+    {
+      "game_id": 24,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r3-team-pakaz-vs-team-iwo-game-1",
+      "game_number": 1,
+      "duration_seconds": 3247,
+      "duration_formatted": "54:07",
+      "date": "2026-09-06T02:18:00+00:00",
+      "date_formatted": "SÁBADO, SEPTIEMBRE 5.",
+      "date_key": "2026-09-05",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 3",
+      "player_side": "dire",
+      "player_won": false,
+      "hero": {
+        "id": 71,
+        "name": "Spirit Breaker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+      },
+      "player_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 35
+      },
+      "rival_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 41
+      },
+      "radiant_team": {
+        "id": 3,
+        "name": "Los Number One",
+        "tag": "t sacred",
+        "slug": "los-number-one",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "score": 41
+      },
+      "dire_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 35
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 9,
+        "assists": 13,
+        "kda": 1.89,
+        "last_hits": 76,
+        "denies": 5,
+        "gpm": 287,
+        "xpm": 469,
+        "hero_damage": 17065,
+        "tower_damage": 0,
+        "hero_healing": 1160,
+        "net_worth": 13800,
+        "stuns": 90.6
+      }
+    },
+    {
+      "game_id": 14,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r2-team-iwo-vs-t-stinger-game-1",
+      "game_number": 1,
+      "duration_seconds": 2659,
+      "duration_formatted": "44:19",
+      "date": "2026-09-05T01:05:00+00:00",
+      "date_formatted": "VIERNES, SEPTIEMBRE 4.",
+      "date_key": "2026-09-04",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 2",
+      "player_side": "radiant",
+      "player_won": false,
+      "hero": {
+        "id": 74,
+        "name": "Invoker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/invoker_vert.png"
+      },
+      "player_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 19
+      },
+      "rival_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 31
+      },
+      "radiant_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 19
+      },
+      "dire_team": {
+        "id": 14,
+        "name": "CAPIBARAS",
+        "tag": "t stinger",
+        "slug": "capibarbas",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "score": 31
+      },
+      "stats": {
+        "kills": 4,
+        "deaths": 5,
+        "assists": 10,
+        "kda": 2.8,
+        "last_hits": 186,
+        "denies": 3,
+        "gpm": 424,
+        "xpm": 472,
+        "hero_damage": 14189,
+        "tower_damage": 2050,
+        "hero_healing": 0,
+        "net_worth": 16871,
+        "stuns": 37.7
+      }
+    },
+    {
+      "game_id": 3,
+      "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-team-iwo-vs-bb-game-1",
+      "game_number": 1,
+      "duration_seconds": 2075,
+      "duration_formatted": "34:35",
+      "date": "2026-09-03T20:30:00+00:00",
+      "date_formatted": "JUEVES, SEPTIEMBRE 3.",
+      "date_key": "2026-09-03",
+      "tournament_name": "El Gran Coliseo II",
+      "round_name": "Ronda 1",
+      "player_side": "radiant",
+      "player_won": true,
+      "hero": {
+        "id": 71,
+        "name": "Spirit Breaker",
+        "image_url": "https://cdn.stratz.com/images/dota2/heroes/spirit_breaker_vert.png"
+      },
+      "player_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 31
+      },
+      "rival_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 20
+      },
+      "radiant_team": {
+        "id": 4,
+        "name": "Mitra Army",
+        "tag": "team iwo",
+        "slug": "mitra-army",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "score": 31
+      },
+      "dire_team": {
+        "id": 5,
+        "name": "Bemboyz",
+        "tag": "BB",
+        "slug": "bemboyz",
+        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "score": 20
+      },
+      "stats": {
+        "kills": 1,
+        "deaths": 7,
+        "assists": 23,
+        "kda": 3.43,
+        "last_hits": 27,
+        "denies": 0,
+        "gpm": 303,
+        "xpm": 422,
+        "hero_damage": 9284,
+        "tower_damage": 641,
+        "hero_healing": 125,
+        "net_worth": 9039,
+        "stuns": 48.9
+      }
+    }
+  ]
+}

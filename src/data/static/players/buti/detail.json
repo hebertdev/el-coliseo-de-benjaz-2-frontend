@@ -1,0 +1,45 @@
+{
+  "slug": "buti",
+  "nickname": "Buti",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/buti.jpeg",
+  "bio": "",
+  "kick_url": "https://kick.com/butisito",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/renatorodolfobutilier",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 244923183,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Bemboyz",
+        "slug": "bemboyz",
+        "tag": "BB",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "CAPTAIN",
+      "role_display": "Captain",
+      "competitive_position": 4,
+      "position_display": "Position 4 - Soft Support",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-08-29T00:30:06.976712-05:00",
+  "updated_at": "2026-09-03T16:31:38.719253-05:00"
+}

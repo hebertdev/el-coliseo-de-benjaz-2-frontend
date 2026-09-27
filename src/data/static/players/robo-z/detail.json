@@ -1,0 +1,45 @@
+{
+  "slug": "robo-z",
+  "nickname": "Robo-Z",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/roboz.webp",
+  "bio": "",
+  "kick_url": "https://kick.com/robozdota17",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/sebastianaxel17",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": "76561198084219256",
+  "account_id": 123953528,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "The Fat Bears",
+        "slug": "the-fat-bears",
+        "tag": "team k1",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "PLAYER",
+      "role_display": "Player",
+      "competitive_position": 2,
+      "position_display": "Position 2 - Mid",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-09-02T01:57:04.722297-05:00",
+  "updated_at": "2026-09-07T02:19:30.833804-05:00"
+}

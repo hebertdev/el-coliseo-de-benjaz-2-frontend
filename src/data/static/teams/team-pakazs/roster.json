@@ -1,0 +1,134 @@
+[
+  {
+    "player": {
+      "slug": "pakazs",
+      "nickname": "Pakazs",
+      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/pakazs.jpeg",
+      "steam_id": null,
+      "account_id": 339235645,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "pe",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "CAPTAIN",
+    "role_display": "Captain",
+    "competitive_position": 1,
+    "position_display": "Position 1 - Carry",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "00",
+      "nickname": "00",
+      "avatar": null,
+      "steam_id": null,
+      "account_id": 878212255,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "pe",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "STANDIN",
+    "role_display": "Stand-in",
+    "competitive_position": 2,
+    "position_display": "Position 2 - Mid",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "lobockz",
+      "nickname": "Lobockz",
+      "avatar": null,
+      "steam_id": null,
+      "account_id": 160164307,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "pe",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 5,
+    "position_display": "Position 5 - Hard Support",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "kiwichan_tv",
+      "nickname": "KiwiChan_TV",
+      "avatar": null,
+      "steam_id": null,
+      "account_id": 153713235,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "pe",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 4,
+    "position_display": "Position 4 - Soft Support",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "lumpy",
+      "nickname": "Lumpy",
+      "avatar": null,
+      "steam_id": null,
+      "account_id": 118948666,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "pe",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 2,
+    "position_display": "Position 2 - Mid",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  },
+  {
+    "player": {
+      "slug": "playgd",
+      "nickname": "PlayGD",
+      "avatar": null,
+      "steam_id": null,
+      "account_id": 110445927,
+      "mmr_number": null,
+      "region": "SA",
+      "country": "pe",
+      "city": ""
+    },
+    "tournament_slug": "el-gran-coliseo-ii",
+    "tournament_name": "El Gran Coliseo II",
+    "role": "PLAYER",
+    "role_display": "Player",
+    "competitive_position": 3,
+    "position_display": "Position 3 - Offlane",
+    "is_active": true,
+    "joined_at": null,
+    "left_at": null
+  }
+]

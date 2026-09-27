@@ -1,0 +1,45 @@
+{
+  "slug": "leostyle",
+  "nickname": "LeoStyle",
+  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/leostyle.jpeg",
+  "bio": "",
+  "kick_url": "https://kick.com/leostyledota",
+  "twitch_url": "",
+  "youtube_url": "",
+  "instagram_url": "https://www.instagram.com/leostyledota/?hl=es-la",
+  "twitter_url": "",
+  "facebook_url": "",
+  "steam_id": null,
+  "account_id": 59463394,
+  "mmr_number": null,
+  "region": "SA",
+  "region_display": "South America",
+  "country": "PE",
+  "city": "",
+  "memberships": [
+    {
+      "team": {
+        "name": "Rising Rage",
+        "slug": "rising-rage",
+        "tag": "t leostyle",
+        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "region": "SA",
+        "region_display": "South America",
+        "country": "PE",
+        "city": "",
+        "status": "ACTIVE"
+      },
+      "tournament_slug": "el-gran-coliseo-ii",
+      "tournament_name": "El Gran Coliseo II",
+      "role": "CAPTAIN",
+      "role_display": "Captain",
+      "competitive_position": 2,
+      "position_display": "Position 2 - Mid",
+      "is_active": true,
+      "joined_at": null,
+      "left_at": null
+    }
+  ],
+  "created_at": "2026-08-29T00:24:31.446086-05:00",
+  "updated_at": "2026-09-04T01:21:39.219743-05:00"
+}
