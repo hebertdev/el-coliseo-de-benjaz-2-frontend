@@ -1,7 +1,6 @@
 // interfaces
 import { TeamData, TeamsData, TeamRosterMemberData } from "interfaces/teams";
 import { TeamSeriesHistoryResponse } from "interfaces/matches";
-import teamsIndexData from "data/static/teams/index.json";
 
 export async function getTeamsAPI(
   _tournamentSlug: string = "el-gran-coliseo-ii",
@@ -9,6 +8,7 @@ export async function getTeamsAPI(
 ): Promise<TeamsData> {
   void _tournamentSlug;
   void _includeRoster;
+  const { default: teamsIndexData } = await import("data/static/teams/index.json");
   return teamsIndexData as unknown as TeamsData;
 }
 
@@ -17,6 +17,7 @@ export async function getTeamBySlugAPI(slug: string): Promise<TeamData> {
     const mod = await import(`data/static/teams/${slug}/detail.json`);
     return (mod.default || mod) as unknown as TeamData;
   } catch {
+    const teamsIndexData = await getTeamsAPI();
     // Fallback search in index
     const teamsList = Array.isArray(teamsIndexData)
       ? teamsIndexData

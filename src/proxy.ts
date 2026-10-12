@@ -35,14 +35,7 @@ export function proxy(request: NextRequest) {
 }
 
 export const config = {
-  matcher: [
-    /*
-     * Coincidir con todas las rutas excepto:
-     * - api (rutas de API)
-     * - _next/static (archivos estáticos)
-     * - _next/image (optimización de imágenes)
-     * - favicon.ico (icono de favoritos)
-     */
-    '/((?!api|_next/static|_next/image|favicon.ico).*)',
-  ],
+  // Only login currently needs session routing. Public pages and media can
+  // be served directly without invoking the session proxy on every request.
+  matcher: ['/auth/login'],
 }

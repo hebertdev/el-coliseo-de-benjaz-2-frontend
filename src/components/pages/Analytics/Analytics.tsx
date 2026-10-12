@@ -1,5 +1,7 @@
 "use client";
 
+import dynamic from "next/dynamic";
+
 import React, { useState } from "react";
 import type { TournamentAnalyticsResponse } from "interfaces/analytics";
 import { AnalyticsHero } from "./AnalyticsHero";
@@ -11,7 +13,7 @@ import { PositionRankingsSection } from "./PositionRankingsSection";
 import { HeroMetaSection } from "./HeroMetaSection";
 import { TeamPerformanceSection } from "./TeamPerformanceSection";
 import { CommunityHighlightsSection } from "./CommunityHighlightsSection";
-import { AnalyticsFollowModal } from "./AnalyticsFollowModal";
+const AnalyticsFollowModal = dynamic(() => import("./AnalyticsFollowModal").then((mod) => mod.AnalyticsFollowModal));
 
 interface AnalyticsProps {
   initialData: TournamentAnalyticsResponse;
@@ -81,10 +83,10 @@ export function Analytics({ initialData }: AnalyticsProps) {
       </div>
 
       {/* Follow & Data Collection Support Modal */}
-      <AnalyticsFollowModal
+      {isFollowModalOpen && <AnalyticsFollowModal
         isOpen={isFollowModalOpen}
         onClose={() => setIsFollowModalOpen(false)}
-      />
+      />}
     </div>
   );
 }

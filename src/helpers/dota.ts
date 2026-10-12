@@ -1,5 +1,5 @@
 import { GameDetailData, GameRosterPlayer, OpenDotaPlayer } from "interfaces/games";
-import dotaconstants from "dotaconstants";
+import dotaconstants from "data/dota-display.json";
 
 export const HERO_ID_MAP: Record<number, { shortName: string; name: string }> = {
   1: { shortName: "antimage", name: "Anti-Mage" },
@@ -520,7 +520,7 @@ export interface AbilityInfo {
  * Obtiene los detalles de una habilidad o talento de Dota 2 a partir de su ID numérico.
  */
 export function getAbilityInfo(abilityId: number): AbilityInfo {
-  const name = dotaconstants?.ability_ids?.[abilityId];
+  const name = (dotaconstants.ability_ids as Record<number, string>)[abilityId];
   if (!name) {
     return {
       id: abilityId,
@@ -531,7 +531,7 @@ export function getAbilityInfo(abilityId: number): AbilityInfo {
   }
 
   const isTalent = name.startsWith("special_bonus_");
-  const abilityDetail = dotaconstants?.abilities?.[name];
+  const abilityDetail = (dotaconstants.abilities as Record<string, { dname?: string; img?: string }>)[name];
 
   let displayName = abilityDetail?.dname || name.replace(/^special_bonus_/, "").replace(/_/g, " ");
   displayName = displayName.replace(/\{s:[^}]+\}/g, "").trim();

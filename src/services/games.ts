@@ -1,10 +1,11 @@
 import { GameDetailData } from "interfaces/games";
 import { SeriesLiveMatchData } from "interfaces/matches";
+import { getGameDisplayData } from "lib/game-display-data";
 
 export async function getGameBySlugAPI(slug: string): Promise<GameDetailData | null> {
   try {
     const mod = await import(`data/static/games/${slug}.json`);
-    return (mod.default || mod) as unknown as GameDetailData;
+    return getGameDisplayData((mod.default || mod) as unknown as GameDetailData);
   } catch {
     return null;
   }

@@ -19,6 +19,7 @@ export function ColosseumEmbers({ count = 35 }: { count?: number }) {
   const canvasRef = useRef<HTMLCanvasElement | null>(null);
 
   useEffect(() => {
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
     const canvas = canvasRef.current;
     if (!canvas) return;
 
@@ -26,6 +27,8 @@ export function ColosseumEmbers({ count = 35 }: { count?: number }) {
     if (!ctx) return;
 
     let animationFrameId: number;
+    let inViewport = true;
+    let running = false;
     let width = (canvas.width = canvas.parentElement?.clientWidth || window.innerWidth);
     let height = (canvas.height = canvas.parentElement?.clientHeight || window.innerHeight);
 
@@ -69,6 +72,11 @@ export function ColosseumEmbers({ count = 35 }: { count?: number }) {
     });
 
     const render = () => {
+      if (!inViewport || document.hidden) {
+        running = false;
+        return;
+      }
+      running = true;
       ctx.clearRect(0, 0, width, height);
 
       for (let i = 0; i < particles.length; i++) {
@@ -109,11 +117,22 @@ export function ColosseumEmbers({ count = 35 }: { count?: number }) {
       animationFrameId = requestAnimationFrame(render);
     };
 
+    const resume = () => {
+      if (!running && inViewport && !document.hidden) render();
+    };
+    const observer = new IntersectionObserver(([entry]) => {
+      inViewport = entry.isIntersecting;
+      resume();
+    });
+    observer.observe(canvas);
+    document.addEventListener("visibilitychange", resume);
     render();
 
     return () => {
       window.removeEventListener("resize", handleResize);
       cancelAnimationFrame(animationFrameId);
+      observer.disconnect();
+      document.removeEventListener("visibilitychange", resume);
     };
   }, [count]);
 

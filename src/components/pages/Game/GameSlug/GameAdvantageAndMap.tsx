@@ -155,7 +155,7 @@ export function GameAdvantageAndMap({ game }: GameAdvantageAndMapProps) {
 
             {/* Imagen del mapa oficial detallado de Dota 2 */}
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src="https://www.opendota.com/assets/images/dota2/map/detailed_740.webp"
                 alt="Dota 2 Buildings Map"
                 className="w-full h-full object-cover select-none pointer-events-none"
@@ -184,7 +184,7 @@ export function GameAdvantageAndMap({ game }: GameAdvantageAndMapProps) {
                   }}
                 >
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={marker.heroIconUrl}
                       alt={marker.nickname}
                       className="w-full h-full object-contain"

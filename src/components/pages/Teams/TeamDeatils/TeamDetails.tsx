@@ -156,7 +156,7 @@ export function TeamDetails({ team, roster, seriesHistory }: TeamDetailsProps) {
                 {displayLogo ? (
                   <>
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={displayLogo}
                         alt={team.name}
                         width={140}
@@ -310,7 +310,7 @@ export function TeamDetails({ team, roster, seriesHistory }: TeamDetailsProps) {
                               >
                                 {p?.avatar ? (
                                   <picture>
-                                    <img
+                                    <img loading="lazy" decoding="async"
                                       src={p.avatar}
                                       alt={p.nickname}
                                       width={48}
@@ -651,7 +651,7 @@ export function TeamDetails({ team, roster, seriesHistory }: TeamDetailsProps) {
               {/* Modal Image Display */}
               <div className="relative z-10 mt-5 flex items-center justify-center border border-[#3d3328] bg-[#0e0b08] p-3 shadow-inner">
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={displayLogo}
                     alt={`Logo ampliado de ${team.name}`}
                     className="max-h-[60vh] w-auto max-w-full object-contain filter drop-shadow-[0_4px_16px_rgba(0,0,0,0.9)]"

@@ -335,7 +335,7 @@ export function PositionRankingsSection({ playersByPosition }: PositionRankingsS
                           <div className="relative h-8 w-8 shrink-0 overflow-hidden border border-[#2d261e] bg-[#120f0a]">
                             {player.avatar ? (
                               <picture>
-                                <img
+                                <img loading="lazy" decoding="async"
                                   src={normalizeMediaUrl(player.avatar) || player.avatar}
                                   alt={player.nickname}
                                   className="h-full w-full object-cover"
@@ -381,7 +381,7 @@ export function PositionRankingsSection({ playersByPosition }: PositionRankingsS
                             <div className="flex items-center gap-1 text-[10px] text-[#8e857b] truncate">
                               {medalUrl && (
                                 <picture className="shrink-0">
-                                  <img
+                                  <img loading="lazy" decoding="async"
                                     src={medalUrl}
                                     alt="Medal"
                                     className="h-3 w-3 object-contain"
@@ -399,7 +399,7 @@ export function PositionRankingsSection({ playersByPosition }: PositionRankingsS
                         <div className="flex items-center gap-1.5 flex-wrap">
                           {player.team.logo_url && (
                             <picture className="shrink-0">
-                              <img
+                              <img loading="lazy" decoding="async"
                                 src={normalizeMediaUrl(player.team.logo_url) || player.team.logo_url}
                                 alt={player.team.name}
                                 className="h-4 w-4 object-contain"

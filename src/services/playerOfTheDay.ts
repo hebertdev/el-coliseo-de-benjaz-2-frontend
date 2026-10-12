@@ -1,5 +1,4 @@
 import type { PlayerOfTheDayResponse } from "interfaces/playerOfTheDay";
-import potdData from "data/static/tournaments/player-of-the-day.json";
 import { deepNormalizeMediaUrls } from "lib/config";
 
 export async function getPlayerOfTheDayAPI(
@@ -8,6 +7,7 @@ export async function getPlayerOfTheDayAPI(
 ): Promise<PlayerOfTheDayResponse | null> {
   void _tournamentSlug;
   void _jornadaId;
+  const { default: potdData } = await import("data/static/tournaments/player-of-the-day.json");
   if (potdData && (potdData as unknown as PlayerOfTheDayResponse).player_of_the_day) {
     return deepNormalizeMediaUrls(potdData as unknown as PlayerOfTheDayResponse);
   }

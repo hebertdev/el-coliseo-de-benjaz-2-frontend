@@ -1,4 +1,4 @@
-export const revalidate = 60;
+export const revalidate = false;
 
 
 import type { Metadata } from "next";

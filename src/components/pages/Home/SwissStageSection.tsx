@@ -1,5 +1,7 @@
 "use client";
 
+import dynamic from "next/dynamic";
+
 import { useState, useEffect, useMemo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
@@ -14,10 +16,9 @@ import {
   IconBrandKick,
   IconArrowRight,
 } from "@tabler/icons-react";
-import { getStageBySlugAPI, getStageStandingsAPI, getStageBySlugClientAPI } from "services/stages";
-import { getTeamsAPI } from "services/teams";
+import { getStageBySlugAPI, getStageStandingsAPI } from "services/stages";
 import type { SwissStageData, StageMatchData, StageGameData, StageGameHeroData, StageStandingData } from "interfaces/stages";
-import { KickStreamModal } from "./KickStreamModal";
+const KickStreamModal = dynamic(() => import("./KickStreamModal").then((mod) => mod.KickStreamModal));
 
 function getCaptainTag(
   team?: { slug?: string; tag?: string; name?: string } | null,
@@ -83,7 +84,7 @@ function renderHeroPicks(heroes: StageGameHeroData[] = [], isLosingTeam: boolean
           >
             {heroUrl ? (
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={heroUrl}
                   alt={heroName}
                   className={`h-full w-full object-cover transition-transform group-hover:scale-110 ${
@@ -108,6 +109,7 @@ function renderHeroPicks(heroes: StageGameHeroData[] = [], isLosingTeam: boolean
 
 interface SwissStageSectionProps {
   initialData?: SwissStageData | null;
+  captainMap?: Record<string, string>;
 }
 
 function formatDateString(dateStr: string | null | undefined): string | null {
@@ -287,49 +289,10 @@ function getDefaultSelectedRound(data: SwissStageData | null): number {
   return 1;
 }
 
-export function SwissStageSection({ initialData }: SwissStageSectionProps) {
+export function SwissStageSection({ initialData, captainMap = {} }: SwissStageSectionProps) {
   const [stageData, setStageData] = useState<SwissStageData | null>(initialData || null);
   const [standingsData, setStandingsData] = useState<StageStandingData[] | null>(initialData?.standings || null);
   const [isLiveModalOpen, setIsLiveModalOpen] = useState(false);
-  const [captainMap, setCaptainMap] = useState<Record<string, string>>({});
-
-  useEffect(() => {
-    let isMounted = true;
-    async function loadCaptains() {
-      try {
-        const teamsData = await getTeamsAPI("el-gran-coliseo-ii", true);
-        const teams = teamsData?.results || [];
-        const map: Record<string, string> = {};
-
-        teams.forEach((t) => {
-          const roster = t.roster || [];
-          const cap = roster.find(
-            (m) => m.role === "CAPTAIN" || (m as { is_captain?: boolean }).is_captain
-          );
-          const capName = cap?.player?.nickname;
-          if (capName) {
-            const clean = capName.trim();
-            const tag = clean.toLowerCase().startsWith("team ") ? clean : `Team ${clean}`;
-            map[t.slug] = tag;
-          } else if (t.tag && t.tag.toLowerCase() !== t.name.toLowerCase()) {
-            const cleanTag = t.tag.replace(/^T-/i, "").replace(/^TEAM\s+/i, "").trim();
-            map[t.slug] = `Team ${cleanTag}`;
-          }
-        });
-
-        if (isMounted) {
-          setCaptainMap(map);
-        }
-      } catch {
-        // ignore
-      }
-    }
-    loadCaptains();
-    return () => {
-      isMounted = false;
-    };
-  }, []);
-  
   const initialHasLive = hasOngoingMatchInStage(initialData || null);
   const [activeTab, setActiveTab] = useState<"STANDINGS" | "ROUNDS">(
     initialHasLive ? "ROUNDS" : "STANDINGS"
@@ -429,33 +392,6 @@ export function SwissStageSection({ initialData }: SwissStageSectionProps) {
       }, 700);
       return () => clearTimeout(timer);
     }
-  }, [stageData, standingsData]);
-
-  // Polling activo para refrescar partidas en curso, scores y picks de la Fase Suiza
-  useEffect(() => {
-    if (isSwissStageComplete(stageData, standingsData)) {
-      return;
-    }
-
-    const hasLive = hasOngoingMatchInStage(stageData);
-    const pollInterval = hasLive ? 5000 : 25000;
-
-    const timer = setInterval(async () => {
-      if (typeof document !== "undefined" && document.hidden) return;
-      try {
-        const fresh = await getStageBySlugClientAPI("fase-suiza", "el-gran-coliseo-ii");
-        if (fresh && fresh.rounds && fresh.rounds.length > 0) {
-          setStageData(fresh);
-          if (fresh.standings) {
-            setStandingsData(fresh.standings);
-          }
-        }
-      } catch {
-        // Silencioso en background polling
-      }
-    }, pollInterval);
-
-    return () => clearInterval(timer);
   }, [stageData, standingsData]);
 
   // Map each team slug to their current wins & losses record and status
@@ -1134,7 +1070,7 @@ export function SwissStageSection({ initialData }: SwissStageSectionProps) {
                                   <div className="flex h-10 w-10 sm:h-11 sm:w-11 shrink-0 items-center justify-center border border-[#2d261e] bg-[#14100c] p-1 group-hover/team:border-[#d8b467]/70 group-hover/team:shadow-[0_0_12px_rgba(216,180,103,0.25)] transition-all">
                                     {row.teamLogo ? (
                                       <picture>
-                                        <img
+                                        <img loading="lazy" decoding="async"
                                           src={row.teamLogo}
                                           alt={row.teamName}
                                           className="h-full w-full object-contain group-hover/team:scale-105 transition-transform"
@@ -1158,7 +1094,7 @@ export function SwissStageSection({ initialData }: SwissStageSectionProps) {
                                   <div className="flex h-10 w-10 sm:h-11 sm:w-11 shrink-0 items-center justify-center border border-[#2d261e] bg-[#14100c] p-1">
                                     {row.teamLogo ? (
                                       <picture>
-                                        <img
+                                        <img loading="lazy" decoding="async"
                                           src={row.teamLogo}
                                           alt={row.teamName}
                                           className="h-full w-full object-contain"
@@ -1458,7 +1394,7 @@ export function SwissStageSection({ initialData }: SwissStageSectionProps) {
                                     >
                                       {m.team_a?.logo_url ? (
                                         <picture>
-                                          <img
+                                          <img loading="lazy" decoding="async"
                                             src={m.team_a.logo_url}
                                             alt={m.team_a.name}
                                             className="h-full w-full object-contain"
@@ -1472,7 +1408,7 @@ export function SwissStageSection({ initialData }: SwissStageSectionProps) {
                                     <div className="flex h-6 w-6 shrink-0 items-center justify-center border border-[#2d261e] bg-[#14100c] p-0.5">
                                       {m.team_a?.logo_url ? (
                                         <picture>
-                                          <img
+                                          <img loading="lazy" decoding="async"
                                             src={m.team_a.logo_url}
                                             alt={m.team_a.name}
                                             className="h-full w-full object-contain"
@@ -1554,7 +1490,7 @@ export function SwissStageSection({ initialData }: SwissStageSectionProps) {
                                     >
                                       {m.team_b?.logo_url ? (
                                         <picture>
-                                          <img
+                                          <img loading="lazy" decoding="async"
                                             src={m.team_b.logo_url}
                                             alt={m.team_b.name}
                                             className="h-full w-full object-contain"
@@ -1568,7 +1504,7 @@ export function SwissStageSection({ initialData }: SwissStageSectionProps) {
                                     <div className="flex h-6 w-6 shrink-0 items-center justify-center border border-[#2d261e] bg-[#14100c] p-0.5">
                                       {m.team_b?.logo_url ? (
                                         <picture>
-                                          <img
+                                          <img loading="lazy" decoding="async"
                                             src={m.team_b.logo_url}
                                             alt={m.team_b.name}
                                             className="h-full w-full object-contain"
@@ -1781,11 +1717,11 @@ export function SwissStageSection({ initialData }: SwissStageSectionProps) {
       </div>
 
       {/* Modal de Transmisión en Vivo (Kick) */}
-      <KickStreamModal
+      {isLiveModalOpen && <KickStreamModal
         isOpen={isLiveModalOpen}
         onClose={() => setIsLiveModalOpen(false)}
         channelName="benjaz"
-      />
+      />}
     </section>
   );
 }

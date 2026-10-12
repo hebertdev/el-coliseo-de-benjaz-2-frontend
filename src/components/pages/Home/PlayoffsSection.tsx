@@ -1,5 +1,7 @@
 "use client";
 
+import dynamic from "next/dynamic";
+
 import { useState, useEffect } from "react";
 import {
   IconCrown,
@@ -16,8 +18,8 @@ import type {
   PlayoffBracketSlot,
   PlayoffThirdPlaceMatch,
 } from "interfaces/stages";
-import { PlayoffMatchModal } from "./PlayoffMatchModal";
-import { ChampionModal } from "components/ChampionModal";
+const PlayoffMatchModal = dynamic(() => import("./PlayoffMatchModal").then((mod) => mod.PlayoffMatchModal));
+const ChampionModal = dynamic(() => import("components/ChampionModal").then((mod) => mod.ChampionModal));
 import backgroundDecoration2 from "assets/background_decoration2.webp";
 
 interface PlayoffsSectionProps {
@@ -337,7 +339,7 @@ export function PlayoffsSection({ initialData }: PlayoffsSectionProps) {
         <div className="flex items-center gap-2 min-w-0">
           {team?.logo_url ? (
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={team.logo_url}
                 alt={team.name}
                 className="h-4 w-4 object-contain"
@@ -422,7 +424,7 @@ export function PlayoffsSection({ initialData }: PlayoffsSectionProps) {
     >
       {/* Background Decorative Image */}
       <picture className="pointer-events-none absolute inset-0 block h-full w-full select-none overflow-hidden">
-        <img
+        <img loading="lazy" decoding="async"
           src={backgroundDecoration2.src}
           alt="Fondo decorativo de la arena del Coliseo"
           className="h-full w-full object-cover object-center pointer-events-none opacity-85"
@@ -730,7 +732,7 @@ export function PlayoffsSection({ initialData }: PlayoffsSectionProps) {
                         >
                           {championTeam?.logo_url ? (
                             <picture>
-                              <img
+                              <img loading="lazy" decoding="async"
                                 src={championTeam.logo_url}
                                 alt={championTeam.name}
                                 className="h-10 w-10 sm:h-12 sm:w-12 object-contain"
@@ -859,19 +861,19 @@ export function PlayoffsSection({ initialData }: PlayoffsSectionProps) {
       </div>
 
       {/* Render Playoff Match Detail Modal when clicked */}
-      <PlayoffMatchModal
+      {selectedModalMatch && <PlayoffMatchModal
         match={selectedModalMatch?.match || null}
         roundName={selectedModalMatch?.roundName}
         onClose={() => setSelectedModalMatch(null)}
-      />
+      />}
 
       {/* Render Champion Modal con Roster Completo y Confeti */}
-      <ChampionModal
+      {isChampionModalOpen && <ChampionModal
         isOpen={isChampionModalOpen}
         onClose={() => setIsChampionModalOpen(false)}
         teamLogo={championTeam?.logo_url}
         teamName={championTeam?.name || "Rising Rage"}
-      />
+      />}
     </section>
   );
 }

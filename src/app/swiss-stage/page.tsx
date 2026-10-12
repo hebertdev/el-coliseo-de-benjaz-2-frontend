@@ -1,8 +1,10 @@
-export const revalidate = 30;
+export const revalidate = false;
 
 
 import type { Metadata } from "next";
 import { getStageBySlugAPI, getPlayoffsStageAPI } from "services/stages";
+import { getTeamsAPI } from "services/teams";
+import { getTeamCaptainTags } from "lib/team-captains";
 import { SwissStageSection, PlayoffsSection } from "components/pages/Home";
 import type { SwissStageData, PlayoffStageData } from "interfaces/stages";
 import { DEFAULT_OPENGRAPH_IMAGE } from "constants/assets";
@@ -47,11 +49,13 @@ export const metadata: Metadata = {
 export default async function SwissStagePage() {
   let swissData: SwissStageData | null = null;
   let playoffsData: PlayoffStageData | null = null;
+  let captainMap: Record<string, string> = {};
 
   try {
-    const [swissRes, playoffsRes] = await Promise.allSettled([
+    const [swissRes, playoffsRes, teamsRes] = await Promise.allSettled([
       getStageBySlugAPI("fase-suiza"),
       getPlayoffsStageAPI("playoffs"),
+      getTeamsAPI(),
     ]);
 
     if (swissRes.status === "fulfilled" && swissRes.value) {
@@ -59,6 +63,9 @@ export default async function SwissStagePage() {
     }
     if (playoffsRes.status === "fulfilled" && playoffsRes.value) {
       playoffsData = playoffsRes.value;
+    }
+    if (teamsRes.status === "fulfilled") {
+      captainMap = getTeamCaptainTags(teamsRes.value.results || []);
     }
   } catch (error) {
     console.error("Error prefetching stages data:", error);
@@ -93,7 +100,7 @@ export default async function SwissStagePage() {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(broadcastJsonLd) }}
       />
       <main className="flex flex-col w-full">
-        <SwissStageSection initialData={swissData} />
+        <SwissStageSection initialData={swissData} captainMap={captainMap} />
         <PlayoffsSection initialData={playoffsData} />
       </main>
     </div>

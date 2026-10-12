@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useSyncExternalStore } from "react";
+import { useEffect, useSyncExternalStore } from "react";
 import { createPortal } from "react-dom";
 import Link from "next/link";
 import {
@@ -15,8 +15,6 @@ import type {
   PlayoffThirdPlaceMatch,
   StageGameData,
 } from "interfaces/stages";
-import type { SeriesLiveMatchData } from "interfaces/matches";
-import { getSeriesLiveAPI } from "services/games";
 
 interface PlayoffMatchModalProps {
   match: PlayoffBracketMatch | PlayoffThirdPlaceMatch | null;
@@ -72,48 +70,6 @@ export function PlayoffMatchModal({
   );
 
   const isCompleted = isStatusCompleted(match?.status);
-  const [liveSeriesData, setLiveSeriesData] = useState<SeriesLiveMatchData | null>(null);
-
-  const seriesSlug =
-    match?.slug ||
-    (match?.games && match.games.length > 0 && match.games[0]?.slug
-      ? match.games[0].slug.replace(/-game-\d+$/, "")
-      : null);
-
-  // Polling automático cada 2.5 segundos si la serie está en curso y modal abierto
-  useEffect(() => {
-    if (!seriesSlug || isCompleted) return;
-
-    let isMountedLocal = true;
-
-    const fetchLive = async () => {
-      if (typeof document !== "undefined" && document.visibilityState !== "visible") {
-        return;
-      }
-      try {
-        const data = await getSeriesLiveAPI(seriesSlug);
-        if (isMountedLocal && data) {
-          setLiveSeriesData(data);
-        }
-      } catch {
-        // Ignorar fallos transitorios durante polling
-      }
-    };
-
-    fetchLive();
-    const interval = setInterval(fetchLive, 2500);
-
-    const handleVisibility = () => {
-      if (document.visibilityState === "visible") fetchLive();
-    };
-    document.addEventListener("visibilitychange", handleVisibility);
-
-    return () => {
-      isMountedLocal = false;
-      clearInterval(interval);
-      document.removeEventListener("visibilitychange", handleVisibility);
-    };
-  }, [seriesSlug, isCompleted]);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -134,8 +90,8 @@ export function PlayoffMatchModal({
   const nameA = teamA?.name || match.slot_a.placeholder || "Por determinar";
   const nameB = teamB?.name || match.slot_b.placeholder || "Por determinar";
 
-  const scoreA = liveSeriesData ? liveSeriesData.score_a : (match.slot_a.score !== null ? match.slot_a.score : 0);
-  const scoreB = liveSeriesData ? liveSeriesData.score_b : (match.slot_b.score !== null ? match.slot_b.score : 0);
+  const scoreA = (match.slot_a.score !== null ? match.slot_a.score : 0);
+  const scoreB = (match.slot_b.score !== null ? match.slot_b.score : 0);
 
   const matchTitle =
     (match as PlayoffThirdPlaceMatch).match_name ||
@@ -258,7 +214,7 @@ export function PlayoffMatchModal({
               <div className="h-10 w-10 shrink-0 flex items-center justify-center border border-[#2d261e] bg-[#1a1511]">
                 {teamA?.logo_url ? (
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={teamA.logo_url}
                       alt={nameA}
                       className="h-8 w-8 object-contain"
@@ -315,7 +271,7 @@ export function PlayoffMatchModal({
               <div className="h-10 w-10 shrink-0 flex items-center justify-center border border-[#2d261e] bg-[#1a1511]">
                 {teamB?.logo_url ? (
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={teamB.logo_url}
                       alt={nameB}
                       className="h-8 w-8 object-contain"
@@ -337,14 +293,7 @@ export function PlayoffMatchModal({
 
             {gamesList.map((g, gIdx) => {
               const gameNum = g.game_number || gIdx + 1;
-              const isThisLiveGame =
-                liveSeriesData?.current_game &&
-                (liveSeriesData.current_game.game_number === gameNum ||
-                  liveSeriesData.current_game.slug === g.slug);
-
-              const effectiveStatus = isThisLiveGame && liveSeriesData?.current_game
-                ? liveSeriesData.current_game.status
-                : g.status;
+              const effectiveStatus = g.status;
 
               const isDirectOngoing = isStatusOngoing(effectiveStatus);
               const gCompleted =
@@ -357,28 +306,8 @@ export function PlayoffMatchModal({
               const direName =
                 g.dire_team?.name || teamB?.name || "Equipo Dire";
 
-              let radHeroes = g.radiant_heroes || Array(5).fill({});
-              let direHeroes = g.dire_heroes || Array(5).fill({});
-
-              if (isThisLiveGame && liveSeriesData?.current_game) {
-                const cg = liveSeriesData.current_game;
-                if (cg.radiant_picks && cg.radiant_picks.length > 0) {
-                  radHeroes = Array(5).fill({}).map((empty, idx) => {
-                    const pick = cg.radiant_picks[idx];
-                    return pick
-                      ? { has_hero: true, hero_id: pick.hero_id, hero_name: pick.hero_name, image_url: pick.image_url }
-                      : empty;
-                  });
-                }
-                if (cg.dire_picks && cg.dire_picks.length > 0) {
-                  direHeroes = Array(5).fill({}).map((empty, idx) => {
-                    const pick = cg.dire_picks[idx];
-                    return pick
-                      ? { has_hero: true, hero_id: pick.hero_id, hero_name: pick.hero_name, image_url: pick.image_url }
-                      : empty;
-                  });
-                }
-              }
+              const radHeroes = g.radiant_heroes || Array(5).fill({});
+              const direHeroes = g.dire_heroes || Array(5).fill({});
 
               const winner = g.winner_slug || match.winner_slug || null;
               const radSlug = g.radiant_team?.slug || teamA?.slug;
@@ -410,14 +339,8 @@ export function PlayoffMatchModal({
                   winner.trim() !== direSlug.trim()
               );
 
-              const effectiveMatchId = isThisLiveGame && liveSeriesData?.current_game?.opendota_match_id
-                ? liveSeriesData.current_game.opendota_match_id
-                : g.opendota_match_id;
-
-              const gameSlug =
-                (isThisLiveGame && liveSeriesData?.current_game?.slug) ||
-                g.slug ||
-                (match.slug ? `${match.slug}-game-${gameNum}` : null);
+              const effectiveMatchId = g.opendota_match_id;
+              const gameSlug = g.slug || (match.slug ? `${match.slug}-game-${gameNum}` : null);
 
               return (
                 <div
@@ -492,7 +415,7 @@ export function PlayoffMatchModal({
                           {h?.image_url ? (
                             <>
                               <picture className="w-full h-full">
-                                <img
+                                <img loading="lazy" decoding="async"
                                   src={h.image_url}
                                   alt={h.hero_name || "Hero"}
                                   className={`w-full h-full object-cover transition-transform group-hover:scale-105 ${
@@ -544,7 +467,7 @@ export function PlayoffMatchModal({
                           {h?.image_url ? (
                             <>
                               <picture className="w-full h-full">
-                                <img
+                                <img loading="lazy" decoding="async"
                                   src={h.image_url}
                                   alt={h.hero_name || "Hero"}
                                   className={`w-full h-full object-cover transition-transform group-hover:scale-105 ${

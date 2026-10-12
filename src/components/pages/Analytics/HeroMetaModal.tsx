@@ -295,7 +295,7 @@ export function HeroMetaModal({
                             <div className="flex items-center gap-3">
                               <div className="relative h-10 w-8 shrink-0 overflow-hidden border border-[#2d261e] bg-black group-hover:border-[#d8b467]/60 transition-colors">
                                 <picture>
-                                  <img
+                                  <img decoding="async"
                                     src={hero.image_url}
                                     alt={hero.hero_name}
                                     className="h-full w-full object-cover"

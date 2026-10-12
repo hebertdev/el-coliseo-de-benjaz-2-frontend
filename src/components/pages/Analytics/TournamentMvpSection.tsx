@@ -103,7 +103,7 @@ export function TournamentMvpSection({ mvp }: TournamentMvpSectionProps) {
               <div className="relative h-22 w-22 sm:h-28 sm:w-28 shrink-0 overflow-hidden rounded-xs border-2 border-[#d8b467] bg-[#1f1912] shadow-[0_0_30px_rgba(216,180,103,0.35)]">
                 {mvp.avatar ? (
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={normalizeMediaUrl(mvp.avatar) || mvp.avatar}
                       alt={mvp.nickname}
                       className="h-full w-full object-cover"
@@ -139,7 +139,7 @@ export function TournamentMvpSection({ mvp }: TournamentMvpSectionProps) {
                 <div className="mt-1 flex items-center gap-2">
                   {teamLogo && (
                     <picture className="shrink-0">
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={teamLogo}
                         alt={mvp.team.name}
                         className="h-4 w-4 object-contain"
@@ -165,7 +165,7 @@ export function TournamentMvpSection({ mvp }: TournamentMvpSectionProps) {
                   {medalUrl && (
                     <span className="inline-flex items-center gap-1 px-2 py-0.5 bg-[#17130e] border border-[#2d261e] font-chakra text-[10px] text-[#c7bcab] font-bold">
                       <picture className="shrink-0">
-                        <img src={medalUrl} alt="Medal" className="h-3.5 w-3.5 object-contain" />
+                        <img loading="lazy" decoding="async" src={medalUrl} alt="Medal" className="h-3.5 w-3.5 object-contain" />
                       </picture>
                       <span>{mvp.medal.medal_title || "Immortal"}</span>
                     </span>
@@ -304,7 +304,7 @@ export function TournamentMvpSection({ mvp }: TournamentMvpSectionProps) {
                       className="flex items-center gap-2 bg-[#17130e] border border-[#241e17] p-1.5 hover:border-[#d8b467]/40 transition-colors"
                     >
                       <picture className="shrink-0">
-                        <img
+                        <img loading="lazy" decoding="async"
                           src={hero.image_url}
                           alt={hero.hero_name}
                           className="h-8 w-12 object-cover border border-[#2d261e]"

@@ -236,7 +236,7 @@ function KillMatrixTeamPanel({
                   }`}
                 >
                   <picture>
-                    <img src={logoUrl} alt={teamName} className="w-full h-full object-contain" />
+                    <img loading="lazy" decoding="async" src={logoUrl} alt={teamName} className="w-full h-full object-contain" />
                   </picture>
                 </div>
               ) : null}
@@ -262,7 +262,7 @@ function KillMatrixTeamPanel({
                   }`}
                 >
                   <picture>
-                    <img src={logoUrl} alt={teamName} className="w-full h-full object-contain" />
+                    <img loading="lazy" decoding="async" src={logoUrl} alt={teamName} className="w-full h-full object-contain" />
                   </picture>
                 </div>
               ) : null}
@@ -313,7 +313,7 @@ function KillMatrixTeamPanel({
                 {/* Avatar del héroe */}
                 <div className="relative w-7 h-7 sm:w-8 sm:h-8 rounded border border-[#2d261e] bg-black/60 shrink-0 overflow-hidden shadow-sm">
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={killer.heroIconUrl}
                       alt={killer.heroDisplayName}
                       className="w-full h-full object-cover"
@@ -382,7 +382,7 @@ function KillMatrixTeamPanel({
                       >
                         <div className="w-3.5 h-3.5 sm:w-4 sm:h-4 rounded-full overflow-hidden shrink-0 border border-black/40">
                           <picture>
-                            <img
+                            <img loading="lazy" decoding="async"
                               src={victim.heroIconUrl}
                               alt={victim.heroDisplayName}
                               className="w-full h-full object-cover"
@@ -435,7 +435,7 @@ function KillMatrixTeamPanel({
                 >
                   <div className="w-3.5 h-3.5 sm:w-4 sm:h-4 rounded-full overflow-hidden shrink-0 border border-black/40">
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={victim.heroIconUrl}
                         alt={victim.heroDisplayName}
                         className="w-full h-full object-cover"

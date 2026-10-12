@@ -49,7 +49,7 @@ export function ColosseumFooter() {
           <div>
             <div className="flex items-center gap-3">
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={logoElColiseo.src}
                   alt="El Coliseo Logo"
                   width={40}

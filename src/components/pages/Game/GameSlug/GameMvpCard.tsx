@@ -187,7 +187,7 @@ export function GameMvpCard({ game }: GameMvpCardProps) {
               <source src={heroVideoUrl} type="video/webm" />
               {/* Fallback de imagen en caso de que el navegador no soporte webm */}
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={`https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/${heroShortName}.png`}
                   alt={heroDisplayName}
                   className="w-full h-full object-contain"
@@ -225,7 +225,7 @@ export function GameMvpCard({ game }: GameMvpCardProps) {
                   className="w-10 h-10 sm:w-11 sm:h-11 border-2 border-[#d8b467]/70 shrink-0 bg-black/60 shadow-[0_0_12px_rgba(216,180,103,0.25)] overflow-hidden hover:scale-105 transition-transform block"
                 >
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={rosterPlayer.avatar}
                       alt={nickname}
                       className="w-full h-full object-cover"
@@ -235,7 +235,7 @@ export function GameMvpCard({ game }: GameMvpCardProps) {
               ) : (
                 <div className="w-10 h-10 sm:w-11 sm:h-11 border-2 border-[#d8b467]/70 shrink-0 bg-black/60 shadow-[0_0_12px_rgba(216,180,103,0.25)] overflow-hidden">
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={rosterPlayer.avatar}
                       alt={nickname}
                       className="w-full h-full object-cover"
@@ -393,7 +393,7 @@ export function GameMvpCard({ game }: GameMvpCardProps) {
                     >
                       {imgUrl ? (
                         <picture>
-                          <img
+                          <img decoding="async"
                             src={imgUrl}
                             alt={dName}
                             className="w-full h-full object-cover"
@@ -416,7 +416,7 @@ export function GameMvpCard({ game }: GameMvpCardProps) {
                 <div className="flex items-center gap-2 px-2.5 py-1 sm:py-1.5 border border-[#d8b467]/40 bg-[#16120d] h-[48px] sm:h-[58px]">
                   <div className="w-8 h-8 sm:w-8.5 sm:h-8.5 overflow-hidden border border-[#d8b467]/60 bg-[#100d0a] shrink-0" title={neutralItemName}>
                     <picture>
-                      <img
+                      <img decoding="async"
                         src={neutralImgUrl}
                         alt={neutralItemName}
                         className="w-full h-full object-cover"
@@ -436,7 +436,7 @@ export function GameMvpCard({ game }: GameMvpCardProps) {
               <div className="flex flex-col gap-1">
                 <div className="flex items-center gap-1.5 px-0.5">
                   <picture className="w-3.5 h-3.5 sm:w-4 sm:h-4 rounded-xs overflow-hidden inline-block shrink-0 border border-[#d8b467]/70 shadow-[0_0_6px_rgba(216,180,103,0.4)]">
-                    <img
+                    <img loading="lazy" decoding="async"
                       src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lone_druid_spirit_bear.png"
                       alt="Oso Espiritual"
                       className="w-full h-full object-cover"
@@ -460,7 +460,7 @@ export function GameMvpCard({ game }: GameMvpCardProps) {
                       >
                         {imgUrl ? (
                           <picture>
-                            <img
+                            <img decoding="async"
                               src={imgUrl}
                               alt={dName}
                               className="w-full h-full object-cover"

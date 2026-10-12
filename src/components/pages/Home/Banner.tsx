@@ -1,5 +1,8 @@
 "use client";
 
+import dynamic from "next/dynamic";
+import Image from "next/image";
+
 import { useRef, useState, useEffect } from "react";
 import Link from "next/link";
 import {
@@ -11,8 +14,8 @@ import {
 } from "framer-motion";
 import bannerBg from "assets/banner_el_coliseo.webp";
 import { ColosseumEmbers } from "components/ui/ColosseumEmbers";
-import { TrueSightModal } from "./TrueSightModal";
-import { PlayerOfTheDayModal } from "./PlayerOfTheDayModal";
+const TrueSightModal = dynamic(() => import("./TrueSightModal").then((mod) => mod.TrueSightModal));
+const PlayerOfTheDayModal = dynamic(() => import("./PlayerOfTheDayModal").then((mod) => mod.PlayerOfTheDayModal));
 import type { PlayerOfTheDayResponse } from "interfaces/playerOfTheDay";
 import {
   IconSwords,
@@ -76,8 +79,27 @@ export function Banner({ initialPlayerOfTheDay }: BannerProps = {}) {
   const [isTrueSightOpen, setIsTrueSightOpen] = useState(false);
   const [isPlayerOfTheDayOpen, setIsPlayerOfTheDayOpen] = useState(false);
   const [isVideoLoaded, setIsVideoLoaded] = useState(false);
+  const [shouldLoadVideo, setShouldLoadVideo] = useState(false);
   const marqueeSponsors = [...sponsors, ...sponsors, ...sponsors, ...sponsors];
   const containerRef = useRef<HTMLElement | null>(null);
+
+  useEffect(() => {
+    const connection = (navigator as Navigator & { connection?: { saveData?: boolean; effectiveType?: string } }).connection;
+    if (
+      window.matchMedia("(prefers-reduced-motion: reduce), (max-width: 767px)").matches ||
+      connection?.saveData || connection?.effectiveType === "2g" || connection?.effectiveType === "slow-2g"
+    ) return;
+
+    // Let the first screen finish loading before downloading the background video.
+    let timer: ReturnType<typeof setTimeout>;
+    const scheduleVideo = () => { timer = setTimeout(() => setShouldLoadVideo(true), 1500); };
+    if (document.readyState === "complete") scheduleVideo();
+    else window.addEventListener("load", scheduleVideo, { once: true });
+    return () => {
+      clearTimeout(timer);
+      window.removeEventListener("load", scheduleVideo);
+    };
+  }, []);
 
   useEffect(() => {
     const currentSignature = getTop3Signature(initialPlayerOfTheDay);
@@ -163,21 +185,23 @@ export function Banner({ initialPlayerOfTheDay }: BannerProps = {}) {
         className="absolute inset-0 z-0 select-none will-change-transform overflow-hidden"
       >
         {/* Instant Fallback Image for Slow Connections / Mobile */}
-        <picture>
-          <img
-            src={bannerBg.src}
+          <Image
+            src={bannerBg}
             alt="El Coliseo de Benjaz II - Torneo Dota 2"
+            fill
+            sizes="100vw"
+            fetchPriority="high"
+            loading="eager"
             className="absolute inset-0 h-full w-full object-cover object-center pointer-events-none"
           />
-        </picture>
 
         {/* Video Layer (Fades in smoothly when ready to play) */}
-        <video
+        {shouldLoadVideo && <video
           autoPlay
           loop
           muted
           playsInline
-          preload="auto"
+          preload="metadata"
           poster={bannerBg.src}
           onLoadedData={() => setIsVideoLoaded(true)}
           onPlaying={() => setIsVideoLoaded(true)}
@@ -186,7 +210,7 @@ export function Banner({ initialPlayerOfTheDay }: BannerProps = {}) {
           }`}
         >
           <source src="/video_banner_1xbet_compress.mp4" type="video/mp4" />
-        </video>
+        </video>}
 
         {/* Ambient Dark Gradient Overlays for Readability */}
         <div className="absolute inset-0 bg-linear-to-t from-[#120f0a] via-[#120f0a]/40 to-[#120f0a]/50" />
@@ -395,17 +419,17 @@ export function Banner({ initialPlayerOfTheDay }: BannerProps = {}) {
       </motion.div>
 
       {/* True Sight Video Lightbox Modal */}
-      <TrueSightModal
+      {isTrueSightOpen && <TrueSightModal
         isOpen={isTrueSightOpen}
         onClose={() => setIsTrueSightOpen(false)}
-      />
+      />}
 
       {/* Jugador del Día Modal */}
-      <PlayerOfTheDayModal
+      {isPlayerOfTheDayOpen && <PlayerOfTheDayModal
         isOpen={isPlayerOfTheDayOpen}
         onClose={handleClosePlayerOfTheDay}
         initialData={initialPlayerOfTheDay}
-      />
+      />}
     </section>
   );
 }

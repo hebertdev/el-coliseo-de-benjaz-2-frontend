@@ -45,7 +45,7 @@ export function CountryFlag({
       title={`País: ${code}`}
     >
       {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
+      <img decoding="async"
         src={`https://flagcdn.com/w40/${lowerCode}.png`}
         alt={code}
         className={`inline-block rounded-[1.5px] object-cover shadow-sm border border-black/40 shrink-0 ${imgDimensions}`}

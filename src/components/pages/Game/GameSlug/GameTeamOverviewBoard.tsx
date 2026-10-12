@@ -355,7 +355,7 @@ function PlayerTableRow({ player }: { player: TeamTablePlayer }) {
           {/* Avatar de héroe */}
           <div className="relative w-8 h-5.5 sm:w-9 sm:h-6 overflow-hidden border border-[#2d261e] shrink-0 bg-black/50">
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={player.heroImgUrl}
                 alt="Hero"
                 className="w-full h-full object-cover"
@@ -391,7 +391,7 @@ function PlayerTableRow({ player }: { player: TeamTablePlayer }) {
             {/* Rango */}
             <div className="flex items-center gap-1 mt-0.5">
               <picture>
-                <img src={medalUrl} alt="Rank" className="w-3 h-3 object-contain opacity-80" />
+                <img loading="lazy" decoding="async" src={medalUrl} alt="Rank" className="w-3 h-3 object-contain opacity-80" />
               </picture>
               <span className="text-[9px] font-mono text-[#8e857b]">Immortal</span>
             </div>
@@ -474,7 +474,7 @@ function PlayerTableRow({ player }: { player: TeamTablePlayer }) {
                   >
                     {hasItem && imgUrl ? (
                       <picture>
-                        <img src={imgUrl} alt={dName || "Item"} className="w-full h-full object-cover" />
+                        <img loading="lazy" decoding="async" src={imgUrl} alt={dName || "Item"} className="w-full h-full object-cover" />
                       </picture>
                     ) : null}
                   </div>
@@ -497,7 +497,7 @@ function PlayerTableRow({ player }: { player: TeamTablePlayer }) {
                   >
                     {hasItem && imgUrl ? (
                       <picture>
-                        <img src={imgUrl} alt="Backpack Item" className="w-full h-full object-cover" />
+                        <img loading="lazy" decoding="async" src={imgUrl} alt="Backpack Item" className="w-full h-full object-cover" />
                       </picture>
                     ) : null}
                   </div>
@@ -512,7 +512,7 @@ function PlayerTableRow({ player }: { player: TeamTablePlayer }) {
             <div className="w-5 h-5 sm:w-5.5 sm:h-5.5 border border-[#d8b467]/60 bg-[#16120d] overflow-hidden flex items-center justify-center shrink-0">
               {player.neutralItemKey && getItemImageUrl(player.neutralItemKey) ? (
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={getItemImageUrl(player.neutralItemKey)}
                     alt={getItemDisplayName(player.neutralItemKey)}
                     title={getItemDisplayName(player.neutralItemKey)}
@@ -528,7 +528,7 @@ function PlayerTableRow({ player }: { player: TeamTablePlayer }) {
             <div className="flex items-center gap-1 sm:gap-1.5 pt-0.5 border-t border-[#d8b467]/25">
               <div className="flex items-center gap-1 text-[8px] font-chakra font-bold text-[#f0d38f] shrink-0" title="Spirit Bear">
                 <picture className="w-3 h-3 rounded-xs overflow-hidden inline-block shrink-0 border border-[#d8b467]/60 shadow-[0_0_4px_rgba(216,180,103,0.3)]">
-                  <img
+                  <img loading="lazy" decoding="async"
                     src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lone_druid_spirit_bear.png"
                     alt="Spirit Bear"
                     className="w-full h-full object-cover"
@@ -549,7 +549,7 @@ function PlayerTableRow({ player }: { player: TeamTablePlayer }) {
                     >
                       {hasItem && imgUrl ? (
                         <picture>
-                          <img src={imgUrl} alt={dName || "Item"} className="w-full h-full object-cover" />
+                          <img loading="lazy" decoding="async" src={imgUrl} alt={dName || "Item"} className="w-full h-full object-cover" />
                         </picture>
                       ) : null}
                     </div>
@@ -567,21 +567,21 @@ function PlayerTableRow({ player }: { player: TeamTablePlayer }) {
           {player.hasScepter && (
             <div className="w-4.5 h-4.5 sm:w-5 sm:h-5 border border-[#4dabf7]/60 bg-black/60 overflow-hidden shrink-0" title="Aghanim's Scepter">
               <picture>
-                <img src={BUFF_IMAGES.scepter} alt="Scepter" className="w-full h-full object-cover" />
+                <img loading="lazy" decoding="async" src={BUFF_IMAGES.scepter} alt="Scepter" className="w-full h-full object-cover" />
               </picture>
             </div>
           )}
           {player.hasShard && (
             <div className="w-4.5 h-4.5 sm:w-5 sm:h-5 border border-[#74c0fc]/60 bg-black/60 overflow-hidden shrink-0" title="Aghanim's Shard">
               <picture>
-                <img src={BUFF_IMAGES.shard} alt="Shard" className="w-full h-full object-cover" />
+                <img loading="lazy" decoding="async" src={BUFF_IMAGES.shard} alt="Shard" className="w-full h-full object-cover" />
               </picture>
             </div>
           )}
           {player.hasMoonshard && (
             <div className="w-4.5 h-4.5 sm:w-5 sm:h-5 border border-[#ffd43b]/60 bg-black/60 overflow-hidden shrink-0" title="Moon Shard">
               <picture>
-                <img src={BUFF_IMAGES.moonshard} alt="Moon Shard" className="w-full h-full object-cover" />
+                <img loading="lazy" decoding="async" src={BUFF_IMAGES.moonshard} alt="Moon Shard" className="w-full h-full object-cover" />
               </picture>
             </div>
           )}
@@ -610,7 +610,7 @@ function PickBanCard({ item }: { item: OpenDotaPickBan }) {
       {/* Imagen del Héroe */}
       <div className="relative w-full h-7 sm:h-8 overflow-hidden bg-black/60">
         <picture>
-          <img
+          <img loading="lazy" decoding="async"
             src={heroImgUrl}
             alt={`Hero ${item.hero_id}`}
             className={`w-full h-full object-cover ${isBan ? "grayscale contrast-125 brightness-75" : ""}`}

@@ -22,7 +22,7 @@ export function PanesBottomBanner() {
       <div className="relative w-full h-[46px] sm:h-[50px] max-h-[50px] border-t border-[#d8b467] bg-[#120c07] shadow-[0_-4px_25px_rgba(0,0,0,0.95),0_0_15px_rgba(216,180,103,0.3)] overflow-hidden pointer-events-auto flex items-center">
         {/* Background Breads Image */}
         <picture className="pointer-events-none absolute inset-0 block h-full w-full">
-          <img
+          <img loading="lazy" decoding="async"
             src={panesBannerBg.src}
             alt="Fondo Panadería Artesanal Tío Chúntala"
             width={panesBannerBg.width}
@@ -72,7 +72,7 @@ export function PanesBottomBanner() {
             {/* LEFT: Tío Chúntala Circular Avatar */}
             <div className="relative shrink-0 flex items-center">
               <picture className="block">
-                <img
+                <img loading="lazy" decoding="async"
                   src={tioChuntalaImg.src}
                   alt="Tío Chúntala"
                   width={tioChuntalaImg.width}

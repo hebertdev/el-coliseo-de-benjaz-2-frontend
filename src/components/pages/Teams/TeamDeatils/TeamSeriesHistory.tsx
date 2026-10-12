@@ -124,7 +124,7 @@ function TeamSeriesRow({ series }: { series: TeamSeriesItem }) {
             </div>
             {series.team_a.logo_url ? (
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={series.team_a.logo_url}
                   alt={series.team_a.name}
                   className="h-9 w-9 sm:h-10 sm:w-10 object-contain rounded-full border border-[#3d3328] bg-[#110e0a] p-1 shrink-0 shadow-sm group-hover/ta:border-[#00c8f8] transition-colors"
@@ -158,7 +158,7 @@ function TeamSeriesRow({ series }: { series: TeamSeriesItem }) {
           >
             {series.team_b.logo_url ? (
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={series.team_b.logo_url}
                   alt={series.team_b.name}
                   className="h-9 w-9 sm:h-10 sm:w-10 object-contain rounded-full border border-[#3d3328] bg-[#110e0a] p-1 shrink-0 shadow-sm group-hover/tb:border-[#00c8f8] transition-colors"

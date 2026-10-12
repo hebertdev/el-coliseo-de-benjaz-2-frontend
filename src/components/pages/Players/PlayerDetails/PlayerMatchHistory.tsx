@@ -117,7 +117,7 @@ function PlayerMatchRow({ match }: { match: PlayerMatchItem }) {
           <div className="flex items-center gap-2 min-w-0">
             {match.hero.image_url ? (
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={match.hero.image_url}
                   alt={match.hero.name}
                   className="h-8 w-13 object-cover rounded-[2px] border border-black/80 shrink-0 shadow-xs"
@@ -171,7 +171,7 @@ function PlayerMatchRow({ match }: { match: PlayerMatchItem }) {
           <div className="flex items-center gap-1.5 min-w-0 flex-1">
             {match.player_team.logo_url && (
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={match.player_team.logo_url}
                   alt={match.player_team.name}
                   className="h-5 w-5 rounded-full object-contain shrink-0"
@@ -195,7 +195,7 @@ function PlayerMatchRow({ match }: { match: PlayerMatchItem }) {
             </span>
             {match.rival_team.logo_url && (
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={match.rival_team.logo_url}
                   alt={match.rival_team.name}
                   className="h-5 w-5 rounded-full object-contain shrink-0"
@@ -223,7 +223,7 @@ function PlayerMatchRow({ match }: { match: PlayerMatchItem }) {
         <div className="flex items-center gap-2.5 min-w-0 shrink-0 w-44 md:w-48">
           {match.hero.image_url ? (
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={match.hero.image_url}
                 alt={match.hero.name}
                 className="h-8 w-14 object-cover rounded-[2px] border border-black/80 shrink-0 shadow-xs"
@@ -274,7 +274,7 @@ function PlayerMatchRow({ match }: { match: PlayerMatchItem }) {
             </span>
             {match.player_team.logo_url ? (
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={match.player_team.logo_url}
                   alt={match.player_team.name}
                   className="h-7 w-7 object-contain rounded-full border border-[#ffd700]/40 bg-[#120f0a] p-0.5 shrink-0 group-hover/pt:border-[#ffd700] transition-colors"
@@ -302,7 +302,7 @@ function PlayerMatchRow({ match }: { match: PlayerMatchItem }) {
           >
             {match.rival_team.logo_url ? (
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={match.rival_team.logo_url}
                   alt={match.rival_team.name}
                   className="h-7 w-7 object-contain rounded-full border border-[#2d261e] bg-[#120f0a] p-0.5 shrink-0 group-hover/rt:border-[#00c8f8] transition-colors"

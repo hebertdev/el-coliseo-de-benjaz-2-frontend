@@ -244,7 +244,7 @@ export function PlayerOfTheDayModal({
                         >
                           {activePlayer.avatar ? (
                             <picture>
-                              <img
+                              <img loading="lazy" decoding="async"
                                 src={activePlayer.avatar}
                                 alt={activePlayer.nickname}
                                 className="h-full w-full object-cover object-center transition-transform duration-300 group-hover:scale-105"
@@ -300,7 +300,7 @@ export function PlayerOfTheDayModal({
                         <div className="mt-2 flex items-center gap-1.5 border border-[#2d261e] bg-[#120e0a] px-2 py-1 rounded-xs w-full justify-center">
                           {activePlayer.team.logo_url && (
                             <picture>
-                              <img
+                              <img loading="lazy" decoding="async"
                                 src={activePlayer.team.logo_url}
                                 alt={activePlayer.team.name}
                                 className="h-4 w-4 object-contain"
@@ -530,7 +530,7 @@ export function PlayerOfTheDayModal({
                                 >
                                   {h.image_url ? (
                                     <picture>
-                                      <img
+                                      <img loading="lazy" decoding="async"
                                         src={h.image_url}
                                         alt={h.hero_name}
                                         className="h-6 w-10 object-cover rounded-[1px] border border-black/60 shrink-0"
@@ -616,7 +616,7 @@ export function PlayerOfTheDayModal({
                               <div className="h-8 w-8 rounded-xs overflow-hidden border border-[#3d3326] bg-[#18130d] shrink-0">
                                 {p.avatar ? (
                                   <picture>
-                                    <img
+                                    <img loading="lazy" decoding="async"
                                       src={p.avatar}
                                       alt={p.nickname}
                                       className="h-full w-full object-cover"

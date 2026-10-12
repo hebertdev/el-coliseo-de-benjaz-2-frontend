@@ -102,7 +102,7 @@ export function PromoBannerModal() {
             >
               <picture className="w-full flex items-center justify-center">
                 <source media="(max-width: 640px)" srcSet={panesMovil.src} />
-                <img
+                <img loading="lazy" decoding="async"
                   src={panesPc.src}
                   alt="Panadería del Coliseo - Especial"
                   className="w-full h-auto max-h-[85vh] object-contain block select-none transition-transform duration-300 group-hover:scale-[1.01]"

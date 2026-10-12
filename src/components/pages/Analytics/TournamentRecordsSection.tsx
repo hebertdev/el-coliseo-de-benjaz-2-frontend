@@ -112,7 +112,7 @@ export function TournamentRecordsSection({ records }: TournamentRecordsSectionPr
             <div className="mt-2 flex items-center gap-2">
               {records.longest_game.winner_logo_url && (
                 <picture className="shrink-0">
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={records.longest_game.winner_logo_url}
                     alt={records.longest_game.winner_name || "Winner"}
                     className="h-4 w-4 object-contain"
@@ -216,7 +216,7 @@ export function TournamentRecordsSection({ records }: TournamentRecordsSectionPr
               {/* Hero Portrait */}
               <div className="relative w-12 h-16 border border-[#2d261e] overflow-hidden bg-black/60 shrink-0">
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={records.most_kills_single_game.hero.image_url}
                     alt={records.most_kills_single_game.hero.hero_name}
                     className="w-full h-full object-cover"
@@ -274,7 +274,7 @@ export function TournamentRecordsSection({ records }: TournamentRecordsSectionPr
               {/* Hero Portrait */}
               <div className="relative w-12 h-16 border border-[#2d261e] overflow-hidden bg-black/60 shrink-0">
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={records.highest_gpm_single_game.hero.image_url}
                     alt={records.highest_gpm_single_game.hero.hero_name}
                     className="w-full h-full object-cover"
@@ -331,7 +331,7 @@ export function TournamentRecordsSection({ records }: TournamentRecordsSectionPr
               {/* Hero Portrait */}
               <div className="relative w-12 h-16 border border-[#2d261e] overflow-hidden bg-black/60 shrink-0">
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={records.highest_damage_single_game.hero.image_url}
                     alt={records.highest_damage_single_game.hero.hero_name}
                     className="w-full h-full object-cover"

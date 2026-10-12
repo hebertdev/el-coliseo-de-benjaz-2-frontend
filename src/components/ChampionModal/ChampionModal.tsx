@@ -361,7 +361,7 @@ export function ChampionModal({
                       <IconCrown size={17} stroke={2.5} />
                     </div>
                     {/* eslint-disable-next-line @next/next/no-img-element */}
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={resolvedTeamLogo}
                       alt={`${teamName} Logo`}
                       onError={() => {
@@ -482,7 +482,7 @@ export function ChampionModal({
                           >
                             {avatarSrc ? (
                               // eslint-disable-next-line @next/next/no-img-element
-                              <img
+                              <img loading="lazy" decoding="async"
                                 src={avatarSrc}
                                 alt={player.nickname}
                                 className="h-full w-full object-cover object-center rounded-xs"
@@ -526,7 +526,7 @@ export function ChampionModal({
                           <div className="relative flex flex-col items-center justify-center mt-2 pt-1.5 border-t border-[#241e17] w-full">
                             <div className="relative h-10 w-10 flex items-center justify-center">
                               <picture>
-                                <img
+                                <img loading="lazy" decoding="async"
                                   src={player.medalUrl || getRankMedalUrl(player.rankTier)}
                                   alt="Medalla de Rango Dota 2"
                                   className="h-9 w-9 object-contain drop-shadow-[0_2px_8px_rgba(0,0,0,0.85)] filter group-hover:scale-110 transition-transform duration-300 select-none"

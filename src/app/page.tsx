@@ -1,8 +1,9 @@
-export const revalidate = 30;
+export const revalidate = false;
 
 import { getTeamsAPI } from "services/teams";
 import { getStageBySlugAPI, getPlayoffsStageAPI } from "services/stages";
 import { getPlayerOfTheDayAPI } from "services/playerOfTheDay";
+import { getTeamCaptainTags } from "lib/team-captains";
 import type { TeamRosterMemberData } from "interfaces/teams";
 import type { SwissStageData, PlayoffStageData } from "interfaces/stages";
 import type { PlayerOfTheDayResponse } from "interfaces/playerOfTheDay";
@@ -68,7 +69,7 @@ export default async function Home() {
           initialRosters={initialRosters}
           initialStandings={initialSwissData?.standings || []}
         />
-        <SwissStageSection initialData={initialSwissData} />
+        <SwissStageSection initialData={initialSwissData} captainMap={getTeamCaptainTags(initialTeams || [])} />
         <PlayoffsSection initialData={initialPlayoffsData} />
         <PrizePoolSection initialPlayoffsData={initialPlayoffsData} />
       </main>

@@ -222,7 +222,7 @@ export function TeamCard({
             >
               {displayLogo ? (
                 <picture className="relative h-full w-full">
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={displayLogo}
                     alt={team.name}
                     width={48}

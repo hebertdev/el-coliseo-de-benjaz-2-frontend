@@ -236,7 +236,7 @@ export function GameScheduledBoard({ game }: GameScheduledBoardProps) {
               {game.radiant_team?.logo_url ? (
                 <div className="relative h-12 w-12 sm:h-14 sm:w-14 shrink-0 flex items-center justify-center border border-[#00e599]/40 bg-[#07160e]">
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={game.radiant_team.logo_url}
                       alt={radiantName}
                       className="h-9 w-9 sm:h-11 sm:w-11 object-contain"
@@ -293,7 +293,7 @@ export function GameScheduledBoard({ game }: GameScheduledBoardProps) {
               {game.dire_team?.logo_url ? (
                 <div className="relative h-12 w-12 sm:h-14 sm:w-14 shrink-0 flex items-center justify-center border border-[#ff4d4d]/40 bg-[#1e0a0a]">
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={game.dire_team.logo_url}
                       alt={direName}
                       className="h-9 w-9 sm:h-11 sm:w-11 object-contain"
@@ -353,7 +353,7 @@ export function GameScheduledBoard({ game }: GameScheduledBoardProps) {
                       >
                         {h.has_hero && h.image_url ? (
                           <picture>
-                            <img
+                            <img loading="lazy" decoding="async"
                               src={h.image_url}
                               alt={h.hero_name || "Hero"}
                               className="h-full w-full object-cover transition-transform group-hover:scale-110"
@@ -393,7 +393,7 @@ export function GameScheduledBoard({ game }: GameScheduledBoardProps) {
                       >
                         {h.has_hero && h.image_url ? (
                           <picture>
-                            <img
+                            <img loading="lazy" decoding="async"
                               src={h.image_url}
                               alt={h.hero_name || "Hero"}
                               className="h-full w-full object-cover transition-transform group-hover:scale-110"
@@ -443,7 +443,7 @@ export function GameScheduledBoard({ game }: GameScheduledBoardProps) {
                     <div className="relative h-12 w-12 shrink-0 border border-[#00e599]/40 bg-[#09110c] overflow-hidden flex items-center justify-center">
                       {radPlayer?.avatar ? (
                         <picture>
-                          <img
+                          <img loading="lazy" decoding="async"
                             src={radPlayer.avatar}
                             alt={radPlayer.nickname}
                             className="h-full w-full object-cover"
@@ -536,7 +536,7 @@ export function GameScheduledBoard({ game }: GameScheduledBoardProps) {
                     <div className="relative h-12 w-12 shrink-0 border border-[#ff4d4d]/40 bg-[#160a0a] overflow-hidden flex items-center justify-center">
                       {direPlayer?.avatar ? (
                         <picture>
-                          <img
+                          <img loading="lazy" decoding="async"
                             src={direPlayer.avatar}
                             alt={direPlayer.nickname}
                             className="h-full w-full object-cover"
@@ -572,7 +572,7 @@ export function GameScheduledBoard({ game }: GameScheduledBoardProps) {
                       <div className="relative h-10 w-10 shrink-0 border border-[#00e599]/40 bg-[#09110c] flex items-center justify-center overflow-hidden">
                         {radPlayer?.avatar ? (
                           <picture>
-                            <img
+                            <img loading="lazy" decoding="async"
                               src={radPlayer.avatar}
                               alt={radPlayer.nickname}
                               className="h-full w-full object-cover"
@@ -606,7 +606,7 @@ export function GameScheduledBoard({ game }: GameScheduledBoardProps) {
                       <div className="relative h-10 w-10 shrink-0 border border-[#ff4d4d]/40 bg-[#160a0a] flex items-center justify-center overflow-hidden">
                         {direPlayer?.avatar ? (
                           <picture>
-                            <img
+                            <img loading="lazy" decoding="async"
                               src={direPlayer.avatar}
                               alt={direPlayer.nickname}
                               className="h-full w-full object-cover"

@@ -79,7 +79,7 @@ export function SponsorsSection() {
               <div className="relative z-10 w-full flex items-center justify-center overflow-hidden bg-black/40">
                 <picture className="w-full flex items-center justify-center">
                   <source media="(max-width: 640px)" srcSet={panesMovil.src} />
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={panesPc.src}
                     alt="Panadería del Coliseo - Especial"
                     className="w-full h-auto object-contain block select-none transition-transform duration-500 group-hover:scale-[1.01]"
@@ -104,7 +104,7 @@ export function SponsorsSection() {
               >
                 {item.logo ? (
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={item.logo}
                       alt={item.name}
                       className="h-3.5 sm:h-[18px] md:h-5 w-auto object-contain opacity-65 drop-shadow-[0_2px_6px_rgba(0,0,0,0.8)] transition-all duration-300 group-hover:opacity-100 group-hover:scale-105"

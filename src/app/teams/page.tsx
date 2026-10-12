@@ -1,4 +1,4 @@
-export const revalidate = 30;
+export const revalidate = false;
 
 import type { Metadata } from "next";
 import { getTeamsAPI } from "services/teams";

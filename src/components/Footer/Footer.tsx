@@ -71,7 +71,7 @@ export function Footer() {
         className="relative w-full min-h-[420px] sm:min-h-0 flex flex-col items-center justify-center overflow-hidden"
       >
         <picture className="absolute inset-0 sm:relative sm:inset-auto block w-full h-full sm:h-auto">
-          <img
+          <img loading="lazy" decoding="async"
             src={wallpaperFooter.src}
             alt="El Gran Coliseo II de Benjaz - Dota 2"
             width={wallpaperFooter.width}
@@ -103,7 +103,7 @@ export function Footer() {
             className="mb-3 sm:mb-6"
           >
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={logoElColiseo.src}
                 alt="El Gran Coliseo de Benjaz"
                 width={180}

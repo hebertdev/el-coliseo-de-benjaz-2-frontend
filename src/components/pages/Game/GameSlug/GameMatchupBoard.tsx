@@ -466,7 +466,7 @@ function MatchupPlayerCard({ player }: { player: ProcessedPlayer }) {
       {/* 1. Header con banner de héroe */}
       <div className="relative w-full h-14 sm:h-16 overflow-hidden bg-black/50">
         <picture>
-          <img
+          <img loading="lazy" decoding="async"
             src={player.heroImgUrl}
             alt={player.heroDisplayName}
             className="w-full h-full object-cover object-center group-hover:scale-105 transition-transform duration-300"
@@ -521,7 +521,7 @@ function MatchupPlayerCard({ player }: { player: ProcessedPlayer }) {
         <div className="relative flex flex-col items-center justify-center mt-1 pt-1 border-t border-[#241e17] w-full">
           <div className="relative h-10 w-10 flex items-center justify-center">
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={medalUrl}
                 alt="Rank Medal"
                 className="h-9 w-9 object-contain drop-shadow-[0_2px_8px_rgba(0,0,0,0.8)]"
@@ -558,7 +558,7 @@ function MatchupTableRow({
 
           <div className="relative w-11 h-7 overflow-hidden border border-[#2d261e] shrink-0 bg-black/40">
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={player.heroImgUrl}
                 alt={player.heroDisplayName}
                 className="w-full h-full object-cover"
@@ -671,7 +671,7 @@ function MatchupTableRow({
                   >
                     {hasItem && imgUrl && (
                       <picture>
-                        <img src={imgUrl} alt="Item" className="w-full h-full object-cover" />
+                        <img loading="lazy" decoding="async" src={imgUrl} alt="Item" className="w-full h-full object-cover" />
                       </picture>
                     )}
                   </div>
@@ -683,7 +683,7 @@ function MatchupTableRow({
             <div className="w-5 h-5 border border-[#d8b467]/60 bg-[#14100c] overflow-hidden flex items-center justify-center shrink-0">
               {player.neutralItemKey && getItemImageUrl(player.neutralItemKey) ? (
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={getItemImageUrl(player.neutralItemKey)}
                     alt={getItemDisplayName(player.neutralItemKey)}
                     title={getItemDisplayName(player.neutralItemKey)}
@@ -698,7 +698,7 @@ function MatchupTableRow({
           {player.bearItemIds && (
             <div className="flex items-center justify-center gap-1 pt-0.5 border-t border-[#d8b467]/20 w-full">
               <picture className="w-3 h-3 rounded-xs overflow-hidden inline-block shrink-0 border border-[#d8b467]/60">
-                <img
+                <img loading="lazy" decoding="async"
                   src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lone_druid_spirit_bear.png"
                   alt="Spirit Bear"
                   className="w-full h-full object-cover"
@@ -717,7 +717,7 @@ function MatchupTableRow({
                     >
                       {hasItem && imgUrl && (
                         <picture>
-                          <img src={imgUrl} alt={dName || "Item"} className="w-full h-full object-cover" />
+                          <img loading="lazy" decoding="async" src={imgUrl} alt={dName || "Item"} className="w-full h-full object-cover" />
                         </picture>
                       )}
                     </div>
@@ -787,7 +787,7 @@ function MobileMatchupLaneCard({
           <div className="flex flex-col items-center text-center min-w-0">
             <div className="relative w-14 h-9 overflow-hidden border border-[#00e599]/40 bg-black/50">
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={radiantPlayer.heroImgUrl}
                   alt={radiantPlayer.heroDisplayName}
                   className="w-full h-full object-cover"
@@ -824,7 +824,7 @@ function MobileMatchupLaneCard({
                   <div key={`rad-m-${idx}`} className="w-4 h-2.5 bg-[#0a0806] border border-[#2d261e] overflow-hidden flex items-center justify-center">
                     {itemId && itemId > 0 ? (
                       <picture>
-                        <img src={getItemImageUrl(itemId)} alt="Item" className="w-full h-full object-cover" />
+                        <img loading="lazy" decoding="async" src={getItemImageUrl(itemId)} alt="Item" className="w-full h-full object-cover" />
                       </picture>
                     ) : null}
                   </div>
@@ -833,7 +833,7 @@ function MobileMatchupLaneCard({
               {radiantPlayer.neutralItemKey && getItemImageUrl(radiantPlayer.neutralItemKey) ? (
                 <div className="w-3.5 h-3.5 border border-[#d8b467]/60 bg-[#14100c] overflow-hidden flex items-center justify-center shrink-0">
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={getItemImageUrl(radiantPlayer.neutralItemKey)}
                       alt={getItemDisplayName(radiantPlayer.neutralItemKey)}
                       title={getItemDisplayName(radiantPlayer.neutralItemKey)}
@@ -847,7 +847,7 @@ function MobileMatchupLaneCard({
             {radiantPlayer.bearItemIds && (
               <div className="flex items-center gap-1 mt-1 pt-0.5 border-t border-[#d8b467]/20">
                 <picture className="w-2.5 h-2.5 rounded-xs overflow-hidden inline-block shrink-0 border border-[#d8b467]/50">
-                  <img
+                  <img loading="lazy" decoding="async"
                     src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lone_druid_spirit_bear.png"
                     alt="Spirit Bear"
                     className="w-full h-full object-cover"
@@ -858,7 +858,7 @@ function MobileMatchupLaneCard({
                     <div key={`rad-bear-m-${idx}`} className="w-4 h-2.5 bg-[#0e0a06] border border-[#d8b467]/30 overflow-hidden flex items-center justify-center">
                       {itemId && itemId > 0 ? (
                         <picture>
-                          <img src={getItemImageUrl(itemId)} alt="Bear Item" className="w-full h-full object-cover" />
+                          <img loading="lazy" decoding="async" src={getItemImageUrl(itemId)} alt="Bear Item" className="w-full h-full object-cover" />
                         </picture>
                       ) : null}
                     </div>
@@ -881,7 +881,7 @@ function MobileMatchupLaneCard({
           <div className="flex flex-col items-center text-center min-w-0">
             <div className="relative w-14 h-9 overflow-hidden border border-[#ff4d4d]/40 bg-black/50">
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={direPlayer.heroImgUrl}
                   alt={direPlayer.heroDisplayName}
                   className="w-full h-full object-cover"
@@ -918,7 +918,7 @@ function MobileMatchupLaneCard({
                   <div key={`dir-m-${idx}`} className="w-4 h-2.5 bg-[#0a0806] border border-[#2d261e] overflow-hidden flex items-center justify-center">
                     {itemId && itemId > 0 ? (
                       <picture>
-                        <img src={getItemImageUrl(itemId)} alt="Item" className="w-full h-full object-cover" />
+                        <img loading="lazy" decoding="async" src={getItemImageUrl(itemId)} alt="Item" className="w-full h-full object-cover" />
                       </picture>
                     ) : null}
                   </div>
@@ -927,7 +927,7 @@ function MobileMatchupLaneCard({
               {direPlayer.neutralItemKey && getItemImageUrl(direPlayer.neutralItemKey) ? (
                 <div className="w-3.5 h-3.5 border border-[#d8b467]/60 bg-[#14100c] overflow-hidden flex items-center justify-center shrink-0">
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={getItemImageUrl(direPlayer.neutralItemKey)}
                       alt={getItemDisplayName(direPlayer.neutralItemKey)}
                       title={getItemDisplayName(direPlayer.neutralItemKey)}
@@ -941,7 +941,7 @@ function MobileMatchupLaneCard({
             {direPlayer.bearItemIds && (
               <div className="flex items-center gap-1 mt-1 pt-0.5 border-t border-[#d8b467]/20">
                 <picture className="w-2.5 h-2.5 rounded-xs overflow-hidden inline-block shrink-0 border border-[#d8b467]/50">
-                  <img
+                  <img loading="lazy" decoding="async"
                     src="https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lone_druid_spirit_bear.png"
                     alt="Spirit Bear"
                     className="w-full h-full object-cover"
@@ -952,7 +952,7 @@ function MobileMatchupLaneCard({
                     <div key={`dir-bear-m-${idx}`} className="w-4 h-2.5 bg-[#0e0a06] border border-[#d8b467]/30 overflow-hidden flex items-center justify-center">
                       {itemId && itemId > 0 ? (
                         <picture>
-                          <img src={getItemImageUrl(itemId)} alt="Bear Item" className="w-full h-full object-cover" />
+                          <img loading="lazy" decoding="async" src={getItemImageUrl(itemId)} alt="Bear Item" className="w-full h-full object-cover" />
                         </picture>
                       ) : null}
                     </div>

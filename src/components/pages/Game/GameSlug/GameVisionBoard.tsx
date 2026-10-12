@@ -423,7 +423,7 @@ export function GameVisionBoard({ game }: GameVisionBoardProps) {
 
             {/* Minimapa oficial detallado de Dota 2 */}
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src="https://www.opendota.com/assets/images/dota2/map/detailed_740.webp"
                 alt="Dota 2 Minimap"
                 className="w-full h-full object-cover brightness-90 contrast-105"
@@ -550,7 +550,7 @@ export function GameVisionBoard({ game }: GameVisionBoardProps) {
                   <div className="bg-[#140f0a]/95 border border-[#d8b467]/50 rounded-lg px-3 py-2 shadow-2xl text-[11px] whitespace-nowrap backdrop-blur-md">
                     <div className="flex items-center gap-2 font-bold mb-1">
                       <picture>
-                        <img
+                        <img loading="lazy" decoding="async"
                           src={isObs ? WARD_OBS_IMG : WARD_SEN_IMG}
                           alt="ward"
                           className="w-4 h-4 object-contain"
@@ -776,7 +776,7 @@ const TeamFilterPanel: React.FC<TeamFilterPanelProps> = ({
               {players.map((p) => (
                 <th key={`hdr-${p.playerSlot}`} className="pb-1 px-1">
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={p.heroImgUrl}
                       alt={p.heroDisplayName}
                       title={`${p.playerName} (${p.heroDisplayName})`}
@@ -793,7 +793,7 @@ const TeamFilterPanel: React.FC<TeamFilterPanelProps> = ({
             <tr>
               <td className="py-1.5 px-1">
                 <picture>
-                  <img src={WARD_OBS_IMG} alt="Obs" className="w-5 h-5 object-contain mx-auto" />
+                  <img loading="lazy" decoding="async" src={WARD_OBS_IMG} alt="Obs" className="w-5 h-5 object-contain mx-auto" />
                 </picture>
               </td>
               {players.map((p) => (
@@ -824,7 +824,7 @@ const TeamFilterPanel: React.FC<TeamFilterPanelProps> = ({
             <tr>
               <td className="py-1.5 px-1">
                 <picture>
-                  <img src={WARD_SEN_IMG} alt="Sen" className="w-5 h-5 object-contain mx-auto" />
+                  <img loading="lazy" decoding="async" src={WARD_SEN_IMG} alt="Sen" className="w-5 h-5 object-contain mx-auto" />
                 </picture>
               </td>
               {players.map((p) => (
@@ -951,7 +951,7 @@ const TeamVisionTable: React.FC<TeamVisionTableProps> = ({
                 <th key={i} className="py-2 px-1 text-center">
                   <div className="flex items-center justify-center gap-1">
                     <picture>
-                      <img src={col.img} alt={col.alt} className="w-3.5 h-3.5 object-contain opacity-90" />
+                      <img loading="lazy" decoding="async" src={col.img} alt={col.alt} className="w-3.5 h-3.5 object-contain opacity-90" />
                     </picture>
                     <span>{col.label}</span>
                   </div>
@@ -976,7 +976,7 @@ const TeamVisionTable: React.FC<TeamVisionTableProps> = ({
                   <td className="py-2.5 px-3 sm:px-4 whitespace-nowrap sticky left-0 bg-[#140f0b] z-10 shadow-[2px_0_6px_rgba(0,0,0,0.6)]">
                     <div className="flex items-center gap-2.5">
                       <picture>
-                        <img
+                        <img loading="lazy" decoding="async"
                           src={p.heroImgUrl}
                           alt={p.heroDisplayName}
                           title={p.heroDisplayName}
@@ -1069,7 +1069,7 @@ const WardLogTable: React.FC<WardLogTableProps> = ({ wards }) => {
                   {/* TIPO */}
                   <td className="py-2 px-3 text-center align-middle">
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={isObs ? WARD_OBS_IMG : WARD_SEN_IMG}
                         alt={ward.type}
                         className="w-5 h-5 object-contain mx-auto"
@@ -1082,7 +1082,7 @@ const WardLogTable: React.FC<WardLogTableProps> = ({ wards }) => {
                   <td className="py-2 px-3 align-middle">
                     <div className="flex items-center gap-2">
                       <picture>
-                        <img
+                        <img loading="lazy" decoding="async"
                           src={ward.heroImgUrl}
                           alt={ward.heroDisplayName}
                           className="w-9 h-6 object-cover rounded-xs border border-[#3d3326] flex-shrink-0"
@@ -1121,7 +1121,7 @@ const WardLogTable: React.FC<WardLogTableProps> = ({ wards }) => {
                     {ward.killedByHeroImg ? (
                       <div className="flex items-center gap-2">
                         <picture>
-                          <img
+                          <img loading="lazy" decoding="async"
                             src={ward.killedByHeroImg}
                             alt={ward.killedByHeroName || "Killer"}
                             className="w-9 h-6 object-cover rounded-xs border border-[#3d3326] flex-shrink-0"
@@ -1139,7 +1139,7 @@ const WardLogTable: React.FC<WardLogTableProps> = ({ wards }) => {
                     ) : (
                       <div className="flex items-center gap-2 opacity-50">
                         <picture>
-                          <img
+                          <img loading="lazy" decoding="async"
                             src={ward.heroImgUrl}
                             alt={ward.heroDisplayName}
                             className="w-9 h-6 object-cover rounded-xs border border-[#3d3326] flex-shrink-0"
@@ -1158,7 +1158,7 @@ const WardLogTable: React.FC<WardLogTableProps> = ({ wards }) => {
                   <td className="py-2 px-3 text-center align-middle">
                     <div className="relative w-7 h-7 rounded-xs border border-[#3d3326] overflow-hidden mx-auto bg-[#0c0a08] shadow-md">
                       <picture>
-                        <img
+                        <img loading="lazy" decoding="async"
                           src="https://www.opendota.com/assets/images/dota2/map/detailed_740.webp"
                           alt="map"
                           className="w-full h-full object-cover brightness-75"

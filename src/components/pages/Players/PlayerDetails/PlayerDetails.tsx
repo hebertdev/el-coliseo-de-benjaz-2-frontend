@@ -201,7 +201,7 @@ export function PlayerDetails({ player, matchHistory }: PlayerDetailsProps) {
                 {displayAvatar ? (
                   <>
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={displayAvatar}
                         alt={player.nickname}
                         width={140}
@@ -403,7 +403,7 @@ export function PlayerDetails({ player, matchHistory }: PlayerDetailsProps) {
                         >
                           {team.logo ? (
                             <picture>
-                              <img
+                              <img loading="lazy" decoding="async"
                                 src={team.logo}
                                 alt={team.name}
                                 width={48}
@@ -626,7 +626,7 @@ export function PlayerDetails({ player, matchHistory }: PlayerDetailsProps) {
               {/* Modal Image Display */}
               <div className="relative z-10 mt-5 flex items-center justify-center border border-[#3d3328] bg-[#0e0b08] p-3 shadow-inner">
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={displayAvatar || ""}
                     alt={`Foto de perfil ampliada de ${player.nickname}`}
                     className="max-h-[60vh] w-auto max-w-full object-contain filter drop-shadow-[0_4px_16px_rgba(0,0,0,0.9)]"

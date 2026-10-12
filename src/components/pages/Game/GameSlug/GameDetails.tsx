@@ -1,18 +1,26 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
+import dynamic from "next/dynamic";
 import { GameDetailData } from "interfaces/games";
-import { getGameBySlugClientAPI } from "services/games";
 import { GameMatchHeader } from "./GameMatchHeader";
 import { GameMvpCard } from "./GameMvpCard";
 import { GameMatchupBoard } from "./GameMatchupBoard";
 import { GameTeamOverviewBoard } from "./GameTeamOverviewBoard";
 import { GameAdvantageAndMap } from "./GameAdvantageAndMap";
-import { GameAbilityBuildBoard } from "./GameAbilityBuildBoard";
+const GameAbilityBuildBoard = dynamic(() => import("./GameAbilityBuildBoard").then((mod) => mod.GameAbilityBuildBoard), {
+  loading: () => <div role="status" className="min-h-64 p-8 text-center text-[#8e857b]">Cargando análisis…</div>,
+});
 import { GameKillMatrixBoard } from "./GameKillMatrixBoard";
-import { GameVisionBoard } from "./GameVisionBoard";
-import { GameTeamfightBoard } from "./GameTeamfightBoard";
-import { GameGraphsBoard } from "./GameGraphsBoard";
+const GameVisionBoard = dynamic(() => import("./GameVisionBoard").then((mod) => mod.GameVisionBoard), {
+  loading: () => <div role="status" className="min-h-64 p-8 text-center text-[#8e857b]">Cargando análisis…</div>,
+});
+const GameTeamfightBoard = dynamic(() => import("./GameTeamfightBoard").then((mod) => mod.GameTeamfightBoard), {
+  loading: () => <div role="status" className="min-h-64 p-8 text-center text-[#8e857b]">Cargando análisis…</div>,
+});
+const GameGraphsBoard = dynamic(() => import("./GameGraphsBoard").then((mod) => mod.GameGraphsBoard), {
+  loading: () => <div role="status" className="min-h-64 p-8 text-center text-[#8e857b]">Cargando análisis…</div>,
+});
 import { GameNavigationTabs, GameTabType } from "./GameNavigationTabs";
 
 import { GameScheduledBoard } from "./GameScheduledBoard";
@@ -22,11 +30,9 @@ interface GameDetailsProps {
 }
 
 export function GameDetails({ game: initialGame }: GameDetailsProps) {
-  const [polledGame, setPolledGame] = useState<GameDetailData | null>(null);
   const [activeTab, setActiveTab] = useState<GameTabType>("scoreboard");
 
-  const currentGame =
-    polledGame && polledGame.slug === initialGame.slug ? polledGame : initialGame;
+  const currentGame = initialGame;
 
   // La partida se considera jugada/cerrada si el status es COMPLETED o tiene jugadores de OpenDota
   const isMatchCompleted =
@@ -40,57 +46,6 @@ export function GameDetails({ game: initialGame }: GameDetailsProps) {
       currentGame.opendota_data?.version ||
       (currentGame.opendota_data?.teamfights && currentGame.opendota_data.teamfights.length > 0)
     );
-
-  // Polling automático continuo: se mantiene activo en vivo durante draft, combate y parseo de OpenDota
-  useEffect(() => {
-    // Si la partida ya finalizó Y su replay está 100% parseado, no se requiere más sondeo
-    if (isReplayParsed) return;
-
-    let isMounted = true;
-
-    const poll = async () => {
-      // Si la pestaña está oculta, evitamos saturar la red (al volver se disparará inmediatamente)
-      if (typeof document !== "undefined" && document.visibilityState !== "visible") {
-        return;
-      }
-
-      try {
-        const freshGame = await getGameBySlugClientAPI(initialGame.slug);
-        if (isMounted && freshGame) {
-          setPolledGame((prev) => {
-            const current = prev && prev.slug === initialGame.slug ? prev : initialGame;
-            // Comparación de snapshot completa: detecta picks, estado a COMPLETED, score de serie,
-            // creación de Game 4, scores de OpenDota, teamfights, etc.
-            if (JSON.stringify(current) !== JSON.stringify(freshGame)) {
-              return freshGame;
-            }
-            return current;
-          });
-        }
-      } catch {
-        // Ignorar fallos transitorios de red durante polling
-      }
-    };
-
-    // Ejecución inmediata en montaje para sincronizar sin esperar intervalo
-    poll();
-    const interval = setInterval(poll, 2500);
-
-    // Cuando el usuario regresa a la pestaña activa, forzar un refresco inmediato
-    const handleVisibilityChange = () => {
-      if (document.visibilityState === "visible") {
-        poll();
-      }
-    };
-
-    document.addEventListener("visibilitychange", handleVisibilityChange);
-
-    return () => {
-      isMounted = false;
-      clearInterval(interval);
-      document.removeEventListener("visibilitychange", handleVisibilityChange);
-    };
-  }, [initialGame, isReplayParsed]);
 
   const teamfightsCount =
     currentGame.opendota_data?.teamfights?.length ||
@@ -116,11 +71,11 @@ export function GameDetails({ game: initialGame }: GameDetailsProps) {
                 <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-amber-500"></span>
               </span>
               <span>
-                <strong>OpenDota Replay:</strong> Procesando análisis profundo de la partida (teamfights, ventaja de oro/XP y habilidades en camino)...
+                <strong>OpenDota Replay:</strong> El respaldo de esta partida no incluye el análisis completo de teamfights, ventaja de oro/XP y habilidades.
               </span>
             </div>
             <span className="text-[11px] text-amber-400/80 font-mono hidden sm:inline">
-              Sondeo en vivo
+              Replay parcial
             </span>
           </div>
         )}

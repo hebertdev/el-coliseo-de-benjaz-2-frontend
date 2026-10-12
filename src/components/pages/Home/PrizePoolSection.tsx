@@ -252,7 +252,7 @@ export function PrizePoolSection({ initialPlayoffsData }: PrizePoolSectionProps)
             <div className={`relative h-11 w-11 sm:h-13 sm:w-13 shrink-0 overflow-hidden border p-1 flex items-center justify-center ${logoBorder}`}>
               {slot.team.logo_url ? (
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={slot.team.logo_url}
                     alt={slot.team.name}
                     className="h-full w-full object-contain transition-transform duration-300 group-hover/team:scale-110"
@@ -774,7 +774,7 @@ export function PrizePoolSection({ initialPlayoffsData }: PrizePoolSectionProps)
                       {row.slot.team.logo_url && (
                         <div className="h-5 w-5 shrink-0 overflow-hidden flex items-center justify-center">
                           <picture>
-                            <img
+                            <img loading="lazy" decoding="async"
                               src={row.slot.team.logo_url}
                               alt={row.slot.team.name}
                               className="h-full w-full object-contain"

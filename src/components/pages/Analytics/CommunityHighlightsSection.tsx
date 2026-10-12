@@ -73,7 +73,7 @@ export function CommunityHighlightsSection({ highlights }: CommunityHighlightsSe
                   <div className="flex items-center gap-2 truncate">
                     {sniper.player_avatar ? (
                       <picture className="h-6 w-6 shrink-0 overflow-hidden rounded-xs border border-[#2d261e]">
-                        <img
+                        <img loading="lazy" decoding="async"
                           src={normalizeMediaUrl(sniper.player_avatar) || sniper.player_avatar}
                           alt={sniper.nickname}
                           className="h-full w-full object-cover"
@@ -133,7 +133,7 @@ export function CommunityHighlightsSection({ highlights }: CommunityHighlightsSe
               <div className="mt-4 flex items-center gap-3 p-3 bg-[#120f0a] border border-[#241e17]">
                 {highlights.earliest_first_blood.player_avatar ? (
                   <picture className="h-10 w-10 shrink-0 overflow-hidden border border-[#d8b467]">
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={normalizeMediaUrl(highlights.earliest_first_blood.player_avatar) || highlights.earliest_first_blood.player_avatar}
                       alt={highlights.earliest_first_blood.nickname}
                       className="h-full w-full object-cover"
@@ -214,7 +214,7 @@ export function CommunityHighlightsSection({ highlights }: CommunityHighlightsSe
 
                 <div className="h-12 w-10 border border-[#2d261e] overflow-hidden shrink-0">
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={highlights.most_deaths_single_game.hero.image_url}
                       alt={highlights.most_deaths_single_game.hero.hero_name}
                       className="h-full w-full object-cover"
@@ -263,7 +263,7 @@ export function CommunityHighlightsSection({ highlights }: CommunityHighlightsSe
               <div className="mt-4 flex items-center gap-3 p-3 bg-[#120f0a] border border-[#241e17]">
                 {highlights.top_stunner.team_logo_url && (
                   <picture className="h-8 w-8 shrink-0">
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={normalizeMediaUrl(highlights.top_stunner.team_logo_url) || highlights.top_stunner.team_logo_url}
                       alt="Team"
                       className="h-full w-full object-contain"
@@ -315,7 +315,7 @@ export function CommunityHighlightsSection({ highlights }: CommunityHighlightsSe
             >
               <div className="relative h-11 w-14 overflow-hidden border border-[#2d261e] bg-black">
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={getItemImg(item.item_name)}
                     alt={item.item_name}
                     className="h-full w-full object-cover transition-transform duration-200 group-hover:scale-110"

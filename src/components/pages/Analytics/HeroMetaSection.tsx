@@ -117,7 +117,7 @@ export function HeroMetaSection({ heroMeta, lowestWinrateHeroes }: HeroMetaSecti
                 >
                   <div className="relative aspect-3/4 w-full overflow-hidden border border-[#2d261e] bg-black/60">
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={hero.image_url}
                         alt={hero.hero_name}
                         className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
@@ -182,7 +182,7 @@ export function HeroMetaSection({ heroMeta, lowestWinrateHeroes }: HeroMetaSecti
                 >
                   <div className="relative aspect-3/4 w-full overflow-hidden border border-[#2d261e] bg-black/60">
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={hero.image_url}
                         alt={hero.hero_name}
                         className="h-full w-full object-cover grayscale group-hover:grayscale-0 transition-all duration-300 group-hover:scale-105"
@@ -230,7 +230,7 @@ export function HeroMetaSection({ heroMeta, lowestWinrateHeroes }: HeroMetaSecti
                 >
                   <div className="relative aspect-3/4 w-full overflow-hidden border border-[#2d261e] bg-black/60">
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={hero.image_url}
                         alt={hero.hero_name}
                         className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
@@ -282,7 +282,7 @@ export function HeroMetaSection({ heroMeta, lowestWinrateHeroes }: HeroMetaSecti
                 >
                   <div className="relative aspect-3/4 w-full overflow-hidden border border-[#2d261e] bg-black/60">
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={hero.image_url}
                         alt={hero.hero_name}
                         className="h-full w-full object-cover grayscale transition-all duration-300 group-hover:scale-105"

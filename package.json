@@ -7,7 +7,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "data:dota": "node scripts/generate-dota-display-data.mjs",
+    "test:performance": "node scripts/check-performance.mjs"
   },
   "dependencies": {
     "@mantine/carousel": "^9.5.2",

@@ -170,7 +170,7 @@ export default function PrediccionesPage() {
             <div className="flex items-center gap-3">
               {match.team_a?.logo ? (
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={match.team_a.logo}
                     alt={match.team_a.name}
                     className="h-10 w-10 object-contain"
@@ -242,7 +242,7 @@ export default function PrediccionesPage() {
               </div>
               {match.team_b?.logo ? (
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={match.team_b.logo}
                     alt={match.team_b.name}
                     className="h-10 w-10 object-contain"
@@ -431,7 +431,7 @@ export default function PrediccionesPage() {
                 <div className="flex items-center gap-3">
                   {user.profile?.avatar ? (
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={user.profile.avatar}
                         alt={user.player_profile?.nickname || user.username}
                         className="h-10 w-10 rounded-full border border-[#f0d38f]/60 object-cover"

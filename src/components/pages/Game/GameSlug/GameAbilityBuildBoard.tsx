@@ -261,7 +261,7 @@ export function GameAbilityBuildBoard({ game }: GameAbilityBuildBoardProps) {
             {game.radiant_team?.logo_url ? (
               <div className="relative w-6 h-6 sm:w-7 sm:h-7 rounded border border-emerald-500/40 bg-black/60 overflow-hidden shrink-0 flex items-center justify-center p-0.5 shadow-sm">
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={game.radiant_team.logo_url}
                     alt={radiantTeamName}
                     className="w-full h-full object-contain"
@@ -339,7 +339,7 @@ export function GameAbilityBuildBoard({ game }: GameAbilityBuildBoardProps) {
             {game.dire_team?.logo_url ? (
               <div className="relative w-6 h-6 sm:w-7 sm:h-7 rounded border border-rose-500/40 bg-black/60 overflow-hidden shrink-0 flex items-center justify-center p-0.5 shadow-sm">
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={game.dire_team.logo_url}
                     alt={direTeamName}
                     className="w-full h-full object-contain"
@@ -429,7 +429,7 @@ function AbilityBuildRow({
             }`}
           >
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={player.heroImgUrl}
                 alt={player.heroDisplayName}
                 className="w-full h-full object-cover"
@@ -520,7 +520,7 @@ function AbilityBuildRow({
                   <div className="w-7 h-7 sm:w-8 sm:h-8 rounded border border-[#2d261e] bg-[#18130e] overflow-hidden flex items-center justify-center hover:border-[#d8b467]/80 hover:scale-105 transition-all shadow-sm cursor-pointer">
                     {ability.imgUrl ? (
                       <picture>
-                        <img
+                        <img loading="lazy" decoding="async"
                           src={ability.imgUrl}
                           alt={ability.displayName}
                           className="w-full h-full object-cover"

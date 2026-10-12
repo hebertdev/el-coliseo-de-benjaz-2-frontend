@@ -153,7 +153,7 @@ export function TeamPerformanceSection({ teams }: TeamPerformanceSectionProps) {
                         <div className="relative h-8 w-8 shrink-0 overflow-hidden border border-[#2d261e] bg-[#120f0a] p-0.5">
                           {team.logo_url ? (
                             <picture>
-                              <img
+                              <img loading="lazy" decoding="async"
                                 src={team.logo_url}
                                 alt={team.name}
                                 className="h-full w-full object-contain"

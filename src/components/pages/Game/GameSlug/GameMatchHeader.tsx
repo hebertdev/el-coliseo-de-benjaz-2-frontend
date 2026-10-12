@@ -99,7 +99,7 @@ function renderHeaderHeroPicks(heroes: GameHeroData[] = [], isRadiant: boolean, 
           >
             {hasHero && heroUrl ? (
               <picture>
-                <img
+                <img loading="lazy" decoding="async"
                   src={heroUrl}
                   alt={heroName}
                   className="h-full w-full object-cover transition-transform group-hover:scale-110"
@@ -357,7 +357,7 @@ export function GameMatchHeader({ game }: GameMatchHeaderProps) {
                   <span className={`pointer-events-none absolute -top-0.5 -right-0.5 w-1.5 h-1.5 rotate-45 ${radiantWon ? "bg-[#00e599]" : "bg-[#00e599]/40"}`} />
                   {game.radiant_team?.logo_url ? (
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={game.radiant_team.logo_url}
                         alt={radiantName}
                         className="h-10 w-10 object-contain"
@@ -378,7 +378,7 @@ export function GameMatchHeader({ game }: GameMatchHeaderProps) {
                   <span className={`pointer-events-none absolute -top-0.5 -right-0.5 w-1.5 h-1.5 rotate-45 ${radiantWon ? "bg-[#00e599]" : "bg-[#00e599]/40"}`} />
                   {game.radiant_team?.logo_url ? (
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={game.radiant_team.logo_url}
                         alt={radiantName}
                         className="h-10 w-10 object-contain"
@@ -464,7 +464,7 @@ export function GameMatchHeader({ game }: GameMatchHeaderProps) {
                   <span className={`pointer-events-none absolute -top-0.5 -left-0.5 w-1.5 h-1.5 rotate-45 ${direWon ? "bg-[#ff4d4d]" : "bg-[#ff4d4d]/40"}`} />
                   {game.dire_team?.logo_url ? (
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={game.dire_team.logo_url}
                         alt={direName}
                         className="h-10 w-10 object-contain"
@@ -485,7 +485,7 @@ export function GameMatchHeader({ game }: GameMatchHeaderProps) {
                   <span className={`pointer-events-none absolute -top-0.5 -left-0.5 w-1.5 h-1.5 rotate-45 ${direWon ? "bg-[#ff4d4d]" : "bg-[#ff4d4d]/40"}`} />
                   {game.dire_team?.logo_url ? (
                     <picture>
-                      <img
+                      <img loading="lazy" decoding="async"
                         src={game.dire_team.logo_url}
                         alt={direName}
                         className="h-10 w-10 object-contain"
@@ -567,7 +567,7 @@ export function GameMatchHeader({ game }: GameMatchHeaderProps) {
                 <span className={`pointer-events-none absolute -top-0.5 -right-0.5 w-2 h-2 rotate-45 ${radiantWon ? "bg-[#00e599]" : "bg-[#00e599]/40"}`} />
                 {game.radiant_team?.logo_url ? (
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={game.radiant_team.logo_url}
                       alt={radiantName}
                       className="h-11 w-11 sm:h-14 sm:w-14 object-contain"
@@ -591,7 +591,7 @@ export function GameMatchHeader({ game }: GameMatchHeaderProps) {
                 <span className={`pointer-events-none absolute -top-0.5 -right-0.5 w-2 h-2 rotate-45 ${radiantWon ? "bg-[#00e599]" : "bg-[#00e599]/40"}`} />
                 {game.radiant_team?.logo_url ? (
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={game.radiant_team.logo_url}
                       alt={radiantName}
                       className="h-11 w-11 sm:h-14 sm:w-14 object-contain"
@@ -748,7 +748,7 @@ export function GameMatchHeader({ game }: GameMatchHeaderProps) {
 
                 {game.dire_team?.logo_url ? (
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={game.dire_team.logo_url}
                       alt={direName}
                       className="h-11 w-11 sm:h-14 sm:w-14 object-contain"
@@ -773,7 +773,7 @@ export function GameMatchHeader({ game }: GameMatchHeaderProps) {
 
                 {game.dire_team?.logo_url ? (
                   <picture>
-                    <img
+                    <img loading="lazy" decoding="async"
                       src={game.dire_team.logo_url}
                       alt={direName}
                       className="h-11 w-11 sm:h-14 sm:w-14 object-contain"

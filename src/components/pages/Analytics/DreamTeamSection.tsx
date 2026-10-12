@@ -131,7 +131,7 @@ function DreamTeamPlayerCard({
         <div className="relative h-14 w-14 shrink-0 overflow-hidden rounded-xs border border-[#d8b467]/50 bg-[#1f1912] shadow-md group-hover:border-[#f0d38f] transition-colors">
           {player.avatar ? (
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={normalizeMediaUrl(player.avatar) || player.avatar}
                 alt={player.nickname}
                 className="h-full w-full object-cover"
@@ -167,7 +167,7 @@ function DreamTeamPlayerCard({
           <div className="mt-0.5 flex items-center gap-1.5 font-chakra text-xs text-[#c7bcab]">
             {medalUrl && (
               <picture className="shrink-0">
-                <img src={medalUrl} alt="Medal" className="h-3.5 w-3.5 object-contain" />
+                <img loading="lazy" decoding="async" src={medalUrl} alt="Medal" className="h-3.5 w-3.5 object-contain" />
               </picture>
             )}
             <span className="truncate text-[#f0d38f] font-semibold text-[10px]">
@@ -179,7 +179,7 @@ function DreamTeamPlayerCard({
           <div className="mt-1 flex items-center gap-1.5">
             {player.team.logo_url && (
               <picture className="shrink-0">
-                <img
+                <img loading="lazy" decoding="async"
                   src={normalizeMediaUrl(player.team.logo_url) || player.team.logo_url}
                   alt={player.team.name}
                   className="h-3.5 w-3.5 object-contain"

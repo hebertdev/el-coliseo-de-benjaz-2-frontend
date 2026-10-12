@@ -139,7 +139,7 @@ function LeaderRow({
         >
           {player.avatar ? (
             <picture>
-              <img
+              <img decoding="async"
                 src={normalizeMediaUrl(player.avatar) || player.avatar}
                 alt={player.nickname}
                 className="h-full w-full object-cover"
@@ -165,7 +165,7 @@ function LeaderRow({
             </Link>
             {medalUrl && (
               <picture className="shrink-0">
-                <img src={medalUrl} alt="Medal" className="h-3.5 w-3.5 object-contain" />
+                <img loading="lazy" decoding="async" src={medalUrl} alt="Medal" className="h-3.5 w-3.5 object-contain" />
               </picture>
             )}
           </div>
@@ -173,7 +173,7 @@ function LeaderRow({
           <div className="flex items-center gap-1.5 font-chakra text-[10px] text-[#7e756b] mt-0.5 min-w-0">
             {player.team_logo_url && (
               <picture className="shrink-0">
-                <img
+                <img loading="lazy" decoding="async"
                   src={normalizeMediaUrl(player.team_logo_url) || player.team_logo_url}
                   alt="Team"
                   className="h-3 w-3 object-contain rounded-xs"

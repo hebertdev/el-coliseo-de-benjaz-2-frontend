@@ -462,7 +462,7 @@ export function GameGraphsBoard({ game }: GameGraphsBoardProps) {
                   className="w-2 h-2 rounded-full flex-shrink-0"
                 />
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={p.heroImgUrl}
                     alt={p.heroDisplayName}
                     className="w-6 h-4 object-cover rounded-xs border border-[#3d3326]"
@@ -1124,7 +1124,7 @@ function TeamResourceMatrix({
               {/* Jugador */}
               <div className="flex items-center gap-2.5 min-w-[140px]">
                 <picture>
-                  <img
+                  <img loading="lazy" decoding="async"
                     src={p.heroImgUrl}
                     alt={p.heroDisplayName}
                     className="w-9 h-6 object-cover rounded-xs border border-[#3d3326]"

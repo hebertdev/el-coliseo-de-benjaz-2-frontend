@@ -76,7 +76,7 @@ export function FormatSection() {
     >
       {/* Background Decorative Image */}
       <picture className="pointer-events-none absolute inset-0 block h-full w-full select-none overflow-hidden">
-        <img
+        <img loading="lazy" decoding="async"
           src={backgroundDecoration.src}
           alt="Decoración de fondo del formato"
           className="h-full w-full object-cover object-center pointer-events-none opacity-85"

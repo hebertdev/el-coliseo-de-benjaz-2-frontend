@@ -8,7 +8,7 @@ import {
   IconChevronLeft,
   IconChevronRight,
 } from "@tabler/icons-react";
-import dotaconstants from "dotaconstants";
+import dotaconstants from "data/dota-display.json";
 import {
   GameDetailData,
   OpenDotaTeamfight,
@@ -227,7 +227,7 @@ export function GameTeamfightBoard({ game }: GameTeamfightBoardProps) {
           : Math.round(-200 - (died ? 300 : 0));
 
         // Mock abilities y items usados
-        const abilityKey = dotaconstants.ability_ids?.[(mp.heroId * 10 + 1)] || "ability_attack";
+        const abilityKey = (dotaconstants.ability_ids as Record<number, string>)[mp.heroId * 10 + 1] || "ability_attack";
         const abilityUses: Record<string, number> = { [abilityKey]: 2 + (fIdx % 3) };
         const itemUses: Record<string, number> = { "blink": 1 + (fIdx % 2), "bkb": 1 };
 
@@ -314,7 +314,7 @@ export function GameTeamfightBoard({ game }: GameTeamfightBoardProps) {
         tooltipNode: (
           <div className="flex items-center gap-2 text-xs text-white whitespace-nowrap font-chakra">
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={killer?.heroImgUrl}
                 alt={killer?.heroDisplayName}
                 className="w-5 h-4 object-cover rounded-xs border border-[#3d3326]"
@@ -325,7 +325,7 @@ export function GameTeamfightBoard({ game }: GameTeamfightBoardProps) {
             </span>
             <span className="text-[#8e857b]">logró First Blood sobre</span>
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={victim?.heroImgUrl}
                 alt={victim?.heroDisplayName}
                 className="w-5 h-4 object-cover rounded-xs border border-[#3d3326]"
@@ -351,7 +351,7 @@ export function GameTeamfightBoard({ game }: GameTeamfightBoardProps) {
         tooltipNode: (
           <div className="flex items-center gap-2 text-xs text-white whitespace-nowrap font-chakra">
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={killer?.heroImgUrl}
                 alt={killer?.heroDisplayName}
                 className="w-5 h-4 object-cover rounded-xs border border-[#3d3326]"
@@ -360,7 +360,7 @@ export function GameTeamfightBoard({ game }: GameTeamfightBoardProps) {
             <span className="font-bold text-[#00e599]">{killer?.playerName}</span>
             <span className="text-[#8e857b]">logró First Blood sobre</span>
             <picture>
-              <img
+              <img loading="lazy" decoding="async"
                 src={victim?.heroImgUrl}
                 alt={victim?.heroDisplayName}
                 className="w-5 h-4 object-cover rounded-xs border border-[#3d3326]"
@@ -833,7 +833,7 @@ const TeamfightTeamTable: React.FC<TeamfightTeamTableProps> = ({
                     <div className="flex items-center gap-2.5">
                       <div className="relative flex-shrink-0">
                         <picture>
-                          <img
+                          <img loading="lazy" decoding="async"
                             src={fp.heroImgUrl}
                             alt={fp.heroDisplayName}
                             className="w-9 h-6 object-cover rounded-xs border border-[#3d3326]"
@@ -957,7 +957,7 @@ const TeamfightTeamTable: React.FC<TeamfightTeamTableProps> = ({
                               title={`${displayName}: Usado ${count} vez${count > 1 ? "es" : ""}`}
                             >
                               <picture>
-                                <img
+                                <img loading="lazy" decoding="async"
                                   src={imgUrl}
                                   alt={displayName}
                                   className="w-4 h-4 rounded-xs object-cover flex-shrink-0"
@@ -994,7 +994,7 @@ const TeamfightTeamTable: React.FC<TeamfightTeamTableProps> = ({
                               title={`${displayName}: Usado ${count} vez${count > 1 ? "es" : ""}`}
                             >
                               <picture>
-                                <img
+                                <img loading="lazy" decoding="async"
                                   src={imgUrl}
                                   alt={displayName}
                                   className="w-4 h-3.5 object-contain rounded-xs"
