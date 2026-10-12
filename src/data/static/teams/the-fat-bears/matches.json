@@ -25,7 +25,7 @@
             "name": "The Fat Bears",
             "tag": "team k1",
             "slug": "the-fat-bears",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "logo_url": "/media/teams/logos/thefatbears.webp",
             "score": 2,
             "is_current": true,
             "record": "0 - 0"
@@ -35,7 +35,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 3,
             "is_current": false,
             "record": "0 - 0"
@@ -115,7 +115,7 @@
             "name": "The Fat Bears",
             "tag": "team k1",
             "slug": "the-fat-bears",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "logo_url": "/media/teams/logos/thefatbears.webp",
             "score": 2,
             "is_current": true,
             "record": "0 - 0"
@@ -125,7 +125,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 1,
             "is_current": false,
             "record": "0 - 0"
@@ -187,7 +187,7 @@
             "name": "The Fat Bears",
             "tag": "team k1",
             "slug": "the-fat-bears",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "logo_url": "/media/teams/logos/thefatbears.webp",
             "score": 2,
             "is_current": true,
             "record": "0 - 0"
@@ -197,7 +197,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 0,
             "is_current": false,
             "record": "0 - 0"
@@ -250,7 +250,7 @@
             "name": "The Fat Bears",
             "tag": "team k1",
             "slug": "the-fat-bears",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "logo_url": "/media/teams/logos/thefatbears.webp",
             "score": 2,
             "is_current": true,
             "record": "3 - 0"
@@ -260,7 +260,7 @@
             "name": "CAPIBARAS",
             "tag": "t stinger",
             "slug": "capibarbas",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+            "logo_url": "/media/teams/logos/capibarbas.webp",
             "score": 0,
             "is_current": false,
             "record": "3 - 1"
@@ -313,7 +313,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 0,
             "is_current": false,
             "record": "3 - 1"
@@ -323,7 +323,7 @@
             "name": "The Fat Bears",
             "tag": "team k1",
             "slug": "the-fat-bears",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "logo_url": "/media/teams/logos/thefatbears.webp",
             "score": 1,
             "is_current": true,
             "record": "3 - 0"
@@ -367,7 +367,7 @@
             "name": "The Fat Bears",
             "tag": "team k1",
             "slug": "the-fat-bears",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+            "logo_url": "/media/teams/logos/thefatbears.webp",
             "score": 1,
             "is_current": true,
             "record": "3 - 0"
@@ -377,7 +377,7 @@
             "name": "CHALA TEAM",
             "tag": "t scofield",
             "slug": "team-scofield",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "logo_url": "/media/teams/logos/chala_team.webp",
             "score": 0,
             "is_current": false,
             "record": "2 - 3"
@@ -419,7 +419,7 @@
         "name": "The Fat Bears",
         "tag": "team k1",
         "slug": "the-fat-bears",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "logo_url": "/media/teams/logos/thefatbears.webp",
         "score": 2,
         "is_current": true,
         "record": "0 - 0"
@@ -429,7 +429,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 3,
         "is_current": false,
         "record": "0 - 0"
@@ -503,7 +503,7 @@
         "name": "The Fat Bears",
         "tag": "team k1",
         "slug": "the-fat-bears",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "logo_url": "/media/teams/logos/thefatbears.webp",
         "score": 2,
         "is_current": true,
         "record": "0 - 0"
@@ -513,7 +513,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 1,
         "is_current": false,
         "record": "0 - 0"
@@ -569,7 +569,7 @@
         "name": "The Fat Bears",
         "tag": "team k1",
         "slug": "the-fat-bears",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "logo_url": "/media/teams/logos/thefatbears.webp",
         "score": 2,
         "is_current": true,
         "record": "0 - 0"
@@ -579,7 +579,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 0,
         "is_current": false,
         "record": "0 - 0"
@@ -626,7 +626,7 @@
         "name": "The Fat Bears",
         "tag": "team k1",
         "slug": "the-fat-bears",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "logo_url": "/media/teams/logos/thefatbears.webp",
         "score": 2,
         "is_current": true,
         "record": "3 - 0"
@@ -636,7 +636,7 @@
         "name": "CAPIBARAS",
         "tag": "t stinger",
         "slug": "capibarbas",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        "logo_url": "/media/teams/logos/capibarbas.webp",
         "score": 0,
         "is_current": false,
         "record": "3 - 1"
@@ -683,7 +683,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 0,
         "is_current": false,
         "record": "3 - 1"
@@ -693,7 +693,7 @@
         "name": "The Fat Bears",
         "tag": "team k1",
         "slug": "the-fat-bears",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "logo_url": "/media/teams/logos/thefatbears.webp",
         "score": 1,
         "is_current": true,
         "record": "3 - 0"
@@ -731,7 +731,7 @@
         "name": "The Fat Bears",
         "tag": "team k1",
         "slug": "the-fat-bears",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "logo_url": "/media/teams/logos/thefatbears.webp",
         "score": 1,
         "is_current": true,
         "record": "3 - 0"
@@ -741,7 +741,7 @@
         "name": "CHALA TEAM",
         "tag": "t scofield",
         "slug": "team-scofield",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo_url": "/media/teams/logos/chala_team.webp",
         "score": 0,
         "is_current": false,
         "record": "2 - 3"

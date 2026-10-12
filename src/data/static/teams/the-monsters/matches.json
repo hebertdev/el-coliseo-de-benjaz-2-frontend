@@ -25,7 +25,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 0,
             "is_current": true,
             "record": "2 - 3"
@@ -35,7 +35,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 2,
             "is_current": false,
             "record": "3 - 2"
@@ -88,7 +88,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 2,
             "is_current": false,
             "record": "3 - 1"
@@ -98,7 +98,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 0,
             "is_current": true,
             "record": "2 - 3"
@@ -151,7 +151,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 1,
             "is_current": true,
             "record": "2 - 3"
@@ -161,7 +161,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 0,
             "is_current": false,
             "record": "3 - 2"
@@ -205,7 +205,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 0,
             "is_current": true,
             "record": "2 - 3"
@@ -215,7 +215,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 1,
             "is_current": false,
             "record": "3 - 1"
@@ -259,7 +259,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 1,
             "is_current": true,
             "record": "2 - 3"
@@ -269,7 +269,7 @@
             "name": "Cucharita Army",
             "tag": "team Shaka",
             "slug": "team-cucharita",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "logo_url": "/media/teams/logos/cucharita_army.webp",
             "score": 0,
             "is_current": false,
             "record": "0 - 3"
@@ -311,7 +311,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 0,
         "is_current": true,
         "record": "2 - 3"
@@ -321,7 +321,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 2,
         "is_current": false,
         "record": "3 - 2"
@@ -368,7 +368,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 2,
         "is_current": false,
         "record": "3 - 1"
@@ -378,7 +378,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 0,
         "is_current": true,
         "record": "2 - 3"
@@ -425,7 +425,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 1,
         "is_current": true,
         "record": "2 - 3"
@@ -435,7 +435,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 0,
         "is_current": false,
         "record": "3 - 2"
@@ -473,7 +473,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 0,
         "is_current": true,
         "record": "2 - 3"
@@ -483,7 +483,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 1,
         "is_current": false,
         "record": "3 - 1"
@@ -521,7 +521,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 1,
         "is_current": true,
         "record": "2 - 3"
@@ -531,7 +531,7 @@
         "name": "Cucharita Army",
         "tag": "team Shaka",
         "slug": "team-cucharita",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "logo_url": "/media/teams/logos/cucharita_army.webp",
         "score": 0,
         "is_current": false,
         "record": "0 - 3"

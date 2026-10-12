@@ -1,7 +1,7 @@
 {
   "slug": "scofield",
   "nickname": "Scofield",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/scofield.jpeg",
+  "avatar": "/media/players/avatars/scofield.jpeg",
   "bio": "",
   "kick_url": "https://kick.com/scofieldota2",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "CHALA TEAM",
         "slug": "team-scofield",
         "tag": "t scofield",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo": "/media/teams/logos/chala_team.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

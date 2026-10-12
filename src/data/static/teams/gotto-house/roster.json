@@ -3,7 +3,7 @@
     "player": {
       "slug": "matthew",
       "nickname": "Matthew",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/matthew.jpeg",
+      "avatar": "/media/players/avatars/matthew.jpeg",
       "steam_id": "76561198115598187",
       "account_id": 155332459,
       "mmr_number": null,

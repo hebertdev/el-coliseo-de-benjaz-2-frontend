@@ -2,7 +2,7 @@
   "name": "Mango Boys",
   "slug": "team-smash",
   "tag": "TEAM SMASH",
-  "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+  "logo": "/media/teams/logos/mango_boys.webp",
   "region": "SA",
   "region_display": "South America",
   "country": "PE",

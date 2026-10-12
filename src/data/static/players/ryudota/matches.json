@@ -31,7 +31,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 18
           },
           "rival_team": {
@@ -39,7 +39,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 19
           },
           "radiant_team": {
@@ -47,7 +47,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 19
           },
           "dire_team": {
@@ -55,7 +55,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 18
           },
           "stats": {
@@ -103,7 +103,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 12
           },
           "rival_team": {
@@ -111,7 +111,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 23
           },
           "radiant_team": {
@@ -119,7 +119,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 23
           },
           "dire_team": {
@@ -127,7 +127,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 12
           },
           "stats": {
@@ -173,7 +173,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 18
       },
       "rival_team": {
@@ -181,7 +181,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 19
       },
       "radiant_team": {
@@ -189,7 +189,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 19
       },
       "dire_team": {
@@ -197,7 +197,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 18
       },
       "stats": {
@@ -239,7 +239,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 12
       },
       "rival_team": {
@@ -247,7 +247,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 23
       },
       "radiant_team": {
@@ -255,7 +255,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 23
       },
       "dire_team": {
@@ -263,7 +263,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 12
       },
       "stats": {

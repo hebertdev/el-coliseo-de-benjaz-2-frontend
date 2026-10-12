@@ -2,7 +2,7 @@
   "name": "TEAM BRASIL",
   "slug": "team-brasil",
   "tag": "t astini",
-  "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+  "logo": "/media/teams/logos/tem-brasil.webp",
   "region": "SA",
   "region_display": "South America",
   "country": "BR",

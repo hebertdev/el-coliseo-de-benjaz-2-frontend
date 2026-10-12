@@ -1,7 +1,7 @@
 {
   "slug": "angelukin",
   "nickname": "Angelukin",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/angelukin.webp",
+  "avatar": "/media/players/avatars/angelukin.webp",
   "bio": "",
   "kick_url": "https://kick.com/angelukin",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "Rising Rage",
         "slug": "rising-rage",
         "tag": "t leostyle",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo": "/media/teams/logos/rising-rage.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

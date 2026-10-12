@@ -25,7 +25,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 2,
             "is_current": false,
             "record": "3 - 2"
@@ -35,7 +35,7 @@
             "name": "Cucharita Army",
             "tag": "team Shaka",
             "slug": "team-cucharita",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "logo_url": "/media/teams/logos/cucharita_army.webp",
             "score": 1,
             "is_current": true,
             "record": "0 - 3"
@@ -97,7 +97,7 @@
             "name": "Cucharita Army",
             "tag": "team Shaka",
             "slug": "team-cucharita",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "logo_url": "/media/teams/logos/cucharita_army.webp",
             "score": 0,
             "is_current": true,
             "record": "0 - 3"
@@ -107,7 +107,7 @@
             "name": "CHALA TEAM",
             "tag": "t scofield",
             "slug": "team-scofield",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "logo_url": "/media/teams/logos/chala_team.webp",
             "score": 1,
             "is_current": false,
             "record": "2 - 3"
@@ -151,7 +151,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 1,
             "is_current": false,
             "record": "2 - 3"
@@ -161,7 +161,7 @@
             "name": "Cucharita Army",
             "tag": "team Shaka",
             "slug": "team-cucharita",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+            "logo_url": "/media/teams/logos/cucharita_army.webp",
             "score": 0,
             "is_current": true,
             "record": "0 - 3"
@@ -203,7 +203,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 2,
         "is_current": false,
         "record": "3 - 2"
@@ -213,7 +213,7 @@
         "name": "Cucharita Army",
         "tag": "team Shaka",
         "slug": "team-cucharita",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "logo_url": "/media/teams/logos/cucharita_army.webp",
         "score": 1,
         "is_current": true,
         "record": "0 - 3"
@@ -269,7 +269,7 @@
         "name": "Cucharita Army",
         "tag": "team Shaka",
         "slug": "team-cucharita",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "logo_url": "/media/teams/logos/cucharita_army.webp",
         "score": 0,
         "is_current": true,
         "record": "0 - 3"
@@ -279,7 +279,7 @@
         "name": "CHALA TEAM",
         "tag": "t scofield",
         "slug": "team-scofield",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo_url": "/media/teams/logos/chala_team.webp",
         "score": 1,
         "is_current": false,
         "record": "2 - 3"
@@ -317,7 +317,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 1,
         "is_current": false,
         "record": "2 - 3"
@@ -327,7 +327,7 @@
         "name": "Cucharita Army",
         "tag": "team Shaka",
         "slug": "team-cucharita",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "logo_url": "/media/teams/logos/cucharita_army.webp",
         "score": 0,
         "is_current": true,
         "record": "0 - 3"

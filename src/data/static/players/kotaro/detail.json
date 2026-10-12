@@ -1,7 +1,7 @@
 {
   "slug": "kotaro",
   "nickname": "Kotaro",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+  "avatar": "/media/players/avatars/kotaro.webp",
   "bio": "",
   "kick_url": "https://kick.com/kotaromnzdota",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "Rising Rage",
         "slug": "rising-rage",
         "tag": "t leostyle",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo": "/media/teams/logos/rising-rage.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

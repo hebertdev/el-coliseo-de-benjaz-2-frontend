@@ -25,7 +25,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 2,
             "is_current": false,
             "record": "0 - 0"
@@ -35,7 +35,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 0,
             "is_current": true,
             "record": "0 - 0"
@@ -88,7 +88,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 2,
             "is_current": false,
             "record": "0 - 0"
@@ -98,7 +98,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 1,
             "is_current": true,
             "record": "0 - 0"
@@ -154,7 +154,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 2,
             "is_current": true,
             "record": "0 - 0"
@@ -164,7 +164,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 1,
             "is_current": false,
             "record": "0 - 0"
@@ -226,7 +226,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 2,
             "is_current": true,
             "record": "3 - 1"
@@ -236,7 +236,7 @@
             "name": "CHALA TEAM",
             "tag": "t scofield",
             "slug": "team-scofield",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "logo_url": "/media/teams/logos/chala_team.webp",
             "score": 1,
             "is_current": false,
             "record": "2 - 3"
@@ -298,7 +298,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 2,
             "is_current": false,
             "record": "3 - 0"
@@ -308,7 +308,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 0,
             "is_current": true,
             "record": "3 - 1"
@@ -361,7 +361,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 0,
             "is_current": false,
             "record": "2 - 3"
@@ -371,7 +371,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 1,
             "is_current": true,
             "record": "3 - 1"
@@ -415,7 +415,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 0,
             "is_current": false,
             "record": "3 - 2"
@@ -425,7 +425,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 1,
             "is_current": true,
             "record": "3 - 1"
@@ -467,7 +467,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 2,
         "is_current": false,
         "record": "0 - 0"
@@ -477,7 +477,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 0,
         "is_current": true,
         "record": "0 - 0"
@@ -524,7 +524,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 2,
         "is_current": false,
         "record": "0 - 0"
@@ -534,7 +534,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 1,
         "is_current": true,
         "record": "0 - 0"
@@ -590,7 +590,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 2,
         "is_current": true,
         "record": "0 - 0"
@@ -600,7 +600,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 1,
         "is_current": false,
         "record": "0 - 0"
@@ -656,7 +656,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 2,
         "is_current": true,
         "record": "3 - 1"
@@ -666,7 +666,7 @@
         "name": "CHALA TEAM",
         "tag": "t scofield",
         "slug": "team-scofield",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo_url": "/media/teams/logos/chala_team.webp",
         "score": 1,
         "is_current": false,
         "record": "2 - 3"
@@ -722,7 +722,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 2,
         "is_current": false,
         "record": "3 - 0"
@@ -732,7 +732,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 0,
         "is_current": true,
         "record": "3 - 1"
@@ -779,7 +779,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 0,
         "is_current": false,
         "record": "2 - 3"
@@ -789,7 +789,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 1,
         "is_current": true,
         "record": "3 - 1"
@@ -827,7 +827,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 0,
         "is_current": false,
         "record": "3 - 2"
@@ -837,7 +837,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 1,
         "is_current": true,
         "record": "3 - 1"

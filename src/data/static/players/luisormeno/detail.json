@@ -22,7 +22,7 @@
         "name": "Bemboyz",
         "slug": "bemboyz",
         "tag": "BB",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo": "/media/teams/logos/bemboyz.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

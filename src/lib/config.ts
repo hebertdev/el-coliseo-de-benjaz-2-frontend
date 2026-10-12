@@ -10,37 +10,26 @@ export function getApiUrl(): string {
 }
 
 /**
- * Normalizes any media URL (player avatar, team logo, etc.):
- * - Replaces localhost:8000 with production domain when running in production or client side.
- * - Expands relative /media/... paths.
+ * Resolves backed-up media to files served from public/media.
+ * Keeps unrelated external image URLs unchanged.
  */
 export function normalizeMediaUrl(url: string | null | undefined): string | null {
   if (!url) return null;
 
-  const isBrowser = typeof window !== "undefined";
-  const isLocalhost = isBrowser
-    ? window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
-    : process.env.NODE_ENV !== "production";
-
-  if (!isLocalhost && (url.includes("localhost:8000") || url.includes("127.0.0.1:8000"))) {
-    const parts = url.split("/media/");
-    if (parts.length > 1) {
-      return `https://elcoliseoapi.hebertdev.com/media/${parts[1]}`;
-    }
-  }
-
-  const base = isLocalhost ? "http://localhost:8000" : "https://elcoliseoapi.hebertdev.com";
+  const legacyMediaUrl = /^https?:\/\/(?:elcoliseoapi\.hebertdev\.com|localhost:8000|127\.0\.0\.1:8000)(\/media\/.*)$/;
+  const legacyMatch = url.match(legacyMediaUrl);
+  if (legacyMatch) return legacyMatch[1];
 
   if (url.startsWith("/media/")) {
-    return `${base}${url}`;
+    return url;
   }
 
   if (url.startsWith("media/")) {
-    return `${base}/${url}`;
+    return `/${url}`;
   }
 
   if (url.startsWith("teams/") || url.startsWith("players/") || url.startsWith("sponsors/")) {
-    return `${base}/media/${url}`;
+    return `/media/${url}`;
   }
 
   return url;

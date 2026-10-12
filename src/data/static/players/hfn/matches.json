@@ -31,7 +31,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 12
           },
           "rival_team": {
@@ -39,7 +39,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 45
           },
           "radiant_team": {
@@ -47,7 +47,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 12
           },
           "dire_team": {
@@ -55,7 +55,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 45
           },
           "stats": {
@@ -97,7 +97,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 16
           },
           "rival_team": {
@@ -105,7 +105,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 56
           },
           "radiant_team": {
@@ -113,7 +113,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 16
           },
           "dire_team": {
@@ -121,7 +121,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 56
           },
           "stats": {
@@ -163,7 +163,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 47
           },
           "rival_team": {
@@ -171,7 +171,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 44
           },
           "radiant_team": {
@@ -179,7 +179,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 47
           },
           "dire_team": {
@@ -187,7 +187,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 44
           },
           "stats": {
@@ -235,7 +235,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 17
           },
           "rival_team": {
@@ -243,7 +243,7 @@
             "name": "CHALA TEAM",
             "tag": "t scofield",
             "slug": "team-scofield",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "logo_url": "/media/teams/logos/chala_team.webp",
             "score": 41
           },
           "radiant_team": {
@@ -251,7 +251,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 17
           },
           "dire_team": {
@@ -259,7 +259,7 @@
             "name": "CHALA TEAM",
             "tag": "t scofield",
             "slug": "team-scofield",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "logo_url": "/media/teams/logos/chala_team.webp",
             "score": 41
           },
           "stats": {
@@ -307,7 +307,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 32
           },
           "rival_team": {
@@ -315,7 +315,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 40
           },
           "radiant_team": {
@@ -323,7 +323,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 32
           },
           "dire_team": {
@@ -331,7 +331,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 40
           },
           "stats": {
@@ -379,7 +379,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 23
           },
           "rival_team": {
@@ -387,7 +387,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 12
           },
           "radiant_team": {
@@ -395,7 +395,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 23
           },
           "dire_team": {
@@ -403,7 +403,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 12
           },
           "stats": {
@@ -449,7 +449,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 12
       },
       "rival_team": {
@@ -457,7 +457,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 45
       },
       "radiant_team": {
@@ -465,7 +465,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 12
       },
       "dire_team": {
@@ -473,7 +473,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 45
       },
       "stats": {
@@ -515,7 +515,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 16
       },
       "rival_team": {
@@ -523,7 +523,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 56
       },
       "radiant_team": {
@@ -531,7 +531,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 16
       },
       "dire_team": {
@@ -539,7 +539,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 56
       },
       "stats": {
@@ -581,7 +581,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 47
       },
       "rival_team": {
@@ -589,7 +589,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 44
       },
       "radiant_team": {
@@ -597,7 +597,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 47
       },
       "dire_team": {
@@ -605,7 +605,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 44
       },
       "stats": {
@@ -647,7 +647,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 17
       },
       "rival_team": {
@@ -655,7 +655,7 @@
         "name": "CHALA TEAM",
         "tag": "t scofield",
         "slug": "team-scofield",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo_url": "/media/teams/logos/chala_team.webp",
         "score": 41
       },
       "radiant_team": {
@@ -663,7 +663,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 17
       },
       "dire_team": {
@@ -671,7 +671,7 @@
         "name": "CHALA TEAM",
         "tag": "t scofield",
         "slug": "team-scofield",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo_url": "/media/teams/logos/chala_team.webp",
         "score": 41
       },
       "stats": {
@@ -713,7 +713,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 32
       },
       "rival_team": {
@@ -721,7 +721,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 40
       },
       "radiant_team": {
@@ -729,7 +729,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 32
       },
       "dire_team": {
@@ -737,7 +737,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 40
       },
       "stats": {
@@ -779,7 +779,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 23
       },
       "rival_team": {
@@ -787,7 +787,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 12
       },
       "radiant_team": {
@@ -795,7 +795,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 23
       },
       "dire_team": {
@@ -803,7 +803,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 12
       },
       "stats": {

@@ -2,7 +2,7 @@
   "name": "Mitra Army",
   "slug": "mitra-army",
   "tag": "team iwo",
-  "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+  "logo": "/media/teams/logos/mitra_army.webp",
   "region": "SA",
   "region_display": "South America",
   "country": "PE",

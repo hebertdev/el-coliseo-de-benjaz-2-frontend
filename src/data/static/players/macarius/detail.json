@@ -1,7 +1,7 @@
 {
   "slug": "macarius",
   "nickname": "Macarius",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/macarius.jpeg",
+  "avatar": "/media/players/avatars/macarius.jpeg",
   "bio": "",
   "kick_url": "https://kick.com/elmacarius",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "The Monsters",
         "slug": "the-monsters",
         "tag": "tm",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo": "/media/teams/logos/the_monsters.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

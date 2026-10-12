@@ -31,7 +31,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 50
           },
           "rival_team": {
@@ -39,7 +39,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 49
           },
           "radiant_team": {
@@ -47,7 +47,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 49
           },
           "dire_team": {
@@ -55,7 +55,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 50
           },
           "stats": {
@@ -97,7 +97,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 34
           },
           "rival_team": {
@@ -105,7 +105,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 55
           },
           "radiant_team": {
@@ -113,7 +113,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 34
           },
           "dire_team": {
@@ -121,7 +121,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 55
           },
           "stats": {
@@ -169,7 +169,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 40
           },
           "rival_team": {
@@ -177,7 +177,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 32
           },
           "radiant_team": {
@@ -185,7 +185,7 @@
             "name": "TEAM BRASIL",
             "tag": "t astini",
             "slug": "team-brasil",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+            "logo_url": "/media/teams/logos/tem-brasil.webp",
             "score": 32
           },
           "dire_team": {
@@ -193,7 +193,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 40
           },
           "stats": {
@@ -241,7 +241,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 49
           },
           "rival_team": {
@@ -249,7 +249,7 @@
             "name": "Los Number One",
             "tag": "t sacred",
             "slug": "los-number-one",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "logo_url": "/media/teams/logos/the_numbers_one.webp",
             "score": 59
           },
           "radiant_team": {
@@ -257,7 +257,7 @@
             "name": "The Bot$",
             "tag": "T parker",
             "slug": "the-bots",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+            "logo_url": "/media/teams/logos/thebots.webp",
             "score": 49
           },
           "dire_team": {
@@ -265,7 +265,7 @@
             "name": "Los Number One",
             "tag": "t sacred",
             "slug": "los-number-one",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+            "logo_url": "/media/teams/logos/the_numbers_one.webp",
             "score": 59
           },
           "stats": {
@@ -311,7 +311,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 50
       },
       "rival_team": {
@@ -319,7 +319,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 49
       },
       "radiant_team": {
@@ -327,7 +327,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 49
       },
       "dire_team": {
@@ -335,7 +335,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 50
       },
       "stats": {
@@ -377,7 +377,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 34
       },
       "rival_team": {
@@ -385,7 +385,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 55
       },
       "radiant_team": {
@@ -393,7 +393,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 34
       },
       "dire_team": {
@@ -401,7 +401,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 55
       },
       "stats": {
@@ -443,7 +443,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 40
       },
       "rival_team": {
@@ -451,7 +451,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 32
       },
       "radiant_team": {
@@ -459,7 +459,7 @@
         "name": "TEAM BRASIL",
         "tag": "t astini",
         "slug": "team-brasil",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        "logo_url": "/media/teams/logos/tem-brasil.webp",
         "score": 32
       },
       "dire_team": {
@@ -467,7 +467,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 40
       },
       "stats": {
@@ -509,7 +509,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 49
       },
       "rival_team": {
@@ -517,7 +517,7 @@
         "name": "Los Number One",
         "tag": "t sacred",
         "slug": "los-number-one",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "logo_url": "/media/teams/logos/the_numbers_one.webp",
         "score": 59
       },
       "radiant_team": {
@@ -525,7 +525,7 @@
         "name": "The Bot$",
         "tag": "T parker",
         "slug": "the-bots",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo_url": "/media/teams/logos/thebots.webp",
         "score": 49
       },
       "dire_team": {
@@ -533,7 +533,7 @@
         "name": "Los Number One",
         "tag": "t sacred",
         "slug": "los-number-one",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "logo_url": "/media/teams/logos/the_numbers_one.webp",
         "score": 59
       },
       "stats": {

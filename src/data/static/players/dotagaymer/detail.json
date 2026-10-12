@@ -1,7 +1,7 @@
 {
   "slug": "dotagaymer",
   "nickname": "DotaGaymer",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/dotagaymer.jpeg",
+  "avatar": "/media/players/avatars/dotagaymer.jpeg",
   "bio": "",
   "kick_url": "https://kick.com/dotagaymer",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "Fuerzas GAYniu",
         "slug": "fuerzas-gayniu",
         "tag": "dotagaymer",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo": "/media/teams/logos/fuerzas-gayniu.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

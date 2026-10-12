@@ -31,7 +31,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 14
           },
           "rival_team": {
@@ -39,7 +39,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 29
           },
           "radiant_team": {
@@ -47,7 +47,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 29
           },
           "dire_team": {
@@ -55,7 +55,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 14
           },
           "stats": {
@@ -97,7 +97,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 29
           },
           "rival_team": {
@@ -105,7 +105,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 30
           },
           "radiant_team": {
@@ -113,7 +113,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 30
           },
           "dire_team": {
@@ -121,7 +121,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 29
           },
           "stats": {
@@ -169,7 +169,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 23
           },
           "rival_team": {
@@ -177,7 +177,7 @@
             "name": "CHALA TEAM",
             "tag": "t scofield",
             "slug": "team-scofield",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "logo_url": "/media/teams/logos/chala_team.webp",
             "score": 16
           },
           "radiant_team": {
@@ -185,7 +185,7 @@
             "name": "CHALA TEAM",
             "tag": "t scofield",
             "slug": "team-scofield",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "logo_url": "/media/teams/logos/chala_team.webp",
             "score": 16
           },
           "dire_team": {
@@ -193,7 +193,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 23
           },
           "stats": {
@@ -235,7 +235,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 35
           },
           "rival_team": {
@@ -243,7 +243,7 @@
             "name": "CHALA TEAM",
             "tag": "t scofield",
             "slug": "team-scofield",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "logo_url": "/media/teams/logos/chala_team.webp",
             "score": 23
           },
           "radiant_team": {
@@ -251,7 +251,7 @@
             "name": "CHALA TEAM",
             "tag": "t scofield",
             "slug": "team-scofield",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+            "logo_url": "/media/teams/logos/chala_team.webp",
             "score": 23
           },
           "dire_team": {
@@ -259,7 +259,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 35
           },
           "stats": {
@@ -307,7 +307,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 45
           },
           "rival_team": {
@@ -315,7 +315,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 34
           },
           "radiant_team": {
@@ -323,7 +323,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 34
           },
           "dire_team": {
@@ -331,7 +331,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 45
           },
           "stats": {
@@ -373,7 +373,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 32
           },
           "rival_team": {
@@ -381,7 +381,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 10
           },
           "radiant_team": {
@@ -389,7 +389,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 10
           },
           "dire_team": {
@@ -397,7 +397,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 32
           },
           "stats": {
@@ -445,7 +445,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 30
           },
           "rival_team": {
@@ -453,7 +453,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 34
           },
           "radiant_team": {
@@ -461,7 +461,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 30
           },
           "dire_team": {
@@ -469,7 +469,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 34
           },
           "stats": {
@@ -517,7 +517,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 37
           },
           "rival_team": {
@@ -525,7 +525,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 17
           },
           "radiant_team": {
@@ -533,7 +533,7 @@
             "name": "Rising Rage",
             "tag": "t leostyle",
             "slug": "rising-rage",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+            "logo_url": "/media/teams/logos/rising-rage.webp",
             "score": 17
           },
           "dire_team": {
@@ -541,7 +541,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 37
           },
           "stats": {
@@ -589,7 +589,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 22
           },
           "rival_team": {
@@ -597,7 +597,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 37
           },
           "radiant_team": {
@@ -605,7 +605,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 37
           },
           "dire_team": {
@@ -613,7 +613,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 22
           },
           "stats": {
@@ -659,7 +659,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 14
       },
       "rival_team": {
@@ -667,7 +667,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 29
       },
       "radiant_team": {
@@ -675,7 +675,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 29
       },
       "dire_team": {
@@ -683,7 +683,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 14
       },
       "stats": {
@@ -725,7 +725,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 29
       },
       "rival_team": {
@@ -733,7 +733,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 30
       },
       "radiant_team": {
@@ -741,7 +741,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 30
       },
       "dire_team": {
@@ -749,7 +749,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 29
       },
       "stats": {
@@ -791,7 +791,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 23
       },
       "rival_team": {
@@ -799,7 +799,7 @@
         "name": "CHALA TEAM",
         "tag": "t scofield",
         "slug": "team-scofield",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo_url": "/media/teams/logos/chala_team.webp",
         "score": 16
       },
       "radiant_team": {
@@ -807,7 +807,7 @@
         "name": "CHALA TEAM",
         "tag": "t scofield",
         "slug": "team-scofield",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo_url": "/media/teams/logos/chala_team.webp",
         "score": 16
       },
       "dire_team": {
@@ -815,7 +815,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 23
       },
       "stats": {
@@ -857,7 +857,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 35
       },
       "rival_team": {
@@ -865,7 +865,7 @@
         "name": "CHALA TEAM",
         "tag": "t scofield",
         "slug": "team-scofield",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo_url": "/media/teams/logos/chala_team.webp",
         "score": 23
       },
       "radiant_team": {
@@ -873,7 +873,7 @@
         "name": "CHALA TEAM",
         "tag": "t scofield",
         "slug": "team-scofield",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        "logo_url": "/media/teams/logos/chala_team.webp",
         "score": 23
       },
       "dire_team": {
@@ -881,7 +881,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 35
       },
       "stats": {
@@ -923,7 +923,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 45
       },
       "rival_team": {
@@ -931,7 +931,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 34
       },
       "radiant_team": {
@@ -939,7 +939,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 34
       },
       "dire_team": {
@@ -947,7 +947,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 45
       },
       "stats": {
@@ -989,7 +989,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 32
       },
       "rival_team": {
@@ -997,7 +997,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 10
       },
       "radiant_team": {
@@ -1005,7 +1005,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 10
       },
       "dire_team": {
@@ -1013,7 +1013,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 32
       },
       "stats": {
@@ -1055,7 +1055,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 30
       },
       "rival_team": {
@@ -1063,7 +1063,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 34
       },
       "radiant_team": {
@@ -1071,7 +1071,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 30
       },
       "dire_team": {
@@ -1079,7 +1079,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 34
       },
       "stats": {
@@ -1121,7 +1121,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 37
       },
       "rival_team": {
@@ -1129,7 +1129,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 17
       },
       "radiant_team": {
@@ -1137,7 +1137,7 @@
         "name": "Rising Rage",
         "tag": "t leostyle",
         "slug": "rising-rage",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "logo_url": "/media/teams/logos/rising-rage.webp",
         "score": 17
       },
       "dire_team": {
@@ -1145,7 +1145,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 37
       },
       "stats": {
@@ -1187,7 +1187,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 22
       },
       "rival_team": {
@@ -1195,7 +1195,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 37
       },
       "radiant_team": {
@@ -1203,7 +1203,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 37
       },
       "dire_team": {
@@ -1211,7 +1211,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 22
       },
       "stats": {

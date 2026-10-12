@@ -1,7 +1,7 @@
 {
   "slug": "pakazs",
   "nickname": "Pakazs",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/pakazs.jpeg",
+  "avatar": "/media/players/avatars/pakazs.jpeg",
   "bio": "",
   "kick_url": "https://kick.com/pakazsdota",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "The Parrocos Young",
         "slug": "team-pakazs",
         "tag": "team pakaz",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo": "/media/teams/logos/parrocos_young.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "pe",

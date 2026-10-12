@@ -1,7 +1,7 @@
 {
   "slug": "buti",
   "nickname": "Buti",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/buti.jpeg",
+  "avatar": "/media/players/avatars/buti.jpeg",
   "bio": "",
   "kick_url": "https://kick.com/butisito",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "Bemboyz",
         "slug": "bemboyz",
         "tag": "BB",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo": "/media/teams/logos/bemboyz.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

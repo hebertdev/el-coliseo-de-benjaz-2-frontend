@@ -1,7 +1,7 @@
 {
   "slug": "gelatita",
   "nickname": "Gelatita",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/gelatita.webp",
+  "avatar": "/media/players/avatars/gelatita.webp",
   "bio": "",
   "kick_url": "",
   "twitch_url": "https://www.twitch.tv/gelatita/",
@@ -22,7 +22,7 @@
         "name": "The Monsters",
         "slug": "the-monsters",
         "tag": "tm",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo": "/media/teams/logos/the_monsters.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

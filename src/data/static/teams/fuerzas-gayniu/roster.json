@@ -25,7 +25,7 @@
     "player": {
       "slug": "dotagaymer",
       "nickname": "DotaGaymer",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/dotagaymer.jpeg",
+      "avatar": "/media/players/avatars/dotagaymer.jpeg",
       "steam_id": null,
       "account_id": 171345053,
       "mmr_number": null,
@@ -113,7 +113,7 @@
     "player": {
       "slug": "f-young",
       "nickname": "F-Young",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/fyoung.webp",
+      "avatar": "/media/players/avatars/fyoung.webp",
       "steam_id": "76561198365482063",
       "account_id": 405216335,
       "mmr_number": null,

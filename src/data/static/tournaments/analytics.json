@@ -18,7 +18,7 @@
     "reason": "Consagrado MVP Oficial del Torneo tras coronarse Campeón con Rising Rage en El Coliseo de Benjaz II. Lideró a su escuadra con maestría en el rol de Carry / Hard Carry, acumulando 1,537 pts de Impacto CRI, 13 victorias en 20 partidas (65% WR), 7.4 KDA y 7 galardones de MVP en partidas cruciales.",
     "player_slug": "kotaro",
     "nickname": "Kotaro",
-    "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+    "avatar": "/media/players/avatars/kotaro.webp",
     "country": "PE",
     "position": 1,
     "position_short": "Pos 1",
@@ -34,7 +34,7 @@
       "slug": "rising-rage",
       "name": "Rising Rage",
       "tag": "t leostyle",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+      "logo_url": "/media/teams/logos/rising-rage.webp"
     },
     "score": 1536.8,
     "placement_status": "CHAMPION",
@@ -101,7 +101,7 @@
     "carry": {
       "player_slug": "kotaro",
       "nickname": "Kotaro",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+      "avatar": "/media/players/avatars/kotaro.webp",
       "country": "PE",
       "position": 1,
       "is_standin": false,
@@ -116,7 +116,7 @@
         "slug": "rising-rage",
         "name": "Rising Rage",
         "tag": "t leostyle",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+        "logo_url": "/media/teams/logos/rising-rage.webp"
       },
       "stats": {
         "games_played": 20,
@@ -186,7 +186,7 @@
     "mid": {
       "player_slug": "leostyle",
       "nickname": "LeoStyle",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/leostyle.jpeg",
+      "avatar": "/media/players/avatars/leostyle.jpeg",
       "country": "PE",
       "position": 2,
       "is_standin": false,
@@ -201,7 +201,7 @@
         "slug": "rising-rage",
         "name": "Rising Rage",
         "tag": "t leostyle",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+        "logo_url": "/media/teams/logos/rising-rage.webp"
       },
       "stats": {
         "games_played": 20,
@@ -271,7 +271,7 @@
     "offlane": {
       "player_slug": "chavalito",
       "nickname": "Chavalito",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/chavalito.webp",
+      "avatar": "/media/players/avatars/chavalito.webp",
       "country": "PE",
       "position": 3,
       "is_standin": false,
@@ -286,7 +286,7 @@
         "slug": "rising-rage",
         "name": "Rising Rage",
         "tag": "t leostyle",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+        "logo_url": "/media/teams/logos/rising-rage.webp"
       },
       "stats": {
         "games_played": 20,
@@ -356,7 +356,7 @@
     "soft_support": {
       "player_slug": "matthew",
       "nickname": "Matthew",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/matthew.jpeg",
+      "avatar": "/media/players/avatars/matthew.jpeg",
       "country": "PE",
       "position": 4,
       "is_standin": false,
@@ -371,7 +371,7 @@
         "slug": "gotto-house",
         "name": "Gotto House",
         "tag": "t matthew",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+        "logo_url": "/media/teams/logos/gotto_house.webp"
       },
       "stats": {
         "games_played": 13,
@@ -441,7 +441,7 @@
     "hard_support": {
       "player_slug": "lovely",
       "nickname": "Lovely",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/lovely.webp",
+      "avatar": "/media/players/avatars/lovely.webp",
       "country": "PE",
       "position": 5,
       "is_standin": false,
@@ -456,7 +456,7 @@
         "slug": "los-number-one",
         "name": "Los Number One",
         "tag": "t sacred",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp"
+        "logo_url": "/media/teams/logos/the_numbers_one.webp"
       },
       "stats": {
         "games_played": 7,
@@ -520,7 +520,7 @@
     "carry": {
       "player_slug": "hector-k1",
       "nickname": "K1 Hector",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+      "avatar": "/media/players/avatars/hector.jpeg",
       "country": "PE",
       "position": 1,
       "is_standin": false,
@@ -535,7 +535,7 @@
         "slug": "the-fat-bears",
         "name": "The Fat Bears",
         "tag": "team k1",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+        "logo_url": "/media/teams/logos/thefatbears.webp"
       },
       "stats": {
         "games_played": 14,
@@ -605,7 +605,7 @@
     "mid": {
       "player_slug": "mrjeans",
       "nickname": "MrJeans",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/mrjeans.webp",
+      "avatar": "/media/players/avatars/mrjeans.webp",
       "country": "PE",
       "position": 2,
       "is_standin": false,
@@ -620,7 +620,7 @@
         "slug": "los-number-one",
         "name": "Los Number One",
         "tag": "t sacred",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp"
+        "logo_url": "/media/teams/logos/the_numbers_one.webp"
       },
       "stats": {
         "games_played": 7,
@@ -705,7 +705,7 @@
         "slug": "the-bots",
         "name": "The Bot$",
         "tag": "T parker",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp"
+        "logo_url": "/media/teams/logos/thebots.webp"
       },
       "stats": {
         "games_played": 6,
@@ -775,7 +775,7 @@
     "soft_support": {
       "player_slug": "soe",
       "nickname": "Soe",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/soez.webp",
+      "avatar": "/media/players/avatars/soez.webp",
       "country": "PY",
       "position": 4,
       "is_standin": false,
@@ -790,7 +790,7 @@
         "slug": "rising-rage",
         "name": "Rising Rage",
         "tag": "t leostyle",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+        "logo_url": "/media/teams/logos/rising-rage.webp"
       },
       "stats": {
         "games_played": 20,
@@ -860,7 +860,7 @@
     "hard_support": {
       "player_slug": "angelukin",
       "nickname": "Angelukin",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/angelukin.webp",
+      "avatar": "/media/players/avatars/angelukin.webp",
       "country": "PE",
       "position": 5,
       "is_standin": false,
@@ -875,7 +875,7 @@
         "slug": "rising-rage",
         "name": "Rising Rage",
         "tag": "t leostyle",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+        "logo_url": "/media/teams/logos/rising-rage.webp"
       },
       "stats": {
         "games_played": 20,
@@ -948,7 +948,7 @@
       {
         "player_slug": "kotaro",
         "nickname": "Kotaro",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+        "avatar": "/media/players/avatars/kotaro.webp",
         "country": "PE",
         "position": 1,
         "is_standin": false,
@@ -963,7 +963,7 @@
           "slug": "rising-rage",
           "name": "Rising Rage",
           "tag": "t leostyle",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+          "logo_url": "/media/teams/logos/rising-rage.webp"
         },
         "stats": {
           "games_played": 20,
@@ -1032,7 +1032,7 @@
       {
         "player_slug": "hector-k1",
         "nickname": "K1 Hector",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+        "avatar": "/media/players/avatars/hector.jpeg",
         "country": "PE",
         "position": 1,
         "is_standin": false,
@@ -1047,7 +1047,7 @@
           "slug": "the-fat-bears",
           "name": "The Fat Bears",
           "tag": "team k1",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+          "logo_url": "/media/teams/logos/thefatbears.webp"
         },
         "stats": {
           "games_played": 14,
@@ -1131,7 +1131,7 @@
           "slug": "gotto-house",
           "name": "Gotto House",
           "tag": "t matthew",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+          "logo_url": "/media/teams/logos/gotto_house.webp"
         },
         "stats": {
           "games_played": 13,
@@ -1200,7 +1200,7 @@
       {
         "player_slug": "f-young",
         "nickname": "F-Young",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/fyoung.webp",
+        "avatar": "/media/players/avatars/fyoung.webp",
         "country": "PE",
         "position": 1,
         "is_standin": false,
@@ -1215,7 +1215,7 @@
           "slug": "fuerzas-gayniu",
           "name": "Fuerzas GAYniu",
           "tag": "dotagaymer",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp"
+          "logo_url": "/media/teams/logos/fuerzas-gayniu.webp"
         },
         "stats": {
           "games_played": 11,
@@ -1284,7 +1284,7 @@
       {
         "player_slug": "parker",
         "nickname": "Parker",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/parker.jpeg",
+        "avatar": "/media/players/avatars/parker.jpeg",
         "country": "PE",
         "position": 1,
         "is_standin": false,
@@ -1299,7 +1299,7 @@
           "slug": "the-bots",
           "name": "The Bot$",
           "tag": "T parker",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp"
+          "logo_url": "/media/teams/logos/thebots.webp"
         },
         "stats": {
           "games_played": 6,
@@ -1383,7 +1383,7 @@
           "slug": "capibarbas",
           "name": "CAPIBARAS",
           "tag": "t stinger",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp"
+          "logo_url": "/media/teams/logos/capibarbas.webp"
         },
         "stats": {
           "games_played": 9,
@@ -1452,7 +1452,7 @@
       {
         "player_slug": "pakazs",
         "nickname": "Pakazs",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/pakazs.jpeg",
+        "avatar": "/media/players/avatars/pakazs.jpeg",
         "country": "pe",
         "position": 1,
         "is_standin": false,
@@ -1467,7 +1467,7 @@
           "slug": "team-pakazs",
           "name": "The Parrocos Young",
           "tag": "team pakaz",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp"
+          "logo_url": "/media/teams/logos/parrocos_young.webp"
         },
         "stats": {
           "games_played": 9,
@@ -1551,7 +1551,7 @@
           "slug": "team-factos-army",
           "name": "Team Factos Army",
           "tag": "payasita g",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp"
+          "logo_url": "/media/teams/logos/factos_army.webp"
         },
         "stats": {
           "games_played": 14,
@@ -1620,7 +1620,7 @@
       {
         "player_slug": "zapatitogaming",
         "nickname": "ZapatitoGaming",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/zapatitogaming.jpeg",
+        "avatar": "/media/players/avatars/zapatitogaming.jpeg",
         "country": "PE",
         "position": 1,
         "is_standin": false,
@@ -1635,7 +1635,7 @@
           "slug": "los-number-one",
           "name": "Los Number One",
           "tag": "t sacred",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp"
+          "logo_url": "/media/teams/logos/the_numbers_one.webp"
         },
         "stats": {
           "games_played": 7,
@@ -1704,7 +1704,7 @@
       {
         "player_slug": "hfn",
         "nickname": "Hfn",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/HFN.webp",
+        "avatar": "/media/players/avatars/HFN.webp",
         "country": "BR",
         "position": 1,
         "is_standin": false,
@@ -1719,7 +1719,7 @@
           "slug": "team-brasil",
           "name": "TEAM BRASIL",
           "tag": "t astini",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp"
+          "logo_url": "/media/teams/logos/tem-brasil.webp"
         },
         "stats": {
           "games_played": 6,
@@ -1788,7 +1788,7 @@
       {
         "player_slug": "kid",
         "nickname": "KID",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kid_dota.webp",
+        "avatar": "/media/players/avatars/kid_dota.webp",
         "country": "PE",
         "position": 1,
         "is_standin": false,
@@ -1803,7 +1803,7 @@
           "slug": "the-monsters",
           "name": "The Monsters",
           "tag": "tm",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp"
+          "logo_url": "/media/teams/logos/the_monsters.webp"
         },
         "stats": {
           "games_played": 7,
@@ -1872,7 +1872,7 @@
       {
         "player_slug": "scofield",
         "nickname": "Scofield",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/scofield.jpeg",
+        "avatar": "/media/players/avatars/scofield.jpeg",
         "country": "PE",
         "position": 1,
         "is_standin": false,
@@ -1887,7 +1887,7 @@
           "slug": "team-scofield",
           "name": "CHALA TEAM",
           "tag": "t scofield",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp"
+          "logo_url": "/media/teams/logos/chala_team.webp"
         },
         "stats": {
           "games_played": 8,
@@ -1971,7 +1971,7 @@
           "slug": "team-cucharita",
           "name": "Cucharita Army",
           "tag": "team Shaka",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp"
+          "logo_url": "/media/teams/logos/cucharita_army.webp"
         },
         "stats": {
           "games_played": 3,
@@ -2032,7 +2032,7 @@
       {
         "player_slug": "iwo",
         "nickname": "Iwo",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/iwo.jpeg",
+        "avatar": "/media/players/avatars/iwo.jpeg",
         "country": "PE",
         "position": 1,
         "is_standin": false,
@@ -2047,7 +2047,7 @@
           "slug": "mitra-army",
           "name": "Mitra Army",
           "tag": "team iwo",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp"
+          "logo_url": "/media/teams/logos/mitra_army.webp"
         },
         "stats": {
           "games_played": 6,
@@ -2131,7 +2131,7 @@
           "slug": "team-smash",
           "name": "Mango Boys",
           "tag": "TEAM SMASH",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp"
+          "logo_url": "/media/teams/logos/mango_boys.webp"
         },
         "stats": {
           "games_played": 4,
@@ -2215,7 +2215,7 @@
           "slug": "bemboyz",
           "name": "Bemboyz",
           "tag": "BB",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp"
+          "logo_url": "/media/teams/logos/bemboyz.webp"
         },
         "stats": {
           "games_played": 5,
@@ -2286,7 +2286,7 @@
       {
         "player_slug": "leostyle",
         "nickname": "LeoStyle",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/leostyle.jpeg",
+        "avatar": "/media/players/avatars/leostyle.jpeg",
         "country": "PE",
         "position": 2,
         "is_standin": false,
@@ -2301,7 +2301,7 @@
           "slug": "rising-rage",
           "name": "Rising Rage",
           "tag": "t leostyle",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+          "logo_url": "/media/teams/logos/rising-rage.webp"
         },
         "stats": {
           "games_played": 20,
@@ -2370,7 +2370,7 @@
       {
         "player_slug": "mrjeans",
         "nickname": "MrJeans",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/mrjeans.webp",
+        "avatar": "/media/players/avatars/mrjeans.webp",
         "country": "PE",
         "position": 2,
         "is_standin": false,
@@ -2385,7 +2385,7 @@
           "slug": "los-number-one",
           "name": "Los Number One",
           "tag": "t sacred",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp"
+          "logo_url": "/media/teams/logos/the_numbers_one.webp"
         },
         "stats": {
           "games_played": 7,
@@ -2454,7 +2454,7 @@
       {
         "player_slug": "robo-z",
         "nickname": "Robo-Z",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/roboz.webp",
+        "avatar": "/media/players/avatars/roboz.webp",
         "country": "PE",
         "position": 2,
         "is_standin": false,
@@ -2469,7 +2469,7 @@
           "slug": "the-fat-bears",
           "name": "The Fat Bears",
           "tag": "team k1",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+          "logo_url": "/media/teams/logos/thefatbears.webp"
         },
         "stats": {
           "games_played": 14,
@@ -2553,7 +2553,7 @@
           "slug": "gotto-house",
           "name": "Gotto House",
           "tag": "t matthew",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+          "logo_url": "/media/teams/logos/gotto_house.webp"
         },
         "stats": {
           "games_played": 11,
@@ -2622,7 +2622,7 @@
       {
         "player_slug": "lalatroni",
         "nickname": "Lalatroni",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/lalatroni.webp",
+        "avatar": "/media/players/avatars/lalatroni.webp",
         "country": "PE",
         "position": 2,
         "is_standin": false,
@@ -2637,7 +2637,7 @@
           "slug": "the-bots",
           "name": "The Bot$",
           "tag": "T parker",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp"
+          "logo_url": "/media/teams/logos/thebots.webp"
         },
         "stats": {
           "games_played": 4,
@@ -2713,7 +2713,7 @@
           "slug": "team-pakazs",
           "name": "The Parrocos Young",
           "tag": "team pakaz",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp"
+          "logo_url": "/media/teams/logos/parrocos_young.webp"
         },
         "stats": {
           "games_played": 8,
@@ -2797,7 +2797,7 @@
           "slug": "capibarbas",
           "name": "CAPIBARAS",
           "tag": "t stinger",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp"
+          "logo_url": "/media/teams/logos/capibarbas.webp"
         },
         "stats": {
           "games_played": 9,
@@ -2881,7 +2881,7 @@
           "slug": "mitra-army",
           "name": "Mitra Army",
           "tag": "team iwo",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp"
+          "logo_url": "/media/teams/logos/mitra_army.webp"
         },
         "stats": {
           "games_played": 6,
@@ -2965,7 +2965,7 @@
           "slug": "team-factos-army",
           "name": "Team Factos Army",
           "tag": "payasita g",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp"
+          "logo_url": "/media/teams/logos/factos_army.webp"
         },
         "stats": {
           "games_played": 14,
@@ -3049,7 +3049,7 @@
           "slug": "team-scofield",
           "name": "CHALA TEAM",
           "tag": "t scofield",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp"
+          "logo_url": "/media/teams/logos/chala_team.webp"
         },
         "stats": {
           "games_played": 8,
@@ -3133,7 +3133,7 @@
           "slug": "the-monsters",
           "name": "The Monsters",
           "tag": "tm",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp"
+          "logo_url": "/media/teams/logos/the_monsters.webp"
         },
         "stats": {
           "games_played": 7,
@@ -3217,7 +3217,7 @@
           "slug": "team-cucharita",
           "name": "Cucharita Army",
           "tag": "team Shaka",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp"
+          "logo_url": "/media/teams/logos/cucharita_army.webp"
         },
         "stats": {
           "games_played": 5,
@@ -3301,7 +3301,7 @@
           "slug": "gotto-house",
           "name": "Gotto House",
           "tag": "t matthew",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+          "logo_url": "/media/teams/logos/gotto_house.webp"
         },
         "stats": {
           "games_played": 2,
@@ -3361,7 +3361,7 @@
           "slug": "team-brasil",
           "name": "TEAM BRASIL",
           "tag": "t astini",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp"
+          "logo_url": "/media/teams/logos/tem-brasil.webp"
         },
         "stats": {
           "games_played": 3,
@@ -3437,7 +3437,7 @@
           "slug": "team-smash",
           "name": "Mango Boys",
           "tag": "TEAM SMASH",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp"
+          "logo_url": "/media/teams/logos/mango_boys.webp"
         },
         "stats": {
           "games_played": 4,
@@ -3521,7 +3521,7 @@
           "slug": "bemboyz",
           "name": "Bemboyz",
           "tag": "BB",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp"
+          "logo_url": "/media/teams/logos/bemboyz.webp"
         },
         "stats": {
           "games_played": 5,
@@ -3590,7 +3590,7 @@
       {
         "player_slug": "4dr",
         "nickname": "4DR",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/4DR_.webp",
+        "avatar": "/media/players/avatars/4DR_.webp",
         "country": "BR",
         "position": 2,
         "is_standin": false,
@@ -3605,7 +3605,7 @@
           "slug": "team-brasil",
           "name": "TEAM BRASIL",
           "tag": "t astini",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp"
+          "logo_url": "/media/teams/logos/tem-brasil.webp"
         },
         "stats": {
           "games_played": 3,
@@ -3673,7 +3673,7 @@
           "slug": "team-pakazs",
           "name": "The Parrocos Young",
           "tag": "team pakaz",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp"
+          "logo_url": "/media/teams/logos/parrocos_young.webp"
         },
         "stats": {
           "games_played": 1,
@@ -3733,7 +3733,7 @@
           "slug": "fuerzas-gayniu",
           "name": "Fuerzas GAYniu",
           "tag": "dotagaymer",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp"
+          "logo_url": "/media/teams/logos/fuerzas-gayniu.webp"
         },
         "stats": {
           "games_played": 2,
@@ -3788,7 +3788,7 @@
       {
         "player_slug": "chavalito",
         "nickname": "Chavalito",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/chavalito.webp",
+        "avatar": "/media/players/avatars/chavalito.webp",
         "country": "PE",
         "position": 3,
         "is_standin": false,
@@ -3803,7 +3803,7 @@
           "slug": "rising-rage",
           "name": "Rising Rage",
           "tag": "t leostyle",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+          "logo_url": "/media/teams/logos/rising-rage.webp"
         },
         "stats": {
           "games_played": 20,
@@ -3887,7 +3887,7 @@
           "slug": "the-bots",
           "name": "The Bot$",
           "tag": "T parker",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp"
+          "logo_url": "/media/teams/logos/thebots.webp"
         },
         "stats": {
           "games_played": 6,
@@ -3956,7 +3956,7 @@
       {
         "player_slug": "baldu",
         "nickname": "Baldu",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/baldu.webp",
+        "avatar": "/media/players/avatars/baldu.webp",
         "country": "ar",
         "position": 3,
         "is_standin": false,
@@ -3971,7 +3971,7 @@
           "slug": "the-fat-bears",
           "name": "The Fat Bears",
           "tag": "team k1",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+          "logo_url": "/media/teams/logos/thefatbears.webp"
         },
         "stats": {
           "games_played": 14,
@@ -4055,7 +4055,7 @@
           "slug": "fuerzas-gayniu",
           "name": "Fuerzas GAYniu",
           "tag": "dotagaymer",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp"
+          "logo_url": "/media/teams/logos/fuerzas-gayniu.webp"
         },
         "stats": {
           "games_played": 11,
@@ -4139,7 +4139,7 @@
           "slug": "gotto-house",
           "name": "Gotto House",
           "tag": "t matthew",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+          "logo_url": "/media/teams/logos/gotto_house.webp"
         },
         "stats": {
           "games_played": 13,
@@ -4208,7 +4208,7 @@
       {
         "player_slug": "stinger",
         "nickname": "Stinger",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/stinger.jpeg",
+        "avatar": "/media/players/avatars/stinger.jpeg",
         "country": "pe",
         "position": 3,
         "is_standin": false,
@@ -4223,7 +4223,7 @@
           "slug": "capibarbas",
           "name": "CAPIBARAS",
           "tag": "t stinger",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp"
+          "logo_url": "/media/teams/logos/capibarbas.webp"
         },
         "stats": {
           "games_played": 9,
@@ -4307,7 +4307,7 @@
           "slug": "los-number-one",
           "name": "Los Number One",
           "tag": "t sacred",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp"
+          "logo_url": "/media/teams/logos/the_numbers_one.webp"
         },
         "stats": {
           "games_played": 7,
@@ -4391,7 +4391,7 @@
           "slug": "mitra-army",
           "name": "Mitra Army",
           "tag": "team iwo",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp"
+          "logo_url": "/media/teams/logos/mitra_army.webp"
         },
         "stats": {
           "games_played": 6,
@@ -4475,7 +4475,7 @@
           "slug": "team-scofield",
           "name": "CHALA TEAM",
           "tag": "t scofield",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp"
+          "logo_url": "/media/teams/logos/chala_team.webp"
         },
         "stats": {
           "games_played": 8,
@@ -4559,7 +4559,7 @@
           "slug": "team-factos-army",
           "name": "Team Factos Army",
           "tag": "payasita g",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp"
+          "logo_url": "/media/teams/logos/factos_army.webp"
         },
         "stats": {
           "games_played": 14,
@@ -4643,7 +4643,7 @@
           "slug": "team-pakazs",
           "name": "The Parrocos Young",
           "tag": "team pakaz",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp"
+          "logo_url": "/media/teams/logos/parrocos_young.webp"
         },
         "stats": {
           "games_played": 9,
@@ -4727,7 +4727,7 @@
           "slug": "the-monsters",
           "name": "The Monsters",
           "tag": "tm",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp"
+          "logo_url": "/media/teams/logos/the_monsters.webp"
         },
         "stats": {
           "games_played": 7,
@@ -4796,7 +4796,7 @@
       {
         "player_slug": "shaka",
         "nickname": "Shaka",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/11291.jpg",
+        "avatar": "/media/players/avatars/11291.jpg",
         "country": "Pe",
         "position": 3,
         "is_standin": false,
@@ -4811,7 +4811,7 @@
           "slug": "team-cucharita",
           "name": "Cucharita Army",
           "tag": "team Shaka",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp"
+          "logo_url": "/media/teams/logos/cucharita_army.webp"
         },
         "stats": {
           "games_played": 2,
@@ -4879,7 +4879,7 @@
           "slug": "bemboyz",
           "name": "Bemboyz",
           "tag": "BB",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp"
+          "logo_url": "/media/teams/logos/bemboyz.webp"
         },
         "stats": {
           "games_played": 5,
@@ -4963,7 +4963,7 @@
           "slug": "team-brasil",
           "name": "TEAM BRASIL",
           "tag": "t astini",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp"
+          "logo_url": "/media/teams/logos/tem-brasil.webp"
         },
         "stats": {
           "games_played": 6,
@@ -5032,7 +5032,7 @@
       {
         "player_slug": "smash",
         "nickname": "Smash",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/smash.jpeg",
+        "avatar": "/media/players/avatars/smash.jpeg",
         "country": "PE",
         "position": 3,
         "is_standin": false,
@@ -5047,7 +5047,7 @@
           "slug": "team-smash",
           "name": "Mango Boys",
           "tag": "TEAM SMASH",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp"
+          "logo_url": "/media/teams/logos/mango_boys.webp"
         },
         "stats": {
           "games_played": 4,
@@ -5118,7 +5118,7 @@
       {
         "player_slug": "matthew",
         "nickname": "Matthew",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/matthew.jpeg",
+        "avatar": "/media/players/avatars/matthew.jpeg",
         "country": "PE",
         "position": 4,
         "is_standin": false,
@@ -5133,7 +5133,7 @@
           "slug": "gotto-house",
           "name": "Gotto House",
           "tag": "t matthew",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+          "logo_url": "/media/teams/logos/gotto_house.webp"
         },
         "stats": {
           "games_played": 13,
@@ -5202,7 +5202,7 @@
       {
         "player_slug": "soe",
         "nickname": "Soe",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/soez.webp",
+        "avatar": "/media/players/avatars/soez.webp",
         "country": "PY",
         "position": 4,
         "is_standin": false,
@@ -5217,7 +5217,7 @@
           "slug": "rising-rage",
           "name": "Rising Rage",
           "tag": "t leostyle",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+          "logo_url": "/media/teams/logos/rising-rage.webp"
         },
         "stats": {
           "games_played": 20,
@@ -5286,7 +5286,7 @@
       {
         "player_slug": "jericho",
         "nickname": "Jericho",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/jerichodota2.webp",
+        "avatar": "/media/players/avatars/jerichodota2.webp",
         "country": "PE",
         "position": 4,
         "is_standin": false,
@@ -5301,7 +5301,7 @@
           "slug": "the-fat-bears",
           "name": "The Fat Bears",
           "tag": "team k1",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+          "logo_url": "/media/teams/logos/thefatbears.webp"
         },
         "stats": {
           "games_played": 14,
@@ -5385,7 +5385,7 @@
           "slug": "fuerzas-gayniu",
           "name": "Fuerzas GAYniu",
           "tag": "dotagaymer",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp"
+          "logo_url": "/media/teams/logos/fuerzas-gayniu.webp"
         },
         "stats": {
           "games_played": 11,
@@ -5469,7 +5469,7 @@
           "slug": "the-bots",
           "name": "The Bot$",
           "tag": "T parker",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp"
+          "logo_url": "/media/teams/logos/thebots.webp"
         },
         "stats": {
           "games_played": 6,
@@ -5545,7 +5545,7 @@
           "slug": "team-factos-army",
           "name": "Team Factos Army",
           "tag": "payasita g",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp"
+          "logo_url": "/media/teams/logos/factos_army.webp"
         },
         "stats": {
           "games_played": 14,
@@ -5629,7 +5629,7 @@
           "slug": "capibarbas",
           "name": "CAPIBARAS",
           "tag": "t stinger",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp"
+          "logo_url": "/media/teams/logos/capibarbas.webp"
         },
         "stats": {
           "games_played": 9,
@@ -5713,7 +5713,7 @@
           "slug": "mitra-army",
           "name": "Mitra Army",
           "tag": "team iwo",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp"
+          "logo_url": "/media/teams/logos/mitra_army.webp"
         },
         "stats": {
           "games_played": 6,
@@ -5789,7 +5789,7 @@
           "slug": "team-pakazs",
           "name": "The Parrocos Young",
           "tag": "team pakaz",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp"
+          "logo_url": "/media/teams/logos/parrocos_young.webp"
         },
         "stats": {
           "games_played": 9,
@@ -5865,7 +5865,7 @@
           "slug": "los-number-one",
           "name": "Los Number One",
           "tag": "t sacred",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp"
+          "logo_url": "/media/teams/logos/the_numbers_one.webp"
         },
         "stats": {
           "games_played": 7,
@@ -5926,7 +5926,7 @@
       {
         "player_slug": "macarius",
         "nickname": "Macarius",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/macarius.jpeg",
+        "avatar": "/media/players/avatars/macarius.jpeg",
         "country": "PE",
         "position": 4,
         "is_standin": false,
@@ -5941,7 +5941,7 @@
           "slug": "the-monsters",
           "name": "The Monsters",
           "tag": "tm",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp"
+          "logo_url": "/media/teams/logos/the_monsters.webp"
         },
         "stats": {
           "games_played": 7,
@@ -6017,7 +6017,7 @@
           "slug": "team-cucharita",
           "name": "Cucharita Army",
           "tag": "team Shaka",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp"
+          "logo_url": "/media/teams/logos/cucharita_army.webp"
         },
         "stats": {
           "games_played": 5,
@@ -6101,7 +6101,7 @@
           "slug": "team-scofield",
           "name": "CHALA TEAM",
           "tag": "t scofield",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp"
+          "logo_url": "/media/teams/logos/chala_team.webp"
         },
         "stats": {
           "games_played": 8,
@@ -6170,7 +6170,7 @@
       {
         "player_slug": "astini",
         "nickname": "Astini",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/astini.jpeg",
+        "avatar": "/media/players/avatars/astini.jpeg",
         "country": "BR",
         "position": 4,
         "is_standin": false,
@@ -6185,7 +6185,7 @@
           "slug": "team-brasil",
           "name": "TEAM BRASIL",
           "tag": "t astini",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp"
+          "logo_url": "/media/teams/logos/tem-brasil.webp"
         },
         "stats": {
           "games_played": 6,
@@ -6269,7 +6269,7 @@
           "slug": "team-smash",
           "name": "Mango Boys",
           "tag": "TEAM SMASH",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp"
+          "logo_url": "/media/teams/logos/mango_boys.webp"
         },
         "stats": {
           "games_played": 4,
@@ -6330,7 +6330,7 @@
       {
         "player_slug": "buti",
         "nickname": "Buti",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/buti.jpeg",
+        "avatar": "/media/players/avatars/buti.jpeg",
         "country": "PE",
         "position": 4,
         "is_standin": false,
@@ -6345,7 +6345,7 @@
           "slug": "bemboyz",
           "name": "Bemboyz",
           "tag": "BB",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp"
+          "logo_url": "/media/teams/logos/bemboyz.webp"
         },
         "stats": {
           "games_played": 5,
@@ -6416,7 +6416,7 @@
       {
         "player_slug": "lovely",
         "nickname": "Lovely",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/lovely.webp",
+        "avatar": "/media/players/avatars/lovely.webp",
         "country": "PE",
         "position": 5,
         "is_standin": false,
@@ -6431,7 +6431,7 @@
           "slug": "los-number-one",
           "name": "Los Number One",
           "tag": "t sacred",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp"
+          "logo_url": "/media/teams/logos/the_numbers_one.webp"
         },
         "stats": {
           "games_played": 7,
@@ -6492,7 +6492,7 @@
       {
         "player_slug": "angelukin",
         "nickname": "Angelukin",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/angelukin.webp",
+        "avatar": "/media/players/avatars/angelukin.webp",
         "country": "PE",
         "position": 5,
         "is_standin": false,
@@ -6507,7 +6507,7 @@
           "slug": "rising-rage",
           "name": "Rising Rage",
           "tag": "t leostyle",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+          "logo_url": "/media/teams/logos/rising-rage.webp"
         },
         "stats": {
           "games_played": 20,
@@ -6576,7 +6576,7 @@
       {
         "player_slug": "dotagaymer",
         "nickname": "DotaGaymer",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/dotagaymer.jpeg",
+        "avatar": "/media/players/avatars/dotagaymer.jpeg",
         "country": "PE",
         "position": 5,
         "is_standin": false,
@@ -6591,7 +6591,7 @@
           "slug": "fuerzas-gayniu",
           "name": "Fuerzas GAYniu",
           "tag": "dotagaymer",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp"
+          "logo_url": "/media/teams/logos/fuerzas-gayniu.webp"
         },
         "stats": {
           "games_played": 11,
@@ -6675,7 +6675,7 @@
           "slug": "gotto-house",
           "name": "Gotto House",
           "tag": "t matthew",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+          "logo_url": "/media/teams/logos/gotto_house.webp"
         },
         "stats": {
           "games_played": 13,
@@ -6744,7 +6744,7 @@
       {
         "player_slug": "laosa",
         "nickname": "LaOsa",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/laosa.webp",
+        "avatar": "/media/players/avatars/laosa.webp",
         "country": "PE",
         "position": 5,
         "is_standin": false,
@@ -6759,7 +6759,7 @@
           "slug": "the-fat-bears",
           "name": "The Fat Bears",
           "tag": "team k1",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+          "logo_url": "/media/teams/logos/thefatbears.webp"
         },
         "stats": {
           "games_played": 14,
@@ -6843,7 +6843,7 @@
           "slug": "the-bots",
           "name": "The Bot$",
           "tag": "T parker",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp"
+          "logo_url": "/media/teams/logos/thebots.webp"
         },
         "stats": {
           "games_played": 6,
@@ -6927,7 +6927,7 @@
           "slug": "team-pakazs",
           "name": "The Parrocos Young",
           "tag": "team pakaz",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp"
+          "logo_url": "/media/teams/logos/parrocos_young.webp"
         },
         "stats": {
           "games_played": 9,
@@ -6996,7 +6996,7 @@
       {
         "player_slug": "gelatita",
         "nickname": "Gelatita",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/gelatita.webp",
+        "avatar": "/media/players/avatars/gelatita.webp",
         "country": "ar",
         "position": 5,
         "is_standin": false,
@@ -7011,7 +7011,7 @@
           "slug": "the-monsters",
           "name": "The Monsters",
           "tag": "tm",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp"
+          "logo_url": "/media/teams/logos/the_monsters.webp"
         },
         "stats": {
           "games_played": 5,
@@ -7095,7 +7095,7 @@
           "slug": "capibarbas",
           "name": "CAPIBARAS",
           "tag": "t stinger",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp"
+          "logo_url": "/media/teams/logos/capibarbas.webp"
         },
         "stats": {
           "games_played": 9,
@@ -7156,7 +7156,7 @@
       {
         "player_slug": "payasita-zing",
         "nickname": "Payasita Zing",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/payasitazing.jpeg",
+        "avatar": "/media/players/avatars/payasitazing.jpeg",
         "country": "PE",
         "position": 5,
         "is_standin": false,
@@ -7171,7 +7171,7 @@
           "slug": "team-factos-army",
           "name": "Team Factos Army",
           "tag": "payasita g",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp"
+          "logo_url": "/media/teams/logos/factos_army.webp"
         },
         "stats": {
           "games_played": 14,
@@ -7255,7 +7255,7 @@
           "slug": "team-scofield",
           "name": "CHALA TEAM",
           "tag": "t scofield",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp"
+          "logo_url": "/media/teams/logos/chala_team.webp"
         },
         "stats": {
           "games_played": 8,
@@ -7339,7 +7339,7 @@
           "slug": "team-cucharita",
           "name": "Cucharita Army",
           "tag": "team Shaka",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp"
+          "logo_url": "/media/teams/logos/cucharita_army.webp"
         },
         "stats": {
           "games_played": 5,
@@ -7407,7 +7407,7 @@
           "slug": "mitra-army",
           "name": "Mitra Army",
           "tag": "team iwo",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp"
+          "logo_url": "/media/teams/logos/mitra_army.webp"
         },
         "stats": {
           "games_played": 6,
@@ -7468,7 +7468,7 @@
       {
         "player_slug": "sangev",
         "nickname": "SangeV",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/sangev.webp",
+        "avatar": "/media/players/avatars/sangev.webp",
         "country": "BR",
         "position": 5,
         "is_standin": false,
@@ -7483,7 +7483,7 @@
           "slug": "team-brasil",
           "name": "TEAM BRASIL",
           "tag": "t astini",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp"
+          "logo_url": "/media/teams/logos/tem-brasil.webp"
         },
         "stats": {
           "games_played": 6,
@@ -7559,7 +7559,7 @@
           "slug": "bemboyz",
           "name": "Bemboyz",
           "tag": "BB",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp"
+          "logo_url": "/media/teams/logos/bemboyz.webp"
         },
         "stats": {
           "games_played": 5,
@@ -7635,7 +7635,7 @@
           "slug": "team-smash",
           "name": "Mango Boys",
           "tag": "TEAM SMASH",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp"
+          "logo_url": "/media/teams/logos/mango_boys.webp"
         },
         "stats": {
           "games_played": 2,
@@ -7703,7 +7703,7 @@
           "slug": "the-monsters",
           "name": "The Monsters",
           "tag": "tm",
-          "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp"
+          "logo_url": "/media/teams/logos/the_monsters.webp"
         },
         "stats": {
           "games_played": 2,
@@ -7760,10 +7760,10 @@
       {
         "player_slug": "matthew",
         "nickname": "Matthew",
-        "player_avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/matthew.jpeg",
+        "player_avatar": "/media/players/avatars/matthew.jpeg",
         "team_name": "Gotto House",
         "team_slug": "gotto-house",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "team_logo_url": "/media/teams/logos/gotto_house.webp",
         "couriers_killed": 10
       },
       {
@@ -7772,16 +7772,16 @@
         "player_avatar": null,
         "team_name": "The Parrocos Young",
         "team_slug": "team-pakazs",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "team_logo_url": "/media/teams/logos/parrocos_young.webp",
         "couriers_killed": 9
       },
       {
         "player_slug": "kotaro",
         "nickname": "Kotaro",
-        "player_avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+        "player_avatar": "/media/players/avatars/kotaro.webp",
         "team_name": "Rising Rage",
         "team_slug": "rising-rage",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "team_logo_url": "/media/teams/logos/rising-rage.webp",
         "couriers_killed": 8
       },
       {
@@ -7790,7 +7790,7 @@
         "player_avatar": null,
         "team_name": "Mitra Army",
         "team_slug": "mitra-army",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "team_logo_url": "/media/teams/logos/mitra_army.webp",
         "couriers_killed": 6
       },
       {
@@ -7799,7 +7799,7 @@
         "player_avatar": null,
         "team_name": "Team Factos Army",
         "team_slug": "team-factos-army",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "team_logo_url": "/media/teams/logos/factos_army.webp",
         "couriers_killed": 6
       }
     ],
@@ -7808,13 +7808,13 @@
       "time_formatted": "00:00",
       "player_slug": "zapatitogaming",
       "nickname": "ZapatitoGaming",
-      "player_avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/zapatitogaming.jpeg",
+      "player_avatar": "/media/players/avatars/zapatitogaming.jpeg",
       "game_slug": "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1"
     },
     "most_deaths_single_game": {
       "player_slug": "sangev",
       "nickname": "SangeV",
-      "player_avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/sangev.webp",
+      "player_avatar": "/media/players/avatars/sangev.webp",
       "deaths": 21,
       "hero": {
         "hero_id": 71,
@@ -7875,7 +7875,7 @@
       "nickname": "ALEsbored",
       "player_avatar": null,
       "team_slug": "team-scofield",
-      "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+      "team_logo_url": "/media/teams/logos/chala_team.webp",
       "avg_stuns_seconds": 84.6
     },
     "most_purchased_items": [
@@ -7918,11 +7918,11 @@
       {
         "player_slug": "mrjeans",
         "nickname": "MrJeans",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/mrjeans.webp",
+        "avatar": "/media/players/avatars/mrjeans.webp",
         "team_slug": "los-number-one",
         "team_name": "Los Number One",
         "team_tag": "t sacred",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "team_logo_url": "/media/teams/logos/the_numbers_one.webp",
         "position": 2,
         "kda": 10.5,
         "medal": {
@@ -7940,7 +7940,7 @@
         "team_slug": "gotto-house",
         "team_name": "Gotto House",
         "team_tag": "t matthew",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "team_logo_url": "/media/teams/logos/gotto_house.webp",
         "position": 1,
         "kda": 8.97,
         "medal": {
@@ -7958,7 +7958,7 @@
         "team_slug": "fuerzas-gayniu",
         "team_name": "Fuerzas GAYniu",
         "team_tag": "dotagaymer",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "team_logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "position": null,
         "kda": 8.87,
         "medal": {
@@ -7972,11 +7972,11 @@
       {
         "player_slug": "lalatroni",
         "nickname": "Lalatroni",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/lalatroni.webp",
+        "avatar": "/media/players/avatars/lalatroni.webp",
         "team_slug": "the-bots",
         "team_name": "The Bot$",
         "team_tag": "T parker",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "team_logo_url": "/media/teams/logos/thebots.webp",
         "position": 2,
         "kda": 8.6,
         "medal": {
@@ -7990,11 +7990,11 @@
       {
         "player_slug": "f-young",
         "nickname": "F-Young",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/fyoung.webp",
+        "avatar": "/media/players/avatars/fyoung.webp",
         "team_slug": "fuerzas-gayniu",
         "team_name": "Fuerzas GAYniu",
         "team_tag": "dotagaymer",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "team_logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "position": 1,
         "kda": 8.15,
         "medal": {
@@ -8010,11 +8010,11 @@
       {
         "player_slug": "pakazs",
         "nickname": "Pakazs",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/pakazs.jpeg",
+        "avatar": "/media/players/avatars/pakazs.jpeg",
         "team_slug": "team-pakazs",
         "team_name": "The Parrocos Young",
         "team_tag": "team pakaz",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "team_logo_url": "/media/teams/logos/parrocos_young.webp",
         "position": 1,
         "avg_gpm": 878,
         "medal": {
@@ -8028,11 +8028,11 @@
       {
         "player_slug": "hector-k1",
         "nickname": "K1 Hector",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+        "avatar": "/media/players/avatars/hector.jpeg",
         "team_slug": "the-fat-bears",
         "team_name": "The Fat Bears",
         "team_tag": "team k1",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "team_logo_url": "/media/teams/logos/thefatbears.webp",
         "position": 1,
         "avg_gpm": 870,
         "medal": {
@@ -8046,11 +8046,11 @@
       {
         "player_slug": "parker",
         "nickname": "Parker",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/parker.jpeg",
+        "avatar": "/media/players/avatars/parker.jpeg",
         "team_slug": "the-bots",
         "team_name": "The Bot$",
         "team_tag": "T parker",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "team_logo_url": "/media/teams/logos/thebots.webp",
         "position": 1,
         "avg_gpm": 868,
         "medal": {
@@ -8068,7 +8068,7 @@
         "team_slug": "gotto-house",
         "team_name": "Gotto House",
         "team_tag": "t matthew",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "team_logo_url": "/media/teams/logos/gotto_house.webp",
         "position": 1,
         "avg_gpm": 863,
         "medal": {
@@ -8082,11 +8082,11 @@
       {
         "player_slug": "kotaro",
         "nickname": "Kotaro",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+        "avatar": "/media/players/avatars/kotaro.webp",
         "team_slug": "rising-rage",
         "team_name": "Rising Rage",
         "team_tag": "t leostyle",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "team_logo_url": "/media/teams/logos/rising-rage.webp",
         "position": 1,
         "avg_gpm": 838,
         "medal": {
@@ -8102,11 +8102,11 @@
       {
         "player_slug": "f-young",
         "nickname": "F-Young",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/fyoung.webp",
+        "avatar": "/media/players/avatars/fyoung.webp",
         "team_slug": "fuerzas-gayniu",
         "team_name": "Fuerzas GAYniu",
         "team_tag": "dotagaymer",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "team_logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "position": 1,
         "avg_kills": 18.1,
         "total_kills": 199,
@@ -8121,11 +8121,11 @@
       {
         "player_slug": "parker",
         "nickname": "Parker",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/parker.jpeg",
+        "avatar": "/media/players/avatars/parker.jpeg",
         "team_slug": "the-bots",
         "team_name": "The Bot$",
         "team_tag": "T parker",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "team_logo_url": "/media/teams/logos/thebots.webp",
         "position": 1,
         "avg_kills": 16.2,
         "total_kills": 97,
@@ -8144,7 +8144,7 @@
         "team_slug": "gotto-house",
         "team_name": "Gotto House",
         "team_tag": "t matthew",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "team_logo_url": "/media/teams/logos/gotto_house.webp",
         "position": 1,
         "avg_kills": 15,
         "total_kills": 195,
@@ -8159,11 +8159,11 @@
       {
         "player_slug": "mrjeans",
         "nickname": "MrJeans",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/mrjeans.webp",
+        "avatar": "/media/players/avatars/mrjeans.webp",
         "team_slug": "los-number-one",
         "team_name": "Los Number One",
         "team_tag": "t sacred",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "team_logo_url": "/media/teams/logos/the_numbers_one.webp",
         "position": 2,
         "avg_kills": 13.7,
         "total_kills": 96,
@@ -8178,11 +8178,11 @@
       {
         "player_slug": "lalatroni",
         "nickname": "Lalatroni",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/lalatroni.webp",
+        "avatar": "/media/players/avatars/lalatroni.webp",
         "team_slug": "the-bots",
         "team_name": "The Bot$",
         "team_tag": "T parker",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "team_logo_url": "/media/teams/logos/thebots.webp",
         "position": 2,
         "avg_kills": 13.2,
         "total_kills": 53,
@@ -8203,7 +8203,7 @@
         "team_slug": "team-smash",
         "team_name": "Mango Boys",
         "team_tag": "TEAM SMASH",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "team_logo_url": "/media/teams/logos/mango_boys.webp",
         "position": 5,
         "avg_wards_placed": 50,
         "avg_wards_dewarded": 11.5,
@@ -8218,11 +8218,11 @@
       {
         "player_slug": "lovely",
         "nickname": "Lovely",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/lovely.webp",
+        "avatar": "/media/players/avatars/lovely.webp",
         "team_slug": "los-number-one",
         "team_name": "Los Number One",
         "team_tag": "t sacred",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "team_logo_url": "/media/teams/logos/the_numbers_one.webp",
         "position": 5,
         "avg_wards_placed": 43.7,
         "avg_wards_dewarded": 12,
@@ -8237,11 +8237,11 @@
       {
         "player_slug": "jericho",
         "nickname": "Jericho",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/jerichodota2.webp",
+        "avatar": "/media/players/avatars/jerichodota2.webp",
         "team_slug": "the-fat-bears",
         "team_name": "The Fat Bears",
         "team_tag": "team k1",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "team_logo_url": "/media/teams/logos/thefatbears.webp",
         "position": 4,
         "avg_wards_placed": 42.6,
         "avg_wards_dewarded": 8.5,
@@ -8260,7 +8260,7 @@
         "team_slug": "team-cucharita",
         "team_name": "Cucharita Army",
         "team_tag": "team Shaka",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "team_logo_url": "/media/teams/logos/cucharita_army.webp",
         "position": 4,
         "avg_wards_placed": 39,
         "avg_wards_dewarded": 7.4,
@@ -8279,7 +8279,7 @@
         "team_slug": "the-monsters",
         "team_name": "The Monsters",
         "team_tag": "tm",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "team_logo_url": "/media/teams/logos/the_monsters.webp",
         "position": 5,
         "avg_wards_placed": 34.5,
         "avg_wards_dewarded": 5.5,
@@ -8296,11 +8296,11 @@
       {
         "player_slug": "kotaro",
         "nickname": "Kotaro",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+        "avatar": "/media/players/avatars/kotaro.webp",
         "team_slug": "rising-rage",
         "team_name": "Rising Rage",
         "team_tag": "t leostyle",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+        "team_logo_url": "/media/teams/logos/rising-rage.webp",
         "position": 1,
         "mvp_count": 7,
         "medal": {
@@ -8314,11 +8314,11 @@
       {
         "player_slug": "hector-k1",
         "nickname": "K1 Hector",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+        "avatar": "/media/players/avatars/hector.jpeg",
         "team_slug": "the-fat-bears",
         "team_name": "The Fat Bears",
         "team_tag": "team k1",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "team_logo_url": "/media/teams/logos/thefatbears.webp",
         "position": 1,
         "mvp_count": 7,
         "medal": {
@@ -8332,11 +8332,11 @@
       {
         "player_slug": "f-young",
         "nickname": "F-Young",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/fyoung.webp",
+        "avatar": "/media/players/avatars/fyoung.webp",
         "team_slug": "fuerzas-gayniu",
         "team_name": "Fuerzas GAYniu",
         "team_tag": "dotagaymer",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "team_logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "position": 1,
         "mvp_count": 6,
         "medal": {
@@ -8354,7 +8354,7 @@
         "team_slug": "team-factos-army",
         "team_name": "Team Factos Army",
         "team_tag": "payasita g",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "team_logo_url": "/media/teams/logos/factos_army.webp",
         "position": 1,
         "mvp_count": 5,
         "medal": {
@@ -8368,11 +8368,11 @@
       {
         "player_slug": "pakazs",
         "nickname": "Pakazs",
-        "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/pakazs.jpeg",
+        "avatar": "/media/players/avatars/pakazs.jpeg",
         "team_slug": "team-pakazs",
         "team_name": "The Parrocos Young",
         "team_tag": "team pakaz",
-        "team_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "team_logo_url": "/media/teams/logos/parrocos_young.webp",
         "position": 1,
         "mvp_count": 4,
         "medal": {
@@ -8392,7 +8392,7 @@
       "duration_formatted": "21:58",
       "winner_slug": "rising-rage",
       "winner_name": "Rising Rage",
-      "winner_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+      "winner_logo_url": "/media/teams/logos/rising-rage.webp"
     },
     "longest_game": {
       "game_slug": "el-gran-coliseo-ii-playoffs-eliminatoria-directa-b5-team-k1-vs-dotagaymer-game-2",
@@ -8400,7 +8400,7 @@
       "duration_formatted": "70:56",
       "winner_slug": "the-fat-bears",
       "winner_name": "The Fat Bears",
-      "winner_logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+      "winner_logo_url": "/media/teams/logos/thefatbears.webp"
     },
     "bloodiest_game": {
       "game_slug": "el-gran-coliseo-ii-fase-suiza-r4-team-iwo-vs-dotagaymer-game-3",
@@ -8411,7 +8411,7 @@
     "most_kills_single_game": {
       "player_slug": "hector-k1",
       "nickname": "K1 Hector",
-      "player_avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+      "player_avatar": "/media/players/avatars/hector.jpeg",
       "kills": 31,
       "hero": {
         "hero_id": 12,
@@ -8435,7 +8435,7 @@
     "highest_damage_single_game": {
       "player_slug": "f-young",
       "nickname": "F-Young",
-      "player_avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/fyoung.webp",
+      "player_avatar": "/media/players/avatars/fyoung.webp",
       "hero_damage": 131914,
       "hero": {
         "hero_id": 72,
@@ -9772,7 +9772,7 @@
       "slug": "the-fat-bears",
       "name": "The Fat Bears",
       "tag": "team k1",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+      "logo_url": "/media/teams/logos/thefatbears.webp",
       "games_played": 14,
       "wins": 10,
       "losses": 4,
@@ -9787,7 +9787,7 @@
       "slug": "gotto-house",
       "name": "Gotto House",
       "tag": "t matthew",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+      "logo_url": "/media/teams/logos/gotto_house.webp",
       "games_played": 13,
       "wins": 9,
       "losses": 4,
@@ -9802,7 +9802,7 @@
       "slug": "the-bots",
       "name": "The Bot$",
       "tag": "T parker",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+      "logo_url": "/media/teams/logos/thebots.webp",
       "games_played": 6,
       "wins": 4,
       "losses": 2,
@@ -9817,7 +9817,7 @@
       "slug": "rising-rage",
       "name": "Rising Rage",
       "tag": "t leostyle",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+      "logo_url": "/media/teams/logos/rising-rage.webp",
       "games_played": 20,
       "wins": 13,
       "losses": 7,
@@ -9832,7 +9832,7 @@
       "slug": "team-pakazs",
       "name": "The Parrocos Young",
       "tag": "team pakaz",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+      "logo_url": "/media/teams/logos/parrocos_young.webp",
       "games_played": 9,
       "wins": 5,
       "losses": 4,
@@ -9847,7 +9847,7 @@
       "slug": "capibarbas",
       "name": "CAPIBARAS",
       "tag": "t stinger",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+      "logo_url": "/media/teams/logos/capibarbas.webp",
       "games_played": 9,
       "wins": 5,
       "losses": 4,
@@ -9862,7 +9862,7 @@
       "slug": "fuerzas-gayniu",
       "name": "Fuerzas GAYniu",
       "tag": "dotagaymer",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+      "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
       "games_played": 11,
       "wins": 6,
       "losses": 5,
@@ -9877,7 +9877,7 @@
       "slug": "team-factos-army",
       "name": "Team Factos Army",
       "tag": "payasita g",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+      "logo_url": "/media/teams/logos/factos_army.webp",
       "games_played": 14,
       "wins": 7,
       "losses": 7,
@@ -9892,7 +9892,7 @@
       "slug": "team-scofield",
       "name": "CHALA TEAM",
       "tag": "t scofield",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+      "logo_url": "/media/teams/logos/chala_team.webp",
       "games_played": 8,
       "wins": 3,
       "losses": 5,
@@ -9907,7 +9907,7 @@
       "slug": "mitra-army",
       "name": "Mitra Army",
       "tag": "team iwo",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+      "logo_url": "/media/teams/logos/mitra_army.webp",
       "games_played": 6,
       "wins": 2,
       "losses": 4,
@@ -9922,7 +9922,7 @@
       "slug": "team-brasil",
       "name": "TEAM BRASIL",
       "tag": "t astini",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+      "logo_url": "/media/teams/logos/tem-brasil.webp",
       "games_played": 6,
       "wins": 2,
       "losses": 4,
@@ -9937,7 +9937,7 @@
       "slug": "los-number-one",
       "name": "Los Number One",
       "tag": "t sacred",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+      "logo_url": "/media/teams/logos/the_numbers_one.webp",
       "games_played": 7,
       "wins": 2,
       "losses": 5,
@@ -9952,7 +9952,7 @@
       "slug": "the-monsters",
       "name": "The Monsters",
       "tag": "tm",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+      "logo_url": "/media/teams/logos/the_monsters.webp",
       "games_played": 7,
       "wins": 2,
       "losses": 5,
@@ -9967,7 +9967,7 @@
       "slug": "team-cucharita",
       "name": "Cucharita Army",
       "tag": "team Shaka",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+      "logo_url": "/media/teams/logos/cucharita_army.webp",
       "games_played": 5,
       "wins": 1,
       "losses": 4,
@@ -9982,7 +9982,7 @@
       "slug": "bemboyz",
       "name": "Bemboyz",
       "tag": "BB",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+      "logo_url": "/media/teams/logos/bemboyz.webp",
       "games_played": 5,
       "wins": 1,
       "losses": 4,
@@ -9997,7 +9997,7 @@
       "slug": "team-smash",
       "name": "Mango Boys",
       "tag": "TEAM SMASH",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+      "logo_url": "/media/teams/logos/mango_boys.webp",
       "games_played": 4,
       "wins": 0,
       "losses": 4,

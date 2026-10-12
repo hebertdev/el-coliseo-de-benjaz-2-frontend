@@ -3,7 +3,7 @@
     "player": {
       "slug": "buti",
       "nickname": "Buti",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/buti.jpeg",
+      "avatar": "/media/players/avatars/buti.jpeg",
       "steam_id": null,
       "account_id": 244923183,
       "mmr_number": null,

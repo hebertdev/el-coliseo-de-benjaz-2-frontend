@@ -285,7 +285,7 @@
       "slug": "gotto-house",
       "name": "Gotto House",
       "tag": "t matthew",
-      "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+      "logo_url": "/media/teams/logos/gotto_house.webp"
     },
     "social_links": {
       "kick": null,
@@ -368,7 +368,7 @@
         "slug": "gotto-house",
         "name": "Gotto House",
         "tag": "t matthew",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+        "logo_url": "/media/teams/logos/gotto_house.webp"
       },
       "social_links": {
         "kick": null,
@@ -435,7 +435,7 @@
       "steam_id": "76561198744391802",
       "account_id": 784126074,
       "nickname": "Chavalito",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/chavalito.webp",
+      "avatar": "/media/players/avatars/chavalito.webp",
       "country": "PE",
       "position": 3,
       "position_name": "Offlane",
@@ -450,7 +450,7 @@
         "slug": "rising-rage",
         "name": "Rising Rage",
         "tag": "t leostyle",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+        "logo_url": "/media/teams/logos/rising-rage.webp"
       },
       "social_links": {
         "kick": null,
@@ -544,7 +544,7 @@
         "slug": "gotto-house",
         "name": "Gotto House",
         "tag": "t matthew",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+        "logo_url": "/media/teams/logos/gotto_house.webp"
       },
       "social_links": {
         "kick": null,
@@ -618,7 +618,7 @@
         "slug": "gotto-house",
         "name": "Gotto House",
         "tag": "t matthew",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+        "logo_url": "/media/teams/logos/gotto_house.webp"
       },
       "social_links": {
         "kick": null,
@@ -685,7 +685,7 @@
       "steam_id": "76561198744391802",
       "account_id": 784126074,
       "nickname": "Chavalito",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/chavalito.webp",
+      "avatar": "/media/players/avatars/chavalito.webp",
       "country": "PE",
       "position": 3,
       "position_name": "Offlane",
@@ -700,7 +700,7 @@
         "slug": "rising-rage",
         "name": "Rising Rage",
         "tag": "t leostyle",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+        "logo_url": "/media/teams/logos/rising-rage.webp"
       },
       "social_links": {
         "kick": null,
@@ -794,7 +794,7 @@
         "slug": "gotto-house",
         "name": "Gotto House",
         "tag": "t matthew",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+        "logo_url": "/media/teams/logos/gotto_house.webp"
       },
       "social_links": {
         "kick": null,
@@ -851,7 +851,7 @@
       "steam_id": "76561198145468405",
       "account_id": 185202677,
       "nickname": "Kotaro",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kotaro.webp",
+      "avatar": "/media/players/avatars/kotaro.webp",
       "country": "PE",
       "position": 1,
       "position_name": "Carry",
@@ -866,7 +866,7 @@
         "slug": "rising-rage",
         "name": "Rising Rage",
         "tag": "t leostyle",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+        "logo_url": "/media/teams/logos/rising-rage.webp"
       },
       "social_links": {
         "kick": "https://kick.com/kotaromnzdota",
@@ -936,7 +936,7 @@
       "steam_id": "76561198115598187",
       "account_id": 155332459,
       "nickname": "Matthew",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/matthew.jpeg",
+      "avatar": "/media/players/avatars/matthew.jpeg",
       "country": "PE",
       "position": 4,
       "position_name": "Soft Support",
@@ -951,7 +951,7 @@
         "slug": "gotto-house",
         "name": "Gotto House",
         "tag": "t matthew",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+        "logo_url": "/media/teams/logos/gotto_house.webp"
       },
       "social_links": {
         "kick": "https://kick.com/matthewdota",
@@ -1033,7 +1033,7 @@
         "slug": "team-factos-army",
         "name": "Team Factos Army",
         "tag": "payasita g",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp"
+        "logo_url": "/media/teams/logos/factos_army.webp"
       },
       "social_links": {
         "kick": null,
@@ -1100,7 +1100,7 @@
       "steam_id": "76561198019729122",
       "account_id": 59463394,
       "nickname": "LeoStyle",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/leostyle.jpeg",
+      "avatar": "/media/players/avatars/leostyle.jpeg",
       "country": "PE",
       "position": 2,
       "position_name": "Mid",
@@ -1115,7 +1115,7 @@
         "slug": "rising-rage",
         "name": "Rising Rage",
         "tag": "t leostyle",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp"
+        "logo_url": "/media/teams/logos/rising-rage.webp"
       },
       "social_links": {
         "kick": "https://kick.com/leostyledota",
@@ -1194,7 +1194,7 @@
       "steam_id": "76561198124950903",
       "account_id": 164685175,
       "nickname": "K1 Hector",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+      "avatar": "/media/players/avatars/hector.jpeg",
       "country": "PE",
       "position": 1,
       "position_name": "Carry",
@@ -1209,7 +1209,7 @@
         "slug": "the-fat-bears",
         "name": "The Fat Bears",
         "tag": "team k1",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+        "logo_url": "/media/teams/logos/thefatbears.webp"
       },
       "social_links": {
         "kick": "https://kick.com/k1hectorxd",
@@ -1287,7 +1287,7 @@
       "steam_id": "76561198059938152",
       "account_id": 99672424,
       "nickname": "Jericho",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/jerichodota2.webp",
+      "avatar": "/media/players/avatars/jerichodota2.webp",
       "country": "PE",
       "position": 4,
       "position_name": "Soft Support",
@@ -1302,7 +1302,7 @@
         "slug": "the-fat-bears",
         "name": "The Fat Bears",
         "tag": "team k1",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp"
+        "logo_url": "/media/teams/logos/thefatbears.webp"
       },
       "social_links": {
         "kick": "https://kick.com/jerichodota",
@@ -1397,7 +1397,7 @@
         "slug": "gotto-house",
         "name": "Gotto House",
         "tag": "t matthew",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp"
+        "logo_url": "/media/teams/logos/gotto_house.webp"
       },
       "social_links": {
         "kick": null,

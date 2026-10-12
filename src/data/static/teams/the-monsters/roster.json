@@ -25,7 +25,7 @@
     "player": {
       "slug": "kid",
       "nickname": "KID",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kid_dota.webp",
+      "avatar": "/media/players/avatars/kid_dota.webp",
       "steam_id": null,
       "account_id": 483863687,
       "mmr_number": null,
@@ -47,7 +47,7 @@
     "player": {
       "slug": "gelatita",
       "nickname": "Gelatita",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/gelatita.webp",
+      "avatar": "/media/players/avatars/gelatita.webp",
       "steam_id": null,
       "account_id": 194965569,
       "mmr_number": null,
@@ -113,7 +113,7 @@
     "player": {
       "slug": "macarius",
       "nickname": "Macarius",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/macarius.jpeg",
+      "avatar": "/media/players/avatars/macarius.jpeg",
       "steam_id": null,
       "account_id": 309281025,
       "mmr_number": null,

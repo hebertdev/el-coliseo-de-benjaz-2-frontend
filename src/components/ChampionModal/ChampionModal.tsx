@@ -184,8 +184,8 @@ export function ChampionModal({
     "/media/teams/logos/rising-rage.webp";
 
   const resolvedTeamLogo = hasLogoError
-    ? "http://localhost:8000/media/teams/logos/rising-rage.webp"
-    : (normalizeMediaUrl(effectiveLogo) || "http://localhost:8000/media/teams/logos/rising-rage.webp");
+    ? "/media/teams/logos/rising-rage.webp"
+    : (normalizeMediaUrl(effectiveLogo) || "/media/teams/logos/rising-rage.webp");
 
   // Disparar confeti épico en cuanto el modal se abra
   useEffect(() => {

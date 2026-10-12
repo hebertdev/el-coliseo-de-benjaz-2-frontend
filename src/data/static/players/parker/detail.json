@@ -1,7 +1,7 @@
 {
   "slug": "parker",
   "nickname": "Parker",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/parker.jpeg",
+  "avatar": "/media/players/avatars/parker.jpeg",
   "bio": "",
   "kick_url": "https://kick.com/parkerdota",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "The Bot$",
         "slug": "the-bots",
         "tag": "T parker",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        "logo": "/media/teams/logos/thebots.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

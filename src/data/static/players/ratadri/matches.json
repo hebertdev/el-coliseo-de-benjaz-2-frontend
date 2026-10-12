@@ -31,7 +31,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 17
           },
           "rival_team": {
@@ -39,7 +39,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 36
           },
           "radiant_team": {
@@ -47,7 +47,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 17
           },
           "dire_team": {
@@ -55,7 +55,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 36
           },
           "stats": {
@@ -97,7 +97,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 12
           },
           "rival_team": {
@@ -105,7 +105,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 43
           },
           "radiant_team": {
@@ -113,7 +113,7 @@
             "name": "The Monsters",
             "tag": "tm",
             "slug": "the-monsters",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+            "logo_url": "/media/teams/logos/the_monsters.webp",
             "score": 12
           },
           "dire_team": {
@@ -121,7 +121,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 43
           },
           "stats": {
@@ -167,7 +167,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 17
       },
       "rival_team": {
@@ -175,7 +175,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 36
       },
       "radiant_team": {
@@ -183,7 +183,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 17
       },
       "dire_team": {
@@ -191,7 +191,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 36
       },
       "stats": {
@@ -233,7 +233,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 12
       },
       "rival_team": {
@@ -241,7 +241,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 43
       },
       "radiant_team": {
@@ -249,7 +249,7 @@
         "name": "The Monsters",
         "tag": "tm",
         "slug": "the-monsters",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo_url": "/media/teams/logos/the_monsters.webp",
         "score": 12
       },
       "dire_team": {
@@ -257,7 +257,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 43
       },
       "stats": {

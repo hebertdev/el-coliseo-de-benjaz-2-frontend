@@ -91,7 +91,7 @@
     "player": {
       "slug": "scofield",
       "nickname": "Scofield",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/scofield.jpeg",
+      "avatar": "/media/players/avatars/scofield.jpeg",
       "steam_id": null,
       "account_id": 157989498,
       "mmr_number": null,

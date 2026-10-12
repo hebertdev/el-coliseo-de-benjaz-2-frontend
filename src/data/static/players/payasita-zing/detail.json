@@ -1,7 +1,7 @@
 {
   "slug": "payasita-zing",
   "nickname": "Payasita Zing",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/payasitazing.jpeg",
+  "avatar": "/media/players/avatars/payasitazing.jpeg",
   "bio": "",
   "kick_url": "https://kick.com/payasitazing",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "Team Factos Army",
         "slug": "team-factos-army",
         "tag": "payasita g",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo": "/media/teams/logos/factos_army.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

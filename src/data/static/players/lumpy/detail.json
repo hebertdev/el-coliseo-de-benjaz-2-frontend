@@ -22,7 +22,7 @@
         "name": "The Parrocos Young",
         "slug": "team-pakazs",
         "tag": "team pakaz",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo": "/media/teams/logos/parrocos_young.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "pe",

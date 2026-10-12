@@ -1,7 +1,7 @@
 {
   "slug": "matthew",
   "nickname": "Matthew",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/matthew.jpeg",
+  "avatar": "/media/players/avatars/matthew.jpeg",
   "bio": "",
   "kick_url": "https://kick.com/matthewdota",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "Gotto House",
         "slug": "gotto-house",
         "tag": "t matthew",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo": "/media/teams/logos/gotto_house.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

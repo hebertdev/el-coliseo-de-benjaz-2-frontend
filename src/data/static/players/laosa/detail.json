@@ -1,7 +1,7 @@
 {
   "slug": "laosa",
   "nickname": "LaOsa",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/laosa.webp",
+  "avatar": "/media/players/avatars/laosa.webp",
   "bio": "",
   "kick_url": "",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "The Fat Bears",
         "slug": "the-fat-bears",
         "tag": "team k1",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "logo": "/media/teams/logos/thefatbears.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

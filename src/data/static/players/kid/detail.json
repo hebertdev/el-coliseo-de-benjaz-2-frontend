@@ -1,7 +1,7 @@
 {
   "slug": "kid",
   "nickname": "KID",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/kid_dota.webp",
+  "avatar": "/media/players/avatars/kid_dota.webp",
   "bio": "",
   "kick_url": "https://kick.com/kidota2",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "The Monsters",
         "slug": "the-monsters",
         "tag": "tm",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+        "logo": "/media/teams/logos/the_monsters.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

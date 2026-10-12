@@ -1,7 +1,7 @@
 {
   "slug": "shaka",
   "nickname": "Shaka",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/11291.jpg",
+  "avatar": "/media/players/avatars/11291.jpg",
   "bio": "",
   "kick_url": "https://kick.com/shaka",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "Cucharita Army",
         "slug": "team-cucharita",
         "tag": "team Shaka",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "logo": "/media/teams/logos/cucharita_army.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "Pe",

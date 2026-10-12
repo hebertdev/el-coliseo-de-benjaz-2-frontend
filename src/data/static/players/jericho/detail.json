@@ -1,7 +1,7 @@
 {
   "slug": "jericho",
   "nickname": "Jericho",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/jerichodota2.webp",
+  "avatar": "/media/players/avatars/jerichodota2.webp",
   "bio": "",
   "kick_url": "https://kick.com/jerichodota",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "The Fat Bears",
         "slug": "the-fat-bears",
         "tag": "team k1",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        "logo": "/media/teams/logos/thefatbears.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

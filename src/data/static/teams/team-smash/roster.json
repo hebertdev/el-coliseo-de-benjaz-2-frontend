@@ -3,7 +3,7 @@
     "player": {
       "slug": "smash",
       "nickname": "Smash",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/smash.jpeg",
+      "avatar": "/media/players/avatars/smash.jpeg",
       "steam_id": null,
       "account_id": 118073569,
       "mmr_number": null,

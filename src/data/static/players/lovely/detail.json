@@ -1,7 +1,7 @@
 {
   "slug": "lovely",
   "nickname": "Lovely",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/lovely.webp",
+  "avatar": "/media/players/avatars/lovely.webp",
   "bio": "",
   "kick_url": "https://kick.com/lovelywp",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "Los Number One",
         "slug": "los-number-one",
         "tag": "t sacred",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        "logo": "/media/teams/logos/the_numbers_one.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

@@ -3,7 +3,7 @@
     "player": {
       "slug": "hector-k1",
       "nickname": "K1 Hector",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+      "avatar": "/media/players/avatars/hector.jpeg",
       "steam_id": "76561198124950903",
       "account_id": 164685175,
       "mmr_number": null,
@@ -25,7 +25,7 @@
     "player": {
       "slug": "jericho",
       "nickname": "Jericho",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/jerichodota2.webp",
+      "avatar": "/media/players/avatars/jerichodota2.webp",
       "steam_id": "76561198059938152",
       "account_id": 99672424,
       "mmr_number": null,
@@ -47,7 +47,7 @@
     "player": {
       "slug": "laosa",
       "nickname": "LaOsa",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/laosa.webp",
+      "avatar": "/media/players/avatars/laosa.webp",
       "steam_id": "76561198136312446",
       "account_id": 176046718,
       "mmr_number": null,
@@ -69,7 +69,7 @@
     "player": {
       "slug": "baldu",
       "nickname": "Baldu",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/baldu.webp",
+      "avatar": "/media/players/avatars/baldu.webp",
       "steam_id": "76561198004175907",
       "account_id": 43910179,
       "mmr_number": null,
@@ -91,7 +91,7 @@
     "player": {
       "slug": "robo-z",
       "nickname": "Robo-Z",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/roboz.webp",
+      "avatar": "/media/players/avatars/roboz.webp",
       "steam_id": "76561198084219256",
       "account_id": 123953528,
       "mmr_number": null,

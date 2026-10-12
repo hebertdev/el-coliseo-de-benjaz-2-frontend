@@ -3,7 +3,7 @@
     "player": {
       "slug": "zapatitogaming",
       "nickname": "ZapatitoGaming",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/zapatitogaming.jpeg",
+      "avatar": "/media/players/avatars/zapatitogaming.jpeg",
       "steam_id": null,
       "account_id": 408729743,
       "mmr_number": null,
@@ -69,7 +69,7 @@
     "player": {
       "slug": "mrjeans",
       "nickname": "MrJeans",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/mrjeans.webp",
+      "avatar": "/media/players/avatars/mrjeans.webp",
       "steam_id": null,
       "account_id": 317506304,
       "mmr_number": null,
@@ -91,7 +91,7 @@
     "player": {
       "slug": "lovely",
       "nickname": "Lovely",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/lovely.webp",
+      "avatar": "/media/players/avatars/lovely.webp",
       "steam_id": null,
       "account_id": 196617903,
       "mmr_number": null,

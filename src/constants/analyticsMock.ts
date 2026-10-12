@@ -37,7 +37,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "los-number-one",
       name: "Los Number One",
       tag: "t parker",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/los_number_one.webp",
+      logo_url: "/media/teams/logos/the_numbers_one.webp",
     },
     score: 1258.8,
     placement_status: "GF",
@@ -102,7 +102,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         slug: "gotto-house",
         name: "Gotto House",
         tag: "t matthew",
-        logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        logo_url: "/media/teams/logos/gotto_house.webp",
       },
       stats: {
         games_played: 3,
@@ -146,7 +146,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         slug: "los-number-one",
         name: "Los Number One",
         tag: "t sacred",
-        logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        logo_url: "/media/teams/logos/the_numbers_one.webp",
       },
       stats: {
         games_played: 3,
@@ -190,7 +190,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         slug: "the-bots",
         name: "The Bot$",
         tag: "T parker",
-        logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        logo_url: "/media/teams/logos/thebots.webp",
       },
       stats: {
         games_played: 2,
@@ -234,7 +234,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         slug: "the-bots",
         name: "The Bot$",
         tag: "T parker",
-        logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        logo_url: "/media/teams/logos/thebots.webp",
       },
       stats: {
         games_played: 2,
@@ -278,7 +278,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         slug: "los-number-one",
         name: "Los Number One",
         tag: "t sacred",
-        logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        logo_url: "/media/teams/logos/the_numbers_one.webp",
       },
       stats: {
         games_played: 3,
@@ -325,7 +325,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "gotto-house",
           name: "Gotto House",
           tag: "t matthew",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+          logo_url: "/media/teams/logos/gotto_house.webp",
         },
         stats: {
           games_played: 3,
@@ -354,7 +354,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "scofield",
         nickname: "Scofield",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/scofield.jpeg",
+        avatar: "/media/players/avatars/scofield.jpeg",
         country: "PE",
         position: 1,
         medal: {
@@ -368,7 +368,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-scofield",
           name: "CHALA TEAM",
           tag: "t scofield",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+          logo_url: "/media/teams/logos/chala_team.webp",
         },
         stats: {
           games_played: 2,
@@ -397,7 +397,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "hector-k1",
         nickname: "K1 Hector",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+        avatar: "/media/players/avatars/hector.jpeg",
         country: "PE",
         position: 1,
         medal: {
@@ -411,7 +411,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-fat-bears",
           name: "The Fat Bears",
           tag: "team k1",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+          logo_url: "/media/teams/logos/thefatbears.webp",
         },
         stats: {
           games_played: 2,
@@ -454,7 +454,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "capibarbas",
           name: "CAPIBARAS",
           tag: "t stinger",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+          logo_url: "/media/teams/logos/capibarbas.webp",
         },
         stats: {
           games_played: 2,
@@ -483,7 +483,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "parker",
         nickname: "Parker",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/parker.jpeg",
+        avatar: "/media/players/avatars/parker.jpeg",
         country: "PE",
         position: 1,
         medal: {
@@ -497,7 +497,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-bots",
           name: "The Bot$",
           tag: "T parker",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+          logo_url: "/media/teams/logos/thebots.webp",
         },
         stats: {
           games_played: 2,
@@ -540,7 +540,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-factos-army",
           name: "Team Factos Army",
           tag: "payasita g",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+          logo_url: "/media/teams/logos/factos_army.webp",
         },
         stats: {
           games_played: 2,
@@ -569,7 +569,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "hfn",
         nickname: "Hfn",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/HFN.webp",
+        avatar: "/media/players/avatars/HFN.webp",
         country: "BR",
         position: 1,
         medal: {
@@ -583,7 +583,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-brasil",
           name: "TEAM BRASIL",
           tag: "t astini",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+          logo_url: "/media/teams/logos/tem-brasil.webp",
         },
         stats: {
           games_played: 2,
@@ -626,7 +626,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "fuerzas-gayniu",
           name: "Fuerzas GAYniu",
           tag: "dotagaymer",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+          logo_url: "/media/teams/logos/fuerzas-gayniu.webp",
         },
         stats: {
           games_played: 4,
@@ -655,7 +655,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "zapatitogaming",
         nickname: "ZapatitoGaming",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/zapatitogaming.jpeg",
+        avatar: "/media/players/avatars/zapatitogaming.jpeg",
         country: "PE",
         position: 1,
         medal: {
@@ -669,7 +669,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "los-number-one",
           name: "Los Number One",
           tag: "t sacred",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+          logo_url: "/media/teams/logos/the_numbers_one.webp",
         },
         stats: {
           games_played: 3,
@@ -712,7 +712,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-monsters",
           name: "The Monsters",
           tag: "tm",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+          logo_url: "/media/teams/logos/the_monsters.webp",
         },
         stats: {
           games_played: 2,
@@ -755,7 +755,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "rising-rage",
           name: "Rising Rage",
           tag: "t leostyle",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+          logo_url: "/media/teams/logos/rising-rage.webp",
         },
         stats: {
           games_played: 4,
@@ -784,7 +784,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "pakazs",
         nickname: "Pakazs",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/pakazs.jpeg",
+        avatar: "/media/players/avatars/pakazs.jpeg",
         country: "pe",
         position: 1,
         medal: {
@@ -798,7 +798,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-pakazs",
           name: "The Parrocos Young",
           tag: "team pakaz",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+          logo_url: "/media/teams/logos/parrocos_young.webp",
         },
         stats: {
           games_played: 2,
@@ -827,7 +827,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "iwo",
         nickname: "Iwo",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/iwo.jpeg",
+        avatar: "/media/players/avatars/iwo.jpeg",
         country: "PE",
         position: 1,
         medal: {
@@ -841,7 +841,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "mitra-army",
           name: "Mitra Army",
           tag: "team iwo",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+          logo_url: "/media/teams/logos/mitra_army.webp",
         },
         stats: {
           games_played: 3,
@@ -884,7 +884,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "bemboyz",
           name: "Bemboyz",
           tag: "BB",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+          logo_url: "/media/teams/logos/bemboyz.webp",
         },
         stats: {
           games_played: 3,
@@ -927,7 +927,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-smash",
           name: "Mango Boys",
           tag: "TEAM SMASH",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+          logo_url: "/media/teams/logos/mango_boys.webp",
         },
         stats: {
           games_played: 4,
@@ -970,7 +970,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-cucharita",
           name: "Cucharita Army",
           tag: "team Shaka",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+          logo_url: "/media/teams/logos/cucharita_army.webp",
         },
         stats: {
           games_played: 2,
@@ -1015,7 +1015,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "los-number-one",
           name: "Los Number One",
           tag: "t sacred",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+          logo_url: "/media/teams/logos/the_numbers_one.webp",
         },
         stats: {
           games_played: 3,
@@ -1058,7 +1058,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-bots",
           name: "The Bot$",
           tag: "T parker",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+          logo_url: "/media/teams/logos/thebots.webp",
         },
         stats: {
           games_played: 2,
@@ -1101,7 +1101,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-fat-bears",
           name: "The Fat Bears",
           tag: "team k1",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+          logo_url: "/media/teams/logos/thefatbears.webp",
         },
         stats: {
           games_played: 2,
@@ -1144,7 +1144,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-factos-army",
           name: "Team Factos Army",
           tag: "payasita g",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+          logo_url: "/media/teams/logos/factos_army.webp",
         },
         stats: {
           games_played: 2,
@@ -1187,7 +1187,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "gotto-house",
           name: "Gotto House",
           tag: "t matthew",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+          logo_url: "/media/teams/logos/gotto_house.webp",
         },
         stats: {
           games_played: 3,
@@ -1230,7 +1230,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-pakazs",
           name: "The Parrocos Young",
           tag: "team pakaz",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+          logo_url: "/media/teams/logos/parrocos_young.webp",
         },
         stats: {
           games_played: 1,
@@ -1273,7 +1273,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-monsters",
           name: "The Monsters",
           tag: "tm",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+          logo_url: "/media/teams/logos/the_monsters.webp",
         },
         stats: {
           games_played: 2,
@@ -1316,7 +1316,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-scofield",
           name: "CHALA TEAM",
           tag: "t scofield",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+          logo_url: "/media/teams/logos/chala_team.webp",
         },
         stats: {
           games_played: 2,
@@ -1359,7 +1359,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "capibarbas",
           name: "CAPIBARAS",
           tag: "t stinger",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+          logo_url: "/media/teams/logos/capibarbas.webp",
         },
         stats: {
           games_played: 2,
@@ -1388,7 +1388,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "leostyle",
         nickname: "LeoStyle",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/leostyle.jpeg",
+        avatar: "/media/players/avatars/leostyle.jpeg",
         country: "PE",
         position: 2,
         medal: {
@@ -1402,7 +1402,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "rising-rage",
           name: "Rising Rage",
           tag: "t leostyle",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+          logo_url: "/media/teams/logos/rising-rage.webp",
         },
         stats: {
           games_played: 4,
@@ -1445,7 +1445,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "mitra-army",
           name: "Mitra Army",
           tag: "team iwo",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+          logo_url: "/media/teams/logos/mitra_army.webp",
         },
         stats: {
           games_played: 3,
@@ -1488,7 +1488,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-cucharita",
           name: "Cucharita Army",
           tag: "team Shaka",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+          logo_url: "/media/teams/logos/cucharita_army.webp",
         },
         stats: {
           games_played: 4,
@@ -1531,7 +1531,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-smash",
           name: "Mango Boys",
           tag: "TEAM SMASH",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+          logo_url: "/media/teams/logos/mango_boys.webp",
         },
         stats: {
           games_played: 4,
@@ -1560,7 +1560,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "4dr",
         nickname: "4DR",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/4DR_.webp",
+        avatar: "/media/players/avatars/4DR_.webp",
         country: "BR",
         position: 2,
         medal: {
@@ -1574,7 +1574,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-brasil",
           name: "TEAM BRASIL",
           tag: "t astini",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+          logo_url: "/media/teams/logos/tem-brasil.webp",
         },
         stats: {
           games_played: 2,
@@ -1617,7 +1617,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "fuerzas-gayniu",
           name: "Fuerzas GAYniu",
           tag: "dotagaymer",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+          logo_url: "/media/teams/logos/fuerzas-gayniu.webp",
         },
         stats: {
           games_played: 2,
@@ -1660,7 +1660,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "bemboyz",
           name: "Bemboyz",
           tag: "BB",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+          logo_url: "/media/teams/logos/bemboyz.webp",
         },
         stats: {
           games_played: 3,
@@ -1705,7 +1705,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-bots",
           name: "The Bot$",
           tag: "T parker",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+          logo_url: "/media/teams/logos/thebots.webp",
         },
         stats: {
           games_played: 2,
@@ -1748,7 +1748,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-factos-army",
           name: "Team Factos Army",
           tag: "payasita g",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+          logo_url: "/media/teams/logos/factos_army.webp",
         },
         stats: {
           games_played: 2,
@@ -1791,7 +1791,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "los-number-one",
           name: "Los Number One",
           tag: "t sacred",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+          logo_url: "/media/teams/logos/the_numbers_one.webp",
         },
         stats: {
           games_played: 3,
@@ -1834,7 +1834,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-monsters",
           name: "The Monsters",
           tag: "tm",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+          logo_url: "/media/teams/logos/the_monsters.webp",
         },
         stats: {
           games_played: 2,
@@ -1877,7 +1877,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-scofield",
           name: "CHALA TEAM",
           tag: "t scofield",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+          logo_url: "/media/teams/logos/chala_team.webp",
         },
         stats: {
           games_played: 2,
@@ -1906,7 +1906,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "stinger",
         nickname: "Stinger",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/stinger.jpeg",
+        avatar: "/media/players/avatars/stinger.jpeg",
         country: "pe",
         position: 3,
         medal: {
@@ -1920,7 +1920,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "capibarbas",
           name: "CAPIBARAS",
           tag: "t stinger",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+          logo_url: "/media/teams/logos/capibarbas.webp",
         },
         stats: {
           games_played: 2,
@@ -1963,7 +1963,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "gotto-house",
           name: "Gotto House",
           tag: "t matthew",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+          logo_url: "/media/teams/logos/gotto_house.webp",
         },
         stats: {
           games_played: 3,
@@ -1992,7 +1992,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "baldu",
         nickname: "Baldu",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/baldu.webp",
+        avatar: "/media/players/avatars/baldu.webp",
         country: "ar",
         position: 3,
         medal: {
@@ -2006,7 +2006,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-fat-bears",
           name: "The Fat Bears",
           tag: "team k1",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+          logo_url: "/media/teams/logos/thefatbears.webp",
         },
         stats: {
           games_played: 2,
@@ -2049,7 +2049,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-pakazs",
           name: "The Parrocos Young",
           tag: "team pakaz",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+          logo_url: "/media/teams/logos/parrocos_young.webp",
         },
         stats: {
           games_played: 2,
@@ -2092,7 +2092,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "rising-rage",
           name: "Rising Rage",
           tag: "t leostyle",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+          logo_url: "/media/teams/logos/rising-rage.webp",
         },
         stats: {
           games_played: 4,
@@ -2135,7 +2135,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "fuerzas-gayniu",
           name: "Fuerzas GAYniu",
           tag: "dotagaymer",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+          logo_url: "/media/teams/logos/fuerzas-gayniu.webp",
         },
         stats: {
           games_played: 4,
@@ -2178,7 +2178,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "mitra-army",
           name: "Mitra Army",
           tag: "team iwo",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+          logo_url: "/media/teams/logos/mitra_army.webp",
         },
         stats: {
           games_played: 3,
@@ -2221,7 +2221,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-brasil",
           name: "TEAM BRASIL",
           tag: "t astini",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+          logo_url: "/media/teams/logos/tem-brasil.webp",
         },
         stats: {
           games_played: 2,
@@ -2264,7 +2264,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "bemboyz",
           name: "Bemboyz",
           tag: "BB",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+          logo_url: "/media/teams/logos/bemboyz.webp",
         },
         stats: {
           games_played: 3,
@@ -2293,7 +2293,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "smash",
         nickname: "Smash",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/smash.jpeg",
+        avatar: "/media/players/avatars/smash.jpeg",
         country: "PE",
         position: 3,
         medal: {
@@ -2307,7 +2307,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-smash",
           name: "Mango Boys",
           tag: "TEAM SMASH",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+          logo_url: "/media/teams/logos/mango_boys.webp",
         },
         stats: {
           games_played: 4,
@@ -2336,7 +2336,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "shaka",
         nickname: "Shaka",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/11291.jpg",
+        avatar: "/media/players/avatars/11291.jpg",
         country: "Pe",
         position: 3,
         medal: {
@@ -2350,7 +2350,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-cucharita",
           name: "Cucharita Army",
           tag: "team Shaka",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+          logo_url: "/media/teams/logos/cucharita_army.webp",
         },
         stats: {
           games_played: 2,
@@ -2395,7 +2395,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-bots",
           name: "The Bot$",
           tag: "T parker",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+          logo_url: "/media/teams/logos/thebots.webp",
         },
         stats: {
           games_played: 2,
@@ -2438,7 +2438,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "los-number-one",
           name: "Los Number One",
           tag: "t sacred",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+          logo_url: "/media/teams/logos/the_numbers_one.webp",
         },
         stats: {
           games_played: 3,
@@ -2467,7 +2467,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "matthew",
         nickname: "Matthew",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/matthew.jpeg",
+        avatar: "/media/players/avatars/matthew.jpeg",
         country: "PE",
         position: 4,
         medal: {
@@ -2481,7 +2481,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "gotto-house",
           name: "Gotto House",
           tag: "t matthew",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+          logo_url: "/media/teams/logos/gotto_house.webp",
         },
         stats: {
           games_played: 3,
@@ -2524,7 +2524,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-factos-army",
           name: "Team Factos Army",
           tag: "payasita g",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+          logo_url: "/media/teams/logos/factos_army.webp",
         },
         stats: {
           games_played: 2,
@@ -2567,7 +2567,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "fuerzas-gayniu",
           name: "Fuerzas GAYniu",
           tag: "dotagaymer",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+          logo_url: "/media/teams/logos/fuerzas-gayniu.webp",
         },
         stats: {
           games_played: 4,
@@ -2610,7 +2610,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "rising-rage",
           name: "Rising Rage",
           tag: "t leostyle",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+          logo_url: "/media/teams/logos/rising-rage.webp",
         },
         stats: {
           games_played: 4,
@@ -2653,7 +2653,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-fat-bears",
           name: "The Fat Bears",
           tag: "team k1",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+          logo_url: "/media/teams/logos/thefatbears.webp",
         },
         stats: {
           games_played: 2,
@@ -2696,7 +2696,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "mitra-army",
           name: "Mitra Army",
           tag: "team iwo",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+          logo_url: "/media/teams/logos/mitra_army.webp",
         },
         stats: {
           games_played: 3,
@@ -2739,7 +2739,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-cucharita",
           name: "Cucharita Army",
           tag: "team Shaka",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+          logo_url: "/media/teams/logos/cucharita_army.webp",
         },
         stats: {
           games_played: 4,
@@ -2782,7 +2782,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-pakazs",
           name: "The Parrocos Young",
           tag: "team pakaz",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+          logo_url: "/media/teams/logos/parrocos_young.webp",
         },
         stats: {
           games_played: 2,
@@ -2825,7 +2825,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "capibarbas",
           name: "CAPIBARAS",
           tag: "t stinger",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+          logo_url: "/media/teams/logos/capibarbas.webp",
         },
         stats: {
           games_played: 2,
@@ -2868,7 +2868,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-smash",
           name: "Mango Boys",
           tag: "TEAM SMASH",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+          logo_url: "/media/teams/logos/mango_boys.webp",
         },
         stats: {
           games_played: 4,
@@ -2911,7 +2911,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-scofield",
           name: "CHALA TEAM",
           tag: "t scofield",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+          logo_url: "/media/teams/logos/chala_team.webp",
         },
         stats: {
           games_played: 2,
@@ -2940,7 +2940,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "astini",
         nickname: "Astini",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/astini.jpeg",
+        avatar: "/media/players/avatars/astini.jpeg",
         country: "BR",
         position: 4,
         medal: {
@@ -2954,7 +2954,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-brasil",
           name: "TEAM BRASIL",
           tag: "t astini",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+          logo_url: "/media/teams/logos/tem-brasil.webp",
         },
         stats: {
           games_played: 2,
@@ -2983,7 +2983,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "macarius",
         nickname: "Macarius",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/macarius.jpeg",
+        avatar: "/media/players/avatars/macarius.jpeg",
         country: "PE",
         position: 4,
         medal: {
@@ -2997,7 +2997,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-monsters",
           name: "The Monsters",
           tag: "tm",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+          logo_url: "/media/teams/logos/the_monsters.webp",
         },
         stats: {
           games_played: 2,
@@ -3026,7 +3026,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "buti",
         nickname: "Buti",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/buti.jpeg",
+        avatar: "/media/players/avatars/buti.jpeg",
         country: "PE",
         position: 4,
         medal: {
@@ -3040,7 +3040,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "bemboyz",
           name: "Bemboyz",
           tag: "BB",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+          logo_url: "/media/teams/logos/bemboyz.webp",
         },
         stats: {
           games_played: 3,
@@ -3085,7 +3085,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "los-number-one",
           name: "Los Number One",
           tag: "t sacred",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+          logo_url: "/media/teams/logos/the_numbers_one.webp",
         },
         stats: {
           games_played: 3,
@@ -3128,7 +3128,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-bots",
           name: "The Bot$",
           tag: "T parker",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+          logo_url: "/media/teams/logos/thebots.webp",
         },
         stats: {
           games_played: 2,
@@ -3171,7 +3171,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "gotto-house",
           name: "Gotto House",
           tag: "t matthew",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+          logo_url: "/media/teams/logos/gotto_house.webp",
         },
         stats: {
           games_played: 3,
@@ -3200,7 +3200,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "payasita-zing",
         nickname: "Payasita Zing",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/payasitazing.jpeg",
+        avatar: "/media/players/avatars/payasitazing.jpeg",
         country: "PE",
         position: 5,
         medal: {
@@ -3214,7 +3214,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-factos-army",
           name: "Team Factos Army",
           tag: "payasita g",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+          logo_url: "/media/teams/logos/factos_army.webp",
         },
         stats: {
           games_played: 2,
@@ -3257,7 +3257,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-smash",
           name: "Mango Boys",
           tag: "TEAM SMASH",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+          logo_url: "/media/teams/logos/mango_boys.webp",
         },
         stats: {
           games_played: 2,
@@ -3300,7 +3300,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-scofield",
           name: "CHALA TEAM",
           tag: "t scofield",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+          logo_url: "/media/teams/logos/chala_team.webp",
         },
         stats: {
           games_played: 2,
@@ -3329,7 +3329,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "dotagaymer",
         nickname: "DotaGaymer",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/dotagaymer.jpeg",
+        avatar: "/media/players/avatars/dotagaymer.jpeg",
         country: "PE",
         position: 5,
         medal: {
@@ -3343,7 +3343,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "fuerzas-gayniu",
           name: "Fuerzas GAYniu",
           tag: "dotagaymer",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+          logo_url: "/media/teams/logos/fuerzas-gayniu.webp",
         },
         stats: {
           games_played: 4,
@@ -3386,7 +3386,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-pakazs",
           name: "The Parrocos Young",
           tag: "team pakaz",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+          logo_url: "/media/teams/logos/parrocos_young.webp",
         },
         stats: {
           games_played: 2,
@@ -3429,7 +3429,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "capibarbas",
           name: "CAPIBARAS",
           tag: "t stinger",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+          logo_url: "/media/teams/logos/capibarbas.webp",
         },
         stats: {
           games_played: 2,
@@ -3472,7 +3472,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-monsters",
           name: "The Monsters",
           tag: "tm",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+          logo_url: "/media/teams/logos/the_monsters.webp",
         },
         stats: {
           games_played: 2,
@@ -3515,7 +3515,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "rising-rage",
           name: "Rising Rage",
           tag: "t leostyle",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+          logo_url: "/media/teams/logos/rising-rage.webp",
         },
         stats: {
           games_played: 4,
@@ -3558,7 +3558,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "mitra-army",
           name: "Mitra Army",
           tag: "team iwo",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+          logo_url: "/media/teams/logos/mitra_army.webp",
         },
         stats: {
           games_played: 3,
@@ -3601,7 +3601,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-cucharita",
           name: "Cucharita Army",
           tag: "team Shaka",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+          logo_url: "/media/teams/logos/cucharita_army.webp",
         },
         stats: {
           games_played: 4,
@@ -3630,7 +3630,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "sangev",
         nickname: "SangeV",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/sangev.webp",
+        avatar: "/media/players/avatars/sangev.webp",
         country: "BR",
         position: 5,
         medal: {
@@ -3644,7 +3644,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "team-brasil",
           name: "TEAM BRASIL",
           tag: "t astini",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+          logo_url: "/media/teams/logos/tem-brasil.webp",
         },
         stats: {
           games_played: 2,
@@ -3687,7 +3687,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "the-fat-bears",
           name: "The Fat Bears",
           tag: "team k1",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+          logo_url: "/media/teams/logos/thefatbears.webp",
         },
         stats: {
           games_played: 2,
@@ -3730,7 +3730,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
           slug: "bemboyz",
           name: "Bemboyz",
           tag: "BB",
-          logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+          logo_url: "/media/teams/logos/bemboyz.webp",
         },
         stats: {
           games_played: 3,
@@ -3763,19 +3763,19 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "astini",
         nickname: "Astini",
-        player_avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/astini.jpeg",
+        player_avatar: "/media/players/avatars/astini.jpeg",
         team_name: "TEAM BRASIL",
         team_slug: "team-brasil",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        team_logo_url: "/media/teams/logos/tem-brasil.webp",
         couriers_killed: 4,
       },
       {
         player_slug: "smash",
         nickname: "Smash",
-        player_avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/smash.jpeg",
+        player_avatar: "/media/players/avatars/smash.jpeg",
         team_name: "Mango Boys",
         team_slug: "team-smash",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        team_logo_url: "/media/teams/logos/mango_boys.webp",
         couriers_killed: 4,
       },
       {
@@ -3784,7 +3784,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         player_avatar: null,
         team_name: "Mango Boys",
         team_slug: "team-smash",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        team_logo_url: "/media/teams/logos/mango_boys.webp",
         couriers_killed: 4,
       },
       {
@@ -3793,7 +3793,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         player_avatar: null,
         team_name: "The Parrocos Young",
         team_slug: "team-pakazs",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        team_logo_url: "/media/teams/logos/parrocos_young.webp",
         couriers_killed: 3,
       },
       {
@@ -3802,7 +3802,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         player_avatar: null,
         team_name: "The Parrocos Young",
         team_slug: "team-pakazs",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        team_logo_url: "/media/teams/logos/parrocos_young.webp",
         couriers_killed: 3,
       },
     ],
@@ -3811,7 +3811,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       time_formatted: "00:00",
       player_slug: "zapatitogaming",
       nickname: "ZapatitoGaming",
-      player_avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/zapatitogaming.jpeg",
+      player_avatar: "/media/players/avatars/zapatitogaming.jpeg",
       game_slug: "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
     },
     most_deaths_single_game: {
@@ -3878,7 +3878,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       nickname: "JP",
       player_avatar: null,
       team_slug: "the-bots",
-      team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+      team_logo_url: "/media/teams/logos/thebots.webp",
       avg_stuns_seconds: 135.2,
     },
     most_purchased_items: [
@@ -3923,7 +3923,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "Lalatroni",
         avatar: null,
         team_slug: "the-bots",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        team_logo_url: "/media/teams/logos/thebots.webp",
         position: 2,
         kda: 18.5,
         medal: {
@@ -3937,9 +3937,9 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "scofield",
         nickname: "Scofield",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/scofield.jpeg",
+        avatar: "/media/players/avatars/scofield.jpeg",
         team_slug: "team-scofield",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        team_logo_url: "/media/teams/logos/chala_team.webp",
         position: 1,
         kda: 15.33,
         medal: {
@@ -3955,7 +3955,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "MrJeans",
         avatar: null,
         team_slug: "los-number-one",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        team_logo_url: "/media/teams/logos/the_numbers_one.webp",
         position: 2,
         kda: 13.11,
         medal: {
@@ -3971,7 +3971,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "Angel",
         avatar: null,
         team_slug: "gotto-house",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        team_logo_url: "/media/teams/logos/gotto_house.webp",
         position: 1,
         kda: 12,
         medal: {
@@ -3987,7 +3987,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "Slatems",
         avatar: null,
         team_slug: "capibarbas",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        team_logo_url: "/media/teams/logos/capibarbas.webp",
         position: 2,
         kda: 9.6,
         medal: {
@@ -4005,7 +4005,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "Angel",
         avatar: null,
         team_slug: "gotto-house",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        team_logo_url: "/media/teams/logos/gotto_house.webp",
         position: 1,
         avg_gpm: 953,
         medal: {
@@ -4019,9 +4019,9 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "hector-k1",
         nickname: "K1 Hector",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/hector.jpeg",
+        avatar: "/media/players/avatars/hector.jpeg",
         team_slug: "the-fat-bears",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        team_logo_url: "/media/teams/logos/thefatbears.webp",
         position: 1,
         avg_gpm: 953,
         medal: {
@@ -4035,9 +4035,9 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "parker",
         nickname: "Parker",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/parker.jpeg",
+        avatar: "/media/players/avatars/parker.jpeg",
         team_slug: "the-bots",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        team_logo_url: "/media/teams/logos/thebots.webp",
         position: 1,
         avg_gpm: 951,
         medal: {
@@ -4051,9 +4051,9 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "hfn",
         nickname: "Hfn",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/HFN.webp",
+        avatar: "/media/players/avatars/HFN.webp",
         team_slug: "team-brasil",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+        team_logo_url: "/media/teams/logos/tem-brasil.webp",
         position: 1,
         avg_gpm: 904,
         medal: {
@@ -4069,7 +4069,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "Zaza",
         avatar: null,
         team_slug: "capibarbas",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+        team_logo_url: "/media/teams/logos/capibarbas.webp",
         position: 1,
         avg_gpm: 828,
         medal: {
@@ -4085,9 +4085,9 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "parker",
         nickname: "Parker",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/parker.jpeg",
+        avatar: "/media/players/avatars/parker.jpeg",
         team_slug: "the-bots",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+        team_logo_url: "/media/teams/logos/thebots.webp",
         position: 1,
         avg_kills: 19,
         total_kills: 38,
@@ -4104,7 +4104,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "MrJeans",
         avatar: null,
         team_slug: "los-number-one",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        team_logo_url: "/media/teams/logos/the_numbers_one.webp",
         position: 2,
         avg_kills: 17.3,
         total_kills: 52,
@@ -4121,7 +4121,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "Angel",
         avatar: null,
         team_slug: "gotto-house",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        team_logo_url: "/media/teams/logos/gotto_house.webp",
         position: 1,
         avg_kills: 17,
         total_kills: 51,
@@ -4136,9 +4136,9 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       {
         player_slug: "zapatitogaming",
         nickname: "ZapatitoGaming",
-        avatar: "https://elcoliseoapi.hebertdev.com/media/players/avatars/zapatitogaming.jpeg",
+        avatar: "/media/players/avatars/zapatitogaming.jpeg",
         team_slug: "los-number-one",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        team_logo_url: "/media/teams/logos/the_numbers_one.webp",
         position: 1,
         avg_kills: 16.7,
         total_kills: 50,
@@ -4155,7 +4155,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "F-Young",
         avatar: null,
         team_slug: "fuerzas-gayniu",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        team_logo_url: "/media/teams/logos/fuerzas-gayniu.webp",
         position: 1,
         avg_kills: 15.5,
         total_kills: 62,
@@ -4174,7 +4174,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "MayuriG",
         avatar: null,
         team_slug: "team-smash",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        team_logo_url: "/media/teams/logos/mango_boys.webp",
         position: 5,
         avg_wards_placed: 50,
         avg_wards_dewarded: 11.5,
@@ -4191,7 +4191,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "Lovely",
         avatar: null,
         team_slug: "los-number-one",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+        team_logo_url: "/media/teams/logos/the_numbers_one.webp",
         position: 5,
         avg_wards_placed: 50,
         avg_wards_dewarded: 11.3,
@@ -4208,7 +4208,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "Jericho",
         avatar: null,
         team_slug: "the-fat-bears",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+        team_logo_url: "/media/teams/logos/thefatbears.webp",
         position: 4,
         avg_wards_placed: 47.5,
         avg_wards_dewarded: 12.5,
@@ -4225,7 +4225,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "AlitaTopson",
         avatar: null,
         team_slug: "team-scofield",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+        team_logo_url: "/media/teams/logos/chala_team.webp",
         position: 5,
         avg_wards_placed: 40.5,
         avg_wards_dewarded: 7,
@@ -4242,7 +4242,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
         nickname: "Hochi",
         avatar: null,
         team_slug: "team-cucharita",
-        team_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        team_logo_url: "/media/teams/logos/cucharita_army.webp",
         position: 4,
         avg_wards_placed: 39.8,
         avg_wards_dewarded: 7.5,
@@ -4271,7 +4271,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       duration_formatted: "64:11",
       winner_slug: "the-fat-bears",
       winner_name: "The Fat Bears",
-      winner_logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+      winner_logo_url: "/media/teams/logos/thefatbears.webp",
     },
     bloodiest_game: {
       game_slug: "el-gran-coliseo-ii-fase-suiza-r1-t-sacred-vs-t-parker-game-1",
@@ -4509,7 +4509,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "capibarbas",
       name: "CAPIBARAS",
       tag: "t stinger",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/capibarbas.webp",
+      logo_url: "/media/teams/logos/capibarbas.webp",
       games_played: 2,
       wins: 2,
       losses: 0,
@@ -4524,7 +4524,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "team-factos-army",
       name: "Team Factos Army",
       tag: "payasita g",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+      logo_url: "/media/teams/logos/factos_army.webp",
       games_played: 2,
       wins: 2,
       losses: 0,
@@ -4539,7 +4539,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "the-bots",
       name: "The Bot$",
       tag: "T parker",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thebots.webp",
+      logo_url: "/media/teams/logos/thebots.webp",
       games_played: 2,
       wins: 2,
       losses: 0,
@@ -4554,7 +4554,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "the-fat-bears",
       name: "The Fat Bears",
       tag: "team k1",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/thefatbears.webp",
+      logo_url: "/media/teams/logos/thefatbears.webp",
       games_played: 2,
       wins: 2,
       losses: 0,
@@ -4569,7 +4569,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "gotto-house",
       name: "Gotto House",
       tag: "t matthew",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+      logo_url: "/media/teams/logos/gotto_house.webp",
       games_played: 3,
       wins: 2,
       losses: 1,
@@ -4584,7 +4584,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "los-number-one",
       name: "Los Number One",
       tag: "t sacred",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_numbers_one.webp",
+      logo_url: "/media/teams/logos/the_numbers_one.webp",
       games_played: 3,
       wins: 2,
       losses: 1,
@@ -4599,7 +4599,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "fuerzas-gayniu",
       name: "Fuerzas GAYniu",
       tag: "dotagaymer",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+      logo_url: "/media/teams/logos/fuerzas-gayniu.webp",
       games_played: 4,
       wins: 2,
       losses: 2,
@@ -4614,7 +4614,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "rising-rage",
       name: "Rising Rage",
       tag: "t leostyle",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/rising-rage.webp",
+      logo_url: "/media/teams/logos/rising-rage.webp",
       games_played: 4,
       wins: 2,
       losses: 2,
@@ -4629,7 +4629,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "team-scofield",
       name: "CHALA TEAM",
       tag: "t scofield",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/chala_team.webp",
+      logo_url: "/media/teams/logos/chala_team.webp",
       games_played: 2,
       wins: 1,
       losses: 1,
@@ -4644,7 +4644,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "team-pakazs",
       name: "The Parrocos Young",
       tag: "team pakaz",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+      logo_url: "/media/teams/logos/parrocos_young.webp",
       games_played: 2,
       wins: 1,
       losses: 1,
@@ -4659,7 +4659,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "the-monsters",
       name: "The Monsters",
       tag: "tm",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+      logo_url: "/media/teams/logos/the_monsters.webp",
       games_played: 2,
       wins: 1,
       losses: 1,
@@ -4674,7 +4674,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "team-brasil",
       name: "TEAM BRASIL",
       tag: "t astini",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/tem-brasil.webp",
+      logo_url: "/media/teams/logos/tem-brasil.webp",
       games_played: 2,
       wins: 1,
       losses: 1,
@@ -4689,7 +4689,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "mitra-army",
       name: "Mitra Army",
       tag: "team iwo",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+      logo_url: "/media/teams/logos/mitra_army.webp",
       games_played: 3,
       wins: 1,
       losses: 2,
@@ -4704,7 +4704,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "bemboyz",
       name: "Bemboyz",
       tag: "BB",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+      logo_url: "/media/teams/logos/bemboyz.webp",
       games_played: 3,
       wins: 1,
       losses: 2,
@@ -4719,7 +4719,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "team-cucharita",
       name: "Cucharita Army",
       tag: "team Shaka",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+      logo_url: "/media/teams/logos/cucharita_army.webp",
       games_played: 4,
       wins: 0,
       losses: 4,
@@ -4734,7 +4734,7 @@ export const FALLBACK_TOURNAMENT_ANALYTICS: TournamentAnalyticsResponse = {
       slug: "team-smash",
       name: "Mango Boys",
       tag: "TEAM SMASH",
-      logo_url: "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+      logo_url: "/media/teams/logos/mango_boys.webp",
       games_played: 4,
       wins: 0,
       losses: 4,

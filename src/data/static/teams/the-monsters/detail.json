@@ -2,7 +2,7 @@
   "name": "The Monsters",
   "slug": "the-monsters",
   "tag": "tm",
-  "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/the_monsters.webp",
+  "logo": "/media/teams/logos/the_monsters.webp",
   "region": "SA",
   "region_display": "South America",
   "country": "PE",

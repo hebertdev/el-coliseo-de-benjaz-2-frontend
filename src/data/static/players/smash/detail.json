@@ -1,7 +1,7 @@
 {
   "slug": "smash",
   "nickname": "Smash",
-  "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/smash.jpeg",
+  "avatar": "/media/players/avatars/smash.jpeg",
   "bio": "",
   "kick_url": "https://kick.com/smashdota",
   "twitch_url": "",
@@ -22,7 +22,7 @@
         "name": "Mango Boys",
         "slug": "team-smash",
         "tag": "TEAM SMASH",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mango_boys.webp",
+        "logo": "/media/teams/logos/mango_boys.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "PE",

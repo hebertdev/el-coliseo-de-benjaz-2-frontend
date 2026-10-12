@@ -47,7 +47,7 @@
     "player": {
       "slug": "stinger",
       "nickname": "Stinger",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/stinger.jpeg",
+      "avatar": "/media/players/avatars/stinger.jpeg",
       "steam_id": null,
       "account_id": 1012061568,
       "mmr_number": null,

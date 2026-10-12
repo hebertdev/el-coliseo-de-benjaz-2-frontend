@@ -31,7 +31,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 22
           },
           "rival_team": {
@@ -39,7 +39,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 37
           },
           "radiant_team": {
@@ -47,7 +47,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 37
           },
           "dire_team": {
@@ -55,7 +55,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 22
           },
           "stats": {
@@ -101,7 +101,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 22
       },
       "rival_team": {
@@ -109,7 +109,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 37
       },
       "radiant_team": {
@@ -117,7 +117,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 37
       },
       "dire_team": {
@@ -125,7 +125,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 22
       },
       "stats": {

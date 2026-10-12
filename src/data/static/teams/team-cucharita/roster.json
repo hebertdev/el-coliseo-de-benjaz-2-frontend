@@ -25,7 +25,7 @@
     "player": {
       "slug": "shaka",
       "nickname": "Shaka",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/11291.jpg",
+      "avatar": "/media/players/avatars/11291.jpg",
       "steam_id": "76561198885209913",
       "account_id": 924944185,
       "mmr_number": null,

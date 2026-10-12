@@ -22,7 +22,7 @@
         "name": "Cucharita Army",
         "slug": "team-cucharita",
         "tag": "team Shaka",
-        "logo": "https://elcoliseoapi.hebertdev.com/media/teams/logos/cucharita_army.webp",
+        "logo": "/media/teams/logos/cucharita_army.webp",
         "region": "SA",
         "region_display": "South America",
         "country": "Pe",

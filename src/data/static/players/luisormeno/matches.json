@@ -31,7 +31,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 34
           },
           "rival_team": {
@@ -39,7 +39,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 45
           },
           "radiant_team": {
@@ -47,7 +47,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 34
           },
           "dire_team": {
@@ -55,7 +55,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 45
           },
           "stats": {
@@ -97,7 +97,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 10
           },
           "rival_team": {
@@ -105,7 +105,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 32
           },
           "radiant_team": {
@@ -113,7 +113,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 10
           },
           "dire_team": {
@@ -121,7 +121,7 @@
             "name": "The Parrocos Young",
             "tag": "team pakaz",
             "slug": "team-pakazs",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+            "logo_url": "/media/teams/logos/parrocos_young.webp",
             "score": 32
           },
           "stats": {
@@ -169,7 +169,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 4
           },
           "rival_team": {
@@ -177,7 +177,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 42
           },
           "radiant_team": {
@@ -185,7 +185,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 4
           },
           "dire_team": {
@@ -193,7 +193,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 42
           },
           "stats": {
@@ -241,7 +241,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 19
           },
           "rival_team": {
@@ -249,7 +249,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 18
           },
           "radiant_team": {
@@ -257,7 +257,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 19
           },
           "dire_team": {
@@ -265,7 +265,7 @@
             "name": "Fuerzas GAYniu",
             "tag": "dotagaymer",
             "slug": "fuerzas-gayniu",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+            "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
             "score": 18
           },
           "stats": {
@@ -313,7 +313,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 20
           },
           "rival_team": {
@@ -321,7 +321,7 @@
             "name": "Mitra Army",
             "tag": "team iwo",
             "slug": "mitra-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "logo_url": "/media/teams/logos/mitra_army.webp",
             "score": 31
           },
           "radiant_team": {
@@ -329,7 +329,7 @@
             "name": "Mitra Army",
             "tag": "team iwo",
             "slug": "mitra-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+            "logo_url": "/media/teams/logos/mitra_army.webp",
             "score": 31
           },
           "dire_team": {
@@ -337,7 +337,7 @@
             "name": "Bemboyz",
             "tag": "BB",
             "slug": "bemboyz",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+            "logo_url": "/media/teams/logos/bemboyz.webp",
             "score": 20
           },
           "stats": {
@@ -383,7 +383,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 34
       },
       "rival_team": {
@@ -391,7 +391,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 45
       },
       "radiant_team": {
@@ -399,7 +399,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 34
       },
       "dire_team": {
@@ -407,7 +407,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 45
       },
       "stats": {
@@ -449,7 +449,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 10
       },
       "rival_team": {
@@ -457,7 +457,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 32
       },
       "radiant_team": {
@@ -465,7 +465,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 10
       },
       "dire_team": {
@@ -473,7 +473,7 @@
         "name": "The Parrocos Young",
         "tag": "team pakaz",
         "slug": "team-pakazs",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/parrocos_young.webp",
+        "logo_url": "/media/teams/logos/parrocos_young.webp",
         "score": 32
       },
       "stats": {
@@ -515,7 +515,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 4
       },
       "rival_team": {
@@ -523,7 +523,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 42
       },
       "radiant_team": {
@@ -531,7 +531,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 4
       },
       "dire_team": {
@@ -539,7 +539,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 42
       },
       "stats": {
@@ -581,7 +581,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 19
       },
       "rival_team": {
@@ -589,7 +589,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 18
       },
       "radiant_team": {
@@ -597,7 +597,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 19
       },
       "dire_team": {
@@ -605,7 +605,7 @@
         "name": "Fuerzas GAYniu",
         "tag": "dotagaymer",
         "slug": "fuerzas-gayniu",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/fuerzas-gayniu.webp",
+        "logo_url": "/media/teams/logos/fuerzas-gayniu.webp",
         "score": 18
       },
       "stats": {
@@ -647,7 +647,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 20
       },
       "rival_team": {
@@ -655,7 +655,7 @@
         "name": "Mitra Army",
         "tag": "team iwo",
         "slug": "mitra-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "logo_url": "/media/teams/logos/mitra_army.webp",
         "score": 31
       },
       "radiant_team": {
@@ -663,7 +663,7 @@
         "name": "Mitra Army",
         "tag": "team iwo",
         "slug": "mitra-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/mitra_army.webp",
+        "logo_url": "/media/teams/logos/mitra_army.webp",
         "score": 31
       },
       "dire_team": {
@@ -671,7 +671,7 @@
         "name": "Bemboyz",
         "tag": "BB",
         "slug": "bemboyz",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/bemboyz.webp",
+        "logo_url": "/media/teams/logos/bemboyz.webp",
         "score": 20
       },
       "stats": {

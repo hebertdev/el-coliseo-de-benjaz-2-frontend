@@ -31,7 +31,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 43
           },
           "rival_team": {
@@ -39,7 +39,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 16
           },
           "radiant_team": {
@@ -47,7 +47,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 43
           },
           "dire_team": {
@@ -55,7 +55,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 16
           },
           "stats": {
@@ -97,7 +97,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 53
           },
           "rival_team": {
@@ -105,7 +105,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 38
           },
           "radiant_team": {
@@ -113,7 +113,7 @@
             "name": "Team Factos Army",
             "tag": "payasita g",
             "slug": "team-factos-army",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+            "logo_url": "/media/teams/logos/factos_army.webp",
             "score": 38
           },
           "dire_team": {
@@ -121,7 +121,7 @@
             "name": "Gotto House",
             "tag": "t matthew",
             "slug": "gotto-house",
-            "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+            "logo_url": "/media/teams/logos/gotto_house.webp",
             "score": 53
           },
           "stats": {
@@ -167,7 +167,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 43
       },
       "rival_team": {
@@ -175,7 +175,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 16
       },
       "radiant_team": {
@@ -183,7 +183,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 43
       },
       "dire_team": {
@@ -191,7 +191,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 16
       },
       "stats": {
@@ -233,7 +233,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 53
       },
       "rival_team": {
@@ -241,7 +241,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 38
       },
       "radiant_team": {
@@ -249,7 +249,7 @@
         "name": "Team Factos Army",
         "tag": "payasita g",
         "slug": "team-factos-army",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/factos_army.webp",
+        "logo_url": "/media/teams/logos/factos_army.webp",
         "score": 38
       },
       "dire_team": {
@@ -257,7 +257,7 @@
         "name": "Gotto House",
         "tag": "t matthew",
         "slug": "gotto-house",
-        "logo_url": "https://elcoliseoapi.hebertdev.com/media/teams/logos/gotto_house.webp",
+        "logo_url": "/media/teams/logos/gotto_house.webp",
         "score": 53
       },
       "stats": {

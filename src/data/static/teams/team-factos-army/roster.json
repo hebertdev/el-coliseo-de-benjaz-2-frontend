@@ -3,7 +3,7 @@
     "player": {
       "slug": "payasita-zing",
       "nickname": "Payasita Zing",
-      "avatar": "https://elcoliseoapi.hebertdev.com/media/players/avatars/payasitazing.jpeg",
+      "avatar": "/media/players/avatars/payasitazing.jpeg",
       "steam_id": null,
       "account_id": 1278035613,
       "mmr_number": null,
